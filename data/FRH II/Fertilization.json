@@ -23,18 +23,18 @@
   },
   {
     "Questions": "How many chromosomes are contributed by the ovum?",
-    "A": 22,
-    "B": 23,
-    "C": 44,
-    "D": 46,
+    "A": "22",
+    "B": "23",
+    "C": "44",
+    "D": "46",
     "Answer": "B"
   },
   {
     "Questions": "How many chromosomes are contributed by the sperm?",
-    "A": 22,
-    "B": 23,
-    "C": 44,
-    "D": 46,
+    "A": "22",
+    "B": "23",
+    "C": "44",
+    "D": "46",
     "Answer": "B"
   },
   {
