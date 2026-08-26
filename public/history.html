@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Test History</title>
+
+    <link
+        rel="stylesheet"
+        href="css/style.css"
+    >
+
+</head>
+
+
+<body>
+
+    <!-- =========================
+         TOP BAR
+    ========================== -->
+
+    <header class="topbar">
+
+        <div class="logo">
+
+            <span>✦</span>
+
+            <strong>CBT</strong>
+
+        </div>
+
+
+        <nav>
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="history.html">
+                History
+            </a>
+
+            <button id="logout-button">
+                Logout
+            </button>
+
+        </nav>
+
+    </header>
+
+
+    <!-- =========================
+         HISTORY
+    ========================== -->
+
+    <main class="history-page">
+
+        <section class="history-header">
+
+            <p class="eyebrow">
+                YOUR PROGRESS
+            </p>
+
+            <h1>
+                Test History
+            </h1>
+<br>
+            
+            <p>
+                Review your previous practice tests
+                and track your performance.
+            </p>
+
+        </section>
+
+
+        <!-- =========================
+             LOADING
+        ========================== -->
+
+        <div id="history-loading">
+
+            Loading your test history...
+
+        </div>
+
+
+        <!-- =========================
+             EMPTY STATE
+        ========================== -->
+
+        <div
+            id="history-empty"
+            style="display: none;"
+        >
+
+            <h2>
+                No tests yet
+            </h2>
+
+            <p>
+                Complete your first test and
+                your result will appear here.
+            </p>
+
+            <a href="index.html">
+                Start a Test
+            </a>
+
+        </div>
+
+
+        <!-- =========================
+             HISTORY LIST
+        ========================== -->
+
+        <section
+            id="history-list"
+            class="history-list"
+        >
+        </section>
+
+    </main>
+
+
+    <script src="js/history.js"></script>
+
+</body>
+
+</html>

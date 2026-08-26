@@ -1,0 +1,970 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Assessment",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "ASSE-001",
+            "question": "Which symptom should be included in a cardiovascular health history?",
+            "options": {
+                "A": "Chest pain or discomfort",
+                "B": "Hair loss",
+                "C": "Tooth sensitivity",
+                "D": "Ear discharge"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-002",
+            "question": "Which respiratory symptom is commonly assessed in cardiovascular disorders?",
+            "options": {
+                "A": "Hiccups",
+                "B": "Sneezing",
+                "C": "Dyspnea",
+                "D": "Nasal itching"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-003",
+            "question": "Which finding may accompany cardiovascular fluid retention?",
+            "options": {
+                "A": "Ear pain",
+                "B": "Peripheral edema",
+                "C": "Blurred hearing",
+                "D": "Dry lips only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-004",
+            "question": "Which symptom refers to awareness of the heartbeat?",
+            "options": {
+                "A": "Ascites",
+                "B": "Orthopnea",
+                "C": "Palpitations",
+                "D": "Clubbing"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-005",
+            "question": "Which neurologic symptom is commonly assessed in cardiovascular disorders?",
+            "options": {
+                "A": "Dysphagia",
+                "B": "Syncope",
+                "C": "Anosmia",
+                "D": "Tinnitus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-006",
+            "question": "What method does the nurse use to assess chest pain in the notes?",
+            "options": {
+                "A": "APGAR",
+                "B": "ABCDE only",
+                "C": "PQRST",
+                "D": "SOAP only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-007",
+            "question": "In PQRST, what does P represent?",
+            "options": {
+                "A": "Pulse/Pressure",
+                "B": "Position/Perfusion",
+                "C": "Pattern/Pulse",
+                "D": "Provocation/Palliation"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-008",
+            "question": "In PQRST, what does Q assess?",
+            "options": {
+                "A": "Quadrant/Quotient",
+                "B": "Question/Quantity only",
+                "C": "Quickness/Quietness",
+                "D": "Quality/Quantity"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-009",
+            "question": "In PQRST, what does R assess?",
+            "options": {
+                "A": "Region/Radiation",
+                "B": "Rhythm/Reaction",
+                "C": "Rate/Respiration",
+                "D": "Risk/Relief"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-010",
+            "question": "In PQRST, what does S assess?",
+            "options": {
+                "A": "Severity",
+                "B": "Sensation only",
+                "C": "Sleep",
+                "D": "Skin"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-011",
+            "question": "In PQRST, what does T assess?",
+            "options": {
+                "A": "Timing",
+                "B": "Temperature",
+                "C": "Tissue",
+                "D": "Treatment"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-012",
+            "question": "Which PQRST question assesses provocation?",
+            "options": {
+                "A": "What were you doing when the pain started?",
+                "B": "How severe is the pain?",
+                "C": "Where does the pain radiate?",
+                "D": "When did the pain stop?"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-013",
+            "question": "Which question assesses palliation?",
+            "options": {
+                "A": "What does the pain feel like?",
+                "B": "What makes the pain better or relieves it?",
+                "C": "Where is the pain located?",
+                "D": "How often does it occur?"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-014",
+            "question": "Which question assesses quality?",
+            "options": {
+                "A": "What makes it better?",
+                "B": "Where does it travel?",
+                "C": "What does the pain feel like?",
+                "D": "When did it begin?"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-015",
+            "question": "Which question assesses radiation?",
+            "options": {
+                "A": "Does the pain travel or move elsewhere?",
+                "B": "How often does it occur?",
+                "C": "What caused the pain?",
+                "D": "How severe is it?"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-016",
+            "question": "What scale is recommended for pain severity?",
+            "options": {
+                "A": "0 to 100",
+                "B": "0 to 10",
+                "C": "A to D",
+                "D": "1 to 5 only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-017",
+            "question": "What should be assessed regarding the timing of chest pain?",
+            "options": {
+                "A": "Only the patient's weight",
+                "B": "Onset, duration, frequency, and pattern",
+                "C": "Only the color of the skin",
+                "D": "Only the pulse amplitude"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-018",
+            "question": "Which history area asks about family-related cardiovascular risk?",
+            "options": {
+                "A": "Sleep-rest only",
+                "B": "Elimination only",
+                "C": "Family history",
+                "D": "Values-belief only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-019",
+            "question": "Which behavior should be assessed as a cardiovascular risk factor?",
+            "options": {
+                "A": "Drawing",
+                "B": "Listening to music",
+                "C": "Reading",
+                "D": "Tobacco use"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-020",
+            "question": "What should the nurse ask about regarding alcohol?",
+            "options": {
+                "A": "Only the time of last meal",
+                "B": "Whether the patient consumes alcohol",
+                "C": "Nothing about alcohol",
+                "D": "Only the patient's favorite drink"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-021",
+            "question": "Which Gordon pattern assesses perceived health and well-being?",
+            "options": {
+                "A": "Health Perception–Health Management",
+                "B": "Values-Belief",
+                "C": "Activity-Exercise",
+                "D": "Sleep-Rest"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-022",
+            "question": "Which Gordon pattern includes height, weight, waist measurement, BP, and lipid profile?",
+            "options": {
+                "A": "Coping-Stress Tolerance",
+                "B": "Cognitive-Perceptual",
+                "C": "Roles-Relationship",
+                "D": "Nutritional-Metabolic"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-023",
+            "question": "Which Gordon pattern assesses bowel and bladder habits?",
+            "options": {
+                "A": "Self-Perception",
+                "B": "Sexuality-Reproductive",
+                "C": "Activity-Exercise",
+                "D": "Elimination"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-024",
+            "question": "Which Gordon pattern assesses intensity, duration, and frequency of exercise?",
+            "options": {
+                "A": "Sleep-Rest",
+                "B": "Health Perception",
+                "C": "Values-Belief",
+                "D": "Activity-Exercise"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-025",
+            "question": "Which Gordon pattern includes syncope and problems with language and memory?",
+            "options": {
+                "A": "Roles-Relationship",
+                "B": "Cognitive-Perceptual",
+                "C": "Nutritional-Metabolic",
+                "D": "Elimination"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-026",
+            "question": "Which Gordon pattern explores how the patient sleeps and rests?",
+            "options": {
+                "A": "Self-Perception",
+                "B": "Health Management",
+                "C": "Activity-Exercise",
+                "D": "Sleep-Rest"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-027",
+            "question": "Sleeping upright in a chair instead of in bed may indicate what?",
+            "options": {
+                "A": "A change relevant to orthopnea",
+                "B": "Improved cardiac output",
+                "C": "Normal sleep pattern",
+                "D": "Reduced venous return only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-028",
+            "question": "An increased number of pillows used during sleep should be noted because it may indicate what?",
+            "options": {
+                "A": "Bradycardia",
+                "B": "Orthopnea",
+                "C": "Hypertension only",
+                "D": "Improved ventilation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-029",
+            "question": "Which Gordon pattern explores how illness changes a patient's feelings about health?",
+            "options": {
+                "A": "Nutritional-Metabolic",
+                "B": "Elimination",
+                "C": "Activity-Exercise",
+                "D": "Self-Perception–Self-Concept"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-030",
+            "question": "Which Gordon pattern assesses support systems and caregivers?",
+            "options": {
+                "A": "Cognitive-Perceptual",
+                "B": "Sleep-Rest",
+                "C": "Values-Belief",
+                "D": "Roles-Relationship"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-031",
+            "question": "Which Gordon pattern includes pregnancy history and contraceptive use?",
+            "options": {
+                "A": "Elimination",
+                "B": "Coping-Stress Tolerance",
+                "C": "Health Perception",
+                "D": "Sexuality-Reproductive"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-032",
+            "question": "Which Gordon pattern explores current stressors and coping styles?",
+            "options": {
+                "A": "Roles-Relationship",
+                "B": "Coping-Stress Tolerance",
+                "C": "Sleep-Rest",
+                "D": "Nutritional-Metabolic"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-033",
+            "question": "Which Gordon pattern explores individual values and beliefs?",
+            "options": {
+                "A": "Cognitive-Perceptual",
+                "B": "Elimination",
+                "C": "Values-Belief",
+                "D": "Activity-Exercise"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-034",
+            "question": "What is a main purpose of physical assessment?",
+            "options": {
+                "A": "To replace all laboratory tests",
+                "B": "To confirm health-history information and establish a baseline",
+                "C": "To eliminate the need for follow-up",
+                "D": "To diagnose every condition without history"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-035",
+            "question": "What should inspection of the skin include?",
+            "options": {
+                "A": "Only hair color",
+                "B": "Only skin odor",
+                "C": "Color, turgor, temperature, and texture",
+                "D": "Only nail length"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-036",
+            "question": "What mucous membrane finding should be observed?",
+            "options": {
+                "A": "Jaundice only",
+                "B": "Edema only",
+                "C": "Cyanosis only of the feet",
+                "D": "Pallor"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-037",
+            "question": "General appearance assessment includes which mental-status component?",
+            "options": {
+                "A": "Only pupil size",
+                "B": "Only body weight",
+                "C": "Only bowel sounds",
+                "D": "Orientation to person, place, and time"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-038",
+            "question": "Which signs of distress should the nurse observe?",
+            "options": {
+                "A": "Only thirst",
+                "B": "Only hunger",
+                "C": "Pain, shortness of breath, or anxiety",
+                "D": "Only insomnia"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-039",
+            "question": "What does capillary refill help indicate?",
+            "options": {
+                "A": "Peripheral blood flow",
+                "B": "Blood glucose",
+                "C": "Cardiac valve size",
+                "D": "Lung volume"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-040",
+            "question": "How is capillary refill tested according to the notes?",
+            "options": {
+                "A": "Compress the nailbed until it blanches, then release",
+                "B": "Elevate the arm for 10 minutes",
+                "C": "Press the carotid for 30 seconds",
+                "D": "Measure the pulse for 1 hour"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-041",
+            "question": "Within how long does normal capillary reperfusion occur in the notes?",
+            "options": {
+                "A": "Within 30 seconds",
+                "B": "Within 1 minute",
+                "C": "Within 10 seconds",
+                "D": "Within 3 seconds"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-042",
+            "question": "Which finding may indicate vascular compromise in an extremity?",
+            "options": {
+                "A": "Pallor",
+                "B": "Normal capillary refill",
+                "C": "Warmth with bounding pulses only",
+                "D": "Increased movement"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-043",
+            "question": "How is pitting edema assessed?",
+            "options": {
+                "A": "Measure respiratory rate",
+                "B": "Tap the patella",
+                "C": "Auscultate the ankle",
+                "D": "Press firmly for 5 seconds over the dorsum of the foot"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-044",
+            "question": "Where can dependent edema occur in a bedridden patient?",
+            "options": {
+                "A": "Scalp",
+                "B": "Sacrum",
+                "C": "Elbow only",
+                "D": "Forehead"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-045",
+            "question": "What blood pressure value is listed as normal in the physical-assessment notes?",
+            "options": {
+                "A": "90/40 mmHg",
+                "B": "160/100 mmHg",
+                "C": "120/80 mmHg",
+                "D": "180/120 mmHg"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-046",
+            "question": "What is pulse pressure?",
+            "options": {
+                "A": "The sum of systolic and diastolic pressure",
+                "B": "The difference between systolic and diastolic pressure",
+                "C": "Heart rate multiplied by BP",
+                "D": "Diastolic pressure divided by heart rate"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-047",
+            "question": "What pulse-pressure range is listed as normal?",
+            "options": {
+                "A": "60–80 mmHg",
+                "B": "100–120 mmHg",
+                "C": "30–40 mmHg",
+                "D": "5–10 mmHg"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-048",
+            "question": "What is postural hypotension associated with?",
+            "options": {
+                "A": "A normal pulse pressure",
+                "B": "An increase in BP after lying down",
+                "C": "An increase in capillary refill",
+                "D": "A significant BP decrease after assuming an upright posture"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-049",
+            "question": "Which symptoms can accompany postural hypotension?",
+            "options": {
+                "A": "Fever and rash only",
+                "B": "Edema and ascites only",
+                "C": "Cough and sputum only",
+                "D": "Dizziness, lightheadedness, or syncope"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-050",
+            "question": "What pulse characteristics should be assessed?",
+            "options": {
+                "A": "Only temperature",
+                "B": "Only color",
+                "C": "Rate, rhythm, quality, and strength",
+                "D": "Only duration"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-051",
+            "question": "What pulse rate range is listed as normal in the assessment notes?",
+            "options": {
+                "A": "180–220 bpm",
+                "B": "50–100 bpm",
+                "C": "120–160 bpm",
+                "D": "10–20 bpm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-052",
+            "question": "How should arterial pulses be assessed?",
+            "options": {
+                "A": "Only when BP is elevated",
+                "B": "Bilaterally",
+                "C": "Only on the left",
+                "D": "Only on the right"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-053",
+            "question": "Which pulse site is located at the wrist?",
+            "options": {
+                "A": "Femoral",
+                "B": "Dorsalis pedis",
+                "C": "Popliteal",
+                "D": "Radial"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-054",
+            "question": "Which pulse site is behind the knee?",
+            "options": {
+                "A": "Popliteal",
+                "B": "Radial",
+                "C": "Temporal",
+                "D": "Brachial"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-055",
+            "question": "Which pulse is located on the top of the foot?",
+            "options": {
+                "A": "Carotid",
+                "B": "Femoral",
+                "C": "Brachial",
+                "D": "Dorsalis pedis"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-056",
+            "question": "Which pulse is located behind the medial ankle?",
+            "options": {
+                "A": "Posterior tibial",
+                "B": "Radial",
+                "C": "Popliteal",
+                "D": "Temporal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-057",
+            "question": "What does a 0 pulse on the 0-to-4 scale mean?",
+            "options": {
+                "A": "Normal and full",
+                "B": "Bounding",
+                "C": "Absent or not palpable",
+                "D": "Weak and thready"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-058",
+            "question": "What does a 1+ pulse indicate?",
+            "options": {
+                "A": "Weak, thready, and difficult to palpate",
+                "B": "Full and normal",
+                "C": "Strong and bounding",
+                "D": "Diminished but not obliterated"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-059",
+            "question": "What does a 3+ pulse indicate?",
+            "options": {
+                "A": "Weak and thready",
+                "B": "Absent",
+                "C": "Easy to palpate and full",
+                "D": "Strong and bounding"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-060",
+            "question": "What does a 4+ pulse indicate?",
+            "options": {
+                "A": "Normal and full",
+                "B": "Diminished",
+                "C": "Absent",
+                "D": "Strong and bounding"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-061",
+            "question": "Where are jugular venous pulsations commonly assessed?",
+            "options": {
+                "A": "Internal jugular veins",
+                "B": "Femoral arteries",
+                "C": "Dorsalis pedis arteries",
+                "D": "Radial arteries"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-062",
+            "question": "Where are external jugular veins visible according to the notes?",
+            "options": {
+                "A": "Below the umbilicus",
+                "B": "Just above the clavicles",
+                "C": "Behind the knees",
+                "D": "At the wrist"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-063",
+            "question": "What is the purpose of cardiac auscultation?",
+            "options": {
+                "A": "To measure blood glucose",
+                "B": "To determine urine output",
+                "C": "To determine rate and rhythm and evaluate heart sounds",
+                "D": "To assess bowel motility"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-064",
+            "question": "Where is the aortic area located?",
+            "options": {
+                "A": "Below the xiphoid",
+                "B": "Second intercostal space to the left of the sternum",
+                "C": "Left fifth intercostal space",
+                "D": "Second intercostal space to the right of the sternum"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-065",
+            "question": "Where is the pulmonic area located?",
+            "options": {
+                "A": "Left fifth intercostal space",
+                "B": "Second intercostal space to the right",
+                "C": "Second intercostal space to the left of the sternum",
+                "D": "Right upper abdomen"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-066",
+            "question": "Where is Erb's point located?",
+            "options": {
+                "A": "Below the xiphoid",
+                "B": "Third intercostal space to the left of the sternum",
+                "C": "Left fifth intercostal space",
+                "D": "Second intercostal space to the right"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-067",
+            "question": "Where is the mitral/apical area located?",
+            "options": {
+                "A": "Lower right abdomen",
+                "B": "Left fifth intercostal space at the midclavicular line",
+                "C": "Third left intercostal space",
+                "D": "Second right intercostal space"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-068",
+            "question": "What does S1 represent on auscultation?",
+            "options": {
+                "A": "Closure of the aortic and pulmonic valves",
+                "B": "Closure of the tricuspid and mitral valves",
+                "C": "Opening of the semilunar valves",
+                "D": "Opening of the AV valves"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-069",
+            "question": "What does S2 represent?",
+            "options": {
+                "A": "Opening of the AV valves",
+                "B": "Closure of the pulmonic and aortic valves",
+                "C": "Atrial contraction",
+                "D": "Closure of the mitral and tricuspid valves"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-070",
+            "question": "Where is S1 usually heard loudest?",
+            "options": {
+                "A": "Epigastric area",
+                "B": "Pulmonic area",
+                "C": "Apical area",
+                "D": "Aortic area"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-071",
+            "question": "What is S3 associated with?",
+            "options": {
+                "A": "Atrial contraction before S1",
+                "B": "Early diastole during rapid ventricular filling",
+                "C": "Closure of the semilunar valves",
+                "D": "Late systole"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-072",
+            "question": "What is S4 associated with?",
+            "options": {
+                "A": "Rapid ventricular filling",
+                "B": "Early systole",
+                "C": "Closure of semilunar valves",
+                "D": "Late diastole during atrial contraction"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-073",
+            "question": "What causes a cardiac murmur?",
+            "options": {
+                "A": "Turbulent blood flow",
+                "B": "Venous return",
+                "C": "Pericardial lubrication",
+                "D": "Normal valve closure only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-074",
+            "question": "What causes a pericardial friction rub?",
+            "options": {
+                "A": "Rapid ventricular filling",
+                "B": "Closure of the mitral valve",
+                "C": "Turbulent flow through the aorta",
+                "D": "Abrasion of inflamed pericardial surfaces"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-075",
+            "question": "In heart failure, what should the nurse assess regarding the lungs?",
+            "options": {
+                "A": "Crackles and wheezes",
+                "B": "Only respiratory color",
+                "C": "Only chest circumference",
+                "D": "Only cough frequency"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-076",
+            "question": "Where should edema be assessed in an upright patient with heart failure?",
+            "options": {
+                "A": "Feet and lower legs",
+                "B": "Chest only",
+                "C": "Forearms only",
+                "D": "Scalp and face only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-077",
+            "question": "Where should edema be assessed in a supine patient?",
+            "options": {
+                "A": "Neck only",
+                "B": "Sacrum and back",
+                "C": "Forehead",
+                "D": "Hands only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-078",
+            "question": "What does JVD help assess in heart failure?",
+            "options": {
+                "A": "Hemoglobin",
+                "B": "Blood glucose",
+                "C": "Lung capacity",
+                "D": "Venous pressure"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-079",
+            "question": "What JVD measurement is considered abnormal in the notes?",
+            "options": {
+                "A": "Exactly 2 cm",
+                "B": "Exactly 10 cm",
+                "C": "More than 3 cm above the sternal angle",
+                "D": "More than 1 cm below the clavicle"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ASSE-080",
+            "question": "What is a positive hepatojugular test in the notes?",
+            "options": {
+                "A": "Blood pressure rises by 20 mmHg",
+                "B": "Neck vein distention increases more than 1 cm",
+                "C": "Pulse becomes 4+",
+                "D": "Neck vein distention decreases by 5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        }
+    ]
+}

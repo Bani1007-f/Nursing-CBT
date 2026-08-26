@@ -1,0 +1,369 @@
+{
+    "course": "community-health-ii",
+    "topic": "Child Welfare",
+    "testSettings": {
+        "questionCount": 20
+    },
+    "questions": [
+        {
+            "id": "CW-001",
+            "question": "According to the material, children aged 0–59 months make up approximately what proportion of Nigeria's population?",
+            "options": {
+                "A": "5%",
+                "B": "10%",
+                "C": "19%",
+                "D": "35%"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CW-002",
+            "question": "Nigeria's under-five mortality rate in the 2023–2024 NDHS was approximately:",
+            "options": {
+                "A": "25 per 1,000",
+                "B": "70 per 1,000",
+                "C": "110 per 1,000",
+                "D": "201 per 1,000"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CW-003",
+            "question": "The SDG target for under-five mortality is:",
+            "options": {
+                "A": "25 or fewer per 1,000 live births",
+                "B": "50 per 1,000",
+                "C": "110 per 1,000",
+                "D": "201 per 1,000"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-004",
+            "question": "The Nigerian Child Survival Action Plan covers the period:",
+            "options": {
+                "A": "2020–2024",
+                "B": "2023–2027",
+                "C": "2025–2029",
+                "D": "2026–2030"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CW-005",
+            "question": "The NCSAP primarily focuses on children aged:",
+            "options": {
+                "A": "Birth–28 days",
+                "B": "1–59 months",
+                "C": "5–10 years",
+                "D": "10–19 years"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CW-006",
+            "question": "The NCSAP promotes services that are:",
+            "options": {
+                "A": "Fragmented and disease-specific only",
+                "B": "Integrated and child-centred",
+                "C": "Hospital-only",
+                "D": "Private-sector only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CW-007",
+            "question": "NCSAP implementation is linked strongly with:",
+            "options": {
+                "A": "Primary health care and universal health coverage",
+                "B": "Air transport only",
+                "C": "School examinations",
+                "D": "Industrial development"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-008",
+            "question": "Which is a key NCSAP approach?",
+            "options": {
+                "A": "Community engagement",
+                "B": "Reducing data use",
+                "C": "Limiting partnerships",
+                "D": "Avoiding monitoring"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-009",
+            "question": "The NCSAP emphasizes equitable:",
+            "options": {
+                "A": "Resource mobilisation and distribution",
+                "B": "Disease classification only",
+                "C": "Hospital admission",
+                "D": "Medication pricing only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-010",
+            "question": "States in the NCSAP are classified as:",
+            "options": {
+                "A": "Urban, rural and peri-urban",
+                "B": "Low-, middle-, and high-performing",
+                "C": "Rich, poor and middle-income",
+                "D": "Federal, state and local"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CW-011",
+            "question": "The NCSAP identifies how many LGAs with the poorest child-mortality outcomes?",
+            "options": {
+                "A": "72",
+                "B": "100",
+                "C": "172",
+                "D": "272"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CW-012",
+            "question": "One source of data used to identify priority LGAs is:",
+            "options": {
+                "A": "DHIS2",
+                "B": "Only school registers",
+                "C": "Only census maps",
+                "D": "Only hospital invoices"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-013",
+            "question": "The vision of NCSAP includes protection of children's:",
+            "options": {
+                "A": "Health, rights, development and wellbeing",
+                "B": "School grades only",
+                "C": "Household income only",
+                "D": "Vaccination cards only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-014",
+            "question": "The NCSAP mission integrates RMNCAEH+Nutrition services across the:",
+            "options": {
+                "A": "Continuum of care",
+                "B": "School curriculum",
+                "C": "Agricultural sector",
+                "D": "Transport system"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-015",
+            "question": "The NCSAP goal is to accelerate reduction of:",
+            "options": {
+                "A": "Preventable deaths among children 1–59 months",
+                "B": "Adult mortality only",
+                "C": "Maternal morbidity only",
+                "D": "Road traffic injuries only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-016",
+            "question": "NCSAP Strategic Objective 1 is to reduce:",
+            "options": {
+                "A": "Morbidity and mortality from major causes of death",
+                "B": "All adult diseases",
+                "C": "Hospital costs only",
+                "D": "School absenteeism"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-017",
+            "question": "NCSAP Strategic Objective 2 focuses on preventing:",
+            "options": {
+                "A": "Child vulnerability",
+                "B": "All environmental hazards",
+                "C": "Hospital infections only",
+                "D": "Adult unemployment"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-018",
+            "question": "Which group is identified as particularly disadvantaged?",
+            "options": {
+                "A": "Poorest and rural populations",
+                "B": "Only urban professionals",
+                "C": "Only health workers",
+                "D": "Only hospital administrators"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-019",
+            "question": "A major approach for disadvantaged populations is to:",
+            "options": {
+                "A": "Strengthen PHCs",
+                "B": "Close outreach services",
+                "C": "Reduce referral capacity",
+                "D": "Increase financial barriers"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-020",
+            "question": "Communities should participate in:",
+            "options": {
+                "A": "Planning, implementation and accountability",
+                "B": "Only receiving medicines",
+                "C": "Only disease reporting",
+                "D": "Only hospital admission"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-021",
+            "question": "Community leaders may help to:",
+            "options": {
+                "A": "Mobilize communities and promote available services",
+                "B": "Replace all health workers",
+                "C": "Diagnose every illness",
+                "D": "Manage national budgets"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-022",
+            "question": "Mothers and caregivers are described as:",
+            "options": {
+                "A": "Primary caregivers",
+                "B": "Programme auditors only",
+                "C": "Laboratory staff",
+                "D": "Policy makers only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-023",
+            "question": "Community-based health workers help bridge the:",
+            "options": {
+                "A": "Community and PHC",
+                "B": "Hospital and airport",
+                "C": "School and factory",
+                "D": "Laboratory and pharmacy only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-024",
+            "question": "A role of community-based health workers is to:",
+            "options": {
+                "A": "Conduct home visits and follow up children",
+                "B": "Perform all surgeries",
+                "C": "Manage national procurement",
+                "D": "Replace all nurses"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-025",
+            "question": "Healthcare workers should participate in:",
+            "options": {
+                "A": "Training and retraining",
+                "B": "Only billing",
+                "C": "Only transport",
+                "D": "Only construction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-026",
+            "question": "Healthcare workers should identify:",
+            "options": {
+                "A": "Zero-dose and missed-immunization children",
+                "B": "Only adult patients",
+                "C": "Only hospital staff",
+                "D": "Only school children"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-027",
+            "question": "Health facility management should ensure availability of:",
+            "options": {
+                "A": "Recording tools, medicines and supplies",
+                "B": "Only uniforms",
+                "C": "Only transport",
+                "D": "Only food"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-028",
+            "question": "A child-centred service should be:",
+            "options": {
+                "A": "Safe, evidence-based, timely and family-centred",
+                "B": "Delayed and fragmented",
+                "C": "Hospital-only",
+                "D": "Unaffordable"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-029",
+            "question": "Community health programmes should support:",
+            "options": {
+                "A": "Prompt care-seeking for sick children",
+                "B": "Avoidance of PHCs",
+                "C": "Delayed referrals",
+                "D": "Reduced immunization"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CW-030",
+            "question": "One responsibility of caregivers highlighted in NCSAP is to:",
+            "options": {
+                "A": "Seek care promptly when children are sick",
+                "B": "Avoid health facilities",
+                "C": "Delay referrals",
+                "D": "Stop routine immunization"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

@@ -1,0 +1,489 @@
+{
+    "course": "frh-ii",
+    "topic": "Breasts",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "BREA-001",
+            "question": "The breasts are classified as",
+            "options": {
+                "A": "Endocrine glands",
+                "B": "Exocrine glands",
+                "C": "Lymphatic glands",
+                "D": "Sebaceous glands"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-002",
+            "question": "The breasts are also known as the",
+            "options": {
+                "A": "Mammary glands",
+                "B": "Sebaceous glands",
+                "C": "Bartholin glands",
+                "D": "Vestibular glands"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-003",
+            "question": "The mammary glands are considered",
+            "options": {
+                "A": "Primary reproductive organs",
+                "B": "Accessory organs of reproduction",
+                "C": "Internal genital organs",
+                "D": "Pelvic floor organs"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BREA-004",
+            "question": "The major secretion produced by the breasts is",
+            "options": {
+                "A": "Progesterone",
+                "B": "Estrogen",
+                "C": "Milk",
+                "D": "Sebum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-005",
+            "question": "Each breast is divided into how many quadrants?",
+            "options": {
+                "A": "Two",
+                "B": "Three",
+                "C": "Four",
+                "D": "Five"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-006",
+            "question": "Which of the following is NOT one of the four breast quadrants?",
+            "options": {
+                "A": "Upper outer",
+                "B": "Upper inner",
+                "C": "Lower outer",
+                "D": "Central posterior"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-007",
+            "question": "The breasts are located on the anterior chest wall approximately between the",
+            "options": {
+                "A": "1st and 4th ribs",
+                "B": "2nd and 6th ribs",
+                "C": "4th and 8th ribs",
+                "D": "6th and 10th ribs"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BREA-008",
+            "question": "The breast extends from the sternum to the",
+            "options": {
+                "A": "Vertebral column",
+                "B": "Mid-axillary line",
+                "C": "Clavicle",
+                "D": "Scapula"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-009",
+            "question": "The breasts lie mainly over the",
+            "options": {
+                "A": "Rectus abdominis",
+                "B": "Pectoralis major muscle",
+                "C": "Diaphragm",
+                "D": "Latissimus dorsi"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BREA-010",
+            "question": "The breasts are stabilized mainly by",
+            "options": {
+                "A": "Round ligaments",
+                "B": "Suspensory ligaments",
+                "C": "Cardinal ligaments",
+                "D": "Ovarian ligaments"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-011",
+            "question": "The normal shape of the breast is described as",
+            "options": {
+                "A": "Cylindrical",
+                "B": "Hemispherical",
+                "C": "Triangular",
+                "D": "Conical"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "BREA-012",
+            "question": "The three main gross structures of the breast include the nipple, areola and",
+            "options": {
+                "A": "Mammary sinus",
+                "B": "Axillary tail of Spence",
+                "C": "Lactiferous sinus",
+                "D": "Pectoral fascia"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BREA-013",
+            "question": "The areola is approximately",
+            "options": {
+                "A": "0.5 cm in diameter",
+                "B": "1 cm in diameter",
+                "C": "2.5 cm in diameter",
+                "D": "5 cm in diameter"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-014",
+            "question": "The areola is best described as",
+            "options": {
+                "A": "Circular area of loose pigmented skin",
+                "B": "Muscular structure",
+                "C": "Lymph node",
+                "D": "Fatty tissue"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BREA-015",
+            "question": "The colour of the areola generally",
+            "options": {
+                "A": "Becomes lighter during pregnancy",
+                "B": "Deepens during pregnancy",
+                "C": "Remains unchanged during pregnancy",
+                "D": "Disappears during pregnancy"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-016",
+            "question": "Approximately how many sebaceous glands are found within the areola according to the notes?",
+            "options": {
+                "A": "5",
+                "B": "10",
+                "C": "20",
+                "D": "50"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-017",
+            "question": "The sebaceous glands of the areola secrete",
+            "options": {
+                "A": "Milk",
+                "B": "Sebum",
+                "C": "Progesterone",
+                "D": "Lymph"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-018",
+            "question": "The main function of the sebum produced by the areolar glands is to",
+            "options": {
+                "A": "Produce milk",
+                "B": "Keep the nipple supple",
+                "C": "Increase blood flow",
+                "D": "Prevent ovulation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-019",
+            "question": "During pregnancy, the sebaceous glands of the areola develop into",
+            "options": {
+                "A": "Lactiferous sinuses",
+                "B": "Montgomery tubercles",
+                "C": "Corpus luteum",
+                "D": "Fimbriae"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-020",
+            "question": "The axillary tail of Spence is",
+            "options": {
+                "A": "A. Gland within the axilla",
+                "B": "Tongue-like projection of breast tissue",
+                "C": "Lymph node",
+                "D": "Muscle"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-021",
+            "question": "The axillary tail of Spence extends from the",
+            "options": {
+                "A": "Lower inner quadrant",
+                "B": "Upper outer quadrant",
+                "C": "Lower outer quadrant",
+                "D": "Upper inner quadrant"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-022",
+            "question": "The axillary tail of Spence extends toward the",
+            "options": {
+                "A": "Sternum",
+                "B": "Axilla",
+                "C": "Abdomen",
+                "D": "Neck"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BREA-023",
+            "question": "The axillary tail passes through an opening in the deep fascia known as the",
+            "options": {
+                "A": "Foramen of Winslow",
+                "B": "Foramen of Langer",
+                "C": "Obturator foramen",
+                "D": "Sacral foramen"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-024",
+            "question": "The axillary tail of Spence may become swollen during",
+            "options": {
+                "A": "Ovulation",
+                "B": "Puerperium",
+                "C": "Menstruation only",
+                "D": "Menopause"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-025",
+            "question": "The axillary tail contains",
+            "options": {
+                "A": "Bone tissue",
+                "B": "Lymphatic tissue",
+                "C": "Cartilage",
+                "D": "Skeletal muscle"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BREA-026",
+            "question": "According to the notes, approximately what percentage of breast cancers occur in the upper outer quadrant and axillary tail?",
+            "options": {
+                "A": "10%",
+                "B": "25%",
+                "C": "50%",
+                "D": "75%"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-027",
+            "question": "The mammary gland is divided into approximately",
+            "options": {
+                "A": "5–10 lobes",
+                "B": "10–12 lobes",
+                "C": "15–20 lobes",
+                "D": "25–30 lobes"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BREA-028",
+            "question": "The lobes of the mammary gland are separated by",
+            "options": {
+                "A": "Rugae",
+                "B": "Septae",
+                "C": "Fimbriae",
+                "D": "Fascia lata"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BREA-029",
+            "question": "The septae run from behind the nipple toward the",
+            "options": {
+                "A": "Sternum",
+                "B": "Pectoral muscle",
+                "C": "Axillary artery",
+                "D": "Clavicle"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-030",
+            "question": "Each lobe of the mammary gland is further divided into",
+            "options": {
+                "A": "Follicles",
+                "B": "Lobules",
+                "C": "Acini only",
+                "D": "Sinuses"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BREA-031",
+            "question": "The lobules contain",
+            "options": {
+                "A": "Acini cells",
+                "B": "Oocytes",
+                "C": "Follicular cells",
+                "D": "Cervical cells"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BREA-032",
+            "question": "The acini are surrounded by contractile cells known as",
+            "options": {
+                "A": "Goblet cells",
+                "B": "Myoepithelial/basket cells",
+                "C": "Theca cells",
+                "D": "Squamous cells"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-033",
+            "question": "The myoepithelial cells help to",
+            "options": {
+                "A": "Produce estrogen",
+                "B": "Expel milk into the ducts",
+                "C": "Produce lymph",
+                "D": "Produce progesterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-034",
+            "question": "The central duct into which the tubules run is the",
+            "options": {
+                "A": "Lactiferous duct",
+                "B": "Ejectory duct",
+                "C": "Urethral duct",
+                "D": "Mammary artery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BREA-035",
+            "question": "The widened portion of the lactiferous duct where milk is stored is called the",
+            "options": {
+                "A": "Ampulla/lactiferous sinus",
+                "B": "Areola",
+                "C": "Lobule",
+                "D": "Septum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-036",
+            "question": "The duct leading from the ampulla to the breast surface is the",
+            "options": {
+                "A": "Lactiferous duct",
+                "B": "Ejectory duct",
+                "C": "Cervical duct",
+                "D": "Axillary duct"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-037",
+            "question": "Which of the following is an arterial supply of the breast?",
+            "options": {
+                "A": "Internal mammary artery",
+                "B": "Femoral artery",
+                "C": "Pudendal artery",
+                "D": "Uterine artery"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-038",
+            "question": "The veins of the breast form a circular network around the",
+            "options": {
+                "A": "Areola",
+                "B": "Nipple",
+                "C": "Axilla",
+                "D": "Sternum"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BREA-039",
+            "question": "The skin of the breast receives sensory supply from the cutaneous branches of the",
+            "options": {
+                "A": "1st, 2nd and 3rd thoracic nerves",
+                "B": "2nd, 3rd and 4th thoracic nerves",
+                "C": "4th, 5th and 6th thoracic nerves",
+                "D": "7th, 8th and 9th thoracic nerves"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BREA-040",
+            "question": "Which hormone is primarily associated with milk production after delivery according to the notes?",
+            "options": {
+                "A": "Estrogen",
+                "B": "Progesterone",
+                "C": "Prolactin",
+                "D": "FSH"
+            },
+            "answer": "C",
+            "explanation": null
+        }
+    ]
+}

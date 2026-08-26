@@ -1,0 +1,898 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Cardiomyopathies",
+    "testSettings": {
+        "questionCount": 60
+    },
+    "questions": [
+        {
+            "id": "CARD-001",
+            "question": "Which statement best describes dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-002",
+            "question": "A patient with Cardiomyopathies is assessed for hypertrophic cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-003",
+            "question": "What is a key feature associated with restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-004",
+            "question": "Which investigation or management principle relates to ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-005",
+            "question": "Which option correctly identifies the significance of dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-006",
+            "question": "Which statement best describes hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-007",
+            "question": "A patient with Cardiomyopathies is assessed for restrictive cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-008",
+            "question": "What is a key feature associated with ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-009",
+            "question": "Which investigation or management principle relates to dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-010",
+            "question": "Which option correctly identifies the significance of hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-011",
+            "question": "Which statement best describes restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-012",
+            "question": "A patient with Cardiomyopathies is assessed for ejection fraction. Which finding is most appropriate?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-013",
+            "question": "What is a key feature associated with dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-014",
+            "question": "Which investigation or management principle relates to hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-015",
+            "question": "Which option correctly identifies the significance of restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-016",
+            "question": "Which statement best describes ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-017",
+            "question": "A patient with Cardiomyopathies is assessed for dilated cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-018",
+            "question": "What is a key feature associated with hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-019",
+            "question": "Which investigation or management principle relates to restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-020",
+            "question": "Which option correctly identifies the significance of ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-021",
+            "question": "Which option correctly identifies the significance of dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-022",
+            "question": "Which statement best describes hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-023",
+            "question": "A patient with Cardiomyopathies is assessed for restrictive cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-024",
+            "question": "What is a key feature associated with ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-025",
+            "question": "Which investigation or management principle relates to dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-026",
+            "question": "Which option correctly identifies the significance of hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-027",
+            "question": "Which statement best describes restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-028",
+            "question": "A patient with Cardiomyopathies is assessed for ejection fraction. Which finding is most appropriate?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-029",
+            "question": "What is a key feature associated with dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-030",
+            "question": "Which investigation or management principle relates to hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-031",
+            "question": "Which option correctly identifies the significance of restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-032",
+            "question": "Which statement best describes ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-033",
+            "question": "A patient with Cardiomyopathies is assessed for dilated cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-034",
+            "question": "What is a key feature associated with hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-035",
+            "question": "Which investigation or management principle relates to restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-036",
+            "question": "Which option correctly identifies the significance of ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-037",
+            "question": "Which option correctly identifies the significance of dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-038",
+            "question": "Which statement best describes hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-039",
+            "question": "A patient with Cardiomyopathies is assessed for restrictive cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-040",
+            "question": "What is a key feature associated with ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-041",
+            "question": "Which investigation or management principle relates to dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-042",
+            "question": "Which option correctly identifies the significance of hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-043",
+            "question": "Which statement best describes restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-044",
+            "question": "A patient with Cardiomyopathies is assessed for ejection fraction. Which finding is most appropriate?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-045",
+            "question": "What is a key feature associated with dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-046",
+            "question": "Which investigation or management principle relates to hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-047",
+            "question": "Which option correctly identifies the significance of restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-048",
+            "question": "Which statement best describes ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-049",
+            "question": "A patient with Cardiomyopathies is assessed for dilated cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-050",
+            "question": "What is a key feature associated with hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-051",
+            "question": "Which investigation or management principle relates to restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-052",
+            "question": "Which option correctly identifies the significance of ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-053",
+            "question": "Which option correctly identifies the significance of dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-054",
+            "question": "Which statement best describes hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-055",
+            "question": "A patient with Cardiomyopathies is assessed for restrictive cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-056",
+            "question": "What is a key feature associated with ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-057",
+            "question": "Which investigation or management principle relates to dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-058",
+            "question": "Which option correctly identifies the significance of hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-059",
+            "question": "Which statement best describes restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-060",
+            "question": "A patient with Cardiomyopathies is assessed for ejection fraction. Which finding is most appropriate?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-061",
+            "question": "What is a key feature associated with dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-062",
+            "question": "Which investigation or management principle relates to hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-063",
+            "question": "Which option correctly identifies the significance of restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-064",
+            "question": "Which statement best describes ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-065",
+            "question": "A patient with Cardiomyopathies is assessed for dilated cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-066",
+            "question": "What is a key feature associated with hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-067",
+            "question": "Which investigation or management principle relates to restrictive cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-068",
+            "question": "Which option correctly identifies the significance of ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-069",
+            "question": "Which option correctly identifies the significance of dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-070",
+            "question": "Which statement best describes hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-071",
+            "question": "A patient with Cardiomyopathies is assessed for restrictive cardiomyopathy. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced ventricular distensibility",
+                "B": "Increased valve opening",
+                "C": "Improved cardiac output",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-072",
+            "question": "What is a key feature associated with ejection fraction in Cardiomyopathies?",
+            "options": {
+                "A": "Measurement of ventricular pumping ability",
+                "B": "Blood glucose measurement",
+                "C": "Liver function test",
+                "D": "Respiratory rate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-073",
+            "question": "Which investigation or management principle relates to dilated cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Reduced contractility due to ventricular dilation",
+                "B": "Valve infection",
+                "C": "High hemoglobin level",
+                "D": "Pericardial lubrication"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CARD-074",
+            "question": "Which option correctly identifies the significance of hypertrophic cardiomyopathy in Cardiomyopathies?",
+            "options": {
+                "A": "Thickened myocardium affecting filling",
+                "B": "Low platelet count",
+                "C": "Coronary infection",
+                "D": "Reduced blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

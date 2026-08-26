@@ -1,0 +1,729 @@
+{
+    "course": "frh-ii",
+    "topic": "Andropause",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "ANDR-001",
+            "question": "Andropause is also known as:",
+            "options": {
+                "A": "Menopause",
+                "B": "Late-onset hypogonadism",
+                "C": "Ovarian failure",
+                "D": "Hypergonadism"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-002",
+            "question": "Andropause is characterized primarily by:",
+            "options": {
+                "A": "Sudden complete loss of reproductive function",
+                "B": "Gradual decline in testosterone",
+                "C": "Sudden increase in testosterone",
+                "D": "Complete cessation of sperm production in all men"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-003",
+            "question": "Andropause differs from menopause because:",
+            "options": {
+                "A": "Men do not produce testosterone",
+                "B": "It usually involves a gradual decline rather than sudden cessation of reproductive function",
+                "C": "It always causes infertility",
+                "D": "It occurs before puberty"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-004",
+            "question": "Testosterone is mainly produced by the:",
+            "options": {
+                "A": "Sertoli cells",
+                "B": "Leydig cells",
+                "C": "Pituitary gland",
+                "D": "Hypothalamus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-005",
+            "question": "Testosterone is important for all of the following EXCEPT:",
+            "options": {
+                "A": "Muscle health",
+                "B": "Bone health",
+                "C": "Male sexual function",
+                "D": "Ovulation"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-006",
+            "question": "The male reproductive system is regulated by the:",
+            "options": {
+                "A": "HPG axis",
+                "B": "HPA axis",
+                "C": "Renin-angiotensin system",
+                "D": "Autonomic axis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-007",
+            "question": "GnRH is released by the:",
+            "options": {
+                "A": "Testes",
+                "B": "Hypothalamus",
+                "C": "Pituitary gland",
+                "D": "Prostate"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-008",
+            "question": "GnRH stimulates the anterior pituitary to release:",
+            "options": {
+                "A": "Testosterone and inhibin",
+                "B": "LH and FSH",
+                "C": "Estrogen and progesterone",
+                "D": "ABP and testosterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-009",
+            "question": "LH stimulates the:",
+            "options": {
+                "A": "Sertoli cells",
+                "B": "Leydig cells",
+                "C": "Spermatids",
+                "D": "Epididymis"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-010",
+            "question": "FSH acts mainly on the:",
+            "options": {
+                "A": "Leydig cells",
+                "B": "Sertoli cells",
+                "C": "Prostate",
+                "D": "Seminal vesicles"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-011",
+            "question": "Sertoli cells produce:",
+            "options": {
+                "A": "Inhibin",
+                "B": "LH",
+                "C": "GnRH",
+                "D": "Estrogen only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-012",
+            "question": "Inhibin primarily reduces:",
+            "options": {
+                "A": "LH",
+                "B": "FSH",
+                "C": "Testosterone",
+                "D": "GnRH"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-013",
+            "question": "Testosterone provides negative feedback to the:",
+            "options": {
+                "A": "Hypothalamus and pituitary",
+                "B": "Epididymis only",
+                "C": "Prostate only",
+                "D": "Seminiferous tubules only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-014",
+            "question": "The main cause of andropause is:",
+            "options": {
+                "A": "Infection",
+                "B": "Ageing",
+                "C": "Trauma",
+                "D": "Ovulation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-015",
+            "question": "Testosterone production often begins to decline gradually from about:",
+            "options": {
+                "A": "Age 10–15",
+                "B": "Age 20–25",
+                "C": "Age 30–40",
+                "D": "Age 60–70"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-016",
+            "question": "The estimated rate of testosterone decline with ageing is approximately:",
+            "options": {
+                "A": "1–2% per year",
+                "B": "10–20% per year",
+                "C": "30% per year",
+                "D": "50% per year"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-017",
+            "question": "A change contributing to androgen deficiency is reduced function of:",
+            "options": {
+                "A": "Leydig cells",
+                "B": "Ovarian follicles",
+                "C": "Thyroid follicles",
+                "D": "Pancreatic beta cells"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-018",
+            "question": "Increased SHBG can contribute to androgen deficiency because it:",
+            "options": {
+                "A": "Increases free testosterone",
+                "B": "Binds more testosterone and reduces free testosterone availability",
+                "C": "Produces testosterone",
+                "D": "Destroys LH"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-019",
+            "question": "SHBG stands for:",
+            "options": {
+                "A": "Sex hormone-binding globulin",
+                "B": "Sexual hormone blood glucose",
+                "C": "Steroid hormone-binding growth",
+                "D": "Sex hormone blood generator"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-020",
+            "question": "Which condition is a risk factor for androgen deficiency?",
+            "options": {
+                "A": "Obesity",
+                "B": "Normal body weight",
+                "C": "Regular exercise",
+                "D": "Adequate sleep"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-021",
+            "question": "Which chronic disease may contribute to low testosterone?",
+            "options": {
+                "A": "Diabetes",
+                "B": "Common cold",
+                "C": "Myopia",
+                "D": "Migraine only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-022",
+            "question": "Which lifestyle factor can contribute to reduced testosterone?",
+            "options": {
+                "A": "Regular exercise",
+                "B": "Physical inactivity",
+                "C": "Balanced diet",
+                "D": "Adequate sleep"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-023",
+            "question": "Obesity may reduce testosterone partly because body fat increases conversion of testosterone to:",
+            "options": {
+                "A": "Insulin",
+                "B": "Estrogen",
+                "C": "FSH",
+                "D": "Cortisol only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-024",
+            "question": "A common sexual symptom of andropause is:",
+            "options": {
+                "A": "Increased libido",
+                "B": "Reduced libido",
+                "C": "Increased sperm production",
+                "D": "Increased semen volume"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-025",
+            "question": "Andropause may cause erections to become:",
+            "options": {
+                "A": "More frequent and firmer",
+                "B": "Less firm",
+                "C": "Permanently absent in all men",
+                "D": "Unrelated to testosterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-026",
+            "question": "Which may decrease during andropause?",
+            "options": {
+                "A": "Morning erections",
+                "B": "Bone density only",
+                "C": "Body temperature",
+                "D": "Blood volume"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-027",
+            "question": "Andropause may result in:",
+            "options": {
+                "A": "Increased ejaculatory volume",
+                "B": "Reduced ejaculatory volume",
+                "C": "Increased sperm quality",
+                "D": "Increased fertility in all men"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-028",
+            "question": "Reduced testosterone may cause:",
+            "options": {
+                "A": "Increased muscle mass",
+                "B": "Loss of muscle mass and strength",
+                "C": "Increased bone density",
+                "D": "Increased stamina"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-029",
+            "question": "A possible skeletal effect of androgen deficiency is:",
+            "options": {
+                "A": "Osteoporosis",
+                "B": "Increased bone density",
+                "C": "Faster bone formation only",
+                "D": "Joint enlargement"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-030",
+            "question": "Reduced bone mineral density can increase the risk of:",
+            "options": {
+                "A": "Fractures",
+                "B": "Infection",
+                "C": "Asthma",
+                "D": "Appendicitis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-031",
+            "question": "A metabolic effect associated with andropause is increased:",
+            "options": {
+                "A": "Abdominal fat",
+                "B": "Muscle mass",
+                "C": "Bone density",
+                "D": "HDL cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-032",
+            "question": "Andropause may increase the risk of:",
+            "options": {
+                "A": "Insulin resistance",
+                "B": "Hypoglycemia in all men",
+                "C": "Diabetes prevention",
+                "D": "Reduced abdominal fat"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-033",
+            "question": "Testosterone deficiency may be associated with changes in blood lipids including increased:",
+            "options": {
+                "A": "HDL",
+                "B": "LDL and triglycerides",
+                "C": "Hemoglobin only",
+                "D": "Calcium"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-034",
+            "question": "A psychological manifestation of andropause may include:",
+            "options": {
+                "A": "Depression",
+                "B": "Increased concentration",
+                "C": "Increased motivation",
+                "D": "Persistent euphoria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-035",
+            "question": "Cognitive symptoms may include:",
+            "options": {
+                "A": "Improved memory",
+                "B": "Difficulty concentrating",
+                "C": "Increased mental alertness",
+                "D": "Faster learning"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-036",
+            "question": "A common general symptom is:",
+            "options": {
+                "A": "Persistent tiredness",
+                "B": "Increased stamina",
+                "C": "Excessive energy",
+                "D": "Increased exercise capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-037",
+            "question": "Sleep problems associated with andropause may include:",
+            "options": {
+                "A": "Insomnia",
+                "B": "Permanent unconsciousness",
+                "C": "Increased sleep quality",
+                "D": "No sleep changes"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-038",
+            "question": "Some men with androgen deficiency may experience:",
+            "options": {
+                "A": "Hot flushes or sweating episodes",
+                "B": "Ovulation",
+                "C": "Menstrual bleeding",
+                "D": "Breastfeeding"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-039",
+            "question": "Age-related reproductive changes may include:",
+            "options": {
+                "A": "Increased semen volume",
+                "B": "Reduced semen volume",
+                "C": "Increased sperm quality",
+                "D": "Increased morning erections"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-040",
+            "question": "Recovery time after ejaculation may:",
+            "options": {
+                "A": "Decrease",
+                "B": "Increase",
+                "C": "Remain impossible to measure",
+                "D": "Become zero"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-041",
+            "question": "The prostate may enlarge with ageing and cause:",
+            "options": {
+                "A": "Frequent urination",
+                "B": "Increased sperm production",
+                "C": "Menstruation",
+                "D": "Ovulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-042",
+            "question": "A urinary symptom associated with prostate enlargement is:",
+            "options": {
+                "A": "Weak urine stream",
+                "B": "Increased urine force",
+                "C": "Absence of urine formation",
+                "D": "Hemoptysis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-043",
+            "question": "Nocturia refers to:",
+            "options": {
+                "A": "Painful ejaculation",
+                "B": "Waking at night to urinate",
+                "C": "Inability to produce sperm",
+                "D": "Excessive sweating"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-044",
+            "question": "Diagnosis of testosterone deficiency requires:",
+            "options": {
+                "A": "Symptoms only",
+                "B": "Laboratory assessment only",
+                "C": "Both symptoms and laboratory assessment",
+                "D": "Physical examination only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-045",
+            "question": "Testosterone measurement is preferably performed:",
+            "options": {
+                "A": "At midnight",
+                "B": "In the morning",
+                "C": "After midnight only",
+                "D": "Immediately after exercise"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-046",
+            "question": "A low testosterone result is usually:",
+            "options": {
+                "A": "Ignored",
+                "B": "Repeated to confirm deficiency",
+                "C": "Automatically treated",
+                "D": "Diagnosed as menopause"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-047",
+            "question": "LH and FSH testing can help distinguish:",
+            "options": {
+                "A": "Testicular from pituitary causes",
+                "B": "Kidney from liver disease",
+                "C": "Male from female sex",
+                "D": "Bone from muscle disease"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-048",
+            "question": "Prolactin may be measured when:",
+            "options": {
+                "A": "Pituitary problems are suspected",
+                "B": "A fracture occurs",
+                "C": "A patient has a fever",
+                "D": "Sperm are normal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-049",
+            "question": "Which is useful in assessing overall health and related risks?",
+            "options": {
+                "A": "Full blood count",
+                "B": "Eye examination only",
+                "C": "Hearing test only",
+                "D": "Skin biopsy only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-050",
+            "question": "A recommended lifestyle measure for androgen deficiency is:",
+            "options": {
+                "A": "Avoiding all exercise",
+                "B": "Regular exercise",
+                "C": "Smoking",
+                "D": "Heavy alcohol intake"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-051",
+            "question": "Exercise should include:",
+            "options": {
+                "A": "Aerobic and resistance training",
+                "B": "Bed rest only",
+                "C": "Stretching only",
+                "D": "No physical activity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-052",
+            "question": "Recommended sleep for men with androgen deficiency is approximately:",
+            "options": {
+                "A": "2–3 hours",
+                "B": "4–5 hours",
+                "C": "7–9 hours",
+                "D": "12–15 hours"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-053",
+            "question": "A healthy diet should include adequate:",
+            "options": {
+                "A": "Protein and vegetables",
+                "B": "Only sugar",
+                "C": "Only fats",
+                "D": "Alcohol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-054",
+            "question": "Testosterone replacement therapy is appropriate for:",
+            "options": {
+                "A": "Every older man",
+                "B": "Selected men with confirmed deficiency",
+                "C": "All men over 40",
+                "D": "All men with erectile dysfunction"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-055",
+            "question": "Testosterone replacement therapy requires:",
+            "options": {
+                "A": "No supervision",
+                "B": "Medical supervision",
+                "C": "Self-prescription",
+                "D": "No follow-up"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-056",
+            "question": "A possible adverse effect of testosterone therapy is:",
+            "options": {
+                "A": "Acne",
+                "B": "Reduced red blood cells",
+                "C": "Improved sleep apnea",
+                "D": "Permanent infertility in every patient"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-057",
+            "question": "Testosterone therapy may increase:",
+            "options": {
+                "A": "Red blood cell count",
+                "B": "FSH production",
+                "C": "Estrogen-independent ovulation",
+                "D": "Bone fractures immediately"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-058",
+            "question": "Testosterone therapy may worsen:",
+            "options": {
+                "A": "Sleep apnea",
+                "B": "Vision",
+                "C": "Hearing",
+                "D": "Appendicitis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-059",
+            "question": "Testosterone therapy may not be appropriate for men with:",
+            "options": {
+                "A": "Prostate cancer",
+                "B": "Healthy prostate",
+                "C": "Mild exercise fatigue",
+                "D": "Normal testosterone"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANDR-060",
+            "question": "Which is a possible complication of severe untreated androgen deficiency?",
+            "options": {
+                "A": "Osteoporosis and fractures",
+                "B": "Increased muscle strength",
+                "C": "Increased fertility",
+                "D": "Improved mood"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

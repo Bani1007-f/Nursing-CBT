@@ -1,0 +1,609 @@
+{
+    "course": "community-health-ii",
+    "topic": "Immunization",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "IMMU-001",
+            "question": "Immunization is primarily a:",
+            "options": {
+                "A": "Curative intervention",
+                "B": "Cost-effective public health intervention",
+                "C": "Surgical intervention",
+                "D": "Diagnostic test"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-002",
+            "question": "WHO established the Expanded Programme on Immunisation in:",
+            "options": {
+                "A": "1964",
+                "B": "1974",
+                "C": "1984",
+                "D": "1994"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-003",
+            "question": "In Nigeria, EPI became the:",
+            "options": {
+                "A": "National Programme on Immunization",
+                "B": "National Programme on Nutrition",
+                "C": "National Child Survival Programme",
+                "D": "National Disease Registry"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-004",
+            "question": "A zero-dose child is one who:",
+            "options": {
+                "A": "Has received every vaccine",
+                "B": "Has not received any routine vaccine doses",
+                "C": "Received only Vitamin A",
+                "D": "Received only OPV"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-005",
+            "question": "At birth, the Nigerian schedule includes:",
+            "options": {
+                "A": "BCG, OPV0 and HepB birth dose",
+                "B": "Penta 1, PCV1 and IPV",
+                "C": "Measles and yellow fever",
+                "D": "Vitamin A and measles 2"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-006",
+            "question": "At 6 weeks, the schedule includes:",
+            "options": {
+                "A": "Penta 1, PCV1, OPV1 and Rotavirus 1",
+                "B": "Measles 1 and yellow fever",
+                "C": "BCG and HepB only",
+                "D": "Vitamin A and measles 2"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-007",
+            "question": "At 10 weeks, the schedule includes:",
+            "options": {
+                "A": "Penta 2, PCV2, OPV2 and Rotavirus 2",
+                "B": "Penta 1 only",
+                "C": "Measles 1",
+                "D": "IPV only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-008",
+            "question": "At 14 weeks, the schedule includes:",
+            "options": {
+                "A": "Penta 3, PCV3, OPV3 and IPV",
+                "B": "Rotavirus 3 only",
+                "C": "Measles 1 and yellow fever",
+                "D": "Vitamin A only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-009",
+            "question": "Vitamin A at 6 months is:",
+            "options": {
+                "A": "A vaccine",
+                "B": "Not a vaccine",
+                "C": "A live vaccine",
+                "D": "An injectable vaccine"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-010",
+            "question": "At 9 months, the schedule includes:",
+            "options": {
+                "A": "Measles 1, yellow fever and meningitis vaccine",
+                "B": "Penta 3 only",
+                "C": "OPV0 only",
+                "D": "Vitamin A only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-011",
+            "question": "At 15 months, the schedule includes:",
+            "options": {
+                "A": "Measles 2 and Vitamin A",
+                "B": "BCG and HepB",
+                "C": "Penta 1 and PCV1",
+                "D": "Yellow fever only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-012",
+            "question": "Cholera is caused by:",
+            "options": {
+                "A": "Vibrio cholerae",
+                "B": "Measles virus",
+                "C": "HBV",
+                "D": "Bordetella pertussis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-013",
+            "question": "Cholera is mainly associated with contaminated:",
+            "options": {
+                "A": "Water and food",
+                "B": "Air only",
+                "C": "Blood only",
+                "D": "Mosquito bites"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-014",
+            "question": "The vaccine for cholera described in the material is:",
+            "options": {
+                "A": "OCV",
+                "B": "BCG",
+                "C": "IPV",
+                "D": "PCV"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-015",
+            "question": "COVID-19 is caused by:",
+            "options": {
+                "A": "SARS-CoV-2",
+                "B": "Vibrio cholerae",
+                "C": "HBV",
+                "D": "Hib"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-016",
+            "question": "Diphtheria is caused by:",
+            "options": {
+                "A": "Corynebacterium diphtheriae",
+                "B": "Streptococcus pneumoniae",
+                "C": "Plasmodium",
+                "D": "Rubella virus"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-017",
+            "question": "The classic feature of diphtheria is a:",
+            "options": {
+                "A": "Thick pseudomembrane in the throat",
+                "B": "Parotid swelling",
+                "C": "Skin ulcer",
+                "D": "Lockjaw"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-018",
+            "question": "Diphtheria protection in the infant schedule is provided through:",
+            "options": {
+                "A": "Pentavalent vaccine",
+                "B": "BCG",
+                "C": "Rotavirus vaccine",
+                "D": "Yellow fever vaccine"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-019",
+            "question": "Hib can cause:",
+            "options": {
+                "A": "Meningitis and pneumonia",
+                "B": "Malaria",
+                "C": "Tetanus",
+                "D": "Yellow fever"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-020",
+            "question": "Hib protection in the Nigerian schedule is provided through:",
+            "options": {
+                "A": "Pentavalent vaccine",
+                "B": "OPV",
+                "C": "BCG",
+                "D": "Measles vaccine"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-021",
+            "question": "Hepatitis B can be transmitted through:",
+            "options": {
+                "A": "Blood and body fluids",
+                "B": "Mosquito bites only",
+                "C": "Contaminated air only",
+                "D": "Food only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-022",
+            "question": "The Hepatitis B birth dose should preferably be given:",
+            "options": {
+                "A": "Within 24 hours of birth",
+                "B": "At 9 months",
+                "C": "At 15 months",
+                "D": "At 2 years"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-023",
+            "question": "HPV vaccination primarily helps prevent:",
+            "options": {
+                "A": "HPV-related disease including cervical cancer",
+                "B": "Cholera",
+                "C": "Polio",
+                "D": "Tuberculosis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-024",
+            "question": "The primary target cohort for HPV vaccination in the material is:",
+            "options": {
+                "A": "Girls aged 9–14 years",
+                "B": "Children under 1 year",
+                "C": "Adults over 60 years",
+                "D": "Newborn boys"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-025",
+            "question": "Japanese encephalitis is transmitted by:",
+            "options": {
+                "A": "Infected mosquitoes",
+                "B": "Contaminated food",
+                "C": "Respiratory droplets",
+                "D": "Blood transfusion only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-026",
+            "question": "Malaria is caused by:",
+            "options": {
+                "A": "Plasmodium parasites",
+                "B": "Influenza viruses",
+                "C": "Hib bacteria",
+                "D": "HBV"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-027",
+            "question": "Malaria is usually transmitted by:",
+            "options": {
+                "A": "Anopheles mosquitoes",
+                "B": "Houseflies",
+                "C": "Ticks",
+                "D": "Dogs"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-028",
+            "question": "Measles is transmitted mainly through:",
+            "options": {
+                "A": "Respiratory particles and close contact",
+                "B": "Contaminated needles only",
+                "C": "Mosquito bites",
+                "D": "Soil"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-029",
+            "question": "The Nigerian schedule gives Measles 1 at:",
+            "options": {
+                "A": "6 weeks",
+                "B": "14 weeks",
+                "C": "9 months",
+                "D": "15 months"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-030",
+            "question": "The Nigerian schedule gives Measles 2 at:",
+            "options": {
+                "A": "9 months",
+                "B": "12 months",
+                "C": "15 months",
+                "D": "18 months"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-031",
+            "question": "Meningococcal disease is caused by:",
+            "options": {
+                "A": "Neisseria meningitidis",
+                "B": "Bordetella pertussis",
+                "C": "Corynebacterium diphtheriae",
+                "D": "Mycobacterium tuberculosis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-032",
+            "question": "A serious manifestation of meningococcal disease is:",
+            "options": {
+                "A": "Meningitis",
+                "B": "Cervical cancer",
+                "C": "Lockjaw",
+                "D": "Parotitis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-033",
+            "question": "Mumps commonly causes:",
+            "options": {
+                "A": "Painful swelling of the parotid glands",
+                "B": "Watery diarrhoea",
+                "C": "Pseudomembrane",
+                "D": "Acute flaccid paralysis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-034",
+            "question": "The usual combination vaccine for mumps is:",
+            "options": {
+                "A": "MMR",
+                "B": "BCG",
+                "C": "PCV",
+                "D": "OPV"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-035",
+            "question": "Pertussis is also called:",
+            "options": {
+                "A": "Whooping cough",
+                "B": "Lockjaw",
+                "C": "German measles",
+                "D": "Yellow fever"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-036",
+            "question": "Pertussis protection in the Nigerian schedule is provided by:",
+            "options": {
+                "A": "Pentavalent vaccine",
+                "B": "BCG",
+                "C": "Measles vaccine",
+                "D": "Yellow fever vaccine"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-037",
+            "question": "Pneumococcal disease can cause:",
+            "options": {
+                "A": "Pneumonia, meningitis and septicaemia",
+                "B": "Only skin disease",
+                "C": "Only diarrhoea",
+                "D": "Only jaundice"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-038",
+            "question": "PCV is given at:",
+            "options": {
+                "A": "Birth, 6 and 9 months",
+                "B": "6, 10 and 14 weeks",
+                "C": "9 and 15 months",
+                "D": "6 and 12 months"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-039",
+            "question": "Poliomyelitis is caused by:",
+            "options": {
+                "A": "Poliovirus",
+                "B": "Rubella virus",
+                "C": "HBV",
+                "D": "Hib"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-040",
+            "question": "Poliovirus is primarily transmitted by the:",
+            "options": {
+                "A": "Fecal-oral route",
+                "B": "Airborne route only",
+                "C": "Mosquito route",
+                "D": "Sexual route only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-041",
+            "question": "A major complication of poliomyelitis is:",
+            "options": {
+                "A": "Acute flaccid paralysis",
+                "B": "Pseudomembrane",
+                "C": "Lockjaw",
+                "D": "Parotitis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-042",
+            "question": "OPV is:",
+            "options": {
+                "A": "Oral live attenuated vaccine",
+                "B": "Injectable inactivated vaccine",
+                "C": "Subcutaneous toxoid",
+                "D": "Intradermal vaccine"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-043",
+            "question": "IPV is:",
+            "options": {
+                "A": "Injectable inactivated polio vaccine",
+                "B": "Oral live vaccine",
+                "C": "Intradermal BCG vaccine",
+                "D": "Live measles vaccine"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-044",
+            "question": "Rotavirus vaccine in the schedule is given at:",
+            "options": {
+                "A": "6 and 10 weeks",
+                "B": "9 and 15 months",
+                "C": "Birth and 9 months",
+                "D": "14 and 15 months"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-045",
+            "question": "Tetanus is characterized classically by:",
+            "options": {
+                "A": "Lockjaw",
+                "B": "Parotid swelling",
+                "C": "Watery diarrhoea",
+                "D": "Pseudomembrane"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-046",
+            "question": "The expected local result of BCG commonly includes a:",
+            "options": {
+                "A": "Scar",
+                "B": "Pseudomembrane",
+                "C": "Parotid swelling",
+                "D": "Cough"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-047",
+            "question": "Yellow fever vaccine is given at:",
+            "options": {
+                "A": "6 weeks",
+                "B": "14 weeks",
+                "C": "9 months",
+                "D": "15 months"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-048",
+            "question": "The shake test is used when there is suspicion that a vaccine has been:",
+            "options": {
+                "A": "Frozen",
+                "B": "Overheated",
+                "C": "Stolen",
+                "D": "Expired"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-049",
+            "question": "An eligible person who leaves a health facility without receiving an eligible vaccine has experienced a:",
+            "options": {
+                "A": "Missed opportunity",
+                "B": "Cold-chain failure",
+                "C": "Zero report",
+                "D": "Defaulter visit"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMMU-050",
+            "question": "Catch-up vaccination means:",
+            "options": {
+                "A": "Vaccinating an eligible person who missed one or more doses",
+                "B": "Restarting every vaccine automatically",
+                "C": "Giving only Vitamin A",
+                "D": "Vaccinating only during outbreaks"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

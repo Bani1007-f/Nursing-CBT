@@ -1,0 +1,1090 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Hypertension",
+    "testSettings": {
+        "questionCount": 60
+    },
+    "questions": [
+        {
+            "id": "HYPE-001",
+            "question": "Which statement best describes hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-002",
+            "question": "A patient with Hypertension is assessed for afterload. Which finding is most appropriate?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-003",
+            "question": "What is a key feature associated with left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-004",
+            "question": "Which investigation or management principle relates to blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-005",
+            "question": "Which option correctly identifies the significance of hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-006",
+            "question": "Which statement best describes afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-007",
+            "question": "A patient with Hypertension is assessed for left ventricular hypertrophy. Which finding is most appropriate?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-008",
+            "question": "What is a key feature associated with blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-009",
+            "question": "Which investigation or management principle relates to hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-010",
+            "question": "Which option correctly identifies the significance of afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-011",
+            "question": "Which statement best describes left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-012",
+            "question": "A patient with Hypertension is assessed for blood pressure monitoring. Which finding is most appropriate?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-013",
+            "question": "What is a key feature associated with hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-014",
+            "question": "Which investigation or management principle relates to afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-015",
+            "question": "Which option correctly identifies the significance of left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-016",
+            "question": "Which statement best describes blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-017",
+            "question": "A patient with Hypertension is assessed for hypertension. Which finding is most appropriate?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-018",
+            "question": "What is a key feature associated with afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-019",
+            "question": "Which investigation or management principle relates to left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-020",
+            "question": "Which option correctly identifies the significance of blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-021",
+            "question": "Which statement best describes hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-022",
+            "question": "A patient with Hypertension is assessed for afterload. Which finding is most appropriate?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-023",
+            "question": "What is a key feature associated with left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-024",
+            "question": "Which investigation or management principle relates to blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-025",
+            "question": "Which option correctly identifies the significance of hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-026",
+            "question": "Which statement best describes afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-027",
+            "question": "A patient with Hypertension is assessed for left ventricular hypertrophy. Which finding is most appropriate?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-028",
+            "question": "What is a key feature associated with blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-029",
+            "question": "Which investigation or management principle relates to hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-030",
+            "question": "Which option correctly identifies the significance of afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-031",
+            "question": "Which statement best describes left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-032",
+            "question": "A patient with Hypertension is assessed for blood pressure monitoring. Which finding is most appropriate?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-033",
+            "question": "What is a key feature associated with hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-034",
+            "question": "Which investigation or management principle relates to afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-035",
+            "question": "Which option correctly identifies the significance of left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-036",
+            "question": "Which statement best describes blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-037",
+            "question": "A patient with Hypertension is assessed for hypertension. Which finding is most appropriate?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-038",
+            "question": "What is a key feature associated with afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-039",
+            "question": "Which investigation or management principle relates to left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-040",
+            "question": "Which option correctly identifies the significance of blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-041",
+            "question": "Which statement best describes hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-042",
+            "question": "A patient with Hypertension is assessed for afterload. Which finding is most appropriate?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-043",
+            "question": "What is a key feature associated with left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-044",
+            "question": "Which investigation or management principle relates to blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-045",
+            "question": "Which option correctly identifies the significance of hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-046",
+            "question": "Which statement best describes afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-047",
+            "question": "A patient with Hypertension is assessed for left ventricular hypertrophy. Which finding is most appropriate?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-048",
+            "question": "What is a key feature associated with blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-049",
+            "question": "Which investigation or management principle relates to hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-050",
+            "question": "Which option correctly identifies the significance of afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-051",
+            "question": "Which statement best describes left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-052",
+            "question": "A patient with Hypertension is assessed for blood pressure monitoring. Which finding is most appropriate?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-053",
+            "question": "What is a key feature associated with hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-054",
+            "question": "Which investigation or management principle relates to afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-055",
+            "question": "Which option correctly identifies the significance of left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-056",
+            "question": "Which statement best describes blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-057",
+            "question": "A patient with Hypertension is assessed for hypertension. Which finding is most appropriate?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-058",
+            "question": "What is a key feature associated with afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-059",
+            "question": "Which investigation or management principle relates to left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-060",
+            "question": "Which option correctly identifies the significance of blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-061",
+            "question": "Which statement best describes hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-062",
+            "question": "A patient with Hypertension is assessed for afterload. Which finding is most appropriate?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-063",
+            "question": "What is a key feature associated with left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-064",
+            "question": "Which investigation or management principle relates to blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-065",
+            "question": "Which option correctly identifies the significance of hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-066",
+            "question": "Which statement best describes afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-067",
+            "question": "A patient with Hypertension is assessed for left ventricular hypertrophy. Which finding is most appropriate?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-068",
+            "question": "What is a key feature associated with blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-069",
+            "question": "Which investigation or management principle relates to hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-070",
+            "question": "Which option correctly identifies the significance of afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-071",
+            "question": "Which statement best describes left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-072",
+            "question": "A patient with Hypertension is assessed for blood pressure monitoring. Which finding is most appropriate?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-073",
+            "question": "What is a key feature associated with hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-074",
+            "question": "Which investigation or management principle relates to afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-075",
+            "question": "Which option correctly identifies the significance of left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-076",
+            "question": "Which statement best describes blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-077",
+            "question": "A patient with Hypertension is assessed for hypertension. Which finding is most appropriate?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-078",
+            "question": "What is a key feature associated with afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-079",
+            "question": "Which investigation or management principle relates to left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-080",
+            "question": "Which option correctly identifies the significance of blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-081",
+            "question": "Which statement best describes hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-082",
+            "question": "A patient with Hypertension is assessed for afterload. Which finding is most appropriate?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-083",
+            "question": "What is a key feature associated with left ventricular hypertrophy in Hypertension?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-084",
+            "question": "Which investigation or management principle relates to blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-085",
+            "question": "Which option correctly identifies the significance of hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-086",
+            "question": "Which statement best describes afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-087",
+            "question": "A patient with Hypertension is assessed for left ventricular hypertrophy. Which finding is most appropriate?",
+            "options": {
+                "A": "Thickening of ventricular muscle due to increased workload",
+                "B": "Decrease in red cells",
+                "C": "Pericardial infection",
+                "D": "Valve removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-088",
+            "question": "What is a key feature associated with blood pressure monitoring in Hypertension?",
+            "options": {
+                "A": "Assessment of systolic and diastolic pressure",
+                "B": "Measurement of cholesterol only",
+                "C": "Measurement of body weight only",
+                "D": "Detection of bacteria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-089",
+            "question": "Which investigation or management principle relates to hypertension in Hypertension?",
+            "options": {
+                "A": "Persistently elevated blood pressure",
+                "B": "Low blood sugar",
+                "C": "Heart infection",
+                "D": "Reduced body temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HYPE-090",
+            "question": "Which option correctly identifies the significance of afterload in Hypertension?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of oxygen in blood",
+                "C": "Valve infection",
+                "D": "Heart rhythm only"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

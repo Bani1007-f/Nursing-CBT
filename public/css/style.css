@@ -1,0 +1,1549 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f6f7fb;
+    color: #182033;
+    min-height: 100vh;
+}
+
+
+/* =========================
+   TOP BAR
+========================= */
+
+.topbar {
+    height: 70px;
+    background: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 7%;
+
+    border-bottom: 1px solid #e8eaf0;
+}
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+
+    font-size: 20px;
+}
+
+
+.logo span {
+    font-size: 22px;
+}
+
+
+.topbar nav a {
+    text-decoration: none;
+    color: #555d70;
+
+    font-size: 14px;
+}
+
+
+/* =========================
+   HOME
+========================= */
+
+.home {
+    width: min(1100px, 90%);
+
+    margin: auto;
+
+    padding: 80px 0;
+
+    display: grid;
+
+    grid-template-columns: 1fr 430px;
+
+    gap: 80px;
+
+    align-items: center;
+}
+
+
+/* =========================
+   HERO
+========================= */
+
+.eyebrow {
+    font-size: 12px;
+
+    font-weight: bold;
+
+    letter-spacing: 2px;
+
+    margin-bottom: 20px;
+
+    color: #59647a;
+}
+
+
+.hero h1 {
+    font-size: 52px;
+
+    line-height: 1.08;
+
+    letter-spacing: -1.5px;
+
+    margin-bottom: 25px;
+}
+
+
+.hero-text {
+    color: #687187;
+
+    font-size: 17px;
+
+    line-height: 1.6;
+
+    max-width: 500px;
+}
+
+
+/* =========================
+   TEST SELECTOR
+========================= */
+
+.test-selector {
+    background: white;
+
+    border: 1px solid #e6e8ef;
+
+    border-radius: 16px;
+
+    padding: 32px;
+
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.06);
+}
+
+
+.selector-header {
+    margin-bottom: 28px;
+}
+
+
+.selector-header h2 {
+    font-size: 24px;
+
+    margin-bottom: 7px;
+}
+
+
+.selector-header p {
+    color: #747c8e;
+
+    font-size: 14px;
+}
+
+
+/* =========================
+   FORM
+========================= */
+
+.form-group {
+    margin-bottom: 22px;
+}
+
+
+.form-group label {
+    display: block;
+
+    font-size: 13px;
+
+    font-weight: bold;
+
+    margin-bottom: 8px;
+}
+
+
+select {
+    width: 100%;
+
+    padding: 13px 14px;
+
+    border: 1px solid #dfe2e9;
+
+    border-radius: 8px;
+
+    background: white;
+
+    font-size: 14px;
+
+    color: #222b3d;
+
+    outline: none;
+}
+
+
+select:focus {
+    border-color: #59647a;
+}
+
+
+/* =========================
+   TEST DETAILS
+========================= */
+
+.test-details {
+    display: flex;
+
+    gap: 12px;
+
+    margin-top: 28px;
+}
+
+
+.detail {
+    flex: 1;
+
+    padding: 16px;
+
+    background: #f7f8fa;
+
+    border-radius: 9px;
+}
+
+
+.detail-label {
+    display: block;
+
+    font-size: 10px;
+
+    letter-spacing: 1px;
+
+    color: #7a8190;
+
+    margin-bottom: 6px;
+}
+
+
+.detail strong {
+    font-size: 20px;
+}
+
+
+/* =========================
+   BUTTON
+========================= */
+
+.start-button {
+    width: 100%;
+
+    margin-top: 22px;
+
+    padding: 15px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    background: #182033;
+
+    color: white;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 10px;
+}
+
+
+.start-button:disabled {
+    background: #c7cad1;
+
+    cursor: not-allowed;
+}
+
+
+.start-button:not(:disabled):hover {
+    opacity: 0.9;
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 800px) {
+
+    .home {
+        grid-template-columns: 1fr;
+
+        gap: 45px;
+
+        padding: 50px 0;
+    }
+
+
+    .hero h1 {
+        font-size: 40px;
+    }
+
+}
+/* =========================================
+   QUIZ PAGE
+========================================= */
+
+.quiz-header {
+    height: 70px;
+
+    background: white;
+
+    border-bottom: 1px solid #e5e7ec;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    padding: 0 5%;
+}
+
+
+.quiz-course {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 4px;
+}
+
+
+.quiz-course span {
+    font-weight: bold;
+
+    font-size: 16px;
+}
+
+
+.quiz-course small {
+    color: #737b8d;
+
+    font-size: 12px;
+}
+
+
+.timer {
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+}
+
+
+.timer span {
+    font-size: 10px;
+
+    letter-spacing: 1px;
+
+    color: #777f90;
+}
+
+
+.timer strong {
+    font-size: 18px;
+}
+
+
+/* =========================================
+   QUIZ LAYOUT
+========================================= */
+
+.quiz-page {
+    width: min(1200px, 92%);
+
+    margin: auto;
+
+    padding: 40px 0;
+
+    display: grid;
+
+    grid-template-columns: 1fr 280px;
+
+    gap: 35px;
+
+    align-items: start;
+}
+
+
+/* =========================================
+   QUESTION AREA
+========================================= */
+
+.question-top {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    margin-bottom: 15px;
+}
+
+
+#question-number {
+    font-size: 13px;
+
+    font-weight: bold;
+
+    color: #60697c;
+}
+
+
+.flag-button {
+    background: transparent;
+
+    border: 1px solid #d9dce3;
+
+    color: #555e70;
+
+    padding: 8px 14px;
+
+    border-radius: 7px;
+
+    cursor: pointer;
+
+    width: auto;
+
+    margin: 0;
+
+    font-size: 13px;
+}
+
+
+.flag-button.flagged {
+    background: #fff4d6;
+
+    border-color: #e5bd56;
+
+    color: #765b0d;
+}
+
+
+/* =========================================
+   QUESTION CARD
+========================================= */
+
+.question-card {
+    background: white;
+
+    border: 1px solid #e5e7ec;
+
+    border-radius: 14px;
+
+    padding: 35px;
+
+    min-height: 400px;
+}
+
+
+#question-text {
+    font-size: 22px;
+
+    line-height: 1.5;
+
+    margin-bottom: 30px;
+}
+
+
+.options-container {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 12px;
+}
+
+
+.option {
+    border: 1px solid #dfe2e8;
+
+    border-radius: 9px;
+
+    padding: 16px;
+
+    cursor: pointer;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 13px;
+
+    transition: 0.15s;
+}
+
+
+.option:hover {
+    border-color: #8d95a5;
+
+    background: #fafbfc;
+}
+
+
+.option.selected {
+    border-color: #182033;
+
+    background: #f1f3f7;
+}
+
+
+.option-letter {
+    width: 30px;
+
+    height: 30px;
+
+    border: 1px solid #d5d8df;
+
+    border-radius: 50%;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-size: 13px;
+
+    font-weight: bold;
+
+    flex-shrink: 0;
+}
+
+
+.option.selected .option-letter {
+    background: #182033;
+
+    color: white;
+
+    border-color: #182033;
+}
+
+
+/* =========================================
+   NAVIGATION
+========================================= */
+
+.navigation {
+    display: flex;
+
+    justify-content: space-between;
+
+    margin-top: 20px;
+}
+
+
+.nav-button {
+    width: auto;
+
+    margin: 0;
+
+    padding: 12px 22px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    background: #182033;
+
+    color: white;
+
+    cursor: pointer;
+
+    font-weight: bold;
+}
+
+
+.nav-button.secondary {
+    background: white;
+
+    color: #30394b;
+
+    border: 1px solid #dfe2e8;
+}
+
+
+.nav-button:disabled {
+    opacity: 0.45;
+
+    cursor: not-allowed;
+}
+
+/* ============================================
+   RESULTS PAGE
+============================================ */
+
+.results-page {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 60px 24px 100px;
+}
+
+
+/* ============================================
+   RESULTS HEADER
+============================================ */
+
+.results-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.results-header h1 {
+    margin: 8px 0;
+}
+
+.results-header p:last-child {
+    opacity: 0.7;
+}
+
+
+/* ============================================
+   SCORE CARD
+============================================ */
+
+.score-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+
+    padding: 40px;
+
+    border-radius: 20px;
+
+    margin-bottom: 24px;
+}
+
+
+.score-circle {
+    width: 150px;
+    height: 150px;
+
+    border-radius: 50%;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+}
+
+
+.score-circle strong {
+    font-size: 42px;
+    line-height: 1;
+}
+
+
+.score-circle span {
+    margin-top: 8px;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+
+.score-main {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.score-main strong {
+    font-size: 42px;
+}
+
+
+.score-main span {
+    opacity: 0.65;
+}
+
+
+/* ============================================
+   RESULT STATISTICS
+============================================ */
+
+.result-stats {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
+    gap: 16px;
+
+    margin-bottom: 30px;
+}
+
+
+.result-stat {
+    padding: 22px;
+
+    border-radius: 14px;
+
+    text-align: center;
+}
+
+
+.stat-label {
+    display: block;
+
+    font-size: 11px;
+
+    letter-spacing: 1px;
+
+    opacity: 0.65;
+
+    margin-bottom: 8px;
+}
+
+
+.result-stat strong {
+    font-size: 28px;
+}
+
+
+.correct {
+    color: #218739;
+}
+
+
+.incorrect {
+    color: #c62828;
+}
+
+
+/* ============================================
+   ACTIONS
+============================================ */
+
+.result-actions {
+    display: flex;
+
+    justify-content: center;
+
+    gap: 14px;
+
+    margin-bottom: 70px;
+}
+
+
+/* ============================================
+   REVIEW SECTION
+============================================ */
+
+.review-section {
+    margin-top: 30px;
+}
+
+
+.review-header {
+    margin-bottom: 25px;
+}
+
+
+.review-header h2 {
+    margin-bottom: 6px;
+}
+
+
+.review-header p {
+    opacity: 0.65;
+}
+
+
+/* ============================================
+   REVIEW CARD
+============================================ */
+
+.review-card {
+    padding: 25px;
+
+    border-radius: 16px;
+
+    margin-bottom: 20px;
+
+    border: 1px solid rgba(
+        128,
+        128,
+        128,
+        0.2
+    );
+}
+
+
+.review-card-header {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    margin-bottom: 18px;
+}
+
+
+.review-status {
+    font-size: 13px;
+
+    font-weight: 600;
+}
+
+
+.review-card h3 {
+    margin-bottom: 20px;
+
+    line-height: 1.5;
+}
+
+
+/* ============================================
+   REVIEW OPTIONS
+============================================ */
+
+.review-options {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 8px;
+}
+
+
+.review-option {
+    display: flex;
+
+    gap: 12px;
+
+    padding: 13px 15px;
+
+    border-radius: 10px;
+}
+
+
+.review-option strong {
+    min-width: 20px;
+}
+
+
+.review-option.user-answer {
+    outline: 2px solid currentColor;
+}
+
+
+.review-option.correct-answer {
+    font-weight: 600;
+}
+
+
+/* ============================================
+   EXPLANATION
+============================================ */
+
+.review-explanation {
+    margin-top: 20px;
+
+    padding: 18px;
+
+    border-radius: 10px;
+}
+
+
+.review-explanation p {
+    margin-top: 8px;
+
+    line-height: 1.6;
+}
+
+
+/* ============================================
+   MOBILE
+============================================ */
+
+@media (
+    max-width: 700px
+) {
+
+    .results-page {
+        padding:
+            35px 16px 70px;
+    }
+
+
+    .score-card {
+        flex-direction: column;
+
+        gap: 20px;
+
+        text-align: center;
+
+        padding: 30px 20px;
+    }
+
+
+    .result-stats {
+        grid-template-columns:
+            repeat(2, 1fr);
+    }
+
+
+    .result-actions {
+        flex-direction: column;
+    }
+
+
+    .result-actions button {
+        width: 100%;
+    }
+
+
+    .review-card {
+        padding: 18px;
+    }
+
+}
+
+/* =========================================
+   SIDEBAR
+========================================= */
+
+.question-sidebar {
+    background: white;
+
+    border: 1px solid #e5e7ec;
+
+    border-radius: 14px;
+
+    padding: 22px;
+
+    position: sticky;
+
+    top: 20px;
+}
+
+
+.sidebar-header {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    margin-bottom: 20px;
+}
+
+
+.sidebar-header h2 {
+    font-size: 17px;
+}
+
+
+.sidebar-header span {
+    font-size: 12px;
+
+    color: #777f90;
+}
+
+
+/* =========================================
+   QUESTION NUMBERS
+========================================= */
+
+.question-navigator {
+    display: grid;
+
+    grid-template-columns: repeat(5, 1fr);
+
+    gap: 7px;
+}
+
+
+.question-number-button {
+    aspect-ratio: 1;
+
+    border: 1px solid #dfe2e8;
+
+    background: white;
+
+    border-radius: 6px;
+
+    cursor: pointer;
+
+    font-size: 12px;
+
+    color: #525b6e;
+}
+
+
+.question-number-button.current {
+    border-color: #182033;
+
+    background: #182033;
+
+    color: white;
+}
+
+
+.question-number-button.answered {
+    background: #e7eaf0;
+}
+
+
+.question-number-button.flagged {
+    border-color: #d5a92e;
+}
+
+
+/* =========================================
+   LEGEND
+========================================= */
+
+.legend {
+    border-top: 1px solid #eceef2;
+
+    margin-top: 22px;
+
+    padding-top: 18px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 10px;
+
+    font-size: 11px;
+
+    color: #687187;
+}
+
+
+.legend div {
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+}
+
+
+.legend-box {
+    width: 12px;
+
+    height: 12px;
+
+    border-radius: 3px;
+
+    border: 1px solid #dfe2e8;
+}
+
+
+.legend-box.answered {
+    background: #e7eaf0;
+}
+
+
+.legend-box.unanswered {
+    background: white;
+}
+
+
+.legend-box.flagged {
+    background: #fff4d6;
+
+    border-color: #d5a92e;
+}
+
+
+/* =========================================
+   SUBMIT
+========================================= */
+
+.submit-button {
+    background: #8b3030;
+
+    margin-top: 22px;
+
+    padding: 13px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    color: white;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    width: 100%;
+}
+
+
+.submit-button:hover {
+    opacity: 0.9;
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 850px) {
+
+    .quiz-page {
+        grid-template-columns: 1fr;
+    }
+
+
+    .question-sidebar {
+        position: static;
+
+        order: 2;
+    }
+
+
+    .question-card {
+        padding: 25px;
+    }
+
+
+    #question-text {
+        font-size: 19px;
+    }
+
+}
+/* ============================================
+   AUTHENTICATION
+============================================ */
+
+.auth-page {
+
+    min-height: 100vh;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    padding: 40px 20px;
+
+}
+
+
+.auth-card {
+
+    width: 100%;
+
+    max-width: 430px;
+
+    padding: 40px;
+
+    border-radius: 16px;
+
+    background: white;
+
+    box-shadow:
+        0 10px 40px
+        rgba(0, 0, 0, 0.08);
+
+}
+
+
+.auth-header {
+
+    margin-bottom: 30px;
+
+}
+
+
+.auth-header .logo {
+
+    margin-bottom: 30px;
+
+}
+
+
+.auth-header h1 {
+
+    margin-bottom: 10px;
+
+}
+
+
+.auth-header p {
+
+    margin: 0;
+
+    line-height: 1.6;
+
+}
+
+
+.auth-card .form-group {
+
+    margin-bottom: 20px;
+
+}
+
+
+.auth-card input {
+
+    width: 100%;
+
+    box-sizing: border-box;
+
+    padding: 13px 14px;
+
+    border: 1px solid #d8d8d8;
+
+    border-radius: 8px;
+
+    font-size: 15px;
+
+    outline: none;
+
+}
+
+
+.auth-card input:focus {
+
+    border-color: #333;
+
+}
+
+
+.auth-button {
+
+    width: 100%;
+
+    margin-top: 10px;
+
+}
+
+
+.auth-error {
+
+    min-height: 20px;
+
+    margin: 5px 0;
+
+    font-size: 14px;
+
+}
+
+
+.auth-footer {
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 6px;
+
+    margin-top: 25px;
+
+    font-size: 14px;
+
+}
+/* ============================================
+   DASHBOARD
+============================================ */
+
+.dashboard {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 32px 80px;
+}
+
+.dashboard-header {
+    margin-bottom: 40px;
+}
+
+.dashboard-header h1 {
+    margin: 8px 0;
+    font-size: 42px;
+}
+
+.dashboard-header p:not(.eyebrow) {
+    color: #666;
+    margin: 0;
+}
+
+
+/* ============================================
+   STATISTICS
+============================================ */
+
+.dashboard-stats {
+    display: grid;
+    grid-template-columns:
+        repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.dashboard-stat {
+    padding: 24px;
+    border: 1px solid #e5e5e5;
+    border-radius: 14px;
+    background: #fff;
+}
+
+.dashboard-stat span {
+    display: block;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.dashboard-stat strong {
+    font-size: 30px;
+}
+
+
+/* ============================================
+   QUICK ACTION
+============================================ */
+
+.dashboard-action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+
+    padding: 28px;
+    margin-bottom: 60px;
+
+    border-radius: 16px;
+    background: #f5f5f5;
+}
+
+.dashboard-action h2 {
+    margin: 0 0 6px;
+}
+
+.dashboard-action p {
+    margin: 0;
+    color: #666;
+}
+
+.dashboard-action .start-button {
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+
+/* ============================================
+   SECTIONS
+============================================ */
+
+.dashboard-section {
+    margin-bottom: 60px;
+}
+
+.section-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+
+.section-heading h2 {
+    margin: 4px 0 0;
+}
+
+.section-heading a {
+    text-decoration: none;
+}
+
+
+/* ============================================
+   RECENT TESTS
+============================================ */
+
+.recent-tests {
+    border-top: 1px solid #e5e5e5;
+}
+
+.recent-test {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+    gap: 24px;
+
+    padding: 20px 4px;
+
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.recent-test-info strong,
+.recent-test-info span {
+    display: block;
+}
+
+.recent-test-info span {
+    margin-top: 5px;
+    color: #777;
+    font-size: 14px;
+}
+
+.recent-test-score {
+    text-align: right;
+}
+
+.recent-test-score strong,
+.recent-test-score span {
+    display: block;
+}
+
+.recent-test-score strong {
+    font-size: 20px;
+}
+
+.recent-test-score span {
+    color: #777;
+    font-size: 13px;
+}
+
+.review-link {
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+
+/* ============================================
+   COURSE PERFORMANCE
+============================================ */
+
+.course-performance {
+    display: grid;
+    gap: 24px;
+}
+
+.course-performance-item {
+    padding: 4px 0;
+}
+
+.course-performance-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.performance-bar {
+    height: 8px;
+    border-radius: 999px;
+    background: #e9e9e9;
+    overflow: hidden;
+}
+
+.performance-bar-fill {
+    height: 100%;
+    border-radius: inherit;
+    background: currentColor;
+}
+
+.course-performance-meta {
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 7px;
+
+    font-size: 13px;
+    color: #777;
+}
+
+
+/* ============================================
+   EMPTY STATE
+============================================ */
+
+.empty-state {
+    padding: 40px 20px;
+    text-align: center;
+    border: 1px dashed #ddd;
+    border-radius: 14px;
+}
+
+.empty-state p {
+    color: #777;
+}
+
+.empty-state a {
+    text-decoration: none;
+}
+
+
+/* ============================================
+   RESPONSIVE
+============================================ */
+
+@media (
+    max-width: 800px
+) {
+
+    .dashboard {
+        padding:
+            40px 20px 60px;
+    }
+
+    .dashboard-header h1 {
+        font-size: 32px;
+    }
+
+    .dashboard-stats {
+        grid-template-columns:
+            repeat(2, 1fr);
+    }
+
+    .dashboard-action {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+}
+
+
+@media (
+    max-width: 550px
+) {
+
+    .dashboard-stats {
+        grid-template-columns: 1fr;
+    }
+
+    .recent-test {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .recent-test-score {
+        text-align: left;
+    }
+
+}

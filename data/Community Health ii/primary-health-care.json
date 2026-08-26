@@ -1,0 +1,729 @@
+{
+    "course": "community-health-ii",
+    "topic": "Primary Health Care",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "PHC-001",
+            "question": "Primary Health Care was developed partly because disease-eradication programmes failed to:",
+            "options": {
+                "A": "Increase hospital admissions",
+                "B": "Achieve expected results in improving health",
+                "C": "Train doctors",
+                "D": "Increase urban health services"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-002",
+            "question": "One major shift associated with PHC was from:",
+            "options": {
+                "A": "Preventive to curative care",
+                "B": "Rural to urban care",
+                "C": "Curative to preventive care",
+                "D": "Community to hospital care"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PHC-003",
+            "question": "PHC emphasizes a shift from urban populations to:",
+            "options": {
+                "A": "Hospital populations",
+                "B": "Rural populations",
+                "C": "Industrial populations",
+                "D": "Privileged populations"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-004",
+            "question": "The Basic Health Services Approach was conceptualized in:",
+            "options": {
+                "A": "1960",
+                "B": "1965",
+                "C": "1970",
+                "D": "1978"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PHC-005",
+            "question": "The Basic Health Services Approach focused mainly on increasing:",
+            "options": {
+                "A": "Hospital specialization",
+                "B": "Accessibility and availability of health services",
+                "C": "Cost of health services",
+                "D": "Number of tertiary hospitals"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-006",
+            "question": "The Basic Health Services Approach was considered:",
+            "options": {
+                "A": "First-level or first-contact care",
+                "B": "Second-level care",
+                "C": "Tertiary care",
+                "D": "Super-specialist care"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-007",
+            "question": "In May 1977, the World Health Assembly adopted the goal of:",
+            "options": {
+                "A": "Hospitals for All",
+                "B": "Doctors for All",
+                "C": "Health for All by the year 2000",
+                "D": "Immunization for All by 2010"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PHC-008",
+            "question": "The international conference that established the foundation of modern PHC was held in:",
+            "options": {
+                "A": "Geneva",
+                "B": "Alma-Ata",
+                "C": "London",
+                "D": "New York"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-009",
+            "question": "The Alma-Ata Conference on PHC was held in:",
+            "options": {
+                "A": "1970",
+                "B": "1975",
+                "C": "1978",
+                "D": "1985"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PHC-010",
+            "question": "The Alma-Ata Conference was jointly organized by:",
+            "options": {
+                "A": "WHO and UNESCO",
+                "B": "WHO and UNICEF",
+                "C": "UNICEF and UNDP",
+                "D": "WHO and Red Cross"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-011",
+            "question": "The Alma-Ata Declaration was adopted on:",
+            "options": {
+                "A": "1 January 1978",
+                "B": "12 September 1978",
+                "C": "10 December 1992",
+                "D": "7 April 1977"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-012",
+            "question": "The Alma-Ata Declaration considered PHC as a strategy for achieving:",
+            "options": {
+                "A": "Hospital expansion",
+                "B": "Health for All",
+                "C": "Specialist care for all",
+                "D": "Urban development"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-013",
+            "question": "One major principle underlying the Health for All era was:",
+            "options": {
+                "A": "Social injustice",
+                "B": "Social justice and equity",
+                "C": "Urbanization",
+                "D": "Hospitalization"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-014",
+            "question": "Which of the following is an objective of PHC?",
+            "options": {
+                "A": "Restricting health services to cities",
+                "B": "Making health services accessible to everyone",
+                "C": "Increasing the cost of health services",
+                "D": "Promoting specialist care only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-015",
+            "question": "PHC aims to tackle health problems causing high:",
+            "options": {
+                "A": "Income and expenditure",
+                "B": "Mortality and morbidity",
+                "C": "Population and migration",
+                "D": "Education and employment"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-016",
+            "question": "Technology used in PHC should be within the community's ability to:",
+            "options": {
+                "A": "Export",
+                "B": "Use effectively and maintain",
+                "C": "Replace all health workers",
+                "D": "Sell commercially"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-017",
+            "question": "Community participation in PHC includes involvement in:",
+            "options": {
+                "A": "Planning, delivery and evaluation",
+                "B": "Diagnosis only",
+                "C": "Drug manufacturing only",
+                "D": "Hospital construction only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-018",
+            "question": "According to Alma-Ata, PHC is:",
+            "options": {
+                "A": "Specialist care for wealthy individuals",
+                "B": "Essential health care",
+                "C": "Emergency surgery only",
+                "D": "Hospital-based care only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-019",
+            "question": "PHC should be universally accessible to:",
+            "options": {
+                "A": "Doctors only",
+                "B": "Individuals and families in the community",
+                "C": "Urban residents only",
+                "D": "Government officials"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-020",
+            "question": "Accessibility in PHC means health care should be:",
+            "options": {
+                "A": "Geographically, financially and culturally within reach",
+                "B": "Available only in hospitals",
+                "C": "Expensive but effective",
+                "D": "Available only during emergencies"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-021",
+            "question": "Acceptability of PHC means that services should:",
+            "options": {
+                "A": "Ignore cultural beliefs",
+                "B": "Fit the sociocultural norms of the people",
+                "C": "Always use sophisticated equipment",
+                "D": "Be provided only by doctors"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-022",
+            "question": "Affordability means:",
+            "options": {
+                "A": "Services must be free in every situation",
+                "B": "Services should be affordable to the community and country",
+                "C": "Only wealthy people can use them",
+                "D": "Services should be expensive"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-023",
+            "question": "Appropriate technology should be:",
+            "options": {
+                "A": "Expensive and sophisticated",
+                "B": "Locally appropriate and affordable",
+                "C": "Imported only",
+                "D": "Used only in tertiary hospitals"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-024",
+            "question": "PHC emphasizes:",
+            "options": {
+                "A": "Dependence on foreign aid",
+                "B": "Self-reliance and self-determination",
+                "C": "Dependence on specialists",
+                "D": "Hospital-centered care"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-025",
+            "question": "The community in PHC is considered:",
+            "options": {
+                "A": "Only a recipient of care",
+                "B": "A participant in health development",
+                "C": "A source of hospital funding only",
+                "D": "Irrelevant to health planning"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-026",
+            "question": "Which is the first level of contact between an individual and the health system?",
+            "options": {
+                "A": "Tertiary health care",
+                "B": "Secondary health care",
+                "C": "Primary health care",
+                "D": "Specialist health care"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PHC-027",
+            "question": "Primary health care is generally provided through:",
+            "options": {
+                "A": "Teaching hospitals only",
+                "B": "Primary health centres",
+                "C": "Specialist hospitals",
+                "D": "Research institutions"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-028",
+            "question": "Secondary health care mainly deals with:",
+            "options": {
+                "A": "More complex problems",
+                "B": "Only health education",
+                "C": "Only immunization",
+                "D": "Basic sanitation only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-029",
+            "question": "Secondary health care is commonly provided through:",
+            "options": {
+                "A": "District hospitals",
+                "B": "Health posts only",
+                "C": "Homes",
+                "D": "Mobile clinics only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-030",
+            "question": "Secondary health care represents the:",
+            "options": {
+                "A": "Final referral level",
+                "B": "First referral level",
+                "C": "Community participation level",
+                "D": "Household level"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-031",
+            "question": "Tertiary health care provides:",
+            "options": {
+                "A": "Basic sanitation",
+                "B": "Super-specialist care",
+                "C": "Only immunization",
+                "D": "Community health education only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-032",
+            "question": "Which of the following is an essential element of PHC?",
+            "options": {
+                "A": "Health education",
+                "B": "Cosmetic surgery",
+                "C": "Organ transplantation",
+                "D": "Neurosurgery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-033",
+            "question": "How many essential elements of PHC are listed in the Alma-Ata Declaration?",
+            "options": {
+                "A": "5",
+                "B": "6",
+                "C": "8",
+                "D": "10"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PHC-034",
+            "question": "Education concerning prevailing health problems is:",
+            "options": {
+                "A": "An essential element of PHC",
+                "B": "A tertiary-level service",
+                "C": "A referral procedure",
+                "D": "A government policy only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-035",
+            "question": "Promotion of adequate food supply and proper nutrition is:",
+            "options": {
+                "A": "An element of PHC",
+                "B": "A referral service",
+                "C": "A tertiary service",
+                "D": "An administrative function only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-036",
+            "question": "Provision of safe water and basic sanitation is:",
+            "options": {
+                "A": "An essential element of PHC",
+                "B": "Only a hospital responsibility",
+                "C": "A tertiary service",
+                "D": "A specialist service"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-037",
+            "question": "Maternal and child health care under PHC includes:",
+            "options": {
+                "A": "Family planning",
+                "B": "Neurosurgery",
+                "C": "Radiotherapy",
+                "D": "Organ transplantation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-038",
+            "question": "Immunization under PHC focuses on:",
+            "options": {
+                "A": "Major infectious diseases",
+                "B": "Genetic diseases only",
+                "C": "All surgical conditions",
+                "D": "Mental illness only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-039",
+            "question": "Which of the following is an essential element of PHC?",
+            "options": {
+                "A": "Prevention and control of locally endemic diseases",
+                "B": "Cosmetic surgery",
+                "C": "Cardiac transplantation",
+                "D": "Intensive care"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-040",
+            "question": "Provision of essential drugs is:",
+            "options": {
+                "A": "One of the eight essential elements of PHC",
+                "B": "A tertiary-care principle",
+                "C": "A referral pathway",
+                "D": "A principle of hospital specialization PRINCIPLES OF PHC"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-041",
+            "question": "How many basic principles of PHC are identified in the lecture?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "8"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PHC-042",
+            "question": "Which of the following is NOT a principle of PHC?",
+            "options": {
+                "A": "Equitable distribution of resources",
+                "B": "Manpower development",
+                "C": "Community participation",
+                "D": "Hospital specialization"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "PHC-043",
+            "question": "Equitable distribution of resources means:",
+            "options": {
+                "A": "Health services should be concentrated in cities",
+                "B": "Health services should be fairly distributed",
+                "C": "Only wealthy people should receive services",
+                "D": "Rural areas should receive fewer services"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-044",
+            "question": "Equitable distribution aims to reduce:",
+            "options": {
+                "A": "Health inequalities",
+                "B": "Health education",
+                "C": "Community participation",
+                "D": "Manpower development"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-045",
+            "question": "Manpower development involves:",
+            "options": {
+                "A": "Training and retraining health workers",
+                "B": "Reducing the number of health workers",
+                "C": "Employing only doctors",
+                "D": "Closing training institutions"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-046",
+            "question": "PHC manpower should be planned according to:",
+            "options": {
+                "A": "Political influence",
+                "B": "Health system needs",
+                "C": "Personal preference only",
+                "D": "Urban population alone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-047",
+            "question": "Community participation means that individuals and families:",
+            "options": {
+                "A": "Depend entirely on health workers",
+                "B": "Assume responsibility for promoting their health",
+                "C": "Avoid health programmes",
+                "D": "Refuse to participate in planning"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-048",
+            "question": "Which activity is an example of community participation?",
+            "options": {
+                "A": "Community members helping identify health problems",
+                "B": "Doctors making all decisions alone",
+                "C": "Ignoring community priorities",
+                "D": "Preventing families from participating"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-049",
+            "question": "Appropriate technology should be:",
+            "options": {
+                "A": "Scientifically sound and culturally acceptable",
+                "B": "Expensive and complicated",
+                "C": "Available only in teaching hospitals",
+                "D": "Impossible for community members to use"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-050",
+            "question": "Which of the following is an example of appropriate technology mentioned in the lecture?",
+            "options": {
+                "A": "Oral rehydration therapy",
+                "B": "Open-heart surgery",
+                "C": "MRI scanning",
+                "D": "Organ transplantation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-051",
+            "question": "Intersectoral coordination means:",
+            "options": {
+                "A": "Health workers working alone",
+                "B": "Health sector working with other sectors",
+                "C": "Hospitals competing with one another",
+                "D": "Communities avoiding government agencies"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-052",
+            "question": "Which sector can contribute to PHC through food production?",
+            "options": {
+                "A": "Agriculture",
+                "B": "Judiciary",
+                "C": "Banking",
+                "D": "Aviation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-053",
+            "question": "Safe water supply can help reduce diseases such as:",
+            "options": {
+                "A": "Cholera and typhoid",
+                "B": "Diabetes and hypertension",
+                "C": "Cancer and arthritis",
+                "D": "Epilepsy and schizophrenia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-054",
+            "question": "Housing contributes to health when it is:",
+            "options": {
+                "A": "Properly adapted to local environmental conditions",
+                "B": "Located only in cities",
+                "C": "Extremely expensive",
+                "D": "Built without sanitation PHC IN NIGERIA & REFERRAL"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-055",
+            "question": "At the federal level, the Ministry of Health is responsible for:",
+            "options": {
+                "A": "Formulating national PHC policies",
+                "B": "Running every village clinic directly",
+                "C": "Treating every patient personally",
+                "D": "Selecting traditional birth attendants only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-056",
+            "question": "Which level of government is responsible for providing PHC services at the community level?",
+            "options": {
+                "A": "Federal government",
+                "B": "State government",
+                "C": "Local government",
+                "D": "International government"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PHC-057",
+            "question": "Which of the following is a local government PHC activity?",
+            "options": {
+                "A": "Environmental sanitation",
+                "B": "International treaty negotiation",
+                "C": "National policy formulation",
+                "D": "Super-specialist surgery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-058",
+            "question": "A referral occurs when:",
+            "options": {
+                "A": "A health worker transfers responsibility to another health professional/facility",
+                "B": "A patient refuses treatment",
+                "C": "A nurse gives health education",
+                "D": "A community conducts sanitation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PHC-059",
+            "question": "In a two-way referral system, a patient may be referred:",
+            "options": {
+                "A": "Only from primary to tertiary care",
+                "B": "From a lower facility to a higher facility and back when appropriate",
+                "C": "Only from tertiary to primary care",
+                "D": "Only between nurses"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PHC-060",
+            "question": "The National Primary Health Care Development Agency (NPHCDA) was established in Nigeria in:",
+            "options": {
+                "A": "1978",
+                "B": "1985",
+                "C": "1992",
+                "D": "2000"
+            },
+            "answer": "C",
+            "explanation": null
+        }
+    ]
+}

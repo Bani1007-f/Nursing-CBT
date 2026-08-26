@@ -1,0 +1,969 @@
+{
+    "course": "frh-ii",
+    "topic": "Bony Pelvis",
+    "testSettings": {
+        "questionCount": 40
+    },
+    "questions": [
+        {
+            "id": "BP-001",
+            "question": "1. The bony pelvis is composed of:",
+            "options": {
+                "A": "Sacrum, coccyx and two innominate bones",
+                "B": "Two femurs and sacrum",
+                "C": "Two pubic bones and coccyx only",
+                "D": "Lumbar vertebrae and femurs"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-002",
+            "question": "2. Each innominate bone is composed of the:",
+            "options": {
+                "A": "Ilium, ischium and pubis",
+                "B": "Sacrum, coccyx and pubis",
+                "C": "Ilium, femur and pubis",
+                "D": "Ischium, femur and sacrum"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-003",
+            "question": "3. The true pelvis is divided into:",
+            "options": {
+                "A": "Brim, cavity and outlet",
+                "B": "Inlet, false pelvis and abdomen",
+                "C": "Brim, thorax and outlet",
+                "D": "Cavity, abdomen and perineum"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-004",
+            "question": "4. The pelvic inlet is also called the:",
+            "options": {
+                "A": "Brim",
+                "B": "Outlet",
+                "C": "Cavity",
+                "D": "False pelvis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-005",
+            "question": "5. The shape of the pelvic inlet in the source is described as:",
+            "options": {
+                "A": "Diamond-shaped",
+                "B": "Bean-shaped except for the sacral promontory",
+                "C": "Triangular",
+                "D": "Perfectly circular"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-006",
+            "question": "6. The pelvic mid-cavity is described as:",
+            "options": {
+                "A": "Circular",
+                "B": "Heart-shaped",
+                "C": "Diamond-shaped",
+                "D": "Kidney-shaped"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-007",
+            "question": "7. The pelvic outlet is described as:",
+            "options": {
+                "A": "Circular",
+                "B": "Bean-shaped",
+                "C": "Diamond-shaped",
+                "D": "Triangular"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-008",
+            "question": "8. Which structure projects into the pelvic brim posteriorly?",
+            "options": {
+                "A": "Sacral promontory",
+                "B": "Ischial tuberosity",
+                "C": "Pubic arch",
+                "D": "Femoral head"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-009",
+            "question": "9. The sacral ala is the:",
+            "options": {
+                "A": "Wing-like expanded portion beside the sacral promontory",
+                "B": "Lower border of the pubis",
+                "C": "Tip of the coccyx",
+                "D": "Ischial spine"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-010",
+            "question": "10. The sacroiliac joint connects the:",
+            "options": {
+                "A": "Sacrum and ilium",
+                "B": "Pubis and coccyx",
+                "C": "Femur and ilium",
+                "D": "Ischium and sacrum only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-011",
+            "question": "11. The iliopectineal line is found on the inward aspect of the:",
+            "options": {
+                "A": "Ilium",
+                "B": "Coccyx",
+                "C": "Femur",
+                "D": "Sacrum"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-012",
+            "question": "12. The iliopectineal eminence is where the superior ramus of the pubic bone meets the:",
+            "options": {
+                "A": "Ilium",
+                "B": "Coccyx",
+                "C": "Sacrum",
+                "D": "Ischium only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-013",
+            "question": "13. The pelvic axis describes:",
+            "options": {
+                "A": "An imaginary curved line followed by the centre of the fetal head",
+                "B": "The mother's spinal cord",
+                "C": "The fetal abdominal axis",
+                "D": "The diameter of the uterus"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-014",
+            "question": "14. The approximate anteroposterior diameter of the pelvic brim given in the source is:",
+            "options": {
+                "A": "10 cm",
+                "B": "11 cm",
+                "C": "12 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-015",
+            "question": "15. The approximate oblique diameter of the pelvic brim is:",
+            "options": {
+                "A": "10 cm",
+                "B": "11 cm",
+                "C": "12 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-016",
+            "question": "16. The approximate transverse diameter of the pelvic brim is:",
+            "options": {
+                "A": "10 cm",
+                "B": "11 cm",
+                "C": "12 cm",
+                "D": "13 cm"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "BP-017",
+            "question": "17. The anterior wall of the pelvic cavity is formed mainly by the:",
+            "options": {
+                "A": "Pubic bones and symphysis pubis",
+                "B": "Sacrum and coccyx",
+                "C": "Ischial spines only",
+                "D": "Lumbar vertebrae"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-018",
+            "question": "18. The posterior wall of the pelvic cavity is formed by the:",
+            "options": {
+                "A": "Pubic bones",
+                "B": "Curve of the sacrum",
+                "C": "Femurs",
+                "D": "Iliac fossae"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-019",
+            "question": "19. The posterior wall of the pelvic cavity is approximately:",
+            "options": {
+                "A": "4 cm long",
+                "B": "8 cm long",
+                "C": "12 cm long",
+                "D": "20 cm long"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-020",
+            "question": "20. The anterior pelvic cavity wall is approximately:",
+            "options": {
+                "A": "4 cm deep",
+                "B": "8 cm deep",
+                "C": "12 cm deep",
+                "D": "15 cm deep"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-021",
+            "question": "21. The difference between anterior and posterior wall lengths contributes to the pelvis forming a:",
+            "options": {
+                "A": "Straight canal",
+                "B": "Curved canal",
+                "C": "Closed canal",
+                "D": "Rigid cylinder"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-022",
+            "question": "22. The pelvic cavity contains the:",
+            "options": {
+                "A": "Rectum and bladder among other organs",
+                "B": "Lungs and heart",
+                "C": "Kidneys only",
+                "D": "Brain"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-023",
+            "question": "23. The bladder lies:",
+            "options": {
+                "A": "Posterior to the sacrum",
+                "B": "Anteriorly behind the symphysis pubis",
+                "C": "Inside the coccyx",
+                "D": "Within the femur"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-024",
+            "question": "24. The rectum lies:",
+            "options": {
+                "A": "Posteriorly in the curve of the sacrum and coccyx",
+                "B": "Anteriorly behind the symphysis pubis",
+                "C": "In the iliac fossa",
+                "D": "Inside the pubic symphysis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-025",
+            "question": "25. The ischial spines are useful during vaginal examination for assessing fetal:",
+            "options": {
+                "A": "Station/descent",
+                "B": "Sex",
+                "C": "Weight",
+                "D": "Viability"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-026",
+            "question": "26. The ischial spines are also landmarks for:",
+            "options": {
+                "A": "Pudendal nerve block",
+                "B": "Blood transfusion",
+                "C": "Fundal height",
+                "D": "Placental delivery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-027",
+            "question": "27. The obstetrical outlet is clinically more significant because it:",
+            "options": {
+                "A": "Includes the narrow pelvic strait through which the fetus must pass",
+                "B": "Is always larger than the anatomical outlet",
+                "C": "Contains the bladder",
+                "D": "Is outside the true pelvis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-028",
+            "question": "28. The narrow pelvic strait lies between the sacrococcygeal joint, ischial spines and:",
+            "options": {
+                "A": "Lower border of symphysis pubis",
+                "B": "Iliac crest",
+                "C": "Sacral ala",
+                "D": "Femoral head"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-029",
+            "question": "29. The anatomical outlet is formed by the lower borders of the pelvic bones together with the:",
+            "options": {
+                "A": "Sacrotuberous ligament",
+                "B": "Broad ligament",
+                "C": "Round ligament",
+                "D": "Inguinal ligament"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-030",
+            "question": "30. The AP diameter of the pelvic outlet is approximately:",
+            "options": {
+                "A": "10 cm",
+                "B": "11 cm",
+                "C": "12 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "BP-031",
+            "question": "31. The transverse diameter of the pelvic outlet is approximately:",
+            "options": {
+                "A": "8.5 cm",
+                "B": "10 cm",
+                "C": "11 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-032",
+            "question": "32. The false pelvis is bounded posteriorly by the:",
+            "options": {
+                "A": "Lumbar vertebrae",
+                "B": "Sacrum only",
+                "C": "Coccyx",
+                "D": "Pubic symphysis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-033",
+            "question": "33. The false pelvis has what significance in midwifery according to the source?",
+            "options": {
+                "A": "Major significance in fetal descent",
+                "B": "No significance in midwifery",
+                "C": "It determines fetal presentation",
+                "D": "It is the narrowest pelvic plane"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-034",
+            "question": "34. Why is knowledge of pelvic diameters essential in midwifery?",
+            "options": {
+                "A": "Contraction can cause malposition or malpresentation",
+                "B": "It determines maternal blood pressure",
+                "C": "It diagnoses all fetal anomalies",
+                "D": "It measures liquor volume"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-035",
+            "question": "35. The obstetric conjugate of the pelvic inlet is approximately:",
+            "options": {
+                "A": "9.5 cm",
+                "B": "10 cm",
+                "C": "11 cm",
+                "D": "13 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-036",
+            "question": "36. The bispinous diameter is approximately:",
+            "options": {
+                "A": "8.5 cm",
+                "B": "10.5 cm",
+                "C": "12 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-037",
+            "question": "37. The bituberous diameter is approximately:",
+            "options": {
+                "A": "9 cm",
+                "B": "10 cm",
+                "C": "11 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-038",
+            "question": "38. The anatomical conjugate is approximately:",
+            "options": {
+                "A": "9.5 cm",
+                "B": "10 cm",
+                "C": "12 cm",
+                "D": "14 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-039",
+            "question": "39. The obstetrical conjugate is clinically important because it is:",
+            "options": {
+                "A": "The narrowest AP passage for the fetus",
+                "B": "The widest transverse passage",
+                "C": "The diameter of the outlet",
+                "D": "The distance between ischial tuberosities"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-040",
+            "question": "40. The obstetrical conjugate cannot be:",
+            "options": {
+                "A": "Measured directly",
+                "B": "Estimated clinically",
+                "C": "Related to the pelvic inlet",
+                "D": "Important in labour"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-041",
+            "question": "41. The diagonal conjugate runs from the:",
+            "options": {
+                "A": "Lower symphysis pubis to sacral promontory",
+                "B": "Iliac crest to coccyx",
+                "C": "Ischial spine to pubic tubercle",
+                "D": "Sacrum to femur"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-042",
+            "question": "42. The transverse diameter at the widest part of the pelvic brim is approximately:",
+            "options": {
+                "A": "10 cm",
+                "B": "11 cm",
+                "C": "13 cm",
+                "D": "15 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-043",
+            "question": "43. The oblique diameter of the pelvic inlet is approximately:",
+            "options": {
+                "A": "9 cm",
+                "B": "10 cm",
+                "C": "12 cm",
+                "D": "15 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-044",
+            "question": "44. The sacrocotyloid diameter is approximately:",
+            "options": {
+                "A": "6–7 cm",
+                "B": "8–8.5 cm",
+                "C": "9–9.5 cm",
+                "D": "12–13 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-045",
+            "question": "45. All diameters of the pelvic cavity are approximately:",
+            "options": {
+                "A": "8 cm",
+                "B": "10 cm",
+                "C": "12 cm",
+                "D": "15 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-046",
+            "question": "46. The transverse diameter of the pelvic outlet is the distance between the:",
+            "options": {
+                "A": "Ischial spines",
+                "B": "Ischial tuberosities",
+                "C": "Iliac crests",
+                "D": "Sacral alae"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-047",
+            "question": "47. During labour, the AP diameter of the pelvic outlet can increase as the:",
+            "options": {
+                "A": "Coccyx moves backward",
+                "B": "Sacrum becomes shorter",
+                "C": "Pubic symphysis closes",
+                "D": "Ischial spines disappear"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-048",
+            "question": "48. The narrowest pelvic diameter described in the outlet is the transverse diameter between the:",
+            "options": {
+                "A": "Iliac crests",
+                "B": "Ischial spines",
+                "C": "Ischial tuberosities",
+                "D": "Pubic tubercles"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-049",
+            "question": "49. The pelvic inlet is inclined approximately how many degrees to the horizontal?",
+            "options": {
+                "A": "15°",
+                "B": "30°",
+                "C": "45°",
+                "D": "60°"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "BP-050",
+            "question": "50. The pelvic axis is inclined approximately:",
+            "options": {
+                "A": "15°",
+                "B": "30°",
+                "C": "45°",
+                "D": "60°"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-051",
+            "question": "51. The pelvic outlet is inclined approximately:",
+            "options": {
+                "A": "15°",
+                "B": "30°",
+                "C": "45°",
+                "D": "60°"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-052",
+            "question": "52. The curve of Carus refers to the:",
+            "options": {
+                "A": "Curved central axis of the pelvic canal",
+                "B": "Shape of the pelvic inlet",
+                "C": "Subpubic angle",
+                "D": "Sacral promontory"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-053",
+            "question": "53. A woman is assessed for fetal head descent. Which bony landmark is palpated vaginally?",
+            "options": {
+                "A": "Ischial spine",
+                "B": "Iliac crest",
+                "C": "Sacral ala",
+                "D": "Pubic tubercle"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-054",
+            "question": "54. The four classical types of pelvis are:",
+            "options": {
+                "A": "Gynaecoid, android, anthropoid and platypelloid",
+                "B": "Gynaecoid, obstetric, false and true",
+                "C": "Android, sacral, pubic and coccygeal",
+                "D": "Anthropoid, oval, circular and triangular"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-055",
+            "question": "55. Which pelvic type is considered the best type for childbearing?",
+            "options": {
+                "A": "Android",
+                "B": "Gynaecoid",
+                "C": "Anthropoid",
+                "D": "Platypelloid"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-056",
+            "question": "56. The gynaecoid pelvis has a:",
+            "options": {
+                "A": "Rounded/bean-shaped inlet",
+                "B": "Heart-shaped inlet",
+                "C": "Kidney-shaped inlet with reduced AP diameter",
+                "D": "Triangular inlet"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-057",
+            "question": "57. The gynaecoid pelvis is characterized by:",
+            "options": {
+                "A": "Straight side walls and a wide subpubic arch",
+                "B": "Convergent side walls and narrow arch",
+                "C": "Straight sacrum and prominent spines",
+                "D": "Flat sacrum and narrow transverse diameter"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-058",
+            "question": "58. Approximately what proportion of women is described as having a gynaecoid pelvis?",
+            "options": {
+                "A": "20%",
+                "B": "30%",
+                "C": "50%",
+                "D": "75%"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-059",
+            "question": "59. The android pelvis has a:",
+            "options": {
+                "A": "Heart-shaped brim",
+                "B": "Round brim",
+                "C": "Kidney-shaped brim",
+                "D": "Perfectly circular brim"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-060",
+            "question": "60. A characteristic feature of the android pelvis is:",
+            "options": {
+                "A": "Convergent side walls",
+                "B": "Straight side walls",
+                "C": "Very wide forepelvis",
+                "D": "Flat sacrum"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-061",
+            "question": "61. The android pelvis is associated with:",
+            "options": {
+                "A": "Deep transverse arrest",
+                "B": "Only face presentation",
+                "C": "Always rapid labour",
+                "D": "No difficulty in labour"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-062",
+            "question": "62. Prominent ischial spines in an android pelvis may:",
+            "options": {
+                "A": "Prevent complete internal rotation",
+                "B": "Increase the subpubic angle",
+                "C": "Widen the pelvic outlet",
+                "D": "Eliminate moulding"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-063",
+            "question": "63. The subpubic angle in the android pelvis is:",
+            "options": {
+                "A": "Greater than 120°",
+                "B": "About 90° or wider",
+                "C": "Less than 90°",
+                "D": "Exactly 180°"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-064",
+            "question": "64. The anthropoid pelvis has a brim that is:",
+            "options": {
+                "A": "Long and oval with AP greater than transverse",
+                "B": "Heart-shaped",
+                "C": "Kidney-shaped with reduced AP",
+                "D": "Perfectly round"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-065",
+            "question": "65. The anthropoid pelvis is associated with:",
+            "options": {
+                "A": "Occipitoposterior positions",
+                "B": "Only mentoanterior position",
+                "C": "Shoulder presentation",
+                "D": "Breech presentation in all cases"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-066",
+            "question": "66. The anthropoid pelvis has:",
+            "options": {
+                "A": "A long, deeply concave sacrum",
+                "B": "A flat sacrum",
+                "C": "A straight sacrum",
+                "D": "No sacrum"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-067",
+            "question": "67. The side walls of the anthropoid pelvis:",
+            "options": {
+                "A": "Diverge",
+                "B": "Converge",
+                "C": "Are funnel-shaped",
+                "D": "Are absent"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-068",
+            "question": "68. The platypelloid pelvis is also called the:",
+            "options": {
+                "A": "Flat pelvis",
+                "B": "Male pelvis",
+                "C": "Long pelvis",
+                "D": "Funnel pelvis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-069",
+            "question": "69. The platypelloid pelvis has a:",
+            "options": {
+                "A": "Kidney-shaped brim",
+                "B": "Heart-shaped brim",
+                "C": "Long oval brim",
+                "D": "Circular brim"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-070",
+            "question": "70. In a platypelloid pelvis, the AP diameter is:",
+            "options": {
+                "A": "Increased",
+                "B": "Reduced",
+                "C": "Unchanged and always 13 cm",
+                "D": "Absent"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "BP-071",
+            "question": "71. In a platypelloid pelvis, the transverse diameter is:",
+            "options": {
+                "A": "Increased",
+                "B": "Reduced",
+                "C": "Absent",
+                "D": "Always 8 cm"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-072",
+            "question": "72. A platypelloid pelvis may require lateral tilting of the fetal head, called:",
+            "options": {
+                "A": "Asynclitism",
+                "B": "Involution",
+                "C": "Moulding",
+                "D": "Extension"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-073",
+            "question": "73. A pelvis is described as contracted if one of its measurements is reduced by approximately:",
+            "options": {
+                "A": "0.25 cm",
+                "B": "0.5 cm",
+                "C": "1 cm or more",
+                "D": "3 cm only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-074",
+            "question": "74. A justo minor pelvis is essentially:",
+            "options": {
+                "A": "A miniature version of a normal gynaecoid pelvis",
+                "B": "A male android pelvis",
+                "C": "A flat platypelloid pelvis",
+                "D": "A pelvis with absent sacrum"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-075",
+            "question": "75. A large fetus in a justo minor pelvis may result in:",
+            "options": {
+                "A": "Cephalopelvic disproportion",
+                "B": "Polyhydramnios",
+                "C": "Lanugo",
+                "D": "Lochia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-076",
+            "question": "76. During clinical pelvimetry, the obstetric conjugate can be estimated from the:",
+            "options": {
+                "A": "Diagonal conjugate",
+                "B": "Bitemporal diameter",
+                "C": "Biparietal diameter",
+                "D": "Bituberous diameter"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-077",
+            "question": "77. When estimating the obstetric conjugate from the diagonal conjugate, the source recommends subtracting approximately:",
+            "options": {
+                "A": "0.5 cm",
+                "B": "1 cm",
+                "C": "1.5–2 cm",
+                "D": "4 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "BP-078",
+            "question": "78. Clinical assessment of the midpelvis includes assessing the:",
+            "options": {
+                "A": "Bispinous dimension",
+                "B": "Bitemporal diameter",
+                "C": "Mento-vertical diameter",
+                "D": "Frontal suture"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-079",
+            "question": "79. An outlet transverse dimension of approximately 8.5 cm between the ischial tuberosities is considered:",
+            "options": {
+                "A": "Adequate",
+                "B": "Always obstructed",
+                "C": "Impossible to assess",
+                "D": "A sign of face presentation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "BP-080",
+            "question": "80. A subpubic arch of less than 90° is usually associated with:",
+            "options": {
+                "A": "Narrow midcavity and outlet",
+                "B": "Very wide outlet",
+                "C": "Gynaecoid pelvis only",
+                "D": "No labour implications"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

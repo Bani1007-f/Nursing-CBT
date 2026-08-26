@@ -1,0 +1,489 @@
+{
+    "course": "frh-ii",
+    "topic": "Vulva",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "VULV-001",
+            "question": "The external female genitalia is collectively known as the",
+            "options": {
+                "A": "Vagina",
+                "B": "Vulva",
+                "C": "Vestibule",
+                "D": "Perineum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-002",
+            "question": "The female genitalia is broadly divided into",
+            "options": {
+                "A": "Pelvic and abdominal organs",
+                "B": "External and internal genitalia",
+                "C": "Primary and secondary organs",
+                "D": "Reproductive and urinary organs"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-003",
+            "question": "Which of the following is an internal female reproductive organ?",
+            "options": {
+                "A": "Clitoris",
+                "B": "Labia majora",
+                "C": "Uterus",
+                "D": "Vestibule"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-004",
+            "question": "Which of the following is considered an accessory organ of reproduction?",
+            "options": {
+                "A": "Cervix",
+                "B": "Ovary",
+                "C": "Breast",
+                "D": "Vagina"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-005",
+            "question": "The vulva extends anteriorly from the:",
+            "options": {
+                "A": "Perineal body",
+                "B": "Mons veneris",
+                "C": "Fourchette",
+                "D": "Vaginal orifice"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-006",
+            "question": "One important function of the vulva is to:",
+            "options": {
+                "A": "Produce ova",
+                "B": "Direct the flow of urine",
+                "C": "Produce progesterone",
+                "D": "Facilitate implantation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-007",
+            "question": "The mons veneris is primarily composed of:",
+            "options": {
+                "A": "Smooth muscle",
+                "B": "Cartilage",
+                "C": "Fatty tissue",
+                "D": "Glandular tissue"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-008",
+            "question": "The mons veneris is situated over the:",
+            "options": {
+                "A": "Ischial spine",
+                "B": "Symphysis pubis",
+                "C": "Coccyx",
+                "D": "Sacrum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-009",
+            "question": "Pubic hair over the mons veneris usually appears at:",
+            "options": {
+                "A": "Birth",
+                "B": "Infancy",
+                "C": "Puberty",
+                "D": "Menopause"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-010",
+            "question": "The labia majora are best described as:",
+            "options": {
+                "A": "Thin mucosal folds",
+                "B": "Hair-bearing external skin folds",
+                "C": "Erectile structures",
+                "D": "Glandular structures"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-011",
+            "question": "Embryologically, the labia majora are derived from the:",
+            "options": {
+                "A": "Genital tubercle",
+                "B": "Urethral folds",
+                "C": "Labioscrotal swellings",
+                "D": "Müllerian ducts"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-012",
+            "question": "The labia majora contain considerable amounts of:",
+            "options": {
+                "A": "Bone",
+                "B": "Fatty tissue",
+                "C": "Cartilage",
+                "D": "Erectile tissue only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-013",
+            "question": "The perineal body lies between the:",
+            "options": {
+                "A": "Clitoris and urethra",
+                "B": "Vaginal orifice and anus",
+                "C": "Cervix and bladder",
+                "D": "Urethra and anus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-014",
+            "question": "The labia minora are characterized by being",
+            "options": {
+                "A": "Hair-bearing and fatty",
+                "B": "Thin and hairless",
+                "C": "Covered with thick keratinized skin",
+                "D": "Made mainly of bone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-015",
+            "question": "The labia minora are embryologically derived from the",
+            "options": {
+                "A": "Labioscrotal swellings",
+                "B": "Urethral folds",
+                "C": "Genital tubercle",
+                "D": "Wolffian ducts"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-016",
+            "question": "The clitoris is primarily composed of",
+            "options": {
+                "A": "Smooth muscle",
+                "B": "Corpora cavernosa",
+                "C": "Fibrocartilage",
+                "D": "Glandular tissue"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-017",
+            "question": "The erectile tissue of the clitoris becomes engorged during",
+            "options": {
+                "A": "Menstruation",
+                "B": "Ovulation",
+                "C": "Sexual stimulation",
+                "D": "Pregnancy only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-018",
+            "question": "The clitoris is embryologically derived from the",
+            "options": {
+                "A": "Genital tubercle",
+                "B": "Urethral folds",
+                "C": "Labioscrotal swellings",
+                "D": "Müllerian duct"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "VULV-019",
+            "question": "The crura of the clitoris are formed by portions attached to the",
+            "options": {
+                "A": "Ischial tuberosities",
+                "B": "Pubic arch",
+                "C": "Sacrum",
+                "D": "Coccyx"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-020",
+            "question": "The glans clitoris is composed mainly of",
+            "options": {
+                "A": "Spongy erectile tissue",
+                "B": "Cartilage",
+                "C": "Adipose tissue",
+                "D": "Fibrous tissue"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "VULV-021",
+            "question": "The vestibule is the area enclosed by the",
+            "options": {
+                "A": "Labia majora",
+                "B": "Labia minora",
+                "C": "Clitoris",
+                "D": "Fourchette"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-022",
+            "question": "Which structures open into the vestibule?",
+            "options": {
+                "A": "Urethra and vagina",
+                "B": "Uterus and cervix",
+                "C": "Fallopian tubes and vagina",
+                "D": "Ovaries and urethra"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "VULV-023",
+            "question": "The vestibule is bounded anteriorly by the",
+            "options": {
+                "A": "Fourchette",
+                "B": "Labia majora",
+                "C": "Clitoris",
+                "D": "Perineal body"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-024",
+            "question": "The posterior boundary of the vestibule is the",
+            "options": {
+                "A": "Clitoris",
+                "B": "Fourchette",
+                "C": "Urethra",
+                "D": "Mons veneris"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-025",
+            "question": "The external urethral orifice lies approximately how far below the clitoris according to the notes?",
+            "options": {
+                "A": "0.5 cm",
+                "B": "1 cm",
+                "C": "2.5 cm",
+                "D": "5 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-026",
+            "question": "The ducts that open posteriorly into the wall of the urethra are the",
+            "options": {
+                "A": "Bartholin ducts",
+                "B": "Skene's ducts",
+                "C": "Lactiferous ducts",
+                "D": "Cervical ducts"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-027",
+            "question": "Skene's ducts primarily provide",
+            "options": {
+                "A": "Blood",
+                "B": "Lubrication",
+                "C": "Ova",
+                "D": "Progesterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-028",
+            "question": "The vaginal orifice occupies approximately the",
+            "options": {
+                "A": "Upper one-third of the vestibule",
+                "B": "Middle one-third",
+                "C": "Lower two-thirds",
+                "D": "Entire vestibule"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-029",
+            "question": "The hymen is described in the notes as a",
+            "options": {
+                "A": "A. Thick muscular membrane",
+                "B": "Thin incomplete membrane",
+                "C": "Glandular structure",
+                "D": "Vascular muscle"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-030",
+            "question": "The hymen normally permits passage of",
+            "options": {
+                "A": "Urine only",
+                "B": "Menstrual flow",
+                "C": "Ova",
+                "D": "Semen only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-031",
+            "question": "Tags remaining after the hymen is broken are called",
+            "options": {
+                "A": "Vestibular bulbs",
+                "B": "Carunculae myrtiformes",
+                "C": "Nabothian cysts",
+                "D": "Rugae"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-032",
+            "question": "The fossa navicularis is located between the",
+            "options": {
+                "A": "Clitoris and urethra",
+                "B": "Hymen and fourchette",
+                "C": "Labia majora and minora",
+                "D": "Cervix and vagina"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-033",
+            "question": "The fourchette is formed by the posterior union of the",
+            "options": {
+                "A": "Labia majora",
+                "B": "Labia minora",
+                "C": "Vestibular bulbs",
+                "D": "Bartholin glands"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-034",
+            "question": "The fourchette is particularly liable to tearing during",
+            "options": {
+                "A": "Ovulation",
+                "B": "Menstruation",
+                "C": "Childbirth",
+                "D": "Implantation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "VULV-035",
+            "question": "Bartholin glands are also known as",
+            "options": {
+                "A": "Greater vestibular glands",
+                "B": "Lesser vestibular glands",
+                "C": "Paraurethral glands",
+                "D": "Mammary glands"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "VULV-036",
+            "question": "Bartholin glands are located",
+            "options": {
+                "A": "Anterior to the clitoris",
+                "B": "On either side of the posterior vaginal orifice",
+                "C": "Inside the uterus",
+                "D": "Within the cervix"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-037",
+            "question": "The main secretion of Bartholin glands is",
+            "options": {
+                "A": "Blood",
+                "B": "Mucus",
+                "C": "Progesterone",
+                "D": "Milk"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-038",
+            "question": "Secretion from Bartholin glands increases during",
+            "options": {
+                "A": "Menstruation",
+                "B": "Sexual stimulation",
+                "C": "Menopause",
+                "D": "Labour only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "VULV-039",
+            "question": "The vestibular bulbs are composed mainly of",
+            "options": {
+                "A": "Vascular erectile tissue",
+                "B": "Bone",
+                "C": "Smooth cartilage",
+                "D": "Glandular epithelium"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "VULV-040",
+            "question": "The vestibular bulbs lie on either side of the",
+            "options": {
+                "A": "Cervix",
+                "B": "Vagina and Perineal Body",
+                "C": "Urethra only",
+                "D": "Uterus"
+            },
+            "answer": "B",
+            "explanation": null
+        }
+    ]
+}

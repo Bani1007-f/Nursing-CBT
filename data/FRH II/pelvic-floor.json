@@ -1,0 +1,489 @@
+{
+    "course": "frh-ii",
+    "topic": "Pelvic Floor",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "PF-001",
+            "question": "The pelvic floor is described as",
+            "options": {
+                "A": "Rigid wall",
+                "B": "Hammock or sling",
+                "C": "Bony structure",
+                "D": "Cartilaginous plate"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-002",
+            "question": "The pelvic floor closes the",
+            "options": {
+                "A": "Upper part of the pelvis",
+                "B": "Bottom of the pelvis",
+                "C": "Abdominal cavity",
+                "D": "Thoracic cavity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-003",
+            "question": "The pelvic floor forms the",
+            "options": {
+                "A": "Superior aspect of the pelvic cavity",
+                "B": "Inferior aspect of the pelvic cavity",
+                "C": "Anterior abdominal wall",
+                "D": "Posterior abdominal wall"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-004",
+            "question": "The pelvic floor is composed mainly of",
+            "options": {
+                "A": "Soft tissues",
+                "B": "Bone",
+                "C": "Cartilage",
+                "D": "Fat only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-005",
+            "question": "The pelvic floor tissues form an irregular",
+            "options": {
+                "A": "Circular structure",
+                "B": "Gutter-shaped structure",
+                "C": "Square structure",
+                "D": "Spherical structure"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-006",
+            "question": "The pelvic floor is higher",
+            "options": {
+                "A": "Posteriorly than anteriorly",
+                "B": "Anteriorly than posteriorly",
+                "C": "Equally high everywhere",
+                "D": "Only laterally"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-007",
+            "question": "How many canals with external orifices pass through the pelvic floor?",
+            "options": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-008",
+            "question": "Which of the following is NOT one of the three orifices?",
+            "options": {
+                "A": "Urethral",
+                "B": "Vaginal",
+                "C": "Anal",
+                "D": "Cervical"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-009",
+            "question": "According to the notes, the pelvic floor consists of how many layers of tissue?",
+            "options": {
+                "A": "Three",
+                "B": "Four",
+                "C": "Five",
+                "D": "Six"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-010",
+            "question": "The outermost layer of the pelvic floor is",
+            "options": {
+                "A": "Peritoneum",
+                "B": "Skin",
+                "C": "Deep muscle",
+                "D": "Pelvic fascia"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-011",
+            "question": "Which layer lies immediately beneath the skin?",
+            "options": {
+                "A": "Peritoneum",
+                "B": "Subcutaneous fat",
+                "C": "Deep fascia",
+                "D": "Pelvic ligament"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-012",
+            "question": "The pelvic fascia can become thickened to form",
+            "options": {
+                "A": "Tendons",
+                "B": "Pelvic ligaments",
+                "C": "Cartilage",
+                "D": "Blood vessels"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-013",
+            "question": "The muscular component of the pelvic floor consists of",
+            "options": {
+                "A": "One layer",
+                "B": "Two layers",
+                "C": "Three layers",
+                "D": "Four layers"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PF-014",
+            "question": "The deep muscular layer mainly comprises the",
+            "options": {
+                "A": "Superficial perineal muscles",
+                "B": "Levator ani muscles",
+                "C": "Abdominal muscles",
+                "D": "Gluteal muscles"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-015",
+            "question": "The superficial muscular layer comprises the",
+            "options": {
+                "A": "Superficial perineal muscles",
+                "B": "Coccygeus only",
+                "C": "Levator ani only",
+                "D": "Abdominal muscles"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "PF-016",
+            "question": "The levator ani muscles function mainly to",
+            "options": {
+                "A": "Lower the anus",
+                "B": "Lift/elevate the anus",
+                "C": "Dilate the cervix",
+                "D": "Produce urine"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-017",
+            "question": "Which of the following is a component of the levator ani group according to the notes?",
+            "options": {
+                "A": "Pubococcygeus",
+                "B": "Bulbocavernosus",
+                "C": "Ischiocavernosus",
+                "D": "Sphincter ani externus"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "PF-018",
+            "question": "The three pairs of deep muscles listed include pubococcygeus, iliococcygeus and",
+            "options": {
+                "A": "Bulbocavernosus",
+                "B": "Coccygeus",
+                "C": "Ischiocavernosus",
+                "D": "Transverse perineal"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-019",
+            "question": "The pubococcygeus fibres arise from the",
+            "options": {
+                "A": "Ischial tuberosities",
+                "B": "Bodies of the pubic bones",
+                "C": "Coccyx",
+                "D": "Sacrum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-020",
+            "question": "The pubococcygeus fibres pass beneath the",
+            "options": {
+                "A": "Liver",
+                "B": "Bladder",
+                "C": "Kidney",
+                "D": "Uterus only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-021",
+            "question": "The pubococcygeus fibres surround the",
+            "options": {
+                "A": "Urethra, vagina and anal canal",
+                "B": "Uterus and ovaries",
+                "C": "Rectum and bladder only",
+                "D": "Fallopian tubes"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-022",
+            "question": "The pubococcygeus fibres are inserted into the",
+            "options": {
+                "A": "Pubic bone only",
+                "B": "Perineal body and coccyx",
+                "C": "Ischial spine only",
+                "D": "Sacrum only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-023",
+            "question": "The iliococcygeus muscle fibres arise from fascia covering the",
+            "options": {
+                "A": "Piriformis muscle",
+                "B": "Obturator internus muscle",
+                "C": "Rectus abdominis",
+                "D": "Pectoralis major"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-024",
+            "question": "The iliococcygeus fibres are inserted into the",
+            "options": {
+                "A": "Coccyx and anococcygeal body",
+                "B": "Pubic symphysis",
+                "C": "Ischial tuberosity",
+                "D": "Femur"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-025",
+            "question": "The coccygeus muscle is also known as the",
+            "options": {
+                "A": "Pubococcygeus",
+                "B": "Ischiococcygeus",
+                "C": "Bulbocavernosus",
+                "D": "Ischiocavernosus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-026",
+            "question": "The coccygeus muscle is situated in front of the",
+            "options": {
+                "A": "Sacrospinous ligament",
+                "B": "Round ligament",
+                "C": "Cardinal ligament",
+                "D": "Broad ligament"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-027",
+            "question": "The coccygeus muscle arises from the",
+            "options": {
+                "A": "Ischial spines",
+                "B": "Pubic bones",
+                "C": "Coccyx",
+                "D": "Perineal body"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-028",
+            "question": "The coccygeus muscle attaches to the lower part of the",
+            "options": {
+                "A": "Femur",
+                "B": "Sacrum and coccyx",
+                "C": "Pubic bone",
+                "D": "Ilium"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-029",
+            "question": "The coccygeus muscle acts as",
+            "options": {
+                "A": "A. Gland",
+                "B": "Sling",
+                "C": "Sphincter",
+                "D": "Ligament"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-030",
+            "question": "The nerve supply of the pelvic floor includes the",
+            "options": {
+                "A": "Pudendal nerve and 4th sacral nerve",
+                "B": "Femoral nerve only",
+                "C": "Vagus nerve",
+                "D": "Sciatic nerve only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "PF-031",
+            "question": "The arterial blood supply of the pelvic floor is mainly from the",
+            "options": {
+                "A": "External iliac artery",
+                "B": "Internal iliac arteries",
+                "C": "Femoral arteries",
+                "D": "Uterine arteries"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-032",
+            "question": "The venous return of the pelvic floor is through the",
+            "options": {
+                "A": "Internal iliac veins",
+                "B": "Femoral veins",
+                "C": "Ovarian veins only",
+                "D": "Axillary veins"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-033",
+            "question": "The lymphatic drainage of the pelvic floor is to the",
+            "options": {
+                "A": "Axillary glands",
+                "B": "Internal iliac glands",
+                "C": "Cervical glands",
+                "D": "Mammary glands"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "PF-034",
+            "question": "The superficial perineal muscles lie",
+            "options": {
+                "A": "Above the diaphragm",
+                "B": "Under the anterior part of the levator ani muscles",
+                "C": "Inside the uterus",
+                "D": "Within the bladder"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-035",
+            "question": "How many pairs of superficial perineal muscles are listed?",
+            "options": {
+                "A": "Three",
+                "B": "Four",
+                "C": "Five",
+                "D": "Six"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-036",
+            "question": "Which of the following is a superficial perineal muscle?",
+            "options": {
+                "A": "Pubococcygeus",
+                "B": "Transverse perineal",
+                "C": "Iliococcygeus",
+                "D": "Coccygeus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-037",
+            "question": "The transverse perineal muscles arise from the",
+            "options": {
+                "A": "Pubic bones",
+                "B": "Ischial tuberosities",
+                "C": "Coccyx",
+                "D": "Sacrum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-038",
+            "question": "The transverse perineal muscles meet at the",
+            "options": {
+                "A": "Cervix",
+                "B": "Perineal body",
+                "C": "Pubic symphysis",
+                "D": "Coccyx"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-039",
+            "question": "The transverse perineal muscles provide additional",
+            "options": {
+                "A": "Hormonal support",
+                "B": "Transverse support across the perineal region",
+                "C": "Blood supply",
+                "D": "Sensory innervation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "PF-040",
+            "question": "The sphincter ani externus is a ring of muscle surrounding the",
+            "options": {
+                "A": "Urethra",
+                "B": "Vaginal canal",
+                "C": "Anal canal",
+                "D": "Cervix"
+            },
+            "answer": "C",
+            "explanation": null
+        }
+    ]
+}

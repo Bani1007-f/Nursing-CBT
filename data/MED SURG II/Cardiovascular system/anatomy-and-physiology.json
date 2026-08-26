@@ -1,0 +1,1930 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Anatomy and Physiology",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "AAP-001",
+            "question": "Where is the heart located?",
+            "options": {
+                "A": "Behind the kidneys",
+                "B": "In the abdominal cavity",
+                "C": "In the center of the thorax between the lungs",
+                "D": "Inside the left lung"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-002",
+            "question": "Approximately how much does the heart weigh according to the notes?",
+            "options": {
+                "A": "1 kg",
+                "B": "500 g",
+                "C": "100 g",
+                "D": "300 g"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-003",
+            "question": "Which layer is the inner layer of the heart?",
+            "options": {
+                "A": "Pericardium",
+                "B": "Myocardium",
+                "C": "Endocardium",
+                "D": "Epicardium"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-004",
+            "question": "Which heart layer is responsible for the pumping action?",
+            "options": {
+                "A": "Visceral pericardium",
+                "B": "Endocardium",
+                "C": "Parietal pericardium",
+                "D": "Myocardium"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-005",
+            "question": "Which layer is the exterior layer of the heart?",
+            "options": {
+                "A": "Endocardium",
+                "B": "Parietal pericardium",
+                "C": "Epicardium",
+                "D": "Myocardium"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-006",
+            "question": "What is the main function of the pericardial fluid?",
+            "options": {
+                "A": "To stimulate the SAN",
+                "B": "To lubricate the heart and reduce friction",
+                "C": "To increase blood pressure",
+                "D": "To prevent ventricular filling"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-007",
+            "question": "About how much fluid normally fills the pericardial space?",
+            "options": {
+                "A": "2 mL",
+                "B": "20 mL",
+                "C": "200 mL",
+                "D": "500 mL"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-008",
+            "question": "Which pericardial layer adheres to the epicardium?",
+            "options": {
+                "A": "Visceral pericardium",
+                "B": "Endocardium",
+                "C": "Parietal pericardium",
+                "D": "Myocardium"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-009",
+            "question": "Which pericardial layer is a tough fibrous tissue supporting the heart in the mediastinum?",
+            "options": {
+                "A": "Visceral pericardium",
+                "B": "Endocardium",
+                "C": "Myocardium",
+                "D": "Parietal pericardium"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-010",
+            "question": "What is a major function of the cardiovascular system?",
+            "options": {
+                "A": "Producing digestive enzymes",
+                "B": "Filtering urine",
+                "C": "Producing bile",
+                "D": "Maintaining tissue perfusion"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-011",
+            "question": "What does cardiac output equal?",
+            "options": {
+                "A": "Blood pressure × pulse pressure",
+                "B": "Stroke volume × heart rate",
+                "C": "Preload × afterload",
+                "D": "Heart rate ÷ stroke volume"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-012",
+            "question": "Which two factors directly affect cardiac output in the notes?",
+            "options": {
+                "A": "Respiratory rate and oxygen saturation",
+                "B": "Blood glucose and temperature",
+                "C": "Hemoglobin and hematocrit",
+                "D": "Stroke volume and heart rate"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-013",
+            "question": "Stroke volume is affected by how much the heart fills during which phase?",
+            "options": {
+                "A": "Diastole",
+                "B": "Atrial contraction only",
+                "C": "Repolarization",
+                "D": "Systole"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-014",
+            "question": "Stroke volume is also affected by how easy blood is expelled during which phase?",
+            "options": {
+                "A": "Systole",
+                "B": "Atrial filling only",
+                "C": "Venous return only",
+                "D": "Diastole"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-015",
+            "question": "Which structure establishes the heart rate?",
+            "options": {
+                "A": "Aorta",
+                "B": "Sinoatrial node",
+                "C": "Atrioventricular valve",
+                "D": "Purkinje vein"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-016",
+            "question": "The sinoatrial node is described as the heart's what?",
+            "options": {
+                "A": "Valve",
+                "B": "Pacemaker",
+                "C": "Pericardial sac",
+                "D": "Septum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-017",
+            "question": "In the absence of influences, what pacing rate is given for the SAN in the notes?",
+            "options": {
+                "A": "100 bpm",
+                "B": "50 bpm",
+                "C": "70 bpm",
+                "D": "140 bpm"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-018",
+            "question": "What can alter the speed at which the SAN generates electrical impulses?",
+            "options": {
+                "A": "Nerve impulses and hormones",
+                "B": "Only blood glucose",
+                "C": "Only body temperature",
+                "D": "Only skeletal muscle activity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-019",
+            "question": "Chronotrophy refers to effects on what?",
+            "options": {
+                "A": "Hemoglobin",
+                "B": "Blood glucose",
+                "C": "Heart rate",
+                "D": "Vascular permeability"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-020",
+            "question": "Why must heart rate and cardiac output vary?",
+            "options": {
+                "A": "To keep them permanently at 100 bpm",
+                "B": "To stop ventricular filling",
+                "C": "To respond to the body's changing needs",
+                "D": "To prevent all venous return"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-021",
+            "question": "What does coordinated heart contraction help deliver?",
+            "options": {
+                "A": "Urine and enzymes",
+                "B": "Bile and insulin",
+                "C": "Cerebrospinal fluid",
+                "D": "Oxygen and nutrients"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-022",
+            "question": "What does the cardiovascular system help remove from tissues?",
+            "options": {
+                "A": "Bone marrow",
+                "B": "Metabolic waste",
+                "C": "Digestive enzymes",
+                "D": "Air"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-023",
+            "question": "What is systemic homeostasis supported by?",
+            "options": {
+                "A": "Only skeletal muscle contraction",
+                "B": "Only renal filtration",
+                "C": "Integrated mechanical, electrical, and vascular processes",
+                "D": "Only respiratory ventilation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-024",
+            "question": "What is venous return?",
+            "options": {
+                "A": "The return of blood toward the heart through the venous circulation",
+                "B": "The ejection of blood from the ventricles",
+                "C": "The closure of cardiac valves",
+                "D": "The exchange of gases in alveoli"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-025",
+            "question": "What does increased sympathetic output to the heart influence?",
+            "options": {
+                "A": "Only urine concentration",
+                "B": "Only skin temperature",
+                "C": "Heart rate and cardiac output",
+                "D": "Only platelet count"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-026",
+            "question": "What is preload most closely related to in the notes?",
+            "options": {
+                "A": "Resistance to ventricular ejection",
+                "B": "The amount of blood returning/filling the ventricle",
+                "C": "Electrical conduction through the SAN",
+                "D": "The thickness of the pericardium"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-027",
+            "question": "What is afterload described as in the heart-failure notes?",
+            "options": {
+                "A": "The amount of blood in the atria",
+                "B": "The amount of pericardial fluid",
+                "C": "Resistance to ejection",
+                "D": "The rate of SAN firing"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-028",
+            "question": "What happens when systemic or pulmonary hypertension increases afterload?",
+            "options": {
+                "A": "The pericardial space disappears",
+                "B": "The SAN stops firing",
+                "C": "The workload of the heart increases",
+                "D": "The workload of the heart always decreases"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-029",
+            "question": "Why can ventricular hypertrophy impair diastolic function?",
+            "options": {
+                "A": "It stops valve closure",
+                "B": "It may impair the heart's ability to fill properly",
+                "C": "It eliminates venous return",
+                "D": "It increases pericardial fluid"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-030",
+            "question": "What is heart failure?",
+            "options": {
+                "A": "A disorder limited to the pericardium",
+                "B": "The inability of the heart to pump sufficient blood to meet tissue needs",
+                "C": "A condition defined only by hypertension",
+                "D": "A normal increase in cardiac output"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-031",
+            "question": "What does ejection fraction indicate?",
+            "options": {
+                "A": "The amount of blood ejected and ventricular contractile ability",
+                "B": "The number of heart valves",
+                "C": "The thickness of the aorta",
+                "D": "The amount of pericardial fluid"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-032",
+            "question": "Diastolic heart failure primarily involves an alteration in what?",
+            "options": {
+                "A": "Pericardial lubrication",
+                "B": "Ventricular contraction only",
+                "C": "Coronary artery diameter only",
+                "D": "Ventricular filling"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-033",
+            "question": "Systolic heart failure primarily involves an alteration in what?",
+            "options": {
+                "A": "Atrial septation",
+                "B": "Valve lubrication",
+                "C": "Ventricular contraction",
+                "D": "Pericardial filling"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-034",
+            "question": "What does HFrEF indicate in the notes?",
+            "options": {
+                "A": "Heart failure caused only by anemia",
+                "B": "Heart failure caused only by fever",
+                "C": "Heart failure with reduced ejection fraction",
+                "D": "Heart failure with restored ejection fraction"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-035",
+            "question": "What does HFpEF indicate?",
+            "options": {
+                "A": "Heart failure with pulmonary embolism",
+                "B": "Heart failure with preserved ejection fraction",
+                "C": "Heart failure with pericardial rupture",
+                "D": "Heart failure with absent ejection"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-036",
+            "question": "Which is listed as a major cause of heart failure?",
+            "options": {
+                "A": "Appendicitis",
+                "B": "Coronary artery disease",
+                "C": "Common cold",
+                "D": "Otitis media"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-037",
+            "question": "How can myocardial infarction contribute to heart failure?",
+            "options": {
+                "A": "It causes focal heart muscle necrosis and loss of contractility",
+                "B": "It always increases ventricular filling ability",
+                "C": "It strengthens the myocardium",
+                "D": "It removes all myocardial ischemia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-038",
+            "question": "What is cardiomyopathy?",
+            "options": {
+                "A": "A disease of the pericardial fluid only",
+                "B": "A disease of the skin",
+                "C": "A disease of the myocardium",
+                "D": "A disease of the kidneys"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-039",
+            "question": "Which cardiomyopathy is described as causing decreased contractility and systolic failure?",
+            "options": {
+                "A": "Restrictive cardiomyopathy",
+                "B": "Dilated cardiomyopathy",
+                "C": "Hypertrophic cardiomyopathy",
+                "D": "Pericardial cardiomyopathy"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-040",
+            "question": "Hypertrophic and restrictive cardiomyopathies can lead to what?",
+            "options": {
+                "A": "Permanent tachycardia only",
+                "B": "Decreased distensibility and ventricular filling",
+                "C": "Increased pericardial fluid production",
+                "D": "Increased ventricular filling only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-041",
+            "question": "What does increased metabolic rate do to cardiac output demand?",
+            "options": {
+                "A": "It always lowers cardiac workload",
+                "B": "It eliminates the need for oxygen",
+                "C": "It increases the demand for cardiac output",
+                "D": "It stops venous return"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-042",
+            "question": "How can anemia contribute to heart failure?",
+            "options": {
+                "A": "It permanently increases myocardial oxygen supply",
+                "B": "It increases systemic oxygen demand and may decrease oxygen supply to the myocardium",
+                "C": "It eliminates sympathetic activity",
+                "D": "It prevents fluid retention"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-043",
+            "question": "What can cardiac dysrhythmias do in relation to heart failure?",
+            "options": {
+                "A": "Only prevent heart failure",
+                "B": "Only affect the kidneys",
+                "C": "Cause or result from heart failure",
+                "D": "Only affect the lungs"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-044",
+            "question": "What system is activated during the compensatory response to reduced cardiac output?",
+            "options": {
+                "A": "Integumentary system",
+                "B": "Renin-angiotensin-aldosterone system",
+                "C": "Lymphatic system only",
+                "D": "Digestive system"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-045",
+            "question": "Which organ releases renin in the RAAS pathway described?",
+            "options": {
+                "A": "Kidney",
+                "B": "Heart",
+                "C": "Liver",
+                "D": "Lung"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-046",
+            "question": "Renin acts on what substrate?",
+            "options": {
+                "A": "Angiotensinogen",
+                "B": "ADH",
+                "C": "Troponin",
+                "D": "Aldosterone"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-047",
+            "question": "Angiotensin I is converted to angiotensin II by what?",
+            "options": {
+                "A": "Angiotensin-converting enzyme",
+                "B": "Troponin I",
+                "C": "Aldosterone",
+                "D": "Renin"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-048",
+            "question": "Where is ACE especially noted in the lecture?",
+            "options": {
+                "A": "Pulmonary vasculature",
+                "B": "Skeletal muscle",
+                "C": "Pancreas",
+                "D": "Bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-049",
+            "question": "What is one effect of angiotensin II?",
+            "options": {
+                "A": "Permanent vasodilation",
+                "B": "Reduced thirst",
+                "C": "Reduced sodium retention",
+                "D": "Systemic vasoconstriction"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-050",
+            "question": "What does aldosterone promote?",
+            "options": {
+                "A": "Potassium and water retention only",
+                "B": "Sodium and water retention",
+                "C": "Reduced blood volume",
+                "D": "Loss of all sodium"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-051",
+            "question": "What does ADH release contribute to in the RAAS response?",
+            "options": {
+                "A": "Reduced blood pressure only",
+                "B": "Reduced venous return",
+                "C": "Reduced thirst and diuresis",
+                "D": "Fluid consumption and sodium/water retention"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-052",
+            "question": "What happens when preload and afterload increase in heart failure?",
+            "options": {
+                "A": "The myocardium immediately becomes normal",
+                "B": "Cardiac workload always decreases",
+                "C": "Ventricular wall stress and cardiac workload increase",
+                "D": "Venous return stops"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-053",
+            "question": "What can decreased contractility cause?",
+            "options": {
+                "A": "Increased end-diastolic blood volume",
+                "B": "Complete loss of venous return",
+                "C": "Immediate normalization of cardiac output",
+                "D": "Decreased ventricular size only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-054",
+            "question": "What is ventricular dilation in the described vicious cycle?",
+            "options": {
+                "A": "A narrowing of the aorta",
+                "B": "A thickening of the pericardium",
+                "C": "A decrease in ventricular size from dehydration",
+                "D": "An increase in ventricular size caused by stretching of myofibers"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-055",
+            "question": "What is one compensatory response to increased cardiac workload?",
+            "options": {
+                "A": "Reduced myocardial thickness",
+                "B": "Valve removal",
+                "C": "Ventricular hypertrophy",
+                "D": "Pericardial rupture"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-056",
+            "question": "Why is the heart-failure compensatory process called a vicious cycle?",
+            "options": {
+                "A": "The pericardium becomes thicker after every beat",
+                "B": "The heart stops receiving any nervous input",
+                "C": "The kidneys stop functioning immediately",
+                "D": "The body makes the heart work harder even though the heart cannot adequately respond"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-057",
+            "question": "What predominates in left-sided heart failure?",
+            "options": {
+                "A": "Peripheral venous congestion only",
+                "B": "Pulmonary congestion",
+                "C": "Ascites only",
+                "D": "Hepatomegaly only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-058",
+            "question": "What predominates in right-sided heart failure?",
+            "options": {
+                "A": "Pulmonary congestion only",
+                "B": "Reduced jugular venous pressure",
+                "C": "Congestion of viscera and peripheral tissues",
+                "D": "Isolated cerebral ischemia"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-059",
+            "question": "Why does pulmonary congestion develop in left-sided heart failure?",
+            "options": {
+                "A": "Pulmonary venous blood volume and pressure rise",
+                "B": "The pulmonary arteries close permanently",
+                "C": "Right ventricular output rises without limit",
+                "D": "The pericardial fluid disappears"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-060",
+            "question": "What is orthopnea?",
+            "options": {
+                "A": "Difficulty swallowing",
+                "B": "Sudden loss of consciousness",
+                "C": "Pain during walking",
+                "D": "Difficulty breathing when lying flat"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-061",
+            "question": "What is paroxysmal nocturnal dyspnea?",
+            "options": {
+                "A": "A type of heart murmur",
+                "B": "A type of pulse abnormality",
+                "C": "Continuous daytime coughing only",
+                "D": "Sudden attacks of orthopnea at night"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-062",
+            "question": "What does right-sided heart failure commonly cause in the neck veins?",
+            "options": {
+                "A": "Jugular venous collapse",
+                "B": "Carotid obstruction",
+                "C": "Jugular venous distention",
+                "D": "No venous change"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-063",
+            "question": "Why can hepatomegaly occur in right-sided heart failure?",
+            "options": {
+                "A": "Venous engorgement of the liver",
+                "B": "Reduced hepatic blood volume only",
+                "C": "Increased bile production",
+                "D": "Liver infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-064",
+            "question": "What is ascites?",
+            "options": {
+                "A": "Fluid in the pleural cavity",
+                "B": "Air in the stomach",
+                "C": "Blood in the pericardium",
+                "D": "Accumulation of fluid in the peritoneal cavity"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-065",
+            "question": "Why can nocturia occur in heart failure?",
+            "options": {
+                "A": "The bladder becomes smaller",
+                "B": "The kidneys produce less urine at night",
+                "C": "Renal perfusion always stops at night",
+                "D": "Renal perfusion improves when cardiac workload decreases during sleep"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-066",
+            "question": "What does reduced cardiac output do to tissue oxygenation?",
+            "options": {
+                "A": "It always improves oxygenation",
+                "B": "It reduces perfusion and oxygenation",
+                "C": "It has no effect on tissue perfusion",
+                "D": "It increases oxygen delivery without limit"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-067",
+            "question": "What is a typical consequence of increased peripheral resistance in hypertension?",
+            "options": {
+                "A": "Elimination of myocardial hypertrophy",
+                "B": "Immediate reduction in blood pressure",
+                "C": "Increased cardiac workload",
+                "D": "Decreased cardiac workload"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-068",
+            "question": "Blood pressure is described in the notes as the product of what?",
+            "options": {
+                "A": "Heart rate × oxygen saturation",
+                "B": "Stroke volume × respiratory rate",
+                "C": "Preload × ejection fraction",
+                "D": "Cardiac output × peripheral resistance"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-069",
+            "question": "Cardiac output is the product of what two variables?",
+            "options": {
+                "A": "Heart rate × stroke volume",
+                "B": "Blood pressure × peripheral resistance",
+                "C": "Preload × afterload",
+                "D": "Systolic pressure × diastolic pressure"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-070",
+            "question": "Persistent increased peripheral resistance can lead to what cardiac change?",
+            "options": {
+                "A": "Reduced heart size",
+                "B": "Pericardial fluid loss",
+                "C": "Valve disappearance",
+                "D": "Myocardial hypertrophy"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-071",
+            "question": "What can increased sympathetic nervous system activity contribute to in hypertension?",
+            "options": {
+                "A": "Reduced cardiac output only",
+                "B": "Reduced heart rate only",
+                "C": "Reduced vascular tone",
+                "D": "Increased peripheral resistance"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-072",
+            "question": "What can increased renal sodium and water reabsorption cause?",
+            "options": {
+                "A": "Reduced vascular volume",
+                "B": "Reduced blood pressure in every case",
+                "C": "Expansion of extracellular fluid volume",
+                "D": "Immediate dehydration"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-073",
+            "question": "What does increased RAAS activity contribute to in hypertension?",
+            "options": {
+                "A": "Reduced extracellular fluid volume",
+                "B": "Complete inhibition of aldosterone",
+                "C": "Reduced vascular resistance only",
+                "D": "Expanded extracellular fluid volume and increased systemic vascular resistance"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-074",
+            "question": "What does decreased vasodilation of arterioles contribute to?",
+            "options": {
+                "A": "Reduced venous return only",
+                "B": "Reduced cardiac workload only",
+                "C": "Reduced peripheral resistance",
+                "D": "Increased peripheral resistance"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-075",
+            "question": "What are major target-organ complications of severe hypertension listed in the notes?",
+            "options": {
+                "A": "Only the liver",
+                "B": "Only the skin",
+                "C": "Heart, brain, kidneys, eyes, and peripheral arteries",
+                "D": "Only the stomach"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-076",
+            "question": "What is a hypertensive crisis described as requiring immediate intervention above?",
+            "options": {
+                "A": "90/60 mmHg",
+                "B": "100/50 mmHg",
+                "C": "180/120 mmHg",
+                "D": "120/80 mmHg"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-077",
+            "question": "What is the overall role of the cardiovascular system in tissue perfusion?",
+            "options": {
+                "A": "Produce antibodies",
+                "B": "Generate urine",
+                "C": "Generate and distribute blood flow",
+                "D": "Control digestion"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-078",
+            "question": "What happens to venous pressure when the right ventricle fails?",
+            "options": {
+                "A": "It becomes unrelated to cardiac output",
+                "B": "It always falls to zero",
+                "C": "It increases",
+                "D": "It prevents venous return"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-079",
+            "question": "What happens to pulmonary venous pressure in left-sided heart failure?",
+            "options": {
+                "A": "It becomes negative",
+                "B": "It rises",
+                "C": "It remains permanently unchanged",
+                "D": "It falls to zero"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-080",
+            "question": "What is the relationship between decreased cardiac output and tissue perfusion?",
+            "options": {
+                "A": "Decreased cardiac output always improves tissue perfusion",
+                "B": "There is no relationship",
+                "C": "It affects only the skin",
+                "D": "Decreased cardiac output lowers tissue perfusion"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-081",
+            "question": "Which symptom should be included in a cardiovascular health history?",
+            "options": {
+                "A": "Chest pain or discomfort",
+                "B": "Hair loss",
+                "C": "Tooth sensitivity",
+                "D": "Ear discharge"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-082",
+            "question": "Which respiratory symptom is commonly assessed in cardiovascular disorders?",
+            "options": {
+                "A": "Hiccups",
+                "B": "Sneezing",
+                "C": "Dyspnea",
+                "D": "Nasal itching"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-083",
+            "question": "Which finding may accompany cardiovascular fluid retention?",
+            "options": {
+                "A": "Ear pain",
+                "B": "Peripheral edema",
+                "C": "Blurred hearing",
+                "D": "Dry lips only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-084",
+            "question": "Which symptom refers to awareness of the heartbeat?",
+            "options": {
+                "A": "Ascites",
+                "B": "Orthopnea",
+                "C": "Palpitations",
+                "D": "Clubbing"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-085",
+            "question": "Which neurologic symptom is commonly assessed in cardiovascular disorders?",
+            "options": {
+                "A": "Dysphagia",
+                "B": "Syncope",
+                "C": "Anosmia",
+                "D": "Tinnitus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-086",
+            "question": "What method does the nurse use to assess chest pain in the notes?",
+            "options": {
+                "A": "APGAR",
+                "B": "ABCDE only",
+                "C": "PQRST",
+                "D": "SOAP only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-087",
+            "question": "In PQRST, what does P represent?",
+            "options": {
+                "A": "Pulse/Pressure",
+                "B": "Position/Perfusion",
+                "C": "Pattern/Pulse",
+                "D": "Provocation/Palliation"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-088",
+            "question": "In PQRST, what does Q assess?",
+            "options": {
+                "A": "Quadrant/Quotient",
+                "B": "Question/Quantity only",
+                "C": "Quickness/Quietness",
+                "D": "Quality/Quantity"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-089",
+            "question": "In PQRST, what does R assess?",
+            "options": {
+                "A": "Region/Radiation",
+                "B": "Rhythm/Reaction",
+                "C": "Rate/Respiration",
+                "D": "Risk/Relief"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-090",
+            "question": "In PQRST, what does S assess?",
+            "options": {
+                "A": "Severity",
+                "B": "Sensation only",
+                "C": "Sleep",
+                "D": "Skin"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-091",
+            "question": "In PQRST, what does T assess?",
+            "options": {
+                "A": "Timing",
+                "B": "Temperature",
+                "C": "Tissue",
+                "D": "Treatment"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-092",
+            "question": "Which PQRST question assesses provocation?",
+            "options": {
+                "A": "What were you doing when the pain started?",
+                "B": "How severe is the pain?",
+                "C": "Where does the pain radiate?",
+                "D": "When did the pain stop?"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-093",
+            "question": "Which question assesses palliation?",
+            "options": {
+                "A": "What does the pain feel like?",
+                "B": "What makes the pain better or relieves it?",
+                "C": "Where is the pain located?",
+                "D": "How often does it occur?"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-094",
+            "question": "Which question assesses quality?",
+            "options": {
+                "A": "What makes it better?",
+                "B": "Where does it travel?",
+                "C": "What does the pain feel like?",
+                "D": "When did it begin?"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-095",
+            "question": "Which question assesses radiation?",
+            "options": {
+                "A": "Does the pain travel or move elsewhere?",
+                "B": "How often does it occur?",
+                "C": "What caused the pain?",
+                "D": "How severe is it?"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-096",
+            "question": "What scale is recommended for pain severity?",
+            "options": {
+                "A": "0 to 100",
+                "B": "0 to 10",
+                "C": "A to D",
+                "D": "1 to 5 only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-097",
+            "question": "What should be assessed regarding the timing of chest pain?",
+            "options": {
+                "A": "Only the patient's weight",
+                "B": "Onset, duration, frequency, and pattern",
+                "C": "Only the color of the skin",
+                "D": "Only the pulse amplitude"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-098",
+            "question": "Which history area asks about family-related cardiovascular risk?",
+            "options": {
+                "A": "Sleep-rest only",
+                "B": "Elimination only",
+                "C": "Family history",
+                "D": "Values-belief only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-099",
+            "question": "Which behavior should be assessed as a cardiovascular risk factor?",
+            "options": {
+                "A": "Drawing",
+                "B": "Listening to music",
+                "C": "Reading",
+                "D": "Tobacco use"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-100",
+            "question": "What should the nurse ask about regarding alcohol?",
+            "options": {
+                "A": "Only the time of last meal",
+                "B": "Whether the patient consumes alcohol",
+                "C": "Nothing about alcohol",
+                "D": "Only the patient's favorite drink"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-101",
+            "question": "Which Gordon pattern assesses perceived health and well-being?",
+            "options": {
+                "A": "Health Perception–Health Management",
+                "B": "Values-Belief",
+                "C": "Activity-Exercise",
+                "D": "Sleep-Rest"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-102",
+            "question": "Which Gordon pattern includes height, weight, waist measurement, BP, and lipid profile?",
+            "options": {
+                "A": "Coping-Stress Tolerance",
+                "B": "Cognitive-Perceptual",
+                "C": "Roles-Relationship",
+                "D": "Nutritional-Metabolic"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-103",
+            "question": "Which Gordon pattern assesses bowel and bladder habits?",
+            "options": {
+                "A": "Self-Perception",
+                "B": "Sexuality-Reproductive",
+                "C": "Activity-Exercise",
+                "D": "Elimination"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-104",
+            "question": "Which Gordon pattern assesses intensity, duration, and frequency of exercise?",
+            "options": {
+                "A": "Sleep-Rest",
+                "B": "Health Perception",
+                "C": "Values-Belief",
+                "D": "Activity-Exercise"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-105",
+            "question": "Which Gordon pattern includes syncope and problems with language and memory?",
+            "options": {
+                "A": "Roles-Relationship",
+                "B": "Cognitive-Perceptual",
+                "C": "Nutritional-Metabolic",
+                "D": "Elimination"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-106",
+            "question": "Which Gordon pattern explores how the patient sleeps and rests?",
+            "options": {
+                "A": "Self-Perception",
+                "B": "Health Management",
+                "C": "Activity-Exercise",
+                "D": "Sleep-Rest"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-107",
+            "question": "Sleeping upright in a chair instead of in bed may indicate what?",
+            "options": {
+                "A": "A change relevant to orthopnea",
+                "B": "Improved cardiac output",
+                "C": "Normal sleep pattern",
+                "D": "Reduced venous return only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-108",
+            "question": "An increased number of pillows used during sleep should be noted because it may indicate what?",
+            "options": {
+                "A": "Bradycardia",
+                "B": "Orthopnea",
+                "C": "Hypertension only",
+                "D": "Improved ventilation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-109",
+            "question": "Which Gordon pattern explores how illness changes a patient's feelings about health?",
+            "options": {
+                "A": "Nutritional-Metabolic",
+                "B": "Elimination",
+                "C": "Activity-Exercise",
+                "D": "Self-Perception–Self-Concept"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-110",
+            "question": "Which Gordon pattern assesses support systems and caregivers?",
+            "options": {
+                "A": "Cognitive-Perceptual",
+                "B": "Sleep-Rest",
+                "C": "Values-Belief",
+                "D": "Roles-Relationship"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-111",
+            "question": "Which Gordon pattern includes pregnancy history and contraceptive use?",
+            "options": {
+                "A": "Elimination",
+                "B": "Coping-Stress Tolerance",
+                "C": "Health Perception",
+                "D": "Sexuality-Reproductive"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-112",
+            "question": "Which Gordon pattern explores current stressors and coping styles?",
+            "options": {
+                "A": "Roles-Relationship",
+                "B": "Coping-Stress Tolerance",
+                "C": "Sleep-Rest",
+                "D": "Nutritional-Metabolic"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-113",
+            "question": "Which Gordon pattern explores individual values and beliefs?",
+            "options": {
+                "A": "Cognitive-Perceptual",
+                "B": "Elimination",
+                "C": "Values-Belief",
+                "D": "Activity-Exercise"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-114",
+            "question": "What is a main purpose of physical assessment?",
+            "options": {
+                "A": "To replace all laboratory tests",
+                "B": "To confirm health-history information and establish a baseline",
+                "C": "To eliminate the need for follow-up",
+                "D": "To diagnose every condition without history"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-115",
+            "question": "What should inspection of the skin include?",
+            "options": {
+                "A": "Only hair color",
+                "B": "Only skin odor",
+                "C": "Color, turgor, temperature, and texture",
+                "D": "Only nail length"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-116",
+            "question": "What mucous membrane finding should be observed?",
+            "options": {
+                "A": "Jaundice only",
+                "B": "Edema only",
+                "C": "Cyanosis only of the feet",
+                "D": "Pallor"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-117",
+            "question": "General appearance assessment includes which mental-status component?",
+            "options": {
+                "A": "Only pupil size",
+                "B": "Only body weight",
+                "C": "Only bowel sounds",
+                "D": "Orientation to person, place, and time"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-118",
+            "question": "Which signs of distress should the nurse observe?",
+            "options": {
+                "A": "Only thirst",
+                "B": "Only hunger",
+                "C": "Pain, shortness of breath, or anxiety",
+                "D": "Only insomnia"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-119",
+            "question": "What does capillary refill help indicate?",
+            "options": {
+                "A": "Peripheral blood flow",
+                "B": "Blood glucose",
+                "C": "Cardiac valve size",
+                "D": "Lung volume"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-120",
+            "question": "How is capillary refill tested according to the notes?",
+            "options": {
+                "A": "Compress the nailbed until it blanches, then release",
+                "B": "Elevate the arm for 10 minutes",
+                "C": "Press the carotid for 30 seconds",
+                "D": "Measure the pulse for 1 hour"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-121",
+            "question": "Within how long does normal capillary reperfusion occur in the notes?",
+            "options": {
+                "A": "Within 30 seconds",
+                "B": "Within 1 minute",
+                "C": "Within 10 seconds",
+                "D": "Within 3 seconds"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-122",
+            "question": "Which finding may indicate vascular compromise in an extremity?",
+            "options": {
+                "A": "Pallor",
+                "B": "Normal capillary refill",
+                "C": "Warmth with bounding pulses only",
+                "D": "Increased movement"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-123",
+            "question": "How is pitting edema assessed?",
+            "options": {
+                "A": "Measure respiratory rate",
+                "B": "Tap the patella",
+                "C": "Auscultate the ankle",
+                "D": "Press firmly for 5 seconds over the dorsum of the foot"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-124",
+            "question": "Where can dependent edema occur in a bedridden patient?",
+            "options": {
+                "A": "Scalp",
+                "B": "Sacrum",
+                "C": "Elbow only",
+                "D": "Forehead"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-125",
+            "question": "What blood pressure value is listed as normal in the physical-assessment notes?",
+            "options": {
+                "A": "90/40 mmHg",
+                "B": "160/100 mmHg",
+                "C": "120/80 mmHg",
+                "D": "180/120 mmHg"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-126",
+            "question": "What is pulse pressure?",
+            "options": {
+                "A": "The sum of systolic and diastolic pressure",
+                "B": "The difference between systolic and diastolic pressure",
+                "C": "Heart rate multiplied by BP",
+                "D": "Diastolic pressure divided by heart rate"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-127",
+            "question": "What pulse-pressure range is listed as normal?",
+            "options": {
+                "A": "60–80 mmHg",
+                "B": "100–120 mmHg",
+                "C": "30–40 mmHg",
+                "D": "5–10 mmHg"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-128",
+            "question": "What is postural hypotension associated with?",
+            "options": {
+                "A": "A normal pulse pressure",
+                "B": "An increase in BP after lying down",
+                "C": "An increase in capillary refill",
+                "D": "A significant BP decrease after assuming an upright posture"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-129",
+            "question": "Which symptoms can accompany postural hypotension?",
+            "options": {
+                "A": "Fever and rash only",
+                "B": "Edema and ascites only",
+                "C": "Cough and sputum only",
+                "D": "Dizziness, lightheadedness, or syncope"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-130",
+            "question": "What pulse characteristics should be assessed?",
+            "options": {
+                "A": "Only temperature",
+                "B": "Only color",
+                "C": "Rate, rhythm, quality, and strength",
+                "D": "Only duration"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-131",
+            "question": "What pulse rate range is listed as normal in the assessment notes?",
+            "options": {
+                "A": "180–220 bpm",
+                "B": "50–100 bpm",
+                "C": "120–160 bpm",
+                "D": "10–20 bpm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-132",
+            "question": "How should arterial pulses be assessed?",
+            "options": {
+                "A": "Only when BP is elevated",
+                "B": "Bilaterally",
+                "C": "Only on the left",
+                "D": "Only on the right"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-133",
+            "question": "Which pulse site is located at the wrist?",
+            "options": {
+                "A": "Femoral",
+                "B": "Dorsalis pedis",
+                "C": "Popliteal",
+                "D": "Radial"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-134",
+            "question": "Which pulse site is behind the knee?",
+            "options": {
+                "A": "Popliteal",
+                "B": "Radial",
+                "C": "Temporal",
+                "D": "Brachial"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-135",
+            "question": "Which pulse is located on the top of the foot?",
+            "options": {
+                "A": "Carotid",
+                "B": "Femoral",
+                "C": "Brachial",
+                "D": "Dorsalis pedis"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-136",
+            "question": "Which pulse is located behind the medial ankle?",
+            "options": {
+                "A": "Posterior tibial",
+                "B": "Radial",
+                "C": "Popliteal",
+                "D": "Temporal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-137",
+            "question": "What does a 0 pulse on the 0-to-4 scale mean?",
+            "options": {
+                "A": "Normal and full",
+                "B": "Bounding",
+                "C": "Absent or not palpable",
+                "D": "Weak and thready"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-138",
+            "question": "What does a 1+ pulse indicate?",
+            "options": {
+                "A": "Weak, thready, and difficult to palpate",
+                "B": "Full and normal",
+                "C": "Strong and bounding",
+                "D": "Diminished but not obliterated"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-139",
+            "question": "What does a 3+ pulse indicate?",
+            "options": {
+                "A": "Weak and thready",
+                "B": "Absent",
+                "C": "Easy to palpate and full",
+                "D": "Strong and bounding"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-140",
+            "question": "What does a 4+ pulse indicate?",
+            "options": {
+                "A": "Normal and full",
+                "B": "Diminished",
+                "C": "Absent",
+                "D": "Strong and bounding"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-141",
+            "question": "Where are jugular venous pulsations commonly assessed?",
+            "options": {
+                "A": "Internal jugular veins",
+                "B": "Femoral arteries",
+                "C": "Dorsalis pedis arteries",
+                "D": "Radial arteries"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-142",
+            "question": "Where are external jugular veins visible according to the notes?",
+            "options": {
+                "A": "Below the umbilicus",
+                "B": "Just above the clavicles",
+                "C": "Behind the knees",
+                "D": "At the wrist"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-143",
+            "question": "What is the purpose of cardiac auscultation?",
+            "options": {
+                "A": "To measure blood glucose",
+                "B": "To determine urine output",
+                "C": "To determine rate and rhythm and evaluate heart sounds",
+                "D": "To assess bowel motility"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-144",
+            "question": "Where is the aortic area located?",
+            "options": {
+                "A": "Below the xiphoid",
+                "B": "Second intercostal space to the left of the sternum",
+                "C": "Left fifth intercostal space",
+                "D": "Second intercostal space to the right of the sternum"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-145",
+            "question": "Where is the pulmonic area located?",
+            "options": {
+                "A": "Left fifth intercostal space",
+                "B": "Second intercostal space to the right",
+                "C": "Second intercostal space to the left of the sternum",
+                "D": "Right upper abdomen"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-146",
+            "question": "Where is Erb's point located?",
+            "options": {
+                "A": "Below the xiphoid",
+                "B": "Third intercostal space to the left of the sternum",
+                "C": "Left fifth intercostal space",
+                "D": "Second intercostal space to the right"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-147",
+            "question": "Where is the mitral/apical area located?",
+            "options": {
+                "A": "Lower right abdomen",
+                "B": "Left fifth intercostal space at the midclavicular line",
+                "C": "Third left intercostal space",
+                "D": "Second right intercostal space"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-148",
+            "question": "What does S1 represent on auscultation?",
+            "options": {
+                "A": "Closure of the aortic and pulmonic valves",
+                "B": "Closure of the tricuspid and mitral valves",
+                "C": "Opening of the semilunar valves",
+                "D": "Opening of the AV valves"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-149",
+            "question": "What does S2 represent?",
+            "options": {
+                "A": "Opening of the AV valves",
+                "B": "Closure of the pulmonic and aortic valves",
+                "C": "Atrial contraction",
+                "D": "Closure of the mitral and tricuspid valves"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-150",
+            "question": "Where is S1 usually heard loudest?",
+            "options": {
+                "A": "Epigastric area",
+                "B": "Pulmonic area",
+                "C": "Apical area",
+                "D": "Aortic area"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-151",
+            "question": "What is S3 associated with?",
+            "options": {
+                "A": "Atrial contraction before S1",
+                "B": "Early diastole during rapid ventricular filling",
+                "C": "Closure of the semilunar valves",
+                "D": "Late systole"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-152",
+            "question": "What is S4 associated with?",
+            "options": {
+                "A": "Rapid ventricular filling",
+                "B": "Early systole",
+                "C": "Closure of semilunar valves",
+                "D": "Late diastole during atrial contraction"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-153",
+            "question": "What causes a cardiac murmur?",
+            "options": {
+                "A": "Turbulent blood flow",
+                "B": "Venous return",
+                "C": "Pericardial lubrication",
+                "D": "Normal valve closure only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-154",
+            "question": "What causes a pericardial friction rub?",
+            "options": {
+                "A": "Rapid ventricular filling",
+                "B": "Closure of the mitral valve",
+                "C": "Turbulent flow through the aorta",
+                "D": "Abrasion of inflamed pericardial surfaces"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-155",
+            "question": "In heart failure, what should the nurse assess regarding the lungs?",
+            "options": {
+                "A": "Crackles and wheezes",
+                "B": "Only respiratory color",
+                "C": "Only chest circumference",
+                "D": "Only cough frequency"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-156",
+            "question": "Where should edema be assessed in an upright patient with heart failure?",
+            "options": {
+                "A": "Feet and lower legs",
+                "B": "Chest only",
+                "C": "Forearms only",
+                "D": "Scalp and face only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "AAP-157",
+            "question": "Where should edema be assessed in a supine patient?",
+            "options": {
+                "A": "Neck only",
+                "B": "Sacrum and back",
+                "C": "Forehead",
+                "D": "Hands only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "AAP-158",
+            "question": "What does JVD help assess in heart failure?",
+            "options": {
+                "A": "Hemoglobin",
+                "B": "Blood glucose",
+                "C": "Lung capacity",
+                "D": "Venous pressure"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "AAP-159",
+            "question": "What JVD measurement is considered abnormal in the notes?",
+            "options": {
+                "A": "Exactly 2 cm",
+                "B": "Exactly 10 cm",
+                "C": "More than 3 cm above the sternal angle",
+                "D": "More than 1 cm below the clavicle"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "AAP-160",
+            "question": "What is a positive hepatojugular test in the notes?",
+            "options": {
+                "A": "Blood pressure rises by 20 mmHg",
+                "B": "Neck vein distention increases more than 1 cm",
+                "C": "Pulse becomes 4+",
+                "D": "Neck vein distention decreases by 5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        }
+    ]
+}

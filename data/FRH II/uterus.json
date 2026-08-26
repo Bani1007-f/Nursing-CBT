@@ -1,0 +1,849 @@
+{
+    "course": "frh-ii",
+    "topic": "Uterus",
+    "testSettings": {
+        "questionCount": 50
+    },
+    "questions": [
+        {
+            "id": "UTER-001",
+            "question": "The uterus is primarily a",
+            "options": {
+                "A": "A. Hollow muscular organ",
+                "B": "Solid glandular organ",
+                "C": "Cartilaginous organ",
+                "D": "Fatty organ"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-002",
+            "question": "The non-gravid uterus is located in the",
+            "options": {
+                "A": "Abdominal cavity above the diaphragm",
+                "B": "True pelvis beneath the pelvic brim",
+                "C": "Thoracic cavity",
+                "D": "Perineum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-003",
+            "question": "The uterus lies between the",
+            "options": {
+                "A": "Kidney and spleen",
+                "B": "Bladder and rectum",
+                "C": "Ovary and urethra",
+                "D": "Rectum and anus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-004",
+            "question": "The normal non-gravid uterus is approximately",
+            "options": {
+                "A": "2 × 1 × 1 cm",
+                "B": "7.5 × 5 × 1.25 cm",
+                "C": "15 × 10 × 7 cm",
+                "D": "30 × 23 × 20 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-005",
+            "question": "The weight of the non-gravid uterus is approximately",
+            "options": {
+                "A": "10–20 g",
+                "B": "25–30 g",
+                "C": "56–60 g",
+                "D": "900–1000 g"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-006",
+            "question": "The normal position of the uterus is",
+            "options": {
+                "A": "Retroverted and retroflexed",
+                "B": "Anteverted and anteflexed",
+                "C": "Horizontal and retroverted",
+                "D": "Vertical and retroflexed"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-007",
+            "question": "Anteversion refers to the uterus",
+            "options": {
+                "A": "Bending backwards on its axis",
+                "B": "Leaning forwards",
+                "C": "Rotating sideways",
+                "D": "Descending into the vagina"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-008",
+            "question": "Anteflexion refers to the uterus",
+            "options": {
+                "A": "Leaning forward on its own axis",
+                "B": "Leaning backward",
+                "C": "Rotating laterally",
+                "D": "Descending into the pelvis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-009",
+            "question": "A uterus that leans backward is described as",
+            "options": {
+                "A": "Anteverted",
+                "B": "Anteflexed",
+                "C": "Retroverted",
+                "D": "Prolapsed"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-010",
+            "question": "The upper two-thirds of the uterus is called the",
+            "options": {
+                "A": "Cervix",
+                "B": "Corpus/body",
+                "C": "Vagina",
+                "D": "Isthmus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-011",
+            "question": "The lower one-third of the uterus is the",
+            "options": {
+                "A": "Fundus",
+                "B": "Corpus",
+                "C": "Cervix",
+                "D": "Cornu"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-012",
+            "question": "The part of the uterus above the insertion of the fallopian tubes is the",
+            "options": {
+                "A": "Fundus",
+                "B": "Cervix",
+                "C": "Isthmus",
+                "D": "External os"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-013",
+            "question": "The uterine cavity is approximately",
+            "options": {
+                "A": "Circular",
+                "B": "Triangular",
+                "C": "Square",
+                "D": "Irregularly spherical"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-014",
+            "question": "The cornua are located at the",
+            "options": {
+                "A": "Lower cervical region",
+                "B": "Lateral angles of the uterine body",
+                "C": "Centre of the vagina",
+                "D": "Fundus only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-015",
+            "question": "The isthmus is located",
+            "options": {
+                "A": "Immediately above the internal cervical os",
+                "B": "Above the fundus",
+                "C": "Within the vagina",
+                "D": "Inside the fallopian tube"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-016",
+            "question": "During pregnancy, the isthmus contributes to formation of the",
+            "options": {
+                "A": "Upper uterine segment",
+                "B": "Lower uterine segment",
+                "C": "Cervical plug",
+                "D": "Placenta"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-017",
+            "question": "The cervical canal extends between the",
+            "options": {
+                "A": "External and internal os",
+                "B": "Fundus and cornua",
+                "C": "Vagina and ovary",
+                "D": "Uterus and fallopian tube"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-018",
+            "question": "The cervix is approximately",
+            "options": {
+                "A": "0.5 cm long",
+                "B": "1 cm long",
+                "C": "2.5 cm long",
+                "D": "7.5 cm long"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-019",
+            "question": "The part of the cervix above the vagina is the",
+            "options": {
+                "A": "Vaginal cervix",
+                "B": "Supravaginal cervix",
+                "C": "External cervix",
+                "D": "Intravaginal canal"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-020",
+            "question": "The part of the cervix projecting into the vagina is the",
+            "options": {
+                "A": "Supravaginal cervix",
+                "B": "Vaginal/infavaginal cervix",
+                "C": "Fundus",
+                "D": "Cornu"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-021",
+            "question": "The innermost layer of the uterine wall is the",
+            "options": {
+                "A": "Perimetrium",
+                "B": "Myometrium",
+                "C": "Endometrium",
+                "D": "Adventitia"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-022",
+            "question": "The muscular layer of the uterus is the",
+            "options": {
+                "A": "Endometrium",
+                "B": "Myometrium",
+                "C": "Perimetrium",
+                "D": "Epimetrium"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-023",
+            "question": "The outermost uterine layer is the",
+            "options": {
+                "A": "Endometrium",
+                "B": "Myometrium",
+                "C": "Perimetrium",
+                "D": "Submucosa"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-024",
+            "question": "The endometrium is shed during",
+            "options": {
+                "A": "Ovulation",
+                "B": "Menstruation",
+                "C": "Fertilization",
+                "D": "Implantation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-025",
+            "question": "The myometrium makes up approximately what proportion of the thickness of the uterine wall according to the notes?",
+            "options": {
+                "A": "2026-01-07T22:59:25.000Z",
+                "B": "2026-01-03T22:59:25.000Z",
+                "C": "2026-01-01T22:59:25.000Z",
+                "D": "2026-07-07T22:59:25.000Z"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "UTER-026",
+            "question": "The middle layer of myometrial fibres surrounds blood vessels and acts as",
+            "options": {
+                "A": "A sensory network",
+                "B": "Living ligatures",
+                "C": "A mucus-producing layer",
+                "D": "A glandular layer"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-027",
+            "question": "The myometrial fibres help control bleeding during the",
+            "options": {
+                "A": "First stage of labour",
+                "B": "Second stage of labour",
+                "C": "Third stage of labour",
+                "D": "Fourth week of pregnancy"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-028",
+            "question": "The outer longitudinal myometrial fibres are more plentiful in the",
+            "options": {
+                "A": "Cervix",
+                "B": "Fundus",
+                "C": "Vagina",
+                "D": "Isthmus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-029",
+            "question": "The main function of the broad ligaments is to",
+            "options": {
+                "A": "Produce hormones",
+                "B": "Support the uterus",
+                "C": "Produce ova",
+                "D": "Cause menstruation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-030",
+            "question": "The cardinal/transverse cervical ligaments are also known as",
+            "options": {
+                "A": "Round ligaments",
+                "B": "Mackenrodt's ligaments",
+                "C": "Ovarian ligaments",
+                "D": "Suspensory ligaments"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-031",
+            "question": "The round ligaments help maintain",
+            "options": {
+                "A": "Retroversion of the uterus",
+                "B": "Anteversion of the uterus",
+                "C": "Ovulation",
+                "D": "Cervical dilation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-032",
+            "question": "Which hormone is primarily responsible for triggering ovulation through the LH surge?",
+            "options": {
+                "A": "Gravid Uterus, Labour & Puerperium",
+                "B": "FSH",
+                "C": "LH",
+                "D": "Prolactin"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-033",
+            "question": "During pregnancy, the isthmus of the uterus forms the",
+            "options": {
+                "A": "Upper uterine segment",
+                "B": "Lower uterine segment",
+                "C": "Cervical canal",
+                "D": "Fundus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-034",
+            "question": "At term, the lower uterine segment formed by the isthmus is approximately",
+            "options": {
+                "A": "2 cm",
+                "B": "4 cm",
+                "C": "7 cm",
+                "D": "12 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-035",
+            "question": "During labour, the lower uterine segment is formed by the",
+            "options": {
+                "A": "Fundus and corpus",
+                "B": "Isthmus and cervix",
+                "C": "Fundus and cervix",
+                "D": "Cornua and fundus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-036",
+            "question": "During pregnancy, the endometrium becomes the",
+            "options": {
+                "A": "Myometrium",
+                "B": "Decidual lining",
+                "C": "Perimetrium",
+                "D": "Cervical plug"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-037",
+            "question": "During pregnancy, the endometrium becomes",
+            "options": {
+                "A": "Thinner and less vascular",
+                "B": "Thicker and more vascular",
+                "C": "Completely absent",
+                "D": "Keratinized"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-038",
+            "question": "The increased vascularity of the endometrium during pregnancy is associated with",
+            "options": {
+                "A": "Decreased blood supply",
+                "B": "Increased blood supply",
+                "C": "Absence of secretions",
+                "D": "Reduced glandular activity"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-039",
+            "question": "Which type of myometrial fibre is more abundant at the fundus?",
+            "options": {
+                "A": "Longitudinal",
+                "B": "Circular",
+                "C": "Transverse",
+                "D": "Horizontal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-040",
+            "question": "The longitudinal myometrial fibres extend toward the",
+            "options": {
+                "A": "Ovary",
+                "B": "Cervix",
+                "C": "Vagina only",
+                "D": "Fallopian tube"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-041",
+            "question": "Oblique muscle fibres are particularly present at the",
+            "options": {
+                "A": "Fundus",
+                "B": "Cervix only",
+                "C": "Vagina",
+                "D": "External os"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-042",
+            "question": "Circular fibres are particularly present around the",
+            "options": {
+                "A": "Cornua and cervical os",
+                "B": "Fundus and ovary",
+                "C": "Vagina and urethra",
+                "D": "Perineal body"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-043",
+            "question": "Uterine muscle growth during pregnancy occurs through",
+            "options": {
+                "A": "Hypertrophy only",
+                "B": "Hyperplasia only",
+                "C": "Both hypertrophy and hyperplasia",
+                "D": "Atrophy"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-044",
+            "question": "Hypertrophy refers to",
+            "options": {
+                "A": "Formation of new cells",
+                "B": "Enlargement of existing cells",
+                "C": "Destruction of cells",
+                "D": "Loss of muscle fibres"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-045",
+            "question": "According to the notes, uterine muscles increase approximately how many times in length during pregnancy?",
+            "options": {
+                "A": "2 times",
+                "B": "5 times",
+                "C": "10 times",
+                "D": "20 times"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-046",
+            "question": "According to the notes, uterine muscle fibres increase approximately how many times in width?",
+            "options": {
+                "A": "2 times",
+                "B": "3 times",
+                "C": "5 times",
+                "D": "10 times"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-047",
+            "question": "Braxton Hicks contractions are described as",
+            "options": {
+                "A": "Painful expulsive contractions",
+                "B": "Painless contractions",
+                "C": "Contractions occurring only after delivery",
+                "D": "Contractions of the cervix"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-048",
+            "question": "Braxton Hicks contractions help circulation of blood to the",
+            "options": {
+                "A": "Ovaries",
+                "B": "Placental site",
+                "C": "Vagina",
+                "D": "Bladder"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-049",
+            "question": "Labour begins with",
+            "options": {
+                "A": "Irregular uterine relaxation",
+                "B": "Regular rhythmic contractions of uterine muscles",
+                "C": "Cervical closure",
+                "D": "Placental separation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-050",
+            "question": "During labour, the upper uterine segment",
+            "options": {
+                "A": "Becomes thinner and weaker",
+                "B": "Contracts and retracts",
+                "C": "Remains unchanged",
+                "D": "Becomes completely relaxed"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-051",
+            "question": "Retraction of the upper uterine segment results in",
+            "options": {
+                "A": "Shortening and thickening",
+                "B": "Lengthening and thinning",
+                "C": "Complete relaxation",
+                "D": "Cervical closure"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-052",
+            "question": "The contraction and retraction of the upper uterine segment helps to push the",
+            "options": {
+                "A": "Placenta upward",
+                "B": "Fetus downward",
+                "C": "Cervix upward only",
+                "D": "Bladder downward"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-053",
+            "question": "During labour, the internal os dilates",
+            "options": {
+                "A": "After the external os",
+                "B": "Before the external os",
+                "C": "At the same time as the external os",
+                "D": "Only after delivery"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-054",
+            "question": "Before full cervical dilatation, the cervix may appear",
+            "options": {
+                "A": "Circular",
+                "B": "Funnel-shaped",
+                "C": "Triangular",
+                "D": "Completely closed"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-055",
+            "question": "A retraction ring that becomes visible in obstructed labour is called",
+            "options": {
+                "A": "Montgomery's ring",
+                "B": "Bandl's ring",
+                "C": "Hegar's ring",
+                "D": "Waldeyer's ring"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-056",
+            "question": "Full dilatation of the cervix marks the end of the",
+            "options": {
+                "A": "First stage of labour",
+                "B": "Second stage",
+                "C": "Third stage",
+                "D": "Fourth stage"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-057",
+            "question": "During the second stage of labour, contractions become",
+            "options": {
+                "A": "Weaker and less frequent",
+                "B": "Stronger, more frequent and expulsive",
+                "C": "Completely painless",
+                "D": "Irregular and ineffective"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-058",
+            "question": "During the third stage of labour, the placental area",
+            "options": {
+                "A": "Increases",
+                "B": "Diminishes",
+                "C": "Remains unchanged",
+                "D": "Doubles in size"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-059",
+            "question": "Placental separation begins from the",
+            "options": {
+                "A": "Circumference",
+                "B": "Centre",
+                "C": "Cervix",
+                "D": "Fundus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-060",
+            "question": "After complete separation, the placenta is",
+            "options": {
+                "A": "Pulled upward",
+                "B": "Pushed downward and out",
+                "C": "Absorbed",
+                "D": "Retained permanently"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-061",
+            "question": "Oblique uterine muscle fibres help control bleeding by",
+            "options": {
+                "A": "Increasing blood pressure",
+                "B": "Compressing blood vessels",
+                "C": "Dilating arteries",
+                "D": "Increasing placental size"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-062",
+            "question": "At the end of the third stage of labour, the uterus in the notes measures approximately",
+            "options": {
+                "A": "7.5 × 5 × 1.25 cm",
+                "B": "15 × 10 × 7 cm",
+                "C": "20 × 15 × 10 cm",
+                "D": "5 × 5 × 3 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-063",
+            "question": "The postpartum period during which the uterus regresses is called the",
+            "options": {
+                "A": "Menopause",
+                "B": "Puerperium",
+                "C": "Ovulation",
+                "D": "Proliferative phase"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-064",
+            "question": "According to the notes, the uterus takes approximately how long to regress after pregnancy?",
+            "options": {
+                "A": "1 week",
+                "B": "2 weeks",
+                "C": "6 weeks",
+                "D": "12 weeks"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "UTER-065",
+            "question": "Immediately after the third stage, the uterine fundus is usually felt",
+            "options": {
+                "A": "Above the xiphisternum",
+                "B": "Below the umbilicus",
+                "C": "At the pubic symphysis",
+                "D": "At the vaginal opening"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-066",
+            "question": "Daily fundal measurement during puerperium demonstrates",
+            "options": {
+                "A": "Increasing uterine size",
+                "B": "Reduction in uterine size",
+                "C": "Cervical closure only",
+                "D": "Ovulation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-067",
+            "question": "By approximately the tenth day postpartum, the uterus becomes",
+            "options": {
+                "A": "Retroverted and retroflexed",
+                "B": "Anteverted and anteflexed",
+                "C": "Completely vertical",
+                "D": "Prolapsed"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-068",
+            "question": "The decidua is shed postpartum with the",
+            "options": {
+                "A": "Menstrual flow",
+                "B": "Lochia",
+                "C": "Urine",
+                "D": "Amniotic fluid"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "UTER-069",
+            "question": "After pains during puerperium are associated with",
+            "options": {
+                "A": "Uterine contractions",
+                "B": "Ovulation",
+                "C": "Cervical cancer",
+                "D": "Breast engorgement only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "UTER-070",
+            "question": "The hormone associated in the notes with after pains is",
+            "options": {
+                "A": "Estrogen",
+                "B": "Fallopian Tubes",
+                "C": "FSH",
+                "D": "Prolactin"
+            },
+            "answer": "B",
+            "explanation": null
+        }
+    ]
+}

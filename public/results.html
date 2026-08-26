@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Test Results</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+         TOP BAR
+    ========================== -->
+
+    <header class="topbar">
+
+        <div class="logo">
+            <span>✦</span>
+            <strong>CBT</strong>
+        </div>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="history.html">History</a>
+        </nav>
+
+    </header>
+
+
+    <!-- =========================
+         RESULTS PAGE
+    ========================== -->
+
+    <main class="results-page">
+
+        <!-- TEST HEADER -->
+
+        <section class="results-header">
+
+            <p class="eyebrow">
+                TEST COMPLETED
+            </p>
+
+            <h1 id="result-topic">
+                Test Results
+            </h1>
+
+            <p id="result-course">
+                —
+            </p>
+
+        </section>
+
+
+        <!-- SCORE -->
+
+        <section class="score-card">
+
+            <div class="score-circle">
+
+                <strong id="score-percentage">
+                    0%
+                </strong>
+
+                <span>
+                    SCORE
+                </span>
+
+            </div>
+
+
+            <div class="score-main">
+
+                <strong id="score">
+                    0 / 0
+                </strong>
+
+                <span>
+                    Correct Answers
+                </span>
+
+            </div>
+
+        </section>
+<div id="save-result-area"></div>
+
+        <!-- STATISTICS -->
+
+        <section class="result-stats">
+
+            <div class="result-stat">
+
+                <span class="stat-label">
+                    CORRECT
+                </span>
+
+                <strong
+                    id="correct-count"
+                    class="correct"
+                >
+                    0
+                </strong>
+
+            </div>
+
+
+            <div class="result-stat">
+
+                <span class="stat-label">
+                    INCORRECT
+                </span>
+
+                <strong
+                    id="incorrect-count"
+                    class="incorrect"
+                >
+                    0
+                </strong>
+
+            </div>
+
+
+            <div class="result-stat">
+
+                <span class="stat-label">
+                    UNANSWERED
+                </span>
+
+                <strong id="unanswered-count">
+                    0
+                </strong>
+
+            </div>
+
+
+            <div class="result-stat">
+
+                <span class="stat-label">
+                    TIME USED
+                </span>
+
+                <strong id="time-used">
+                    00:00
+                </strong>
+
+            </div>
+
+        </section>
+
+
+        <!-- ACTIONS -->
+
+        <section class="result-actions">
+
+            <button
+                id="review-button"
+                class="start-button"
+            >
+                Review Answers
+            </button>
+
+            <button
+                id="home-button"
+                class="nav-button secondary"
+            >
+                Back to Home
+            </button>
+
+        </section>
+
+
+        <!-- =========================
+             QUESTION REVIEW
+        ========================== -->
+
+        <section
+            id="review-section"
+            class="review-section"
+        >
+
+            <div class="review-header">
+
+                <h2>
+                    Question Review
+                </h2>
+
+                <p>
+                    Review your answers and see the correct answers.
+                </p>
+
+            </div>
+
+
+            <div id="review-container">
+
+                <!-- Questions inserted by results.js -->
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <script src="js/results.js"></script>
+
+</body>
+
+</html>

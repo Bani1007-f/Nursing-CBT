@@ -1,0 +1,2410 @@
+{
+    "course": "chn-practicum",
+    "topic": "Community Health Assessment",
+    "testSettings": {
+        "questionCount": 40
+    },
+    "questions": [
+       
+        {
+            "id": "COMM-001",
+            "question": "The main purpose of community health assessment is to:",
+            "options": {
+                "A": "Plan, implement and evaluate actions that improve community health",
+                "B": "Replace all hospital services",
+                "C": "Eliminate all diseases",
+                "D": "Diagnose only individual patients"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-002",
+            "question": "Community health nursing is practiced:",
+            "options": {
+                "A": "With communities",
+                "B": "Only for communities",
+                "C": "Without community input",
+                "D": "Only inside hospitals"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-003",
+            "question": "Which is a technical dimension of community health assessment?",
+            "options": {
+                "A": "What data to collect and how",
+                "B": "Community beliefs only",
+                "C": "Religious ceremonies only",
+                "D": "Political campaigns"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-004",
+            "question": "Which is a human dimension of community health assessment?",
+            "options": {
+                "A": "Whose beliefs, values and voices shape the process",
+                "B": "The number of hospital beds only",
+                "C": "The cost of medicines only",
+                "D": "The nurse's personal opinion"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-005",
+            "question": "Culture consists of shared beliefs, values, norms, customs, language and:",
+            "options": {
+                "A": "Practices",
+                "B": "Laboratory results",
+                "C": "Prescriptions",
+                "D": "Hospital policies"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-006",
+            "question": "A cultural belief system concerns ideas about causes of illness, treatment and:",
+            "options": {
+                "A": "Who should provide care",
+                "B": "Hospital architecture",
+                "C": "Drug prices",
+                "D": "Staff salaries"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-007",
+            "question": "Cultural competence involves self-awareness, cultural knowledge and:",
+            "options": {
+                "A": "Adaptable skills",
+                "B": "Political authority",
+                "C": "Financial control",
+                "D": "Laboratory testing"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-008",
+            "question": "Cultural humility recognizes that the nurse:",
+            "options": {
+                "A": "Can never be a fully finished expert in another person's culture",
+                "B": "Must know every culture completely",
+                "C": "Should reject cultural differences",
+                "D": "Should impose personal beliefs"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-009",
+            "question": "Ethnocentrism means:",
+            "options": {
+                "A": "Judging another culture by the standards of one's own culture",
+                "B": "Accepting every practice as safe",
+                "C": "Learning another language",
+                "D": "Using community volunteers"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-010",
+            "question": "Cultural relativism means:",
+            "options": {
+                "A": "Understanding a practice within its own cultural context before judging it",
+                "B": "Judging all cultures by one standard",
+                "C": "Rejecting traditional practices",
+                "D": "Ignoring cultural beliefs"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-011",
+            "question": "Failure to understand culture may result in interventions being:",
+            "options": {
+                "A": "Rejected, misunderstood or abandoned",
+                "B": "Automatically successful",
+                "C": "More expensive only",
+                "D": "Limited to hospitals"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-012",
+            "question": "Which approach is most appropriate when assessing a culturally diverse community?",
+            "options": {
+                "A": "Understand the community's own explanation of health and illness",
+                "B": "Ignore local beliefs",
+                "C": "Use only the nurse's cultural standards",
+                "D": "Avoid community members"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-013",
+            "question": "Which community structure can serve as a health partner?",
+            "options": {
+                "A": "Faith-based organization",
+                "B": "Only private hospitals",
+                "C": "Only pharmacies",
+                "D": "Only laboratories"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-014",
+            "question": "Traditional healers can be engaged as:",
+            "options": {
+                "A": "Allies and referral points",
+                "B": "Competitors to be excluded",
+                "C": "Hospital administrators",
+                "D": "Laboratory scientists"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-015",
+            "question": "Data collection converts community lived reality into:",
+            "options": {
+                "A": "Evidence that can be analyzed and acted upon",
+                "B": "Hospital prescriptions",
+                "C": "Political policies only",
+                "D": "Personal opinions"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-016",
+            "question": "Poorly collected data can:",
+            "options": {
+                "A": "Mislead planners into addressing the wrong problem",
+                "B": "Always improve planning",
+                "C": "Replace community participation",
+                "D": "Guarantee valid results"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-017",
+            "question": "Primary data are data:",
+            "options": {
+                "A": "Collected first-hand by the nurse or team",
+                "B": "Collected by someone else",
+                "C": "Found only in census reports",
+                "D": "Found only in hospital registers"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-018",
+            "question": "Which is an example of primary data?",
+            "options": {
+                "A": "A community survey conducted by the nurse",
+                "B": "A previous census report",
+                "C": "An old hospital register",
+                "D": "Published previous research"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-019",
+            "question": "Secondary data are:",
+            "options": {
+                "A": "Existing data collected by others",
+                "B": "Data collected first-hand",
+                "C": "Only qualitative data",
+                "D": "Only survey responses"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-020",
+            "question": "Which is an example of secondary data?",
+            "options": {
+                "A": "Immunization register",
+                "B": "New household interview",
+                "C": "New physical examination",
+                "D": "New observation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-021",
+            "question": "Quantitative data are mainly:",
+            "options": {
+                "A": "Numerical data measuring magnitude",
+                "B": "Descriptions of personal experiences",
+                "C": "Religious beliefs only",
+                "D": "Community stories only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-022",
+            "question": "Which is quantitative data?",
+            "options": {
+                "A": "Immunization coverage",
+                "B": "Focus group narrative",
+                "C": "Key informant opinion",
+                "D": "Personal experience"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-023",
+            "question": "Qualitative data capture:",
+            "options": {
+                "A": "Meaning, perception and experience",
+                "B": "Only numerical magnitude",
+                "C": "Only mortality ratios",
+                "D": "Only population size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-024",
+            "question": "Which method is qualitative?",
+            "options": {
+                "A": "Focus group discussion",
+                "B": "Census table",
+                "C": "Mortality ratio",
+                "D": "Immunization percentage"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-025",
+            "question": "A windshield survey involves:",
+            "options": {
+                "A": "Systematic observation while driving or walking through a community",
+                "B": "Only interviewing doctors",
+                "C": "Only reviewing hospital records",
+                "D": "Randomly selecting patients"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-026",
+            "question": "A structured questionnaire is used mainly to:",
+            "options": {
+                "A": "Quantify needs using standardized questions",
+                "B": "Observe sanitation without questions",
+                "C": "Replace all interviews",
+                "D": "Treat diseases"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-027",
+            "question": "A key informant interview is conducted with someone who:",
+            "options": {
+                "A": "Has special knowledge of the community",
+                "B": "Is randomly selected from every household",
+                "C": "Must be a child",
+                "D": "Has no community knowledge"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-028",
+            "question": "A focus group discussion usually involves approximately:",
+            "options": {
+                "A": "6–12 participants",
+                "B": "1 participant only",
+                "C": "50–100 participants",
+                "D": "2 participants only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-029",
+            "question": "The main purpose of a focus group discussion is to explore:",
+            "options": {
+                "A": "Shared perceptions and beliefs",
+                "B": "Mortality ratios only",
+                "C": "Drug doses",
+                "D": "Laboratory values"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-030",
+            "question": "Direct or participant observation involves:",
+            "options": {
+                "A": "Systematically watching and, where appropriate, participating in community activities",
+                "B": "Only reviewing records",
+                "C": "Only distributing questionnaires",
+                "D": "Only conducting laboratory tests"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-031",
+            "question": "Record review involves analysis of:",
+            "options": {
+                "A": "Vital statistics, clinic registers, surveillance and census data",
+                "B": "Only new interviews",
+                "C": "Only physical examinations",
+                "D": "Only focus groups"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-032",
+            "question": "Physical/environmental inspection may assess:",
+            "options": {
+                "A": "Water sources and waste disposal",
+                "B": "Only family income",
+                "C": "Only religious beliefs",
+                "D": "Only staff performance"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-033",
+            "question": "A community forum or town hall is useful for:",
+            "options": {
+                "A": "Allowing residents to voice concerns",
+                "B": "Replacing all data collection",
+                "C": "Conducting laboratory tests",
+                "D": "Selecting random numbers"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-034",
+            "question": "Asset mapping identifies:",
+            "options": {
+                "A": "Community resources, institutions and skills",
+                "B": "Only community diseases",
+                "C": "Only hospital staff",
+                "D": "Only household illnesses"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-035",
+            "question": "Before collecting data, the team should first:",
+            "options": {
+                "A": "Define clear objectives and variables",
+                "B": "Collect every possible piece of information",
+                "C": "Choose a treatment",
+                "D": "Write the final report"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-036",
+            "question": "Why are data collection tools pretested or piloted?",
+            "options": {
+                "A": "To check clarity, cultural appropriateness and language",
+                "B": "To increase the sample automatically",
+                "C": "To avoid informed consent",
+                "D": "To eliminate documentation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-037",
+            "question": "Triangulation means:",
+            "options": {
+                "A": "Combining different methods or sources to strengthen validity",
+                "B": "Using one data source only",
+                "C": "Avoiding qualitative data",
+                "D": "Collecting data without objectives"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-038",
+            "question": "Informed consent and confidentiality are:",
+            "options": {
+                "A": "Important principles of data collection",
+                "B": "Optional only for nurses",
+                "C": "Only needed in hospitals",
+                "D": "Unrelated to research"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-039",
+            "question": "Training data collectors helps reduce:",
+            "options": {
+                "A": "Bias and inter-observer variation",
+                "B": "Community participation",
+                "C": "Data accuracy",
+                "D": "Standardization"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-040",
+            "question": "Data quality checks should assess:",
+            "options": {
+                "A": "Completeness, consistency and accuracy",
+                "B": "Only spelling",
+                "C": "Only cost",
+                "D": "Only sample size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-041",
+            "question": "In simple random sampling, every unit has:",
+            "options": {
+                "A": "An equal chance of selection",
+                "B": "No chance of selection",
+                "C": "A fixed first position",
+                "D": "A guaranteed selection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-042",
+            "question": "Systematic sampling involves selecting:",
+            "options": {
+                "A": "Every kth household or unit",
+                "B": "Only community leaders",
+                "C": "Only volunteers",
+                "D": "All households"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-043",
+            "question": "Stratified sampling first divides the population into:",
+            "options": {
+                "A": "Subgroups or strata",
+                "B": "Hospitals",
+                "C": "Political parties",
+                "D": "Random villages only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-044",
+            "question": "Cluster sampling selects:",
+            "options": {
+                "A": "Naturally occurring groups such as villages or schools",
+                "B": "Every kth person only",
+                "C": "Only key informants",
+                "D": "Only volunteers"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-045",
+            "question": "Multistage sampling involves:",
+            "options": {
+                "A": "Sampling in successive stages",
+                "B": "Selecting one person only",
+                "C": "Using no sampling frame",
+                "D": "Only interviewing leaders"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-046",
+            "question": "Purposive sampling involves:",
+            "options": {
+                "A": "Deliberately selecting information-rich participants",
+                "B": "Giving everyone an equal chance",
+                "C": "Selecting every kth household",
+                "D": "Selecting only randomly chosen villages"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-047",
+            "question": "Snowball sampling involves:",
+            "options": {
+                "A": "Existing participants referring additional participants",
+                "B": "Selecting every fifth household",
+                "C": "Dividing the population into strata",
+                "D": "Random balloting"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-048",
+            "question": "Snowball sampling is useful for:",
+            "options": {
+                "A": "Hard-to-reach or hidden populations",
+                "B": "All hospital patients",
+                "C": "Only infants",
+                "D": "Only government workers"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-049",
+            "question": "Closed-ended questions are useful for:",
+            "options": {
+                "A": "Quantifiable indicators",
+                "B": "Only unexpected narratives",
+                "C": "Only cultural stories",
+                "D": "Only group discussions"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "COMM-050",
+            "question": "Open-ended questions help capture:",
+            "options": {
+                "A": "Only percentages",
+                "B": "Nuance and unexpected findings",
+                "C": "Only mortality rates",
+                "D": "Only closed responses"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-051",
+            "question": "questions in an instrument should generally move from:",
+            "options": {
+                "A": "Sensitive to general",
+                "B": "General/non-threatening to specific/sensitive",
+                "C": "Difficult to easy only",
+                "D": "Personal to public only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-052",
+            "question": "Local-language translation and back-translation help check:",
+            "options": {
+                "A": "Sample size",
+                "B": "Accuracy of meaning",
+                "C": "Mortality rate",
+                "D": "Staff attendance"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-053",
+            "question": "A validated scale should be used where:",
+            "options": {
+                "A": "No data are needed",
+                "B": "One already exists",
+                "C": "Only qualitative data are collected",
+                "D": "The nurse wants to avoid piloting"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-054",
+            "question": "A pilot study involves testing the tool on:",
+            "options": {
+                "A": "The entire population",
+                "B": "A small, similar sample",
+                "C": "Only hospital staff",
+                "D": "Only community leaders"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-055",
+            "question": "Spot-checks and re-interviews are part of:",
+            "options": {
+                "A": "Community entry",
+                "B": "Data quality assurance",
+                "C": "Reporting",
+                "D": "Cultural assessment"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-056",
+            "question": "Daily review of completed instruments helps identify:",
+            "options": {
+                "A": "Only political interference",
+                "B": "Missing or inconsistent responses",
+                "C": "Only religious beliefs",
+                "D": "Only staffing problems"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-057",
+            "question": "Double data entry into a database can help minimize:",
+            "options": {
+                "A": "Community resistance",
+                "B": "Transcription errors",
+                "C": "Sampling bias completely",
+                "D": "Cultural differences"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-058",
+            "question": "A data collection logbook should document:",
+            "options": {
+                "A": "Only patient diagnoses",
+                "B": "Response rates, refusals and fieldwork challenges",
+                "C": "Only drug names",
+                "D": "Only community leaders"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-059",
+            "question": "Gender-disaggregated data help reveal:",
+            "options": {
+                "A": "Only religious differences",
+                "B": "Inequities masked by aggregate figures",
+                "C": "Only migration status",
+                "D": "Only age groups"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-060",
+            "question": "The Harvard Analytical Framework can examine:",
+            "options": {
+                "A": "Only mortality rates",
+                "B": "Who does what and who controls what",
+                "C": "Only disease outbreaks",
+                "D": "Only community leadership"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-061",
+            "question": "Age-appropriate assessment means:",
+            "options": {
+                "A": "Using the same tool for everyone",
+                "B": "Adapting tools, consent and communication to age",
+                "C": "Ignoring children",
+                "D": "Using only written questionnaires"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-062",
+            "question": "For minors, assessment may require:",
+            "options": {
+                "A": "No consent",
+                "B": "Parental/guardian consent and child assent",
+                "C": "Only community leader consent",
+                "D": "Only nurse approval"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-063",
+            "question": "For adolescents, an important assessment focus is:",
+            "options": {
+                "A": "Only occupational health",
+                "B": "Reproductive health, mental health and substance use",
+                "C": "Only falls",
+                "D": "Only palliative care"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-064",
+            "question": "For older adults, assessment should consider:",
+            "options": {
+                "A": "Only immunization",
+                "B": "Chronic disease, mobility/falls and social isolation",
+                "C": "Only sexuality education",
+                "D": "Only birth registration"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-065",
+            "question": "Religious beliefs can affect acceptance of:",
+            "options": {
+                "A": "Only housing",
+                "B": "Blood transfusion, family planning and immunization",
+                "C": "Only transport",
+                "D": "Only laboratory machines"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-066",
+            "question": "Religious leaders may function as:",
+            "options": {
+                "A": "Laboratory technicians",
+                "B": "Influential gatekeepers",
+                "C": "Sampling frames",
+                "D": "Data entry clerks"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-067",
+            "question": "Assessment should consider religious calendars and:",
+            "options": {
+                "A": "Hospital shifts only",
+                "B": "Fasting periods",
+                "C": "School examinations only",
+                "D": "Political campaigns only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-068",
+            "question": "Nurses should respond to religious diversity by:",
+            "options": {
+                "A": "Imposing personal beliefs",
+                "B": "Respecting diversity and avoiding imposition of personal faith",
+                "C": "Ignoring religious practices",
+                "D": "Rejecting faith-based organizations"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-069",
+            "question": "Faith-based organizations can support:",
+            "options": {
+                "A": "Only laboratory testing",
+                "B": "Immunization outreaches, health talks and screening",
+                "C": "Only census activities",
+                "D": "Only hospital admission"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-070",
+            "question": "Language barriers may require:",
+            "options": {
+                "A": "Less data collection",
+                "B": "Interpreters or multilingual materials",
+                "C": "No consent",
+                "D": "Only English questionnaires"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-071",
+            "question": "Assessment should avoid overgeneralizing:",
+            "options": {
+                "A": "Health data",
+                "B": "National culture across ethnic sub-groups",
+                "C": "Sampling methods",
+                "D": "Community structures"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-072",
+            "question": "Data should be disaggregated by gender, age, religion and nationality to identify:",
+            "options": {
+                "A": "Only hospitals",
+                "B": "Hidden vulnerable sub-groups",
+                "C": "Only health workers",
+                "D": "Only community leaders"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-073",
+            "question": "Intersectionality refers to:",
+            "options": {
+                "A": "Only gender differences",
+                "B": "Overlapping social identities producing cumulative disadvantages",
+                "C": "Only religious differences",
+                "D": "Only age differences"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-074",
+            "question": "An adolescent female internally displaced person from a religious minority illustrates:",
+            "options": {
+                "A": "Simple random sampling",
+                "B": "Compounded vulnerability",
+                "C": "Cultural competence only",
+                "D": "Secondary data"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-075",
+            "question": "Professional collaboration is a coordinated relationship where:",
+            "options": {
+                "A": "One profession controls everything",
+                "B": "Knowledge, skills and responsibilities are shared",
+                "C": "Only nurses work",
+                "D": "Community members are excluded"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-076",
+            "question": "Intraprofessional collaboration occurs:",
+            "options": {
+                "A": "Between health and agriculture",
+                "B": "Among members of the same profession",
+                "C": "Between nurses and doctors only",
+                "D": "Between countries"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-077",
+            "question": "Interprofessional collaboration occurs among:",
+            "options": {
+                "A": "Only nurses",
+                "B": "Different health professions",
+                "C": "Only community leaders",
+                "D": "Only government ministries"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-078",
+            "question": "Intersectoral collaboration involves:",
+            "options": {
+                "A": "Only nurses",
+                "B": "Health and non-health sectors",
+                "C": "Only doctors",
+                "D": "Only laboratories"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-079",
+            "question": "Collaboration with community structures may involve:",
+            "options": {
+                "A": "Only hospitals",
+                "B": "Health committees and traditional institutions",
+                "C": "Only pharmacies",
+                "D": "Only laboratories"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-080",
+            "question": "An element of effective collaboration is:",
+            "options": {
+                "A": "Role confusion",
+                "B": "Mutual respect",
+                "C": "Poor communication",
+                "D": "Individual accountability only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-081",
+            "question": "Clear roles and responsibilities should be:",
+            "options": {
+                "A": "Kept secret",
+                "B": "Well-defined and non-overlapping",
+                "C": "Changed daily",
+                "D": "Ignored"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-082",
+            "question": "Joint planning, implementation and evaluation are features of:",
+            "options": {
+                "A": "Ethnocentrism",
+                "B": "Effective collaboration",
+                "C": "Snowball sampling",
+                "D": "Secondary data"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-083",
+            "question": "Conflict-resolution mechanisms help manage:",
+            "options": {
+                "A": "Only sampling errors",
+                "B": "Differences in professional opinion",
+                "C": "Only language barriers",
+                "D": "Only age differences"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-084",
+            "question": "Shared accountability means responsibility is shared for:",
+            "options": {
+                "A": "Only documentation",
+                "B": "Outcomes, not just tasks",
+                "C": "Only meetings",
+                "D": "Only data collection"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-085",
+            "question": "A benefit of collaboration is that it:",
+            "options": {
+                "A": "Eliminates all disease",
+                "B": "Reduces duplication of services",
+                "C": "Removes community participation",
+                "D": "Prevents referrals"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-086",
+            "question": "The PHC team may include a community health officer, CHEW, nurse, environmental health officer, nutritionist, laboratory technician and:",
+            "options": {
+                "A": "Surgeon only",
+                "B": "Health information officer",
+                "C": "Dentist only",
+                "D": "Pharmacist only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-087",
+            "question": "SBAR stands for:",
+            "options": {
+                "A": "Situation, Behaviour, Action, Referral",
+                "B": "Situation, Background, Assessment, Recommendation",
+                "C": "Screening, Background, Assessment, Record",
+                "D": "Summary, Behaviour, Analysis, Response"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-088",
+            "question": "A memorandum of understanding can formalize:",
+            "options": {
+                "A": "Patient diagnoses",
+                "B": "Intersectoral partnerships",
+                "C": "Random sampling",
+                "D": "Cultural beliefs"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-089",
+            "question": "A referral register with feedback loops helps confirm that:",
+            "options": {
+                "A": "Every patient was randomly selected",
+                "B": "Referred clients received care at the receiving facility",
+                "C": "All data are quantitative",
+                "D": "Every report was annual"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-090",
+            "question": "Documentation is important because it provides:",
+            "options": {
+                "A": "Only financial information",
+                "B": "A record supporting continuity, accountability, planning and evaluation",
+                "C": "Only patient complaints",
+                "D": "Only research results"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-091",
+            "question": "A family folder is a:",
+            "options": {
+                "A": "Sampling method",
+                "B": "Comprehensive record for a household",
+                "C": "Community meeting",
+                "D": "Reporting channel"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-092",
+            "question": "Disease surveillance and notification forms are examples of:",
+            "options": {
+                "A": "Sampling techniques",
+                "B": "Community health documentation tools",
+                "C": "Cultural models",
+                "D": "Collaboration types"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-093",
+            "question": "Narrative charting is:",
+            "options": {
+                "A": "A sampling method",
+                "B": "Free-text chronological description of events and care",
+                "C": "A focus group",
+                "D": "A report type"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-094",
+            "question": "SOAP/SOAPIE includes Subjective, Objective, Assessment, Plan and optionally:",
+            "options": {
+                "A": "Interview and Examination",
+                "B": "Intervention and Evaluation",
+                "C": "Information and Entry",
+                "D": "Inspection and Ethics"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-095",
+            "question": "DAR charting stands for:",
+            "options": {
+                "A": "Diagnosis, Assessment, Referral",
+                "B": "Data, Action, Response",
+                "C": "Data, Analysis, Report",
+                "D": "Discussion, Action, Review"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-096",
+            "question": "DHIS2 is an example of:",
+            "options": {
+                "A": "A sampling method",
+                "B": "An electronic health/community record platform",
+                "C": "A cultural assessment model",
+                "D": "A report type"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-097",
+            "question": "When correcting a documentation error, the nurse should:",
+            "options": {
+                "A": "Erase the original entry completely",
+                "B": "Draw one line through the mistake, initial, date and write the correction",
+                "C": "Use correction fluid",
+                "D": "Delete the record"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-098",
+            "question": "Blank spaces in records should be avoided because they may allow:",
+            "options": {
+                "A": "Better documentation",
+                "B": "Unauthorized insertion",
+                "C": "More accurate data",
+                "D": "Faster reporting"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-099",
+            "question": "Community health records are considered:",
+            "options": {
+                "A": "Private notes with no legal value",
+                "B": "Legal documents",
+                "C": "Informal reminders only",
+                "D": "Non-confidential documents"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "COMM-100",
+            "question": "Reporting means communicating documented findings, actions and outcomes to:",
+            "options": {
+                "A": "Only nurses",
+                "B": "Only patients",
+                "C": "Relevant stakeholders",
+                "D": "Only researchers"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-101",
+            "question": "An incident/outbreak report is used for:",
+            "options": {
+                "A": "Routine handover only",
+                "B": "Annual programme review",
+                "C": "Immediate notification of outbreaks or emergencies",
+                "D": "Household sampling"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-102",
+            "question": "A statistical/epidemiological report provides:",
+            "options": {
+                "A": "Only cultural beliefs",
+                "B": "Only personal stories",
+                "C": "Numerical summaries of morbidity, mortality and coverage indicators",
+                "D": "Only meeting minutes"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-103",
+            "question": "A progress report provides:",
+            "options": {
+                "A": "Only demographic data",
+                "B": "Only outbreak notification",
+                "C": "A periodic update on programme implementation",
+                "D": "Only legal documentation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-104",
+            "question": "An annual/end-of-programme report provides:",
+            "options": {
+                "A": "Only emergency alerts",
+                "B": "Only daily observations",
+                "C": "A comprehensive review of activities, outcomes, challenges and recommendations",
+                "D": "Only referrals"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-105",
+            "question": "A good report should be:",
+            "options": {
+                "A": "Full of unnecessary jargon",
+                "B": "Long and unclear",
+                "C": "Factual, concise and logically organized",
+                "D": "Based mainly on opinion"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-106",
+            "question": "A good report should include recommendations that are:",
+            "options": {
+                "A": "Purely theoretical",
+                "B": "Unrelated to findings",
+                "C": "Actionable",
+                "D": "Without data"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-107",
+            "question": "The methodology section of a CHA report includes:",
+            "options": {
+                "A": "Only references",
+                "B": "Only recommendations",
+                "C": "Design, sampling, data collection tools and analysis approach",
+                "D": "Only discussion"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-108",
+            "question": "The findings/results section presents:",
+            "options": {
+                "A": "Only limitations",
+                "B": "Only future plans",
+                "C": "Demographic profile, health indicators and identified problems",
+                "D": "Only references"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-109",
+            "question": "The discussion section mainly involves:",
+            "options": {
+                "A": "Writing consent forms",
+                "B": "Listing raw data only",
+                "C": "Interpreting findings and comparing them with benchmarks",
+                "D": "Selecting participants"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-110",
+            "question": "Community priority problems may be ranked using a:",
+            "options": {
+                "A": "Focus group",
+                "B": "Windshield survey",
+                "C": "Prioritization matrix",
+                "D": "Referral register"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-111",
+            "question": "A standard CHA report includes:",
+            "options": {
+                "A": "Only raw data",
+                "B": "Only the title",
+                "C": "Limitations of the assessment",
+                "D": "Only recommendations"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-112",
+            "question": "The reporting chain may move from the facility in-charge to:",
+            "options": {
+                "A": "Only traditional healers",
+                "B": "Only community volunteers",
+                "C": "Local Government Health Authority",
+                "D": "Only patients"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-113",
+            "question": "Urgent suspected outbreaks should be:",
+            "options": {
+                "A": "Reported only annually",
+                "B": "Kept at facility level",
+                "C": "Escalated within mandated timeframes",
+                "D": "Ignored until evaluation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-114",
+            "question": "Participatory Action Research (PAR) treats community members as:",
+            "options": {
+                "A": "Patients only",
+                "B": "Passive subjects only",
+                "C": "Active co-researchers",
+                "D": "Data clerks only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-115",
+            "question": "PAR combines:",
+            "options": {
+                "A": "Policy, advocacy and referral",
+                "B": "Planning, assessment and reporting",
+                "C": "Participation, action and research",
+                "D": "Culture, religion and nationality"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-116",
+            "question": "A core principle of PAR is:",
+            "options": {
+                "A": "Community exclusion",
+                "B": "Researcher control only",
+                "C": "Co-ownership",
+                "D": "One-time data collection"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-117",
+            "question": "The PAR process is:",
+            "options": {
+                "A": "Hospital-based only",
+                "B": "Strictly linear",
+                "C": "Cyclical",
+                "D": "Only qualitative"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-118",
+            "question": "The ultimate goal of PAR is:",
+            "options": {
+                "A": "Publication alone",
+                "B": "Knowledge production alone",
+                "C": "Practical change or improvement",
+                "D": "Data storage"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-119",
+            "question": "The basic PAR cycle is:",
+            "options": {
+                "A": "Collect → Diagnose → Discharge → Review",
+                "B": "Observe → Report → Plan → Treat",
+                "C": "Plan → Act → Observe → Reflect",
+                "D": "Sample → Interview → Report → Stop"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-120",
+            "question": "In PAR, reflection is followed by:",
+            "options": {
+                "A": "Ignoring the findings",
+                "B": "Immediate termination",
+                "C": "Re-planning",
+                "D": "Deleting data"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-121",
+            "question": "Compared with conventional research, PAR gives the community:",
+            "options": {
+                "A": "Only a questionnaire",
+                "B": "No role in decision-making",
+                "C": "Greater ownership in generating knowledge and action",
+                "D": "Only the final report"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-122",
+            "question": "PAR is action-oriented because it seeks:",
+            "options": {
+                "A": "Only statistics",
+                "B": "Only publication",
+                "C": "Practical improvement, not knowledge alone",
+                "D": "Only data collection"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-123",
+            "question": "Which principle of PAR emphasizes community and researcher as equal partners?",
+            "options": {
+                "A": "Ethnocentrism",
+                "B": "Randomization",
+                "C": "Co-ownership",
+                "D": "Confidentiality only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-124",
+            "question": "The main idea of community health assessment can be summarized as:",
+            "options": {
+                "A": "Treat disease without assessment",
+                "B": "Collect data without community involvement",
+                "C": "Collect, understand and use evidence with the community to improve health",
+                "D": "Report problems without action"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-125",
+            "question": "A community health assessment should consider both health problems and:",
+            "options": {
+                "A": "Only individual diagnoses",
+                "B": "Hospital profits",
+                "C": "Community strengths and resources",
+                "D": "Only medication use"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-126",
+            "question": "Which of the following best describes a community health assessment?",
+            "options": {
+                "A": "A hospital discharge summary",
+                "B": "A single patient examination",
+                "C": "A systematic assessment of community health status, needs and resources",
+                "D": "A drug administration record"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-127",
+            "question": "Community assessment findings are useful for:",
+            "options": {
+                "A": "Avoiding evaluation",
+                "B": "Replacing all health workers",
+                "C": "Planning appropriate health interventions",
+                "D": "Eliminating community participation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-128",
+            "question": "A nurse assessing community beliefs about illness is assessing a:",
+            "options": {
+                "A": "Laboratory dimension",
+                "B": "Financial dimension",
+                "C": "Cultural dimension",
+                "D": "Pharmacological dimension"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-129",
+            "question": "Language is an important cultural factor because it can affect:",
+            "options": {
+                "A": "Only sampling size",
+                "B": "Only hospital costs",
+                "C": "Communication and understanding",
+                "D": "Only mortality"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-130",
+            "question": "A nurse who asks community members about their beliefs before planning an intervention is demonstrating:",
+            "options": {
+                "A": "Community exclusion",
+                "B": "Ethnocentrism",
+                "C": "Cultural sensitivity",
+                "D": "Professional isolation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-131",
+            "question": "Cultural humility requires the nurse to:",
+            "options": {
+                "A": "Reject unfamiliar beliefs",
+                "B": "Assume complete knowledge of the culture",
+                "C": "Remain open to learning from community members",
+                "D": "Impose personal values"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-132",
+            "question": "Which statement demonstrates ethnocentrism?",
+            "options": {
+                "A": "We should ask residents about their beliefs",
+                "B": "We should understand the community's perspective",
+                "C": "Our cultural practice is the correct standard for everyone",
+                "D": "Different cultures may have different practices"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-133",
+            "question": "Which statement best demonstrates cultural relativism?",
+            "options": {
+                "A": "All unfamiliar practices are wrong",
+                "B": "Our culture is superior",
+                "C": "The practice should be understood in its cultural context",
+                "D": "The nurse's belief should determine care"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-134",
+            "question": "A culturally competent intervention should be:",
+            "options": {
+                "A": "Based only on the nurse's beliefs",
+                "B": "Identical in every community",
+                "C": "Adapted to the community's cultural context",
+                "D": "Designed without consultation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-135",
+            "question": "Community involvement is strongest when community members:",
+            "options": {
+                "A": "Only attend meetings",
+                "B": "Only receive instructions",
+                "C": "Participate in identifying problems and making decisions",
+                "D": "Only provide data"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-136",
+            "question": "At the consultation level of participation, community members mainly:",
+            "options": {
+                "A": "Manage all resources",
+                "B": "Control the entire programme",
+                "C": "Give opinions while outsiders retain decision-making power",
+                "D": "Conduct all research"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-137",
+            "question": "At the partnership level, decisions are:",
+            "options": {
+                "A": "Made only by government",
+                "B": "Made only by outsiders",
+                "C": "Shared between community and health team",
+                "D": "Made only by one nurse"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-138",
+            "question": "Delegated power means the community:",
+            "options": {
+                "A": "Has no role",
+                "B": "Is only informed",
+                "C": "Controls specific delegated decisions",
+                "D": "Only completes questionnaires"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-139",
+            "question": "The highest level of community participation described is:",
+            "options": {
+                "A": "Informing",
+                "B": "Consultation",
+                "C": "Community control",
+                "D": "Manipulation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-140",
+            "question": "A community health committee can help:",
+            "options": {
+                "A": "Perform laboratory diagnosis",
+                "B": "Replace all nurses",
+                "C": "Link the health team with community members",
+                "D": "Write prescriptions"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-141",
+            "question": "Community volunteers can serve as:",
+            "options": {
+                "A": "Data storage devices",
+                "B": "Hospital surgeons",
+                "C": "A bridge between the health team and community",
+                "D": "Sampling errors"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-142",
+            "question": "Giving assessment findings back to residents helps to build:",
+            "options": {
+                "A": "Sampling bias",
+                "B": "Ethnocentrism",
+                "C": "Trust and accountability",
+                "D": "Professional isolation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-143",
+            "question": "Building on community strengths means identifying:",
+            "options": {
+                "A": "Only disease cases",
+                "B": "Only community problems",
+                "C": "Existing resources that can support health action",
+                "D": "Only external funding"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-144",
+            "question": "A major barrier to community involvement is:",
+            "options": {
+                "A": "Shared decision-making",
+                "B": "Good communication",
+                "C": "Power imbalance",
+                "D": "Community ownership"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-145",
+            "question": "Low health literacy may make community involvement difficult because people may:",
+            "options": {
+                "A": "Automatically control programmes",
+                "B": "Always reject all services",
+                "C": "Have difficulty understanding health information",
+                "D": "Always provide accurate data"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-146",
+            "question": "Political interference may act as a barrier by:",
+            "options": {
+                "A": "Increasing cultural humility",
+                "B": "Improving confidentiality",
+                "C": "Influencing community priorities or decisions",
+                "D": "Improving sampling accuracy"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-147",
+            "question": "The first step in community entry is usually:",
+            "options": {
+                "A": "Data analysis",
+                "B": "Final evaluation",
+                "C": "Pre-entry preparation",
+                "D": "Programme termination"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-148",
+            "question": "A courtesy visit during community entry may be made to the:",
+            "options": {
+                "A": "Pharmacy only",
+                "B": "Laboratory only",
+                "C": "Traditional ruler or community head",
+                "D": "Data entry clerk"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-149",
+            "question": "After meeting community leadership, the health team may meet the:",
+            "options": {
+                "A": "Only laboratory staff",
+                "B": "Only hospital cleaners",
+                "C": "Ward or Village Development/Health Committee",
+                "D": "Only national government"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "COMM-150",
+            "question": "A community meeting during community entry may use a:",
+            "options": {
+                "A": "Referral form",
+                "B": "Laboratory register",
+                "C": "Drug chart",
+                "D": "Town hall"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-151",
+            "question": "Before beginning assessment, the health team should obtain:",
+            "options": {
+                "A": "A drug prescription",
+                "B": "A laboratory result",
+                "C": "A discharge summary",
+                "D": "Community acceptance"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-152",
+            "question": "Community entry is important because it helps establish:",
+            "options": {
+                "A": "Only financial records",
+                "B": "Only sample size",
+                "C": "Only mortality data",
+                "D": "Acceptance and trust"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-153",
+            "question": "Primary data can be collected through:",
+            "options": {
+                "A": "Existing registers only",
+                "B": "Old census reports only",
+                "C": "Previous research only",
+                "D": "Observation and interviews"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-154",
+            "question": "Secondary data may be obtained from:",
+            "options": {
+                "A": "A new household survey",
+                "B": "A newly conducted interview",
+                "C": "A new physical examination",
+                "D": "Census records"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-155",
+            "question": "Which pair is correctly matched?",
+            "options": {
+                "A": "Secondary—new interview",
+                "B": "Qualitative—percentages only",
+                "C": "Primary—old records",
+                "D": "Quantitative—numbers"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-156",
+            "question": "Which pair of data terms is correctly matched?",
+            "options": {
+                "A": "Secondary—new observation",
+                "B": "Quantitative—beliefs only",
+                "C": "Primary—existing census",
+                "D": "Qualitative—experiences and perceptions"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-157",
+            "question": "Combining primary and secondary data can help:",
+            "options": {
+                "A": "Replace informed consent",
+                "B": "Eliminate the need for analysis",
+                "C": "Prevent all bias",
+                "D": "Strengthen understanding of the community"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-158",
+            "question": "A household survey is especially useful for collecting:",
+            "options": {
+                "A": "Only historical records",
+                "B": "Only laboratory specimens",
+                "C": "Only community leadership opinions",
+                "D": "Standardized information from households"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-159",
+            "question": "A key informant should be selected because the person:",
+            "options": {
+                "A": "Is a patient only",
+                "B": "Is randomly selected regardless of knowledge",
+                "C": "Is always a child",
+                "D": "Has relevant knowledge of the community"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-160",
+            "question": "A focus group moderator should primarily:",
+            "options": {
+                "A": "Prevent participants from speaking",
+                "B": "Dominate the discussion",
+                "C": "Give medical prescriptions",
+                "D": "Guide the discussion and encourage participation"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-161",
+            "question": "A windshield survey can help assess:",
+            "options": {
+                "A": "Only laboratory values",
+                "B": "Only personal beliefs",
+                "C": "Only mortality rates",
+                "D": "Visible housing, roads, sanitation and community conditions"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-162",
+            "question": "Environmental inspection can assess the condition of:",
+            "options": {
+                "A": "Only health worker salaries",
+                "B": "Only religious practices",
+                "C": "Only family relationships",
+                "D": "Water sources and waste disposal"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-163",
+            "question": "Asset mapping is different from problem mapping because it focuses on:",
+            "options": {
+                "A": "Hospital admissions only",
+                "B": "Diseases only",
+                "C": "Deaths only",
+                "D": "Resources and capacities"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-164",
+            "question": "An objective of a data collection tool should be:",
+            "options": {
+                "A": "Based on assumptions",
+                "B": "Vague and broad",
+                "C": "Unrelated to the assessment",
+                "D": "Clear and specific"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-165",
+            "question": "A sampling frame is:",
+            "options": {
+                "A": "A report format",
+                "B": "A health education poster",
+                "C": "A community meeting",
+                "D": "A list or representation of units from which a sample may be selected"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-166",
+            "question": "Simple random sampling requires:",
+            "options": {
+                "A": "A focus group",
+                "B": "Only key informants",
+                "C": "Only volunteers",
+                "D": "A sampling frame from which units can be randomly selected"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-167",
+            "question": "Systematic sampling requires selecting units at a:",
+            "options": {
+                "A": "Political interval",
+                "B": "Religious interval",
+                "C": "Random cultural interval",
+                "D": "Regular interval"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-168",
+            "question": "If every 10th household is selected, the technique is:",
+            "options": {
+                "A": "Cluster sampling",
+                "B": "Purposive sampling",
+                "C": "Snowball sampling",
+                "D": "Systematic sampling"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-169",
+            "question": "If a population is divided by age groups before sampling, the technique is:",
+            "options": {
+                "A": "Systematic sampling",
+                "B": "Cluster sampling",
+                "C": "Snowball sampling",
+                "D": "Stratified sampling"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-170",
+            "question": "If entire villages are selected as groups for study, the technique is:",
+            "options": {
+                "A": "Snowball sampling",
+                "B": "Simple random sampling",
+                "C": "Purposive sampling",
+                "D": "Cluster sampling"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-171",
+            "question": "Selecting LGA, then ward, then household is an example of:",
+            "options": {
+                "A": "Purposive sampling",
+                "B": "Systematic sampling",
+                "C": "Snowball sampling",
+                "D": "Multistage sampling"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-172",
+            "question": "Selecting a traditional ruler specifically because of community knowledge is:",
+            "options": {
+                "A": "Cluster sampling",
+                "B": "Simple random sampling",
+                "C": "Systematic sampling",
+                "D": "Purposive sampling"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-173",
+            "question": "When participants recruit other eligible participants, this is:",
+            "options": {
+                "A": "Cluster sampling",
+                "B": "Stratified sampling",
+                "C": "Simple random sampling",
+                "D": "Snowball sampling"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-174",
+            "question": "Snowball sampling is especially useful when the population is:",
+            "options": {
+                "A": "Only hospitalized",
+                "B": "Very small only",
+                "C": "Already fully listed",
+                "D": "Hard to reach or hidden"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-175",
+            "question": "A questionnaire should avoid unnecessary questions because:",
+            "options": {
+                "A": "Objectives are unnecessary",
+                "B": "More questions are always better",
+                "C": "All information is always useful",
+                "D": "Data collection should be focused on defined objectives"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-176",
+            "question": "Open-ended questions are particularly useful when the researcher wants:",
+            "options": {
+                "A": "Only fixed categories",
+                "B": "Only numerical percentages",
+                "C": "Only yes/no answers",
+                "D": "Detailed responses in participants' own words"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-177",
+            "question": "Closed-ended questions are particularly useful when the researcher needs:",
+            "options": {
+                "A": "Community mapping",
+                "B": "Long narratives",
+                "C": "Unstructured stories",
+                "D": "Standardized quantifiable responses"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-178",
+            "question": "Back-translation is used after translation to help check:",
+            "options": {
+                "A": "Whether participants are randomly selected",
+                "B": "Whether sample size increased",
+                "C": "Whether data are quantitative",
+                "D": "Whether meaning has been preserved"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-179",
+            "question": "A pilot test can reveal whether a questionnaire is:",
+            "options": {
+                "A": "A sampling frame",
+                "B": "Legally binding",
+                "C": "A final report",
+                "D": "Understandable and practical to complete"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-180",
+            "question": "Inter-observer variation can be reduced by:",
+            "options": {
+                "A": "Changing definitions during collection",
+                "B": "Using different instructions for each collector",
+                "C": "Avoiding supervision",
+                "D": "Standardizing and training data collectors"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-181",
+            "question": "Reviewing completed forms daily helps the team:",
+            "options": {
+                "A": "Skip analysis",
+                "B": "Avoid all community participation",
+                "C": "Replace data collectors",
+                "D": "Correct missing or inconsistent information while fieldwork continues"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-182",
+            "question": "Double data entry can help minimize:",
+            "options": {
+                "A": "All sampling error",
+                "B": "Community resistance",
+                "C": "Cultural differences",
+                "D": "Transcription errors"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-183",
+            "question": "A response rate refers to:",
+            "options": {
+                "A": "The number of questions in a tool",
+                "B": "The number of diseases in a community",
+                "C": "The number of nurses in a facility",
+                "D": "The proportion of selected participants who respond"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-184",
+            "question": "A refusal during data collection should be:",
+            "options": {
+                "A": "Ignored completely",
+                "B": "Hidden",
+                "C": "Recorded as consent",
+                "D": "Documented appropriately"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-185",
+            "question": "Confidentiality means:",
+            "options": {
+                "A": "Ignoring privacy",
+                "B": "Publishing names publicly",
+                "C": "Sharing data with everyone",
+                "D": "Protecting participants' information from unauthorized disclosure"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-186",
+            "question": "Informed consent means participants:",
+            "options": {
+                "A": "Must sign without explanation",
+                "B": "Must participate because they were selected",
+                "C": "Are not allowed to ask questions",
+                "D": "Receive adequate information and voluntarily agree to participate"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-187",
+            "question": "Gender roles may influence:",
+            "options": {
+                "A": "Only report formatting",
+                "B": "Only age distribution",
+                "C": "Only sampling intervals",
+                "D": "Access to and control over health resources"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-188",
+            "question": "Gender-disaggregated data means data are:",
+            "options": {
+                "A": "Never analyzed",
+                "B": "Collected only from women",
+                "C": "Collected only from men",
+                "D": "Separated by sex/gender categories where appropriate"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-189",
+            "question": "The sex of an interviewer may affect disclosure of:",
+            "options": {
+                "A": "Only road conditions",
+                "B": "Only household size",
+                "C": "Only immunization status",
+                "D": "Sensitive sexual or reproductive information"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-190",
+            "question": "Adolescents may require assessment of:",
+            "options": {
+                "A": "Only birth registration",
+                "B": "Only chronic disease",
+                "C": "Only falls",
+                "D": "Reproductive health, mental health and substance use"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-191",
+            "question": "Children's assessment should consider:",
+            "options": {
+                "A": "No ethical considerations",
+                "B": "Only adult questionnaires",
+                "C": "Only verbal reports from nurses",
+                "D": "Age-appropriate communication and consent requirements"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-192",
+            "question": "For older adults, social isolation is an example of a:",
+            "options": {
+                "A": "Reporting format",
+                "B": "Sampling method",
+                "C": "Cultural belief system",
+                "D": "Relevant assessment concern"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-193",
+            "question": "Nationality and migration status may influence:",
+            "options": {
+                "A": "Only hospital staffing",
+                "B": "Only documentation style",
+                "C": "Only sampling intervals",
+                "D": "Language, access to services and health risks"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-194",
+            "question": "An assessment should avoid assuming that all members of a nationality:",
+            "options": {
+                "A": "Are community members",
+                "B": "Have access to care",
+                "C": "Speak the same language",
+                "D": "Share identical beliefs or practices"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-195",
+            "question": "Religion may influence people's acceptance of:",
+            "options": {
+                "A": "Only data entry",
+                "B": "Only road construction",
+                "C": "Only sampling methods",
+                "D": "Certain health interventions"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-196",
+            "question": "A religious leader can be important because they may:",
+            "options": {
+                "A": "Control all medical treatment",
+                "B": "Replace all health professionals",
+                "C": "Collect laboratory samples only",
+                "D": "Influence community attitudes toward health programmes"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-197",
+            "question": "Intersectionality is useful for identifying:",
+            "options": {
+                "A": "Only religious practices",
+                "B": "Only differences between hospitals",
+                "C": "Only age groups",
+                "D": "How overlapping identities can increase vulnerability"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-198",
+            "question": "An assessment of gender, age, religion and nationality should aim to identify:",
+            "options": {
+                "A": "Only health worker numbers",
+                "B": "Only population size",
+                "C": "Only financial resources",
+                "D": "Differences and inequities in health needs"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "COMM-199",
+            "question": "Interprofessional collaboration involves:",
+            "options": {
+                "A": "Only government agencies",
+                "B": "Only nurses working together",
+                "C": "Only community leaders",
+                "D": "Different health professions working together"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+         {
+            "id": "COMM-200",
+            "question": "What is a Community Health Assessment (CHA)?",
+            "options": {
+                "A": "A systematic process of collecting, analyzing and interpreting community health data",
+                "B": "A hospital admission procedure",
+                "C": "A method of prescribing drugs",
+                "D": "A process of treating one patient"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

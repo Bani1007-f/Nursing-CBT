@@ -1,0 +1,10 @@
+{
+    "course": "med-surg-ii",
+    "category": "respiratory-system",
+    "topic": "Anatomy and Physiology",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+    ]
+}

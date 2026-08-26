@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dashboard — CBT</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+         TOP BAR
+    ========================== -->
+
+    <header class="topbar">
+
+        <div class="logo">
+            <span>✦</span>
+            <strong>CBT</strong>
+        </div>
+
+        <nav id="main-nav">
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="dashboard.html">
+                Dashboard
+            </a>
+
+            <a href="history.html">
+                History
+            </a>
+
+            <button
+                id="logout-button"
+                class="nav-button"
+            >
+                Logout
+            </button>
+
+        </nav>
+
+    </header>
+
+
+    <!-- =========================
+         DASHBOARD
+    ========================== -->
+
+    <main class="dashboard">
+
+        <section class="dashboard-header">
+
+            <p class="eyebrow">
+                YOUR DASHBOARD
+            </p>
+
+            <h1 id="welcome-message">
+                Welcome back
+            </h1>
+
+            <p>
+                Track your CBT performance and keep improving.
+            </p>
+
+        </section>
+
+
+        <!-- =========================
+             STATISTICS
+        ========================== -->
+
+        <section class="dashboard-stats">
+
+            <div class="dashboard-stat">
+
+                <span>
+                    TESTS TAKEN
+                </span>
+
+                <strong id="total-tests">
+                    —
+                </strong>
+
+            </div>
+
+
+            <div class="dashboard-stat">
+
+                <span>
+                    AVERAGE SCORE
+                </span>
+
+                <strong id="average-score">
+                    —
+                </strong>
+
+            </div>
+
+
+            <div class="dashboard-stat">
+
+                <span>
+                    BEST SCORE
+                </span>
+
+                <strong id="highest-score">
+                    —
+                </strong>
+
+            </div>
+
+
+            <div class="dashboard-stat">
+
+                <span>
+                    QUESTIONS
+                </span>
+
+                <strong id="total-questions">
+                    —
+                </strong>
+
+            </div>
+
+
+            <div class="dashboard-stat">
+
+                <span>
+                    CORRECT ANSWERS
+                </span>
+
+                <strong id="correct-answers">
+                    —
+                </strong>
+
+            </div>
+
+
+            <div class="dashboard-stat">
+
+                <span>
+                    ACCURACY
+                </span>
+
+                <strong id="accuracy">
+                    —
+                </strong>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             QUICK ACTION
+        ========================== -->
+
+        <section class="dashboard-action">
+
+            <div>
+
+                <h2>
+                    Ready for another test?
+                </h2>
+
+                <p>
+                    Choose a course and start practising.
+                </p>
+
+            </div>
+
+            <a
+                href="index.html"
+                class="start-button"
+            >
+                Start a Test
+                <span>→</span>
+            </a>
+
+        </section>
+
+
+        <!-- =========================
+             RECENT TESTS
+        ========================== -->
+
+        <section class="dashboard-section">
+
+            <div class="section-heading">
+
+                <div>
+
+                    <p class="eyebrow">
+                        ACTIVITY
+                    </p>
+
+                    <h2>
+                        Recent Tests
+                    </h2>
+
+                </div>
+
+                <a href="history.html">
+                    View all
+                </a>
+
+            </div>
+
+
+            <div
+                id="recent-tests"
+                class="recent-tests"
+            >
+
+                <p>
+                    Loading recent tests...
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             COURSE PERFORMANCE
+        ========================== -->
+
+        <section class="dashboard-section">
+
+            <div class="section-heading">
+
+                <div>
+
+                    <p class="eyebrow">
+                        PERFORMANCE
+                    </p>
+
+                    <h2>
+                        Performance by Course
+                    </h2>
+
+                </div>
+
+            </div>
+
+
+            <div
+                id="course-performance"
+                class="course-performance"
+            >
+
+                <p>
+                    Loading performance...
+                </p>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <script src="js/dashboard.js"></script>
+
+</body>
+
+</html>

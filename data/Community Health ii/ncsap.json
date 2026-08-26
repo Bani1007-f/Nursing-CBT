@@ -1,0 +1,369 @@
+{
+    "course": "community-health-ii",
+    "topic": "NCSAP",
+    "testSettings": {
+        "questionCount": 20
+    },
+    "questions": [
+        {
+            "id": "NCSA-001",
+            "question": "NCSAP stands for:",
+            "options": {
+                "A": "Nigerian Child Survival Action Plan",
+                "B": "National Child Safety Assessment Programme",
+                "C": "Nigerian Community Services Action Policy",
+                "D": "National Child Screening and Prevention"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-002",
+            "question": "The current NCSAP covered in the material is for:",
+            "options": {
+                "A": "2025–2029",
+                "B": "2020–2024",
+                "C": "2024–2028",
+                "D": "2026–2030"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-003",
+            "question": "NCSAP focuses on children aged:",
+            "options": {
+                "A": "1–59 months",
+                "B": "Birth–6 months",
+                "C": "5–10 years",
+                "D": "10–19 years"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-004",
+            "question": "The NCSAP vision includes:",
+            "options": {
+                "A": "No preventable deaths among children 1–59 months",
+                "B": "No adult deaths",
+                "C": "No hospital admissions",
+                "D": "No childhood infections"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-005",
+            "question": "The NCSAP mission integrates RMNCAEH+Nutrition services across the:",
+            "options": {
+                "A": "Continuum of care",
+                "B": "School system",
+                "C": "Transport sector",
+                "D": "Industrial sector"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-006",
+            "question": "The NCSAP goal is to accelerate reduction of:",
+            "options": {
+                "A": "Preventable deaths among children 1–59 months",
+                "B": "Maternal mortality only",
+                "C": "Adult cancer deaths",
+                "D": "Road traffic injuries only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-007",
+            "question": "NCSAP Strategic Objective 1 addresses:",
+            "options": {
+                "A": "Morbidity and mortality from major causes of death",
+                "B": "Only education",
+                "C": "Only immunization",
+                "D": "Only sanitation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-008",
+            "question": "NCSAP Strategic Objective 2 addresses:",
+            "options": {
+                "A": "Child vulnerability and survival, thriving and potential",
+                "B": "Only malaria",
+                "C": "Only breastfeeding",
+                "D": "Only disasters"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-009",
+            "question": "A key NCSAP approach is:",
+            "options": {
+                "A": "Leadership and governance",
+                "B": "Reducing accountability",
+                "C": "Avoiding partnerships",
+                "D": "Limiting monitoring"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-010",
+            "question": "NCSAP promotes:",
+            "options": {
+                "A": "Partnerships and coordination",
+                "B": "Programme isolation",
+                "C": "No stakeholder involvement",
+                "D": "No community engagement"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-011",
+            "question": "NCSAP emphasizes:",
+            "options": {
+                "A": "Improved quality of care",
+                "B": "Reduced quality of care",
+                "C": "Only tertiary care",
+                "D": "No referral"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-012",
+            "question": "Vulnerable populations should have improved:",
+            "options": {
+                "A": "Access to services",
+                "B": "Financial barriers",
+                "C": "Travel distance",
+                "D": "Waiting times only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-013",
+            "question": "Community engagement is a NCSAP:",
+            "options": {
+                "A": "Key strategic approach",
+                "B": "Prohibited activity",
+                "C": "Hospital-only activity",
+                "D": "Laboratory procedure"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-014",
+            "question": "NCSAP encourages:",
+            "options": {
+                "A": "Evidence-based decision-making",
+                "B": "Decisions without data",
+                "C": "No monitoring",
+                "D": "No evaluation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-015",
+            "question": "NCSAP promotes stakeholder:",
+            "options": {
+                "A": "Accountability",
+                "B": "Isolation",
+                "C": "Exclusion",
+                "D": "Competition only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-016",
+            "question": "Resource mobilisation under NCSAP should be:",
+            "options": {
+                "A": "Equitable",
+                "B": "Restricted to tertiary hospitals",
+                "C": "Unplanned",
+                "D": "Avoided"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-017",
+            "question": "NCSAP priority LGAs were identified using data including:",
+            "options": {
+                "A": "DHIS2",
+                "B": "Only school attendance",
+                "C": "Only rainfall data",
+                "D": "Only hospital bills"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-018",
+            "question": "The NCSAP identifies:",
+            "options": {
+                "A": "172 LGAs with poorest child-mortality outcomes",
+                "B": "17 LGAs",
+                "C": "72 LGAs",
+                "D": "700 LGAs"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-019",
+            "question": "One NCSAP monitoring indicator is:",
+            "options": {
+                "A": "ITN use",
+                "B": "Hospital bed colour",
+                "C": "Staff uniform use",
+                "D": "Parking capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-020",
+            "question": "The 2029 target for under-five mortality is:",
+            "options": {
+                "A": "70 per 1,000",
+                "B": "25 per 1,000",
+                "C": "110 per 1,000",
+                "D": "201 per 1,000"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-021",
+            "question": "The 2029 target for Penta-3 coverage is:",
+            "options": {
+                "A": "84%",
+                "B": "53%",
+                "C": "60%",
+                "D": "37%"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-022",
+            "question": "The 2029 target for zero-dose children is:",
+            "options": {
+                "A": "5%",
+                "B": "37%",
+                "C": "10%",
+                "D": "28.8%"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-023",
+            "question": "The 2029 target for IMCI-trained health facilities is:",
+            "options": {
+                "A": "60%",
+                "B": "10%",
+                "C": "25%",
+                "D": "84%"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-024",
+            "question": "The 2029 target for exclusive breastfeeding is:",
+            "options": {
+                "A": "50%",
+                "B": "28.8%",
+                "C": "37%",
+                "D": "70%"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-025",
+            "question": "NCSAP prioritizes IMCI and:",
+            "options": {
+                "A": "iCCM training",
+                "B": "BCG-only training",
+                "C": "Disaster-only training",
+                "D": "School-health-only training"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-026",
+            "question": "The plan calls for strengthening:",
+            "options": {
+                "A": "Primary health centres",
+                "B": "Only tertiary hospitals",
+                "C": "Only laboratories",
+                "D": "Only pharmacies"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-027",
+            "question": "NCSAP aims to reduce financial barriers to:",
+            "options": {
+                "A": "Child health care",
+                "B": "School registration",
+                "C": "Hospital construction",
+                "D": "Vaccination only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-028",
+            "question": "Community members should help identify:",
+            "options": {
+                "A": "Sick and vulnerable children",
+                "B": "Only health workers",
+                "C": "Only hospital equipment",
+                "D": "Only vaccines"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-029",
+            "question": "Community-based health workers may identify:",
+            "options": {
+                "A": "Zero-dose and missed-immunization children",
+                "B": "Only adults",
+                "C": "Only newborns",
+                "D": "Only laboratory cases"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "NCSA-030",
+            "question": "NCSAP calls for data to be used to:",
+            "options": {
+                "A": "Monitor programmes and identify inequities",
+                "B": "Avoid evaluation",
+                "C": "Reduce accountability",
+                "D": "Stop service improvement"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

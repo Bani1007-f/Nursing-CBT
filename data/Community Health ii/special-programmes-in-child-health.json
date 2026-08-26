@@ -1,0 +1,609 @@
+{
+    "course": "community-health-ii",
+    "topic": "Special Programmes in Child Health",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "SPICH-001",
+            "question": "Growth monitoring is the regular measurement of a child's:",
+            "options": {
+                "A": "Physical growth over time",
+                "B": "School performance",
+                "C": "Blood pressure only",
+                "D": "Family income"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-002",
+            "question": "Which is a main growth-monitoring measurement?",
+            "options": {
+                "A": "Weight",
+                "B": "Blood group",
+                "C": "Vision only",
+                "D": "Blood pressure only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-003",
+            "question": "MUAC is mainly used for screening:",
+            "options": {
+                "A": "Acute malnutrition",
+                "B": "Hearing loss",
+                "C": "Cervical cancer",
+                "D": "Tuberculosis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-004",
+            "question": "Length is specifically used for children:",
+            "options": {
+                "A": "Under 2 years",
+                "B": "Over 5 years only",
+                "C": "Over 10 years only",
+                "D": "Over 18 years"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-005",
+            "question": "Height is specifically used for children:",
+            "options": {
+                "A": "Over 2 years",
+                "B": "Under 6 months",
+                "C": "Under 1 year only",
+                "D": "At birth only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-006",
+            "question": "Low weight-for-age suggests:",
+            "options": {
+                "A": "Underweight",
+                "B": "Stunting",
+                "C": "Wasting only",
+                "D": "Obesity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-007",
+            "question": "Low height-for-age indicates:",
+            "options": {
+                "A": "Stunting",
+                "B": "Wasting",
+                "C": "Underweight only",
+                "D": "Acute dehydration"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-008",
+            "question": "Low weight-for-height/length indicates:",
+            "options": {
+                "A": "Wasting",
+                "B": "Stunting",
+                "C": "Hypertension",
+                "D": "Overweight"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-009",
+            "question": "Stunting primarily reflects:",
+            "options": {
+                "A": "Chronic undernutrition",
+                "B": "Acute dehydration",
+                "C": "Acute infection only",
+                "D": "Overhydration"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-010",
+            "question": "Wasting primarily reflects:",
+            "options": {
+                "A": "Acute malnutrition",
+                "B": "Long-term linear growth",
+                "C": "Normal growth",
+                "D": "Overweight"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-011",
+            "question": "Growth faltering may be seen when a growth curve:",
+            "options": {
+                "A": "Stops progressing appropriately or crosses downward through percentiles",
+                "B": "Always rises upward",
+                "C": "Remains fixed",
+                "D": "Disappears"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-012",
+            "question": "A Growth Monitoring Programme is mainly:",
+            "options": {
+                "A": "Community-based",
+                "B": "Hospital-surgery based",
+                "C": "Laboratory-based",
+                "D": "School-exam based"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-013",
+            "question": "The main purpose of GMP is to:",
+            "options": {
+                "A": "Find problems early and intervene early",
+                "B": "Delay referral",
+                "C": "Replace immunization",
+                "D": "Treat only adults"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-014",
+            "question": "Children under two are typically monitored according to the document:",
+            "options": {
+                "A": "Monthly",
+                "B": "Every five years",
+                "C": "Once only",
+                "D": "Every decade"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-015",
+            "question": "Older children in GMP are typically checked:",
+            "options": {
+                "A": "Quarterly",
+                "B": "Daily",
+                "C": "Every two years",
+                "D": "Only during illness"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-016",
+            "question": "Growth monitoring is not the same as:",
+            "options": {
+                "A": "Developmental screening",
+                "B": "Nutrition counselling",
+                "C": "Anthropometry",
+                "D": "Child health care"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-017",
+            "question": "A developmental screening tool mentioned in the material is:",
+            "options": {
+                "A": "ASQ",
+                "B": "BCG",
+                "C": "VVM",
+                "D": "OPV"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-018",
+            "question": "Another developmental screening tool mentioned is:",
+            "options": {
+                "A": "SWYC",
+                "B": "PCV",
+                "C": "ORS",
+                "D": "IPV"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-019",
+            "question": "Primary Health Care aims to make essential health services:",
+            "options": {
+                "A": "Accessible and close to communities",
+                "B": "Available only in tertiary hospitals",
+                "C": "Available only to adults",
+                "D": "Available only privately"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-020",
+            "question": "Primary Health Care includes:",
+            "options": {
+                "A": "Health promotion, prevention, treatment and rehabilitation",
+                "B": "Only surgery",
+                "C": "Only diagnosis",
+                "D": "Only hospital admission"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-021",
+            "question": "The Alma-Ata Declaration is associated with:",
+            "options": {
+                "A": "Primary Health Care",
+                "B": "Cold-chain monitoring",
+                "C": "Disaster triage",
+                "D": "Hospital financing only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-022",
+            "question": "One principle of PHC is:",
+            "options": {
+                "A": "Equitable distribution",
+                "B": "Exclusive hospital care",
+                "C": "No community participation",
+                "D": "High-cost technology only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-023",
+            "question": "Community participation in PHC includes:",
+            "options": {
+                "A": "Planning, implementation and decision-making",
+                "B": "Only paying fees",
+                "C": "Only receiving drugs",
+                "D": "Only attending hospitals"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-024",
+            "question": "Appropriate technology should be:",
+            "options": {
+                "A": "Accessible, affordable, feasible and culturally acceptable",
+                "B": "Expensive and inaccessible",
+                "C": "Technically complex only",
+                "D": "Imported only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-025",
+            "question": "A vaccine refrigerator is an example of:",
+            "options": {
+                "A": "Appropriate technology",
+                "B": "A disaster",
+                "C": "A screening tool",
+                "D": "A developmental test"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-026",
+            "question": "The multisectoral approach recognizes that health improvement requires:",
+            "options": {
+                "A": "Other sectors beyond health",
+                "B": "Only hospitals",
+                "C": "Only nurses",
+                "D": "Only laboratories"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-027",
+            "question": "Selective Primary Health Care focuses on interventions that are:",
+            "options": {
+                "A": "Effective, affordable and measurable",
+                "B": "Expensive and broad only",
+                "C": "Unmeasurable",
+                "D": "Hospital-only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-028",
+            "question": "GOBI stands for:",
+            "options": {
+                "A": "Growth monitoring, ORT, Breastfeeding, Immunization",
+                "B": "Growth, Oxygen, Blood, Infection",
+                "C": "Guidance, Observation, Breastfeeding, Infection",
+                "D": "Growth, Oral antibiotics, Breastfeeding, IPV"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-029",
+            "question": "In GOBI, O stands for:",
+            "options": {
+                "A": "Oral rehydration therapy",
+                "B": "Oxygen",
+                "C": "Observation",
+                "D": "Outreach"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-030",
+            "question": "In GOBI-FFF, the first F stands for:",
+            "options": {
+                "A": "Family spacing/family planning",
+                "B": "Fever",
+                "C": "Food safety",
+                "D": "Follow-up"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-031",
+            "question": "In GOBI-FFF, female education is represented by:",
+            "options": {
+                "A": "The second F",
+                "B": "G",
+                "C": "O",
+                "D": "I"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-032",
+            "question": "Food supplementation is represented by:",
+            "options": {
+                "A": "The third F",
+                "B": "G",
+                "C": "O",
+                "D": "I"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-033",
+            "question": "GOBI-FFF contains how many interventions?",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "7",
+                "D": "10"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-034",
+            "question": "ORT means:",
+            "options": {
+                "A": "Administration of appropriate fluids orally to prevent or treat dehydration",
+                "B": "Oral vaccine therapy",
+                "C": "Only IV therapy",
+                "D": "A nutrition programme"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-035",
+            "question": "ORS means:",
+            "options": {
+                "A": "Oral Rehydration Salts",
+                "B": "Oral Respiratory Support",
+                "C": "Oral Recovery System",
+                "D": "Oral Refeeding Schedule"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-036",
+            "question": "ORT is the:",
+            "options": {
+                "A": "Treatment/therapy",
+                "B": "Solution only",
+                "C": "Vaccine",
+                "D": "Growth chart"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-037",
+            "question": "ORS is the:",
+            "options": {
+                "A": "Solution used for oral rehydration",
+                "B": "Nursing diagnosis",
+                "C": "Growth indicator",
+                "D": "Vaccine carrier"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-038",
+            "question": "A major danger of diarrhoea is:",
+            "options": {
+                "A": "Dehydration",
+                "B": "Stunting immediately",
+                "C": "Cervical cancer",
+                "D": "Hypertension"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-039",
+            "question": "ORS contains glucose, sodium, potassium and:",
+            "options": {
+                "A": "Citrate",
+                "B": "Iron",
+                "C": "Vitamin D",
+                "D": "Calcium carbonate"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-040",
+            "question": "Glucose in ORS helps:",
+            "options": {
+                "A": "Sodium absorption",
+                "B": "Stop all diarrhoea instantly",
+                "C": "Prevent vaccination",
+                "D": "Cause dehydration"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-041",
+            "question": "The sodium-glucose mechanism is called:",
+            "options": {
+                "A": "Sodium-glucose co-transport",
+                "B": "Active immunization",
+                "C": "Phagocytosis",
+                "D": "Cold-chain transport"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-042",
+            "question": "Water follows sodium after sodium is:",
+            "options": {
+                "A": "Absorbed",
+                "B": "Destroyed",
+                "C": "Frozen",
+                "D": "Vaccinated"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-043",
+            "question": "The major site of ORS absorption is the:",
+            "options": {
+                "A": "Small intestine",
+                "B": "Stomach only",
+                "C": "Liver",
+                "D": "Kidney"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-044",
+            "question": "Reduced-osmolarity ORS contains sodium at approximately:",
+            "options": {
+                "A": "75 mEq/L",
+                "B": "25 mEq/L",
+                "C": "150 mEq/L",
+                "D": "245 mEq/L"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-045",
+            "question": "Reduced-osmolarity ORS contains glucose at approximately:",
+            "options": {
+                "A": "75 mmol/L",
+                "B": "25 mmol/L",
+                "C": "150 mmol/L",
+                "D": "245 mmol/L"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-046",
+            "question": "Total osmolarity of reduced-osmolarity ORS is approximately:",
+            "options": {
+                "A": "75 mOsm/L",
+                "B": "150 mOsm/L",
+                "C": "245 mOsm/L",
+                "D": "500 mOsm/L"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-047",
+            "question": "Breastfeeding should ideally begin:",
+            "options": {
+                "A": "Within the first hour after birth",
+                "B": "After 24 hours",
+                "C": "At 6 months",
+                "D": "At 1 year"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-048",
+            "question": "Exclusive breastfeeding is recommended for:",
+            "options": {
+                "A": "6 months",
+                "B": "1 month",
+                "C": "3 months",
+                "D": "12 months"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-049",
+            "question": "Exclusive breastfeeding means:",
+            "options": {
+                "A": "Breast milk only, with no other foods or liquids",
+                "B": "Breast milk plus water",
+                "C": "Breast milk plus juice",
+                "D": "Formula plus water"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPICH-050",
+            "question": "After 6 months, breastfeeding should continue with:",
+            "options": {
+                "A": "Appropriate complementary foods",
+                "B": "No other foods",
+                "C": "Only water",
+                "D": "Only formula"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

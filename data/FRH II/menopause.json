@@ -1,0 +1,729 @@
+{
+    "course": "frh-ii",
+    "topic": "Menopause",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "MENO-001",
+            "question": "Menopause occurs primarily because of declining:",
+            "options": {
+                "A": "Testicular function",
+                "B": "Ovarian function",
+                "C": "Thyroid function",
+                "D": "Pituitary function only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-002",
+            "question": "Which hormones decline significantly during menopause?",
+            "options": {
+                "A": "Estrogen and progesterone",
+                "B": "FSH and LH",
+                "C": "Testosterone and insulin",
+                "D": "ADH and oxytocin"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-003",
+            "question": "Clinically, menopause is confirmed after:",
+            "options": {
+                "A": "3 months without menstruation",
+                "B": "6 months without menstruation",
+                "C": "12 consecutive months without menstruation",
+                "D": "24 months without menstruation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MENO-004",
+            "question": "Natural menopause commonly occurs between:",
+            "options": {
+                "A": "20–30 years",
+                "B": "30–40 years",
+                "C": "45–55 years",
+                "D": "65–75 years"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MENO-005",
+            "question": "Natural menopause commonly occurs around:",
+            "options": {
+                "A": "30 years",
+                "B": "40 years",
+                "C": "50 years",
+                "D": "70 years"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MENO-006",
+            "question": "The transition before menopause is called:",
+            "options": {
+                "A": "Postmenopause",
+                "B": "Perimenopause",
+                "C": "Menarche",
+                "D": "Ovulation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-007",
+            "question": "During perimenopause, estrogen levels may:",
+            "options": {
+                "A": "Remain completely constant",
+                "B": "Fluctuate",
+                "C": "Increase permanently",
+                "D": "Become absent immediately"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-008",
+            "question": "During perimenopause, menstrual periods may become:",
+            "options": {
+                "A": "Only heavier",
+                "B": "Only lighter",
+                "C": "Irregular",
+                "D": "Completely predictable"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MENO-009",
+            "question": "Postmenopause refers to:",
+            "options": {
+                "A": "The period before puberty",
+                "B": "The period after menopause",
+                "C": "The first menstrual period",
+                "D": "The period before perimenopause"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-010",
+            "question": "Surgical menopause can occur after removal of:",
+            "options": {
+                "A": "Both ovaries",
+                "B": "Both kidneys",
+                "C": "The uterus only",
+                "D": "The breasts"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-011",
+            "question": "Surgical menopause causes:",
+            "options": {
+                "A": "Gradual hormone decline over decades",
+                "B": "Abrupt hormone decline",
+                "C": "Increased estrogen",
+                "D": "Increased progesterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-012",
+            "question": "Premature or early menopause occurs before:",
+            "options": {
+                "A": "Age 25",
+                "B": "Age 30",
+                "C": "Age 40",
+                "D": "Age 50"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MENO-013",
+            "question": "Which can contribute to premature or early menopause?",
+            "options": {
+                "A": "Chemotherapy",
+                "B": "Regular exercise",
+                "C": "Adequate sleep",
+                "D": "Balanced diet"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-014",
+            "question": "The reproductive system is regulated by the:",
+            "options": {
+                "A": "HPG axis",
+                "B": "HPO axis",
+                "C": "Renal axis",
+                "D": "Cardiovascular axis"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-015",
+            "question": "In the female reproductive system, GnRH is released by the:",
+            "options": {
+                "A": "Ovaries",
+                "B": "Hypothalamus",
+                "C": "Pituitary gland",
+                "D": "Uterus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-016",
+            "question": "GnRH stimulates the pituitary to release:",
+            "options": {
+                "A": "Estrogen and progesterone",
+                "B": "FSH and LH",
+                "C": "Testosterone and inhibin",
+                "D": "Oxytocin and ADH"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-017",
+            "question": "FSH and LH act on the:",
+            "options": {
+                "A": "Ovaries",
+                "B": "Kidneys",
+                "C": "Liver",
+                "D": "Lungs"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-018",
+            "question": "As ovarian follicles become depleted, estrogen and progesterone levels:",
+            "options": {
+                "A": "Increase",
+                "B": "Decline",
+                "C": "Remain permanently high",
+                "D": "Become unrelated to ovarian function"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-019",
+            "question": "Because estrogen decreases, FSH and LH levels generally:",
+            "options": {
+                "A": "Decrease",
+                "B": "Rise",
+                "C": "Disappear",
+                "D": "Remain exactly the same"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-020",
+            "question": "The rise in FSH during menopause is mainly due to:",
+            "options": {
+                "A": "Increased estrogen feedback",
+                "B": "Reduced estrogen negative feedback",
+                "C": "Increased progesterone",
+                "D": "Increased testosterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-021",
+            "question": "Eventually, menopause results in cessation of:",
+            "options": {
+                "A": "Ovulation and menstruation",
+                "B": "Breathing",
+                "C": "Digestion",
+                "D": "Urination"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-022",
+            "question": "After menopause, natural pregnancy is:",
+            "options": {
+                "A": "More likely",
+                "B": "No longer possible",
+                "C": "Guaranteed",
+                "D": "More common"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-023",
+            "question": "A common vasomotor symptom of menopause is:",
+            "options": {
+                "A": "Hot flashes",
+                "B": "Increased appetite only",
+                "C": "Increased muscle mass",
+                "D": "Menstrual cramps only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-024",
+            "question": "Hot flashes are associated with altered:",
+            "options": {
+                "A": "Temperature regulation",
+                "B": "Blood glucose production only",
+                "C": "Kidney filtration",
+                "D": "Bone formation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-025",
+            "question": "Another vasomotor symptom is:",
+            "options": {
+                "A": "Night sweats",
+                "B": "Increased menstruation",
+                "C": "Increased fertility",
+                "D": "Hair growth"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-026",
+            "question": "Menopause may cause:",
+            "options": {
+                "A": "Vaginal dryness",
+                "B": "Increased vaginal elasticity",
+                "C": "Increased lubrication in all women",
+                "D": "Increased estrogen production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-027",
+            "question": "A genitourinary symptom of menopause is:",
+            "options": {
+                "A": "Urinary urgency",
+                "B": "Increased fertility",
+                "C": "Increased ovulation",
+                "D": "Increased menstrual flow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-028",
+            "question": "Menopause may increase the risk of:",
+            "options": {
+                "A": "Recurrent urinary tract infections",
+                "B": "Appendicitis",
+                "C": "Asthma",
+                "D": "Malaria"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-029",
+            "question": "Painful intercourse associated with menopause is known as:",
+            "options": {
+                "A": "Dysmenorrhea",
+                "B": "Dyspareunia",
+                "C": "Amenorrhea",
+                "D": "Menorrhagia"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-030",
+            "question": "Psychological symptoms may include:",
+            "options": {
+                "A": "Anxiety and irritability",
+                "B": "Increased concentration in every woman",
+                "C": "Permanent euphoria",
+                "D": "Increased motivation in every woman"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-031",
+            "question": "Menopause may affect:",
+            "options": {
+                "A": "Memory and concentration",
+                "B": "Only the reproductive system",
+                "C": "Only the skin",
+                "D": "Only the kidneys"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-032",
+            "question": "Sleep disturbances may include:",
+            "options": {
+                "A": "Difficulty falling asleep",
+                "B": "Permanent unconsciousness",
+                "C": "Increased sleep quality in all women",
+                "D": "Nocturnal ovulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-033",
+            "question": "Night sweats can contribute to:",
+            "options": {
+                "A": "Sleep disruption",
+                "B": "Increased fertility",
+                "C": "Increased estrogen",
+                "D": "Increased bone density"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-034",
+            "question": "Menopause can cause changes in:",
+            "options": {
+                "A": "Skin and hair",
+                "B": "Only the heart",
+                "C": "Only the uterus",
+                "D": "Only the kidneys"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-035",
+            "question": "A body composition change associated with menopause is altered:",
+            "options": {
+                "A": "Body-fat distribution",
+                "B": "Blood type",
+                "C": "Eye color",
+                "D": "Height in all women"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-036",
+            "question": "A common sexual change during menopause is:",
+            "options": {
+                "A": "Reduced sexual desire",
+                "B": "Increased ovulation",
+                "C": "Increased fertility",
+                "D": "Increased estrogen"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-037",
+            "question": "Diagnosis of typical menopause is usually based on:",
+            "options": {
+                "A": "Symptoms and menstrual history",
+                "B": "MRI in every woman",
+                "C": "CT scan in every woman",
+                "D": "Biopsy in every woman"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-038",
+            "question": "Laboratory testing is:",
+            "options": {
+                "A": "Routinely required for every woman",
+                "B": "Not routinely required for typical menopause",
+                "C": "Always contraindicated",
+                "D": "Required every month"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-039",
+            "question": "FSH testing may be useful when:",
+            "options": {
+                "A": "The woman is younger or the diagnosis is uncertain",
+                "B": "Menopause is obvious in every case",
+                "C": "The woman has no symptoms",
+                "D": "The patient is pregnant"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-040",
+            "question": "FSH is often elevated during menopause because:",
+            "options": {
+                "A": "Ovarian activity is reduced",
+                "B": "Estrogen is increased",
+                "C": "Progesterone is increased",
+                "D": "Ovulation is increased"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-041",
+            "question": "The main aim of menopause management is to:",
+            "options": {
+                "A": "Restore fertility in every woman",
+                "B": "Relieve symptoms and prevent long-term complications",
+                "C": "Increase menstrual bleeding",
+                "D": "Stop all hormones permanently"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-042",
+            "question": "Management should be:",
+            "options": {
+                "A": "The same for every woman",
+                "B": "Individualized",
+                "C": "Based only on age",
+                "D": "Based only on FSH"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-043",
+            "question": "A recommended lifestyle measure is:",
+            "options": {
+                "A": "Regular physical activity",
+                "B": "Smoking",
+                "C": "Complete inactivity",
+                "D": "Heavy alcohol consumption"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-044",
+            "question": "Weight-bearing exercise is particularly useful for:",
+            "options": {
+                "A": "Bone health",
+                "B": "Increasing hot flashes",
+                "C": "Causing osteoporosis",
+                "D": "Increasing vaginal dryness"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-045",
+            "question": "A healthy diet during menopause should include adequate:",
+            "options": {
+                "A": "Calcium and vitamin D",
+                "B": "Alcohol",
+                "C": "Caffeine only",
+                "D": "Sugar only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-046",
+            "question": "Smoking during menopause should be:",
+            "options": {
+                "A": "Increased",
+                "B": "Avoided",
+                "C": "Used to reduce hot flashes",
+                "D": "Used to increase bone density"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-047",
+            "question": "Alcohol consumption should generally be:",
+            "options": {
+                "A": "Increased",
+                "B": "Limited",
+                "C": "Used as treatment",
+                "D": "Required daily"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MENO-048",
+            "question": "To reduce hot flashes, women may benefit from:",
+            "options": {
+                "A": "A cool environment",
+                "B": "Excessive heat",
+                "C": "Heavy clothing",
+                "D": "Spicy food as treatment"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-049",
+            "question": "Stress can be a trigger for:",
+            "options": {
+                "A": "Hot flashes",
+                "B": "Ovulation after menopause",
+                "C": "Increased estrogen production",
+                "D": "Increased fertility"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-050",
+            "question": "HRT stands for:",
+            "options": {
+                "A": "Hormone replacement therapy",
+                "B": "Health reproductive treatment",
+                "C": "Hormonal renal therapy",
+                "D": "Human reproductive testing"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-051",
+            "question": "HRT may contain:",
+            "options": {
+                "A": "Estrogen alone or estrogen plus progesterone",
+                "B": "FSH alone",
+                "C": "LH alone",
+                "D": "Testosterone only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-052",
+            "question": "HRT is effective for:",
+            "options": {
+                "A": "Moderate to severe hot flashes",
+                "B": "Restoring ovarian follicles",
+                "C": "Permanently restoring fertility",
+                "D": "Preventing all diseases"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-053",
+            "question": "HRT may also help with:",
+            "options": {
+                "A": "Vaginal symptoms",
+                "B": "Appendicitis",
+                "C": "Malaria",
+                "D": "Kidney failure"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-054",
+            "question": "Estrogen alone is usually used after:",
+            "options": {
+                "A": "Hysterectomy",
+                "B": "Appendectomy",
+                "C": "Kidney surgery",
+                "D": "Caesarean section"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-055",
+            "question": "When the uterus is intact, estrogen is commonly combined with:",
+            "options": {
+                "A": "Progesterone",
+                "B": "FSH",
+                "C": "LH",
+                "D": "Insulin"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-056",
+            "question": "Progesterone is included when the uterus is intact primarily because it:",
+            "options": {
+                "A": "Protects the endometrium from excessive thickening",
+                "B": "Increases ovulation",
+                "C": "Produces sperm",
+                "D": "Increases FSH"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-057",
+            "question": "HRT may increase certain risks, including:",
+            "options": {
+                "A": "Blood clots",
+                "B": "Improved immunity only",
+                "C": "Increased fertility",
+                "D": "Reduced bone density in all women"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-058",
+            "question": "A major long-term complication of reduced estrogen is:",
+            "options": {
+                "A": "Osteoporosis",
+                "B": "Increased bone density",
+                "C": "Increased muscle mass",
+                "D": "Increased fertility"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-059",
+            "question": "Which nursing intervention is appropriate for a woman experiencing menopause?",
+            "options": {
+                "A": "Explain that menopause is a normal physiological transition and provide education and support",
+                "B": "Tell her menopause is a disease",
+                "C": "Discourage exercise",
+                "D": "Advise her to ignore severe symptoms"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MENO-060",
+            "question": "Menopause is best defined as:",
+            "options": {
+                "A": "The beginning of menstruation",
+                "B": "A normal biological transition ending a woman's reproductive years",
+                "C": "A disease of the ovaries",
+                "D": "The beginning of puberty"
+            },
+            "answer": "B",
+            "explanation": null
+        }
+    ]
+}

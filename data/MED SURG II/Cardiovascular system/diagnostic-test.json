@@ -1,0 +1,970 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Diagnostic Test",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "DT-001",
+            "question": "Why may laboratory tests be performed in cardiovascular assessment?",
+            "options": {
+                "A": "To measure height only",
+                "B": "To determine sleep quality",
+                "C": "To help diagnose causes of cardiac signs and symptoms",
+                "D": "To replace the physical assessment"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-002",
+            "question": "Why are baseline laboratory values obtained before therapy?",
+            "options": {
+                "A": "To prevent all medication effects",
+                "B": "To provide baseline values for comparison",
+                "C": "To increase cardiac output",
+                "D": "To diagnose all diseases"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-003",
+            "question": "What is cardiac biomarker analysis?",
+            "options": {
+                "A": "A chest X-ray",
+                "B": "A blood-pressure measurement",
+                "C": "An ultrasound of the heart",
+                "D": "A blood test measuring biomarkers released with myocardial injury"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-004",
+            "question": "When can cardiac biomarkers be released?",
+            "options": {
+                "A": "Only during normal exercise",
+                "B": "Only with hypertension",
+                "C": "Only during sleep",
+                "D": "When myocardial cells become necrotic from prolonged ischemia or trauma"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-005",
+            "question": "Where do cardiac biomarkers enter the circulation after myocardial injury?",
+            "options": {
+                "A": "Directly through the lungs only",
+                "B": "Through the urinary bladder",
+                "C": "Through interstitial spaces and the lymphatic system into general circulation",
+                "D": "Through the digestive tract"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-006",
+            "question": "Which CK isoenzyme is associated with cardiac muscle in the notes?",
+            "options": {
+                "A": "CK-MM only",
+                "B": "CK-AB",
+                "C": "CK-BB only",
+                "D": "CK-MB"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-007",
+            "question": "When can CK-MB become elevated after chest pain?",
+            "options": {
+                "A": "3–6 hours",
+                "B": "48–72 hours only",
+                "C": "30 seconds",
+                "D": "12–24 days"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-008",
+            "question": "When does CK-MB peak according to the notes?",
+            "options": {
+                "A": "12–24 hours",
+                "B": "48–72 hours",
+                "C": "7 days",
+                "D": "1–3 minutes"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-009",
+            "question": "When does CK-MB return toward normal according to the notes?",
+            "options": {
+                "A": "48–72 hours",
+                "B": "10–14 days",
+                "C": "12–24 minutes",
+                "D": "1–3 hours"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-010",
+            "question": "Which is described as an early marker of myocardial infarction?",
+            "options": {
+                "A": "BNP",
+                "B": "HDL",
+                "C": "CRP",
+                "D": "Myoglobin"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-011",
+            "question": "When does myoglobin increase after acute MI according to the notes?",
+            "options": {
+                "A": "1–3 hours",
+                "B": "48–72 hours",
+                "C": "1 week",
+                "D": "12–24 hours"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-012",
+            "question": "When does myoglobin peak?",
+            "options": {
+                "A": "72–96 hours",
+                "B": "4–12 hours",
+                "C": "24–48 days",
+                "D": "1–3 minutes"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-013",
+            "question": "When does myoglobin normalize according to the notes?",
+            "options": {
+                "A": "Within 24 hours",
+                "B": "Within 1 hour",
+                "C": "Within 7 days",
+                "D": "Within 1 month"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-014",
+            "question": "Which two troponin tests are listed?",
+            "options": {
+                "A": "Troponin C and troponin D",
+                "B": "Troponin I and troponin T",
+                "C": "Troponin M and troponin N",
+                "D": "Troponin A and troponin B"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-015",
+            "question": "Why is troponin useful in assessing myocardial injury?",
+            "options": {
+                "A": "It measures pulmonary function",
+                "B": "It measures blood pressure directly",
+                "C": "It is a specific protein found in cardiac muscle",
+                "D": "It is produced only by the kidneys"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-016",
+            "question": "What sodium range is listed in the notes?",
+            "options": {
+                "A": "200–220 mmol/L",
+                "B": "135–145 mmol/L",
+                "C": "90–100 mmol/L",
+                "D": "150–180 mmol/L"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-017",
+            "question": "What potassium range is listed?",
+            "options": {
+                "A": "10–15 mmol/L",
+                "B": "3.5–5.0 mmol/L",
+                "C": "1.0–2.0 mmol/L",
+                "D": "6.5–8.0 mmol/L"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-018",
+            "question": "What total calcium range is listed?",
+            "options": {
+                "A": "0.1–0.5 mmol/L",
+                "B": "4.0–5.0 mmol/L",
+                "C": "2.12–2.65 mmol/L",
+                "D": "8.0–12.0 mmol/L"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-019",
+            "question": "What ionized calcium range is listed?",
+            "options": {
+                "A": "2.12–2.65 mmol/L",
+                "B": "5.0–7.0 mmol/L",
+                "C": "1.00–1.25 mmol/L",
+                "D": "0.1–0.2 mmol/L"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-020",
+            "question": "What magnesium range is listed?",
+            "options": {
+                "A": "5.0–6.5 mmol/L",
+                "B": "0.1–0.3 mmol/L",
+                "C": "0.75–1.05 mmol/L",
+                "D": "2.5–4.0 mmol/L"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-021",
+            "question": "What BUN range is listed?",
+            "options": {
+                "A": "2.5–7.1 mmol/L",
+                "B": "0.1–1.0 mmol/L",
+                "C": "10–20 mmol/L",
+                "D": "20–30 mmol/L"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-022",
+            "question": "What does aPTT measure?",
+            "options": {
+                "A": "Activity of the intrinsic coagulation pathway",
+                "B": "Activity of the extrinsic pathway only",
+                "C": "Platelet count",
+                "D": "Cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-023",
+            "question": "What does PT measure?",
+            "options": {
+                "A": "Cardiac contractility",
+                "B": "Activity of the extrinsic coagulation pathway",
+                "C": "Venous pressure",
+                "D": "Activity of the intrinsic pathway only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-024",
+            "question": "What is INR used for?",
+            "options": {
+                "A": "Assessing heart sounds",
+                "B": "A standard method for reporting PT levels",
+                "C": "Measuring cardiac output",
+                "D": "Measuring oxygen saturation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-025",
+            "question": "What platelet count range is listed?",
+            "options": {
+                "A": "500,000–800,000/mm³",
+                "B": "10,000–20,000/mm³",
+                "C": "150,000–400,000/mm³",
+                "D": "1,000–5,000/mm³"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-026",
+            "question": "What does a lipid profile evaluate?",
+            "options": {
+                "A": "Renal blood flow only",
+                "B": "Risk of developing atherosclerotic disease",
+                "C": "Pulmonary ventilation",
+                "D": "Cardiac valve motion only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-027",
+            "question": "What does HDL do according to the notes?",
+            "options": {
+                "A": "Helps transport cholesterol away from arterial walls to the liver",
+                "B": "Deposits cholesterol in arterial walls",
+                "C": "Raises triglycerides directly",
+                "D": "Causes myocardial necrosis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-028",
+            "question": "What does LDL do?",
+            "options": {
+                "A": "Measures cardiac output",
+                "B": "Deposits cholesterol and triglycerides in arterial walls",
+                "C": "Reduces blood pressure directly",
+                "D": "Removes cholesterol from arterial walls"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-029",
+            "question": "What does CRP measure?",
+            "options": {
+                "A": "A coagulation factor",
+                "B": "A cardiac electrical impulse",
+                "C": "A type of lipid",
+                "D": "A protein produced in response to systemic inflammation"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-030",
+            "question": "What CRP value indicates low CAD risk in the notes?",
+            "options": {
+                "A": "Greater than 3 mg/L",
+                "B": "100 mg/L",
+                "C": "10 mg/L",
+                "D": "Less than 1 mg/L"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-031",
+            "question": "What CRP value indicates high risk in the notes?",
+            "options": {
+                "A": "Exactly 0 mg/L",
+                "B": "Less than 1 mg/L",
+                "C": "Less than 0.1 mg/L",
+                "D": "Greater than 3 mg/L"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-032",
+            "question": "Where is BNP secreted from?",
+            "options": {
+                "A": "The liver",
+                "B": "The kidneys",
+                "C": "The atria only",
+                "D": "The ventricles"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-033",
+            "question": "What may increased BNP with corresponding symptoms indicate?",
+            "options": {
+                "A": "Asthma only",
+                "B": "Dehydration only",
+                "C": "Heart failure",
+                "D": "Anemia only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-034",
+            "question": "What does a chest X-ray help determine?",
+            "options": {
+                "A": "Heart size, contour, and position",
+                "B": "Electrical conduction only",
+                "C": "Blood glucose",
+                "D": "Platelet function"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-035",
+            "question": "What can fluoroscopy show?",
+            "options": {
+                "A": "Troponin levels",
+                "B": "Urine output",
+                "C": "Serum electrolytes",
+                "D": "Cardiac and vascular pulsations and unusual cardiac contours"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-036",
+            "question": "What is an ECG?",
+            "options": {
+                "A": "A graphic representation of the heart's electrical currents",
+                "B": "A radiographic image of the lungs",
+                "C": "A blood test",
+                "D": "An ultrasound image of the heart"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-037",
+            "question": "How many leads are in a standard ECG according to the notes?",
+            "options": {
+                "A": "24",
+                "B": "3",
+                "C": "12",
+                "D": "6"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-038",
+            "question": "What does each ECG lead represent?",
+            "options": {
+                "A": "A blood vessel",
+                "B": "A specific view of the heart's electrical activity",
+                "C": "A laboratory value",
+                "D": "A separate cardiac valve"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-039",
+            "question": "What can a 12-lead ECG help diagnose?",
+            "options": {
+                "A": "Only liver disease",
+                "B": "Only edema",
+                "C": "Dysrhythmias and conduction abnormalities",
+                "D": "Only anemia"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-040",
+            "question": "What other myocardial problems can a 12-lead ECG help identify?",
+            "options": {
+                "A": "Only valve stenosis",
+                "B": "Only renal impairment",
+                "C": "Only pericardial fluid",
+                "D": "Ischemia, injury, or infarction"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-041",
+            "question": "What is the purpose of cardiac stress testing?",
+            "options": {
+                "A": "To measure urine output",
+                "B": "To determine hemoglobin",
+                "C": "To evaluate the cardiovascular response to stress",
+                "D": "To assess skin turgor"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-042",
+            "question": "What is the most common form of exercise stress testing mentioned?",
+            "options": {
+                "A": "Running outdoors",
+                "B": "Walking on a treadmill",
+                "C": "Swimming",
+                "D": "Rowing a boat"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-043",
+            "question": "What is the target heart rate during exercise stress testing in the notes?",
+            "options": {
+                "A": "10%–20%",
+                "B": "80%–90% of maximum predicted heart rate",
+                "C": "30%–40%",
+                "D": "100%–120%"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-044",
+            "question": "How long should the patient fast before an exercise stress test?",
+            "options": {
+                "A": "24 hours",
+                "B": "4 hours",
+                "C": "1 hour",
+                "D": "8–12 hours"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-045",
+            "question": "Which stimulant should be avoided before an exercise stress test?",
+            "options": {
+                "A": "Water",
+                "B": "Normal food",
+                "C": "Caffeine",
+                "D": "Oxygen"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-046",
+            "question": "What should the nurse monitor during an exercise stress test?",
+            "options": {
+                "A": "Only temperature",
+                "B": "Only urine output",
+                "C": "ECG, BP, symptoms, and perceived exertion",
+                "D": "Only body weight"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-047",
+            "question": "How long is the patient monitored after an exercise stress test?",
+            "options": {
+                "A": "10–15 minutes",
+                "B": "1 minute",
+                "C": "24 hours",
+                "D": "2 hours"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-048",
+            "question": "What is pharmacologic stress testing used for in the notes?",
+            "options": {
+                "A": "Only children",
+                "B": "Only patients with anemia",
+                "C": "Only professional athletes",
+                "D": "Patients who cannot adequately exercise"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-049",
+            "question": "Which agents are listed for pharmacologic stress testing?",
+            "options": {
+                "A": "Furosemide and digoxin",
+                "B": "Lisinopril and losartan",
+                "C": "Dipyridamole and adenosine",
+                "D": "Warfarin and heparin"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-050",
+            "question": "What do the pharmacologic agents mimic during stress testing?",
+            "options": {
+                "A": "The effects of bradycardia",
+                "B": "The effects of exercise by maximally dilating coronary arteries",
+                "C": "The effects of dehydration",
+                "D": "The effects of anemia"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-051",
+            "question": "How long before pharmacologic stress testing may certain medications be stopped if tolerated?",
+            "options": {
+                "A": "2–3 weeks",
+                "B": "24–48 hours",
+                "C": "5–7 days",
+                "D": "1–2 hours"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-052",
+            "question": "Which medication group is specifically mentioned as being stopped before pharmacologic stress testing if tolerated?",
+            "options": {
+                "A": "Antibiotics only",
+                "B": "Insulin only",
+                "C": "Aminophylline, theophylline, or dipyridamole",
+                "D": "ACE inhibitors only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-053",
+            "question": "What is echocardiography?",
+            "options": {
+                "A": "A chest X-ray",
+                "B": "A noninvasive ultrasound test of the heart",
+                "C": "A blood test",
+                "D": "An invasive arterial catheter test"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-054",
+            "question": "What can echocardiography measure?",
+            "options": {
+                "A": "INR only",
+                "B": "Troponin only",
+                "C": "Ejection fraction",
+                "D": "BUN only"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-055",
+            "question": "What cardiac condition is echocardiography particularly useful for diagnosing?",
+            "options": {
+                "A": "Renal failure",
+                "B": "Peripheral neuropathy",
+                "C": "Pericardial effusion",
+                "D": "Anemia"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-056",
+            "question": "What can echocardiography evaluate about heart valves?",
+            "options": {
+                "A": "Only their temperature",
+                "B": "Only their electrical activity",
+                "C": "Their function, including prosthetic valves",
+                "D": "Only their blood supply"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-057",
+            "question": "What should the patient do before an echocardiography procedure according to the notes?",
+            "options": {
+                "A": "Drink 2 liters of water",
+                "B": "Take caffeine",
+                "C": "Avoid eating or drinking for 6 hours",
+                "D": "Exercise vigorously"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-058",
+            "question": "After echocardiography, when can food and oral fluids begin?",
+            "options": {
+                "A": "Immediately in all cases",
+                "B": "After 24 hours",
+                "C": "Only after 48 hours",
+                "D": "When fully alert and topical anesthetic effects have reversed, usually about 2 hours"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-059",
+            "question": "What is cardiac catheterization?",
+            "options": {
+                "A": "A noninvasive ultrasound test",
+                "B": "A skin examination",
+                "C": "A laboratory blood test",
+                "D": "An invasive diagnostic procedure using radiopaque arterial and venous catheters"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-060",
+            "question": "What is cardiac catheterization frequently used to assess?",
+            "options": {
+                "A": "Only hemoglobin",
+                "B": "Only body temperature",
+                "C": "Only respiratory rate",
+                "D": "Coronary artery patency and the extent of atherosclerosis"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-061",
+            "question": "What is angiography during cardiac catheterization?",
+            "options": {
+                "A": "Injection of contrast to outline the heart and blood vessels",
+                "B": "Recording electrical activity",
+                "C": "Measuring serum potassium",
+                "D": "Assessing capillary refill"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-062",
+            "question": "What is selective angiography?",
+            "options": {
+                "A": "A type of blood chemistry",
+                "B": "Study of a specific heart chamber or blood vessel",
+                "C": "A general physical assessment",
+                "D": "A type of ECG"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-063",
+            "question": "What fasting period is usually required before cardiac catheterization?",
+            "options": {
+                "A": "1 hour",
+                "B": "24–48 hours",
+                "C": "8–12 hours",
+                "D": "No fasting is needed"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-064",
+            "question": "What should be monitored at the catheter access site after catheterization?",
+            "options": {
+                "A": "Only temperature",
+                "B": "Only pain score",
+                "C": "Only oxygen saturation",
+                "D": "Bleeding or hematoma formation"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-065",
+            "question": "How often are peripheral pulses assessed immediately after catheterization according to the notes?",
+            "options": {
+                "A": "Every 15 minutes for 1 hour",
+                "B": "Once per shift",
+                "C": "Every 2 hours for 24 hours",
+                "D": "Every 30 seconds for 6 hours"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-066",
+            "question": "What other findings should be evaluated in the affected extremity after catheterization?",
+            "options": {
+                "A": "Temperature, color, and capillary refill",
+                "B": "Only muscle strength",
+                "C": "Only skin thickness",
+                "D": "Only hair growth"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-067",
+            "question": "How long is bed rest maintained after catheterization according to the notes?",
+            "options": {
+                "A": "1 week",
+                "B": "10–15 minutes",
+                "C": "24–48 hours",
+                "D": "2–6 hours"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-068",
+            "question": "What is central venous pressure (CVP)?",
+            "options": {
+                "A": "Pressure in the left ventricle only",
+                "B": "Pressure in the pulmonary alveoli",
+                "C": "Pressure in the aorta only",
+                "D": "Pressure in the vena cava or right atrium"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-069",
+            "question": "What CVP range is listed as normal?",
+            "options": {
+                "A": "60–70 mmHg",
+                "B": "2–6 mmHg",
+                "C": "10–20 mmHg",
+                "D": "30–40 mmHg"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DT-070",
+            "question": "What is pulmonary artery pressure monitoring used for?",
+            "options": {
+                "A": "Assessing left ventricular function and evaluating shock and treatment response",
+                "B": "Diagnosing skin disorders",
+                "C": "Measuring capillary refill",
+                "D": "Measuring serum cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-071",
+            "question": "What is intra-arterial BP monitoring used for?",
+            "options": {
+                "A": "Assessing heart sounds",
+                "B": "Routine measurement in healthy people only",
+                "C": "Measuring cardiac enzymes",
+                "D": "Direct, continuous BP measurement in critically ill patients"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-072",
+            "question": "What additional use is mentioned for arterial catheters?",
+            "options": {
+                "A": "Measuring body weight",
+                "B": "Measuring urine output",
+                "C": "Frequent arterial blood gas and blood sampling",
+                "D": "Assessing skin turgor"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-073",
+            "question": "For heart failure, what does an echocardiogram help determine?",
+            "options": {
+                "A": "Only hemoglobin",
+                "B": "Only heart rate",
+                "C": "Ejection fraction and underlying cause",
+                "D": "Only blood glucose"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-074",
+            "question": "For suspected heart failure, which laboratory group is listed as part of the diagnostic workup?",
+            "options": {
+                "A": "Only cholesterol",
+                "B": "Only PT",
+                "C": "Electrolytes, BUN, creatinine, BNP, TSH, CBC, and urinalysis",
+                "D": "Only troponin"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DT-075",
+            "question": "What can exercise testing or cardiac catheterization help determine in heart failure?",
+            "options": {
+                "A": "Whether the patient has kidney stones",
+                "B": "Whether the patient has anemia only",
+                "C": "Whether the patient has a skin infection",
+                "D": "Whether CAD and cardiac ischemia are causing the HF"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-076",
+            "question": "Which test can show vegetations, abscesses, or prosthetic-valve dehiscence in infective endocarditis?",
+            "options": {
+                "A": "Pulse oximetry",
+                "B": "Routine chest X-ray",
+                "C": "Urinalysis",
+                "D": "Doppler echocardiography"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-077",
+            "question": "What does transesophageal echocardiography involve?",
+            "options": {
+                "A": "Injecting contrast into a peripheral artery",
+                "B": "Placing electrodes on the limbs",
+                "C": "Drawing blood for troponin",
+                "D": "Passing a tube through the esophagus to view the heart from behind"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-078",
+            "question": "Which laboratory test is central to diagnosing infective endocarditis?",
+            "options": {
+                "A": "Blood cultures",
+                "B": "Serum sodium only",
+                "C": "BUN only",
+                "D": "Lipid profile only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DT-079",
+            "question": "What may the WBC count show in infective endocarditis?",
+            "options": {
+                "A": "No possible change",
+                "B": "A permanently absent count",
+                "C": "Always a decreased count",
+                "D": "An elevated count"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "DT-080",
+            "question": "Which urine finding may occur in infective endocarditis?",
+            "options": {
+                "A": "Hematuria",
+                "B": "Ketones only",
+                "C": "Protein absent",
+                "D": "Glucosuria only"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

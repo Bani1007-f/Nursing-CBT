@@ -1,0 +1,549 @@
+{
+    "course": "frh-ii",
+    "topic": "Ovaries",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "OVAR-001",
+            "question": "The ovaries are the",
+            "options": {
+                "A": "Primary female sex organs",
+                "B": "Accessory organs only",
+                "C": "Secondary reproductive ducts",
+                "D": "External genitalia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-002",
+            "question": "There are normally how many ovaries?",
+            "options": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-003",
+            "question": "The ovaries are located approximately at the level of the",
+            "options": {
+                "A": "Diaphragm",
+                "B": "Pelvic brim",
+                "C": "Xiphisternum",
+                "D": "Pubic symphysis"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-004",
+            "question": "The ovarian fossa is associated with",
+            "options": {
+                "A": "Waldeyer",
+                "B": "Douglas",
+                "C": "Bartholin",
+                "D": "Montgomery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-005",
+            "question": "The ovary is attached to the broad ligament by the",
+            "options": {
+                "A": "Round ligament",
+                "B": "Mesovarium",
+                "C": "Ovarian ligament",
+                "D": "Uterosacral ligament"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-006",
+            "question": "The hilum of the ovary is the area where",
+            "options": {
+                "A": "Ovulation occurs",
+                "B": "Blood vessels and nerves enter and leave",
+                "C": "Fertilization occurs",
+                "D": "Implantation occurs"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-007",
+            "question": "The ovary is attached to the uterus by the",
+            "options": {
+                "A": "Ovarian ligament",
+                "B": "Round ligament",
+                "C": "Cardinal ligament",
+                "D": "Suspensory ligament"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-008",
+            "question": "The strong ligament supporting the ovary toward the pelvic wall is the",
+            "options": {
+                "A": "Ovarian ligament",
+                "B": "Infundibulopelvic ligament",
+                "C": "Uterosacral ligament",
+                "D": "Pubocervical ligament"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-009",
+            "question": "The ovary is described as being",
+            "options": {
+                "A": "Covered completely by peritoneum",
+                "B": "Not covered by peritoneum",
+                "C": "Covered by cartilage",
+                "D": "Covered by endometrium"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-010",
+            "question": "The ovary is approximately",
+            "options": {
+                "A": "4–3 cm long",
+                "B": "10 cm long",
+                "C": "15 cm long",
+                "D": "20 cm long"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-011",
+            "question": "The average ovarian weight given in the notes is",
+            "options": {
+                "A": "1–2 g",
+                "B": "5–8 g",
+                "C": "15–20 g",
+                "D": "50–60 g"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-012",
+            "question": "During the menstrual years, the ovarian surface becomes",
+            "options": {
+                "A": "Completely smooth",
+                "B": "Irregular, scarred and pitted",
+                "C": "Completely covered by fat",
+                "D": "Cartilaginous"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-013",
+            "question": "After menopause, the ovaries become",
+            "options": {
+                "A": "Larger",
+                "B": "Smaller and shrunken",
+                "C": "More vascular",
+                "D": "Enlarged with follicles"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-014",
+            "question": "The outer functioning portion of the ovary is the",
+            "options": {
+                "A": "Medulla",
+                "B": "Cortex",
+                "C": "Hilum",
+                "D": "Tunica vaginalis"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-015",
+            "question": "The ovarian cortex contains",
+            "options": {
+                "A": "Primordial follicles",
+                "B": "Mammary glands",
+                "C": "Cervical glands",
+                "D": "Lactiferous ducts"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-016",
+            "question": "According to the notes, each ovary contains approximately how many primordial follicles at birth?",
+            "options": {
+                "A": "2,000",
+                "B": "20,000",
+                "C": "200,000",
+                "D": "2,000,000"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-017",
+            "question": "Only approximately how many primordial follicles eventually mature according to the notes?",
+            "options": {
+                "A": "40",
+                "B": "400",
+                "C": "4,000",
+                "D": "40,000"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-018",
+            "question": "A mature Graafian follicle is approximately",
+            "options": {
+                "A": "1–2 mm",
+                "B": "12–16 mm",
+                "C": "3–4 cm",
+                "D": "5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-019",
+            "question": "The outer layer of a mature Graafian follicle is the",
+            "options": {
+                "A": "Theca externa",
+                "B": "Granulosa",
+                "C": "Tunica albuginea",
+                "D": "Medulla"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-020",
+            "question": "The inner layer surrounding the follicle is the",
+            "options": {
+                "A": "Theca interna",
+                "B": "Theca externa",
+                "C": "Medulla",
+                "D": "Germinal epithelium"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-021",
+            "question": "The fluid-filled space within the mature follicle contains",
+            "options": {
+                "A": "Liquor folliculi",
+                "B": "Lochia",
+                "C": "Amniotic fluid",
+                "D": "Synovial fluid"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-022",
+            "question": "The cluster of granulosa cells surrounding the ovum is called the",
+            "options": {
+                "A": "Corpus luteum",
+                "B": "Cumulus oophorus",
+                "C": "Corpus albicans",
+                "D": "Fimbria ovarica"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-023",
+            "question": "Degenerated follicles are called",
+            "options": {
+                "A": "Atretic follicles",
+                "B": "Corpus luteum",
+                "C": "Graafian bodies",
+                "D": "Nabothian follicles"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-024",
+            "question": "The medulla of the ovary contains many",
+            "options": {
+                "A": "Mammary glands",
+                "B": "Nerves, blood vessels and lymphatics",
+                "C": "Cervical glands",
+                "D": "Fimbriae"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-025",
+            "question": "The ovarian artery is a branch of the",
+            "options": {
+                "A": "Internal iliac artery",
+                "B": "Abdominal aorta",
+                "C": "Femoral artery",
+                "D": "Menstrual & Ovarian Cycles"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-026",
+            "question": "The average menstrual cycle described in the notes is",
+            "options": {
+                "A": "14 days",
+                "B": "21 days",
+                "C": "28 days",
+                "D": "40 days"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-027",
+            "question": "The menstrual cycle may normally range approximately between",
+            "options": {
+                "A": "10–15 days",
+                "B": "21–35 days",
+                "C": "35–50 days",
+                "D": "50–60 days"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-028",
+            "question": "The two major interconnected reproductive cycles are the",
+            "options": {
+                "A": "Cervical and vaginal cycles",
+                "B": "Ovarian and uterine cycles",
+                "C": "Breast and uterine cycles",
+                "D": "Vaginal and ovarian cycles"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-029",
+            "question": "The HPO axis stands for",
+            "options": {
+                "A": "Hypothalamic-Pituitary-Ovarian axis",
+                "B": "Hepatic-Pituitary-Ovarian axis",
+                "C": "Hypothalamic-Pancreatic-Ovarian axis",
+                "D": "Hypophyseal-Pelvic-Ovarian axis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-030",
+            "question": "GnRH is secreted by the",
+            "options": {
+                "A": "Ovary",
+                "B": "Hypothalamus",
+                "C": "Anterior pituitary",
+                "D": "Corpus luteum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-031",
+            "question": "GnRH stimulates the anterior pituitary to release",
+            "options": {
+                "A": "Estrogen and progesterone",
+                "B": "FSH and LH",
+                "C": "hCG and prolactin",
+                "D": "Oxytocin and estrogen"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-032",
+            "question": "FSH primarily promotes",
+            "options": {
+                "A": "Follicular growth",
+                "B": "Menstrual bleeding",
+                "C": "Placental separation",
+                "D": "Milk ejection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-033",
+            "question": "LH is primarily responsible for triggering",
+            "options": {
+                "A": "Menstruation",
+                "B": "Ovulation",
+                "C": "Implantation",
+                "D": "Lactation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-034",
+            "question": "The follicular phase approximately occurs during days",
+            "options": {
+                "A": "1–5",
+                "B": "1–13",
+                "C": "15–28",
+                "D": "20–30"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-035",
+            "question": "Ovulation usually occurs around",
+            "options": {
+                "A": "Day 1",
+                "B": "Day 7",
+                "C": "Day 14",
+                "D": "Day 28"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-036",
+            "question": "The LH surge causes the mature Graafian follicle to",
+            "options": {
+                "A": "Shrink without rupture",
+                "B": "Rupture",
+                "C": "Become an ovum",
+                "D": "Become the corpus albicans immediately"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-037",
+            "question": "After ovulation, the ruptured follicle becomes the",
+            "options": {
+                "A": "Corpus luteum",
+                "B": "Corpus albicans immediately",
+                "C": "Endometrium",
+                "D": "Medulla"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-038",
+            "question": "The corpus luteum produces mainly",
+            "options": {
+                "A": "FSH",
+                "B": "Progesterone and estradiol",
+                "C": "hCG",
+                "D": "Prolactin"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-039",
+            "question": "In the absence of pregnancy, the corpus luteum degenerates into the",
+            "options": {
+                "A": "Corpus albicans",
+                "B": "Corpus luteum",
+                "C": "Graafian follicle",
+                "D": "Cumulus oophorus"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-040",
+            "question": "The menstrual phase generally occurs during days",
+            "options": {
+                "A": "1–5",
+                "B": "6–14",
+                "C": "15–28",
+                "D": "20–30"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-041",
+            "question": "The proliferative phase generally occurs during days",
+            "options": {
+                "A": "1–5",
+                "B": "6–14",
+                "C": "15–28",
+                "D": "25–35"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-042",
+            "question": "The major hormone driving the proliferative phase is",
+            "options": {
+                "A": "Progesterone",
+                "B": "Estradiol",
+                "C": "hCG",
+                "D": "Prolactin"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-043",
+            "question": "The secretory phase generally occurs during days",
+            "options": {
+                "A": "1–5",
+                "B": "6–14",
+                "C": "15–28",
+                "D": "28–35"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-044",
+            "question": "The major hormone driving the secretory phase is",
+            "options": {
+                "A": "FSH",
+                "B": "Progesterone",
+                "C": "LH only",
+                "D": "hCG"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "OVAR-045",
+            "question": "The endometrium is optimally prepared for implantation during the",
+            "options": {
+                "A": "Menstural Phase",
+                "B": "Proliferative phase",
+                "C": "Secretory phase",
+                "D": "Ovulatory phase"
+            },
+            "answer": "C",
+            "explanation": null
+        }
+    ]
+}

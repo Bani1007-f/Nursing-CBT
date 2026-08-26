@@ -1,0 +1,24 @@
+{
+  "name": "nursing-cbt",
+  "version": "1.0.0",
+  "description": "Nursing Computer-Based Test platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.1.0",
+    "express-session": "^1.19.0",
+    "multer": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "allowScripts": {
+    "bcrypt@6.0.0": true,
+    "better-sqlite3@13.0.3": true
+  }
+}

@@ -1,0 +1,333 @@
+{
+    "course": "frh-ii",
+    "topic": "Fallopian Tube",
+    "testSettings": {
+        "questionCount": 20
+    },
+    "questions": [
+        {
+            "id": "FT-001",
+            "question": "There are normally how many fallopian tubes?",
+            "options": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-002",
+            "question": "The fallopian tubes extend from the",
+            "options": {
+                "A": "Cervix",
+                "B": "Cornua of the uterus",
+                "C": "Ovary directly",
+                "D": "Vagina"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-003",
+            "question": "Each fallopian tube is approximately",
+            "options": {
+                "A": "2 cm long",
+                "B": "5 cm long",
+                "C": "10.1–11.4 cm long",
+                "D": "20 cm long"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FT-004",
+            "question": "The fallopian tube is enclosed in the",
+            "options": {
+                "A": "Lower border of broad ligament",
+                "B": "Upper fold of broad ligament",
+                "C": "Round ligament",
+                "D": "Ovarian ligament"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-005",
+            "question": "The fallopian tube has how many major gross parts?",
+            "options": {
+                "A": "Two",
+                "B": "Three",
+                "C": "Four",
+                "D": "Five"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FT-006",
+            "question": "The narrowest part of the fallopian tube is the",
+            "options": {
+                "A": "Ampulla",
+                "B": "Infundibulum",
+                "C": "Interstitial part",
+                "D": "Fimbria"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FT-007",
+            "question": "The interstitial part passes through the",
+            "options": {
+                "A": "Vagina",
+                "B": "Uterine wall",
+                "C": "Ovary",
+                "D": "Broad ligament"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-008",
+            "question": "The lumen of the interstitial part is approximately",
+            "options": {
+                "A": "1 mm",
+                "B": "5 mm",
+                "C": "1 cm",
+                "D": "2 cm"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FT-009",
+            "question": "The isthmus of the fallopian tube is approximately",
+            "options": {
+                "A": "0.5 cm",
+                "B": "2.3 cm",
+                "C": "5 cm",
+                "D": "7 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-010",
+            "question": "Fertilization most commonly occurs in the",
+            "options": {
+                "A": "Interstitial part",
+                "B": "Isthmus",
+                "C": "Ampulla",
+                "D": "Infundibulum"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FT-011",
+            "question": "The ampulla is the",
+            "options": {
+                "A": "Narrowest part",
+                "B": "Widest part",
+                "C": "Shortest part",
+                "D": "Most muscular part"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-012",
+            "question": "The infundibulum is described as",
+            "options": {
+                "A": "Cylindrical",
+                "B": "Funnel-shaped",
+                "C": "Spherical",
+                "D": "Triangular"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-013",
+            "question": "The terminal margins of the infundibulum are called",
+            "options": {
+                "A": "Plicae",
+                "B": "Fimbriae",
+                "C": "Rugae",
+                "D": "Septae"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-014",
+            "question": "The fimbria that is in contact with the ovary is the",
+            "options": {
+                "A": "Fimbria uterina",
+                "B": "Fimbria ovarica",
+                "C": "Fimbria cervicalis",
+                "D": "Fimbria vaginalis"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-015",
+            "question": "The inner lining of the fallopian tube forms numerous folds called",
+            "options": {
+                "A": "Rugae",
+                "B": "Plicae",
+                "C": "Septae",
+                "D": "Arbor vitae"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-016",
+            "question": "Plicae are most prominent in the",
+            "options": {
+                "A": "Interstitial part",
+                "B": "Ampulla",
+                "C": "Uterine cavity",
+                "D": "Cervix"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-017",
+            "question": "Ciliated cells in the fallopian tube help to",
+            "options": {
+                "A": "Produce progesterone",
+                "B": "Propel the ovum toward the uterus",
+                "C": "Produce menstrual blood",
+                "D": "Cause cervical dilation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-018",
+            "question": "Non-ciliated cells of the tube are described as",
+            "options": {
+                "A": "Goblet cells",
+                "B": "Squamous cells",
+                "C": "Myoepithelial cells",
+                "D": "Germinal cells"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FT-019",
+            "question": "The muscular layer of the fallopian tube contains",
+            "options": {
+                "A": "Only longitudinal muscle",
+                "B": "Circular and longitudinal smooth muscle",
+                "C": "Skeletal muscle only",
+                "D": "Cardiac muscle"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-020",
+            "question": "The muscular layer contributes to",
+            "options": {
+                "A": "Peristaltic movement",
+                "B": "Ovulation",
+                "C": "Implantation",
+                "D": "Lactation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FT-021",
+            "question": "The arterial supply of the fallopian tube comes from the",
+            "options": {
+                "A": "Uterine and ovarian arteries",
+                "B": "Femoral arteries",
+                "C": "Pudendal arteries only",
+                "D": "Internal mammary arteries"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FT-022",
+            "question": "Lymphatic drainage from the fallopian tubes eventually reaches the",
+            "options": {
+                "A": "Cervical glands",
+                "B": "Lumbar glands",
+                "C": "Axillary glands",
+                "D": "Inguinal glands only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-023",
+            "question": "The nerve supply of the fallopian tubes is from the",
+            "options": {
+                "A": "Pudendal plexus",
+                "B": "Ovarian plexus",
+                "C": "Cervical plexus",
+                "D": "Brachial plexus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-024",
+            "question": "Infertility may result from fallopian tube",
+            "options": {
+                "A": "Obstruction",
+                "B": "Enlargement only",
+                "C": "Increased cilia",
+                "D": "Increased mucus only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FT-025",
+            "question": "More than 90% of ectopic pregnancies according to the notes are",
+            "options": {
+                "A": "Cervical",
+                "B": "Ovarian",
+                "C": "Tubal",
+                "D": "Abdominal"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FT-026",
+            "question": "A common cause of tubal pregnancy is previous",
+            "options": {
+                "A": "Breast infection",
+                "B": "Tubal scar or adhesion",
+                "C": "Menopause",
+                "D": "Lactation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FT-027",
+            "question": "Chronic pelvic infection that may predispose to tubal pregnancy is",
+            "options": {
+                "A": "Salpingitis",
+                "B": "Mastitis",
+                "C": "Ovaries",
+                "D": "Vaginitis only"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

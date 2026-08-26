@@ -1,0 +1,610 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Scenarios",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "SCEN-001",
+            "question": "A patient reports crushing chest pain radiating to the left arm and diaphoresis. Which condition should the nurse suspect?",
+            "options": {
+                "A": "Stable angina",
+                "B": "Myocardial infarction",
+                "C": "Pericarditis",
+                "D": "Hypertension"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-002",
+            "question": "A patient with coronary artery disease is prescribed a lipid profile test. What risk factor is being evaluated?",
+            "options": {
+                "A": "Atherosclerotic risk",
+                "B": "Heart valve infection",
+                "C": "Blood clotting time only",
+                "D": "Lung function"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-003",
+            "question": "A nurse caring for a patient after cardiac catheterization should first assess the access site for?",
+            "options": {
+                "A": "Bleeding or hematoma",
+                "B": "Skin rash",
+                "C": "Hearing loss",
+                "D": "Abdominal pain"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-004",
+            "question": "Which cardiac biomarker is highly associated with myocardial injury?",
+            "options": {
+                "A": "Troponin",
+                "B": "Hemoglobin",
+                "C": "Creatinine",
+                "D": "Sodium"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-005",
+            "question": "A patient undergoing a stress test should be instructed to avoid which substance before the procedure?",
+            "options": {
+                "A": "Caffeine",
+                "B": "Water",
+                "C": "Oxygen",
+                "D": "Protein"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-006",
+            "question": "A patient with infective endocarditis is most likely to have which finding?",
+            "options": {
+                "A": "Heart murmur and fever",
+                "B": "Low blood pressure only",
+                "C": "Bone pain",
+                "D": "Increased appetite"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-007",
+            "question": "The nurse recognizes Osler nodes in a patient with infective endocarditis as?",
+            "options": {
+                "A": "Painful red lesions on fingers or toes",
+                "B": "Painless chest swelling",
+                "C": "A type of heart sound",
+                "D": "A blood pressure abnormality"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-008",
+            "question": "Which diagnostic test helps identify vegetations on heart valves in infective endocarditis?",
+            "options": {
+                "A": "Echocardiography",
+                "B": "Chest x-ray only",
+                "C": "Blood glucose test",
+                "D": "Pulmonary function test"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-009",
+            "question": "A patient with rheumatic fever is at risk for rheumatic heart disease because of infection with?",
+            "options": {
+                "A": "Group A beta-hemolytic streptococcus",
+                "B": "E. coli",
+                "C": "Influenza virus",
+                "D": "Malaria parasite"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-010",
+            "question": "The main treatment goal for infective endocarditis is to?",
+            "options": {
+                "A": "Eradicate the infecting organism",
+                "B": "Increase blood pressure",
+                "C": "Reduce red blood cells",
+                "D": "Stop all medications"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-011",
+            "question": "A patient with dilated cardiomyopathy is expected to have which problem?",
+            "options": {
+                "A": "Reduced myocardial contractility",
+                "B": "Increased valve strength",
+                "C": "Reduced infection risk",
+                "D": "Increased blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-012",
+            "question": "Hypertrophic cardiomyopathy mainly affects the heart by causing?",
+            "options": {
+                "A": "Reduced ventricular filling",
+                "B": "Valve infection",
+                "C": "Blood loss",
+                "D": "Low oxygen production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-013",
+            "question": "A nurse caring for a patient with cardiomyopathy monitors ejection fraction to evaluate?",
+            "options": {
+                "A": "Ventricular pumping ability",
+                "B": "Kidney function",
+                "C": "Blood sugar control",
+                "D": "Liver size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-014",
+            "question": "A patient with restrictive cardiomyopathy has difficulty because the ventricle has?",
+            "options": {
+                "A": "Reduced distensibility",
+                "B": "Excessive infection",
+                "C": "Increased flexibility",
+                "D": "No muscle fibers"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-015",
+            "question": "A patient with heart failure related to cardiomyopathy should be assessed for?",
+            "options": {
+                "A": "Signs of fluid overload",
+                "B": "Hearing changes",
+                "C": "Skin burns",
+                "D": "Bone fractures"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-016",
+            "question": "A patient with hypertension is at increased risk for which cardiac change?",
+            "options": {
+                "A": "Left ventricular hypertrophy",
+                "B": "Reduced red blood cells",
+                "C": "Valve disappearance",
+                "D": "Pericardial removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-017",
+            "question": "The nurse explains that afterload refers to?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of blood in veins",
+                "C": "Heart rhythm pattern",
+                "D": "Number of blood cells"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-018",
+            "question": "A patient with hypertension should regularly monitor?",
+            "options": {
+                "A": "Blood pressure",
+                "B": "Hair growth",
+                "C": "Vision only",
+                "D": "Bone density"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-019",
+            "question": "Uncontrolled hypertension increases the workload of the heart by increasing?",
+            "options": {
+                "A": "Resistance to ejection",
+                "B": "Oxygen production",
+                "C": "Valve movement",
+                "D": "Blood cell formation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-020",
+            "question": "A patient with hypertension asks why lifestyle changes are recommended. The nurse explains they help?",
+            "options": {
+                "A": "Reduce cardiovascular risk",
+                "B": "Increase infection risk",
+                "C": "Decrease oxygen delivery",
+                "D": "Stop circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-021",
+            "question": "A patient with anaemia experiences fatigue mainly because of?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity",
+                "B": "Excess oxygen delivery",
+                "C": "High platelet production",
+                "D": "Increased blood pressure"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-022",
+            "question": "A patient with severe anaemia may place extra demand on the heart because?",
+            "options": {
+                "A": "The heart works harder to deliver oxygen",
+                "B": "The heart stops pumping",
+                "C": "Blood becomes infectious",
+                "D": "Valves close permanently"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-023",
+            "question": "The nurse assessing a patient with anaemia should monitor for?",
+            "options": {
+                "A": "Pallor and fatigue",
+                "B": "Valve murmurs only",
+                "C": "Joint swelling only",
+                "D": "High cholesterol only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-024",
+            "question": "Iron deficiency anaemia occurs because of reduced?",
+            "options": {
+                "A": "Iron availability for hemoglobin production",
+                "B": "White blood cell activity",
+                "C": "Cardiac valve function",
+                "D": "Blood pressure regulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-025",
+            "question": "Anaemia can worsen heart failure because it causes?",
+            "options": {
+                "A": "Reduced oxygen supply to tissues",
+                "B": "Increased valve function",
+                "C": "Reduced workload on heart",
+                "D": "Improved circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-026",
+            "question": "A patient reports crushing chest pain radiating to the left arm and diaphoresis. Which condition should the nurse suspect?",
+            "options": {
+                "A": "Stable angina",
+                "B": "Myocardial infarction",
+                "C": "Pericarditis",
+                "D": "Hypertension"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-027",
+            "question": "A patient with coronary artery disease is prescribed a lipid profile test. What risk factor is being evaluated?",
+            "options": {
+                "A": "Atherosclerotic risk",
+                "B": "Heart valve infection",
+                "C": "Blood clotting time only",
+                "D": "Lung function"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-028",
+            "question": "A nurse caring for a patient after cardiac catheterization should first assess the access site for?",
+            "options": {
+                "A": "Bleeding or hematoma",
+                "B": "Skin rash",
+                "C": "Hearing loss",
+                "D": "Abdominal pain"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-029",
+            "question": "Which cardiac biomarker is highly associated with myocardial injury?",
+            "options": {
+                "A": "Troponin",
+                "B": "Hemoglobin",
+                "C": "Creatinine",
+                "D": "Sodium"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-030",
+            "question": "A patient undergoing a stress test should be instructed to avoid which substance before the procedure?",
+            "options": {
+                "A": "Caffeine",
+                "B": "Water",
+                "C": "Oxygen",
+                "D": "Protein"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-031",
+            "question": "A patient with infective endocarditis is most likely to have which finding?",
+            "options": {
+                "A": "Heart murmur and fever",
+                "B": "Low blood pressure only",
+                "C": "Bone pain",
+                "D": "Increased appetite"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-032",
+            "question": "The nurse recognizes Osler nodes in a patient with infective endocarditis as?",
+            "options": {
+                "A": "Painful red lesions on fingers or toes",
+                "B": "Painless chest swelling",
+                "C": "A type of heart sound",
+                "D": "A blood pressure abnormality"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-033",
+            "question": "Which diagnostic test helps identify vegetations on heart valves in infective endocarditis?",
+            "options": {
+                "A": "Echocardiography",
+                "B": "Chest x-ray only",
+                "C": "Blood glucose test",
+                "D": "Pulmonary function test"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-034",
+            "question": "A patient with rheumatic fever is at risk for rheumatic heart disease because of infection with?",
+            "options": {
+                "A": "Group A beta-hemolytic streptococcus",
+                "B": "E. coli",
+                "C": "Influenza virus",
+                "D": "Malaria parasite"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-035",
+            "question": "The main treatment goal for infective endocarditis is to?",
+            "options": {
+                "A": "Eradicate the infecting organism",
+                "B": "Increase blood pressure",
+                "C": "Reduce red blood cells",
+                "D": "Stop all medications"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-036",
+            "question": "A patient with dilated cardiomyopathy is expected to have which problem?",
+            "options": {
+                "A": "Reduced myocardial contractility",
+                "B": "Increased valve strength",
+                "C": "Reduced infection risk",
+                "D": "Increased blood volume only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-037",
+            "question": "Hypertrophic cardiomyopathy mainly affects the heart by causing?",
+            "options": {
+                "A": "Reduced ventricular filling",
+                "B": "Valve infection",
+                "C": "Blood loss",
+                "D": "Low oxygen production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-038",
+            "question": "A nurse caring for a patient with cardiomyopathy monitors ejection fraction to evaluate?",
+            "options": {
+                "A": "Ventricular pumping ability",
+                "B": "Kidney function",
+                "C": "Blood sugar control",
+                "D": "Liver size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-039",
+            "question": "A patient with restrictive cardiomyopathy has difficulty because the ventricle has?",
+            "options": {
+                "A": "Reduced distensibility",
+                "B": "Excessive infection",
+                "C": "Increased flexibility",
+                "D": "No muscle fibers"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-040",
+            "question": "A patient with heart failure related to cardiomyopathy should be assessed for?",
+            "options": {
+                "A": "Signs of fluid overload",
+                "B": "Hearing changes",
+                "C": "Skin burns",
+                "D": "Bone fractures"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-041",
+            "question": "A patient with hypertension is at increased risk for which cardiac change?",
+            "options": {
+                "A": "Left ventricular hypertrophy",
+                "B": "Reduced red blood cells",
+                "C": "Valve disappearance",
+                "D": "Pericardial removal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-042",
+            "question": "The nurse explains that afterload refers to?",
+            "options": {
+                "A": "Resistance against ventricular ejection",
+                "B": "Amount of blood in veins",
+                "C": "Heart rhythm pattern",
+                "D": "Number of blood cells"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-043",
+            "question": "A patient with hypertension should regularly monitor?",
+            "options": {
+                "A": "Blood pressure",
+                "B": "Hair growth",
+                "C": "Vision only",
+                "D": "Bone density"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-044",
+            "question": "Uncontrolled hypertension increases the workload of the heart by increasing?",
+            "options": {
+                "A": "Resistance to ejection",
+                "B": "Oxygen production",
+                "C": "Valve movement",
+                "D": "Blood cell formation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-045",
+            "question": "A patient with hypertension asks why lifestyle changes are recommended. The nurse explains they help?",
+            "options": {
+                "A": "Reduce cardiovascular risk",
+                "B": "Increase infection risk",
+                "C": "Decrease oxygen delivery",
+                "D": "Stop circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-046",
+            "question": "A patient with anaemia experiences fatigue mainly because of?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity",
+                "B": "Excess oxygen delivery",
+                "C": "High platelet production",
+                "D": "Increased blood pressure"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-047",
+            "question": "A patient with severe anaemia may place extra demand on the heart because?",
+            "options": {
+                "A": "The heart works harder to deliver oxygen",
+                "B": "The heart stops pumping",
+                "C": "Blood becomes infectious",
+                "D": "Valves close permanently"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-048",
+            "question": "The nurse assessing a patient with anaemia should monitor for?",
+            "options": {
+                "A": "Pallor and fatigue",
+                "B": "Valve murmurs only",
+                "C": "Joint swelling only",
+                "D": "High cholesterol only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-049",
+            "question": "Iron deficiency anaemia occurs because of reduced?",
+            "options": {
+                "A": "Iron availability for hemoglobin production",
+                "B": "White blood cell activity",
+                "C": "Cardiac valve function",
+                "D": "Blood pressure regulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SCEN-050",
+            "question": "Anaemia can worsen heart failure because it causes?",
+            "options": {
+                "A": "Reduced oxygen supply to tissues",
+                "B": "Increased valve function",
+                "C": "Reduced workload on heart",
+                "D": "Improved circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

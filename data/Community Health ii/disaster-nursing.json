@@ -1,0 +1,369 @@
+{
+    "course": "community-health-ii",
+    "topic": "Disaster Nursing",
+    "testSettings": {
+        "questionCount": 20
+    },
+    "questions": [
+        {
+            "id": "DN-001",
+            "question": "Which statement best describes a disaster?",
+            "options": {
+                "A": "A routine health event",
+                "B": "A serious disruption exceeding the affected community's coping capacity",
+                "C": "A minor accident",
+                "D": "A planned community activity"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-002",
+            "question": "Which is a major feature of a disaster?",
+            "options": {
+                "A": "Certainty",
+                "B": "Predictability",
+                "C": "Urgency",
+                "D": "Routine"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DN-003",
+            "question": "Disasters may be classified according to origin into:",
+            "options": {
+                "A": "Natural and man-made",
+                "B": "Acute and chronic",
+                "C": "Local and private",
+                "D": "Simple and complex"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-004",
+            "question": "Which is an example of a hydrometeorological disaster?",
+            "options": {
+                "A": "Earthquake",
+                "B": "Cyclone",
+                "C": "Landslide",
+                "D": "Volcanic eruption"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-005",
+            "question": "Which is a geological disaster?",
+            "options": {
+                "A": "Drought",
+                "B": "Heat wave",
+                "C": "Earthquake",
+                "D": "Epidemic"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DN-006",
+            "question": "A biological disaster may involve:",
+            "options": {
+                "A": "Pathogenic microorganisms",
+                "B": "Dam failure",
+                "C": "Deforestation only",
+                "D": "Building collapse"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-007",
+            "question": "Which is a technological disaster?",
+            "options": {
+                "A": "Tsunami",
+                "B": "Drought",
+                "C": "Industrial explosion",
+                "D": "Earthquake"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DN-008",
+            "question": "A Level I disaster is one that:",
+            "options": {
+                "A": "Requires federal assistance",
+                "B": "Can be contained using local resources",
+                "C": "Always crosses national borders",
+                "D": "Requires international aid"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-009",
+            "question": "A Level II disaster requires:",
+            "options": {
+                "A": "No response",
+                "B": "Assistance from nearby external agencies",
+                "C": "Only international assistance",
+                "D": "No coordination"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-010",
+            "question": "A Level III disaster exceeds the capacity of the:",
+            "options": {
+                "A": "Individual nurse",
+                "B": "Local community or region",
+                "C": "Family only",
+                "D": "School"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-011",
+            "question": "Risk is conventionally expressed as:",
+            "options": {
+                "A": "Hazard + Capacity",
+                "B": "Hazard × Vulnerability",
+                "C": "Capacity × Recovery",
+                "D": "Vulnerability − Hazard"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-012",
+            "question": "Capacity refers to:",
+            "options": {
+                "A": "Weaknesses that increase susceptibility",
+                "B": "Strengths and resources that reduce risk or disaster effects",
+                "C": "The hazard itself",
+                "D": "Only financial losses"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-013",
+            "question": "Vulnerability is a condition that:",
+            "options": {
+                "A": "Reduces susceptibility",
+                "B": "Increases susceptibility to hazards",
+                "C": "Eliminates hazards",
+                "D": "Prevents all disasters"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-014",
+            "question": "Disaster nursing focuses on meeting the nursing, health and emotional needs of:",
+            "options": {
+                "A": "Hospital staff only",
+                "B": "Disaster victims",
+                "C": "Only children",
+                "D": "Only government officials"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-015",
+            "question": "The overall goal of disaster nursing is to achieve:",
+            "options": {
+                "A": "The best possible level of health for affected people and communities",
+                "B": "Maximum hospital admissions",
+                "C": "Complete elimination of all hazards",
+                "D": "Only psychological recovery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-016",
+            "question": "The first principle of disaster nursing is:",
+            "options": {
+                "A": "Rapid assessment",
+                "B": "Long-term rehabilitation",
+                "C": "Routine documentation",
+                "D": "Discharge planning"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-017",
+            "question": "During disaster triage, the nurse should first:",
+            "options": {
+                "A": "Start routine health education",
+                "B": "Initiate life-saving measures",
+                "C": "Complete all paperwork",
+                "D": "Arrange routine appointments"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-018",
+            "question": "An important disaster nursing principle is to eliminate:",
+            "options": {
+                "A": "All essential interventions",
+                "B": "Nonessential nursing activities",
+                "C": "All communication",
+                "D": "All community participation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-019",
+            "question": "A nurse may need to demonstrate resourcefulness because disasters may cause shortages of:",
+            "options": {
+                "A": "Supplies, equipment and personnel",
+                "B": "Patients",
+                "C": "Health needs",
+                "D": "Communication needs only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-020",
+            "question": "One role of the disaster nurse is to identify:",
+            "options": {
+                "A": "Only existing problems",
+                "B": "Actual and potential public health problems",
+                "C": "Only financial problems",
+                "D": "Only staffing problems"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-021",
+            "question": "The pre-impact phase occurs:",
+            "options": {
+                "A": "Before the disaster actually occurs",
+                "B": "Only after recovery",
+                "C": "During rehabilitation",
+                "D": "After all hazards disappear"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-022",
+            "question": "The impact phase occurs when:",
+            "options": {
+                "A": "Planning begins",
+                "B": "The disaster actually happens",
+                "C": "Recovery ends",
+                "D": "Evaluation is completed"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-023",
+            "question": "The post-impact phase involves:",
+            "options": {
+                "A": "Recovery and return toward normal community functioning",
+                "B": "Only prediction",
+                "C": "Only warning",
+                "D": "No intervention"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-024",
+            "question": "Which emotional response involves victims denying the magnitude of the problem?",
+            "options": {
+                "A": "Acceptance",
+                "B": "Recovery",
+                "C": "Denial",
+                "D": "Adaptation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "DN-025",
+            "question": "During strong emotional response, a victim may show:",
+            "options": {
+                "A": "Trembling and weeping",
+                "B": "Complete recovery",
+                "C": "No emotional reaction",
+                "D": "Only improved concentration"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-026",
+            "question": "During the acceptance stage, the victim begins to:",
+            "options": {
+                "A": "Deny the event",
+                "B": "Take specific action to solve problems",
+                "C": "Avoid all assistance",
+                "D": "Forget the experience"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "DN-027",
+            "question": "The response phase of disaster management is the:",
+            "options": {
+                "A": "Actual implementation of the disaster plan",
+                "B": "Long-term evaluation only",
+                "C": "Pre-disaster warning only",
+                "D": "Routine annual review"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-028",
+            "question": "Mitigation aims to:",
+            "options": {
+                "A": "Lessen the impact of a disaster",
+                "B": "Increase vulnerability",
+                "C": "Delay all preparedness",
+                "D": "Eliminate community participation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-029",
+            "question": "Preparedness/risk assessment includes evaluating:",
+            "options": {
+                "A": "Facility vulnerabilities and propensity for disasters",
+                "B": "Only staff salaries",
+                "C": "Only patient satisfaction",
+                "D": "Only clinical diagnoses"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "DN-030",
+            "question": "A major role of a disaster nurse is to maintain a:",
+            "options": {
+                "A": "Unified chain of command",
+                "B": "Separate chain of command for every patient",
+                "C": "Private communication system",
+                "D": "Nonclinical chain only"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

@@ -1,0 +1,1090 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Coronary Artery Disease",
+    "testSettings": {
+        "questionCount": 60
+    },
+    "questions": [
+        {
+            "id": "CAD-001",
+            "question": "Which statement best describes atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-002",
+            "question": "A patient with Coronary artery disease is assessed for angina pectoris. Which finding is most appropriate?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-003",
+            "question": "What is a key feature associated with myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-004",
+            "question": "Which investigation or management principle relates to troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-005",
+            "question": "Which option correctly identifies the significance of cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-006",
+            "question": "Which statement best describes lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-007",
+            "question": "A patient with Coronary artery disease is assessed for atherosclerosis of coronary arteries. Which finding is most appropriate?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-008",
+            "question": "What is a key feature associated with angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-009",
+            "question": "Which investigation or management principle relates to myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-010",
+            "question": "Which option correctly identifies the significance of troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-011",
+            "question": "Which statement best describes cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-012",
+            "question": "A patient with Coronary artery disease is assessed for lipid profile. Which finding is most appropriate?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-013",
+            "question": "What is a key feature associated with atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-014",
+            "question": "Which investigation or management principle relates to angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-015",
+            "question": "Which option correctly identifies the significance of myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-016",
+            "question": "Which statement best describes troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-017",
+            "question": "A patient with Coronary artery disease is assessed for cardiac catheterization. Which finding is most appropriate?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-018",
+            "question": "What is a key feature associated with lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-019",
+            "question": "Which investigation or management principle relates to atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-020",
+            "question": "Which option correctly identifies the significance of angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-021",
+            "question": "Which statement best describes myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-022",
+            "question": "A patient with Coronary artery disease is assessed for troponin testing. Which finding is most appropriate?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-023",
+            "question": "What is a key feature associated with cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-024",
+            "question": "Which investigation or management principle relates to lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-025",
+            "question": "Which option correctly identifies the significance of atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-026",
+            "question": "Which statement best describes angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-027",
+            "question": "A patient with Coronary artery disease is assessed for myocardial infarction. Which finding is most appropriate?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-028",
+            "question": "What is a key feature associated with troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-029",
+            "question": "Which investigation or management principle relates to cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-030",
+            "question": "Which option correctly identifies the significance of lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-031",
+            "question": "Which statement best describes atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-032",
+            "question": "A patient with Coronary artery disease is assessed for angina pectoris. Which finding is most appropriate?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-033",
+            "question": "What is a key feature associated with myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-034",
+            "question": "Which investigation or management principle relates to troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-035",
+            "question": "Which option correctly identifies the significance of cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-036",
+            "question": "Which statement best describes lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-037",
+            "question": "A patient with Coronary artery disease is assessed for atherosclerosis of coronary arteries. Which finding is most appropriate?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-038",
+            "question": "What is a key feature associated with angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-039",
+            "question": "Which investigation or management principle relates to myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-040",
+            "question": "Which option correctly identifies the significance of troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-041",
+            "question": "Which statement best describes cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-042",
+            "question": "A patient with Coronary artery disease is assessed for lipid profile. Which finding is most appropriate?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-043",
+            "question": "What is a key feature associated with atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-044",
+            "question": "Which investigation or management principle relates to angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-045",
+            "question": "Which option correctly identifies the significance of myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-046",
+            "question": "Which statement best describes troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-047",
+            "question": "A patient with Coronary artery disease is assessed for cardiac catheterization. Which finding is most appropriate?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-048",
+            "question": "What is a key feature associated with lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-049",
+            "question": "Which investigation or management principle relates to atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-050",
+            "question": "Which option correctly identifies the significance of angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-051",
+            "question": "Which statement best describes myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-052",
+            "question": "A patient with Coronary artery disease is assessed for troponin testing. Which finding is most appropriate?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-053",
+            "question": "What is a key feature associated with cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-054",
+            "question": "Which investigation or management principle relates to lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-055",
+            "question": "Which option correctly identifies the significance of atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-056",
+            "question": "Which statement best describes angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-057",
+            "question": "A patient with Coronary artery disease is assessed for myocardial infarction. Which finding is most appropriate?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-058",
+            "question": "What is a key feature associated with troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-059",
+            "question": "Which investigation or management principle relates to cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-060",
+            "question": "Which option correctly identifies the significance of lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-061",
+            "question": "Which statement best describes atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-062",
+            "question": "A patient with Coronary artery disease is assessed for angina pectoris. Which finding is most appropriate?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-063",
+            "question": "What is a key feature associated with myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-064",
+            "question": "Which investigation or management principle relates to troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-065",
+            "question": "Which option correctly identifies the significance of cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-066",
+            "question": "Which statement best describes lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-067",
+            "question": "A patient with Coronary artery disease is assessed for atherosclerosis of coronary arteries. Which finding is most appropriate?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-068",
+            "question": "What is a key feature associated with angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-069",
+            "question": "Which investigation or management principle relates to myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-070",
+            "question": "Which option correctly identifies the significance of troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-071",
+            "question": "Which statement best describes cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-072",
+            "question": "A patient with Coronary artery disease is assessed for lipid profile. Which finding is most appropriate?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-073",
+            "question": "What is a key feature associated with atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-074",
+            "question": "Which investigation or management principle relates to angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-075",
+            "question": "Which option correctly identifies the significance of myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-076",
+            "question": "Which statement best describes troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-077",
+            "question": "A patient with Coronary artery disease is assessed for cardiac catheterization. Which finding is most appropriate?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-078",
+            "question": "What is a key feature associated with lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-079",
+            "question": "Which investigation or management principle relates to atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-080",
+            "question": "Which option correctly identifies the significance of angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-081",
+            "question": "Which statement best describes myocardial infarction in Coronary artery disease?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-082",
+            "question": "A patient with Coronary artery disease is assessed for troponin testing. Which finding is most appropriate?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-083",
+            "question": "What is a key feature associated with cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-084",
+            "question": "Which investigation or management principle relates to lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-085",
+            "question": "Which option correctly identifies the significance of atherosclerosis of coronary arteries in Coronary artery disease?",
+            "options": {
+                "A": "Plaque buildup narrowing coronary vessels",
+                "B": "Infection of heart valves",
+                "C": "Weakening of pericardium",
+                "D": "Excess red blood cell production"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-086",
+            "question": "Which statement best describes angina pectoris in Coronary artery disease?",
+            "options": {
+                "A": "Chest pain due to myocardial ischemia",
+                "B": "Valve infection",
+                "C": "Pericardial fluid accumulation",
+                "D": "Reduced blood viscosity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-087",
+            "question": "A patient with Coronary artery disease is assessed for myocardial infarction. Which finding is most appropriate?",
+            "options": {
+                "A": "Death of myocardial cells from prolonged ischemia",
+                "B": "Normal heart contraction",
+                "C": "Increased valve flexibility",
+                "D": "Lung infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-088",
+            "question": "What is a key feature associated with troponin testing in Coronary artery disease?",
+            "options": {
+                "A": "Detecting myocardial injury",
+                "B": "Measuring blood pressure only",
+                "C": "Assessing bone density",
+                "D": "Measuring lung capacity"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-089",
+            "question": "Which investigation or management principle relates to cardiac catheterization in Coronary artery disease?",
+            "options": {
+                "A": "Assessing coronary artery patency",
+                "B": "Treating anemia only",
+                "C": "Examining skin lesions",
+                "D": "Measuring kidney size"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CAD-090",
+            "question": "Which option correctly identifies the significance of lipid profile in Coronary artery disease?",
+            "options": {
+                "A": "Evaluating atherosclerotic risk",
+                "B": "Diagnosing fractures",
+                "C": "Measuring oxygen saturation",
+                "D": "Assessing vision"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

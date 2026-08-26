@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CBT Test</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+         TOP BAR
+    ========================== -->
+
+    <header class="quiz-header">
+
+    <div class="quiz-course">
+        <span id="course-name">CBT</span>
+        <small id="topic-name"></small>
+    </div>
+
+    <nav class="quiz-nav">
+        <a href="index.html">Home</a>
+    </nav>
+
+    <div class="timer">
+        <span>TIME</span>
+        <strong id="timer">--:--</strong>
+    </div>
+
+</header>
+
+    <!-- =========================
+         MAIN CBT AREA
+    ========================== -->
+
+    <main class="quiz-page">
+
+        <section class="question-area">
+
+            <!-- Question information -->
+
+            <div class="question-top">
+
+                <span id="question-number">
+                    Question 1
+                </span>
+
+                <button id="flag-button" class="flag-button">
+                    ⚑ Flag
+                </button>
+
+            </div>
+
+
+            <!-- Question -->
+
+            <div class="question-card">
+
+                <h1 id="question-text">
+                    Loading question...
+                </h1>
+
+
+                <!-- Options -->
+
+                <div id="options-container" class="options-container">
+
+                </div>
+
+            </div>
+
+
+            <!-- Navigation -->
+
+            <div class="navigation">
+
+                <button
+                    id="previous-button"
+                    class="nav-button secondary"
+                >
+                    ← Previous
+                </button>
+
+
+                <button
+                    id="next-button"
+                    class="nav-button"
+                >
+                    Next →
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             QUESTION NAVIGATOR
+        ========================== -->
+
+        <aside class="question-sidebar">
+
+            <div class="sidebar-header">
+
+                <h2>Questions</h2>
+
+                <span id="progress">
+                    0 / 0
+                </span>
+
+            </div>
+
+
+            <div
+                id="question-navigator"
+                class="question-navigator"
+            >
+            </div>
+
+
+            <div class="legend">
+
+                <div>
+                    <span class="legend-box answered"></span>
+                    Answered
+                </div>
+
+                <div>
+                    <span class="legend-box unanswered"></span>
+                    Unanswered
+                </div>
+
+                <div>
+                    <span class="legend-box flagged"></span>
+                    Flagged
+                </div>
+
+            </div>
+
+
+            <button
+    type="button"
+    id="submit-button"
+    class="submit-button"
+>
+    Submit Test
+</button>
+
+        </aside>
+
+    </main>
+
+
+    <script src="js/quiz.js"></script>
+
+</body>
+
+</html>

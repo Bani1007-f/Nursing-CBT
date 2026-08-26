@@ -1,0 +1,729 @@
+{
+    "course": "community-health-ii",
+    "topic": "Community Health Nursing",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "CHN-001",
+            "question": "Community health nursing primarily focuses on the health of:",
+            "options": {
+                "A": "Hospitalized patients only",
+                "B": "Individuals, families, and communities",
+                "C": "Doctors and nurses",
+                "D": "Patients in intensive care units"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-002",
+            "question": "Which of the following best describes community health?",
+            "options": {
+                "A": "Treatment of diseases in hospitals",
+                "B": "Improving the health outcomes of populations and communities",
+                "C": "Surgical management of diseases",
+                "D": "Management of critically ill patients"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-003",
+            "question": "Community health nursing is grounded primarily in:",
+            "options": {
+                "A": "Surgery and pharmacology",
+                "B": "Public health and primary healthcare",
+                "C": "Anatomy and physiology only",
+                "D": "Laboratory science"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-004",
+            "question": "According to WHO, health is:",
+            "options": {
+                "A": "The absence of disease only",
+                "B": "The ability to work effectively",
+                "C": "Complete physical, mental and social well-being",
+                "D": "Physical fitness alone"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CHN-005",
+            "question": "Which of the following is NOT part of the WHO definition of health?",
+            "options": {
+                "A": "Physical well-being",
+                "B": "Mental well-being",
+                "C": "Social well-being",
+                "D": "Financial well-being"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "CHN-006",
+            "question": "The biomedical concept of health defines health mainly as:",
+            "options": {
+                "A": "Social adjustment",
+                "B": "Spiritual wellbeing",
+                "C": "Absence of disease",
+                "D": "Environmental balance"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CHN-007",
+            "question": "The ecological concept of health emphasizes the relationship between:",
+            "options": {
+                "A": "Nurses and doctors",
+                "B": "Humans and their environment",
+                "C": "Patients and hospitals",
+                "D": "Drugs and diseases"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-008",
+            "question": "Which concept of health emphasizes mental, emotional and social factors?",
+            "options": {
+                "A": "Biomedical",
+                "B": "Ecological",
+                "C": "Psychosocial",
+                "D": "Anatomical"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CHN-009",
+            "question": "A holistic concept of health considers:",
+            "options": {
+                "A": "Only physical health",
+                "B": "Only mental health",
+                "C": "The whole person",
+                "D": "Only the absence of disease"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CHN-010",
+            "question": "Which of the following is a dimension of health?",
+            "options": {
+                "A": "Political",
+                "B": "Spiritual",
+                "C": "Financial",
+                "D": "Legal Questions"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-011",
+            "question": "Which of the following is included in the intellectual dimension of health?",
+            "options": {
+                "A": "Developing knowledge and skills",
+                "B": "Maintaining friendships",
+                "C": "Managing emotions",
+                "D": "Practising religion"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-012",
+            "question": "The emotional dimension involves:",
+            "options": {
+                "A": "Physical exercise only",
+                "B": "Understanding and managing feelings",
+                "C": "Economic development",
+                "D": "Environmental sanitation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-013",
+            "question": "The social dimension of health focuses mainly on:",
+            "options": {
+                "A": "Genetics",
+                "B": "Relationships with others",
+                "C": "Drug therapy",
+                "D": "Body structure"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-014",
+            "question": "The spiritual dimension includes:",
+            "options": {
+                "A": "Finding purpose and meaning in life",
+                "B": "Increasing income",
+                "C": "Physical exercise",
+                "D": "Disease diagnosis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-015",
+            "question": "Which of the following is a biological determinant of health?",
+            "options": {
+                "A": "Income",
+                "B": "Genetics",
+                "C": "Education",
+                "D": "Employment"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-016",
+            "question": "Which is a behavioural determinant of health?",
+            "options": {
+                "A": "Genetics",
+                "B": "Age",
+                "C": "Diet and nutrition",
+                "D": "Sex"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CHN-017",
+            "question": "Which of the following is a socioeconomic determinant?",
+            "options": {
+                "A": "Genetics",
+                "B": "Income",
+                "C": "Age",
+                "D": "Sex"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-018",
+            "question": "Which determinant includes access to healthcare and preventive services?",
+            "options": {
+                "A": "Health services",
+                "B": "Biological",
+                "C": "Behavioural",
+                "D": "Spiritual"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-019",
+            "question": "Polypharmacy is particularly identified as a concern associated with:",
+            "options": {
+                "A": "Adolescents",
+                "B": "Infants",
+                "C": "Aging populations",
+                "D": "Newborns"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CHN-020",
+            "question": "Gender can influence health through all of the following EXCEPT:",
+            "options": {
+                "A": "Reproductive health",
+                "B": "Health behaviours",
+                "C": "Gender-based violence",
+                "D": "Blood group alone"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "CHN-021",
+            "question": "Which skill is essential when working with culturally diverse communities?",
+            "options": {
+                "A": "Cultural competence",
+                "B": "Isolation",
+                "C": "Competition",
+                "D": "Authoritarianism"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-022",
+            "question": "Which of the following is important for successful community health nursing?",
+            "options": {
+                "A": "Empathy and respect",
+                "B": "Avoiding community members",
+                "C": "Working alone",
+                "D": "Ignoring cultural beliefs"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-023",
+            "question": "In community health nursing, the family is considered the:",
+            "options": {
+                "A": "Enemy of healthcare",
+                "B": "Unit of service",
+                "C": "Unit of government",
+                "D": "Unit of diagnosis only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-024",
+            "question": "Respecting clients' values, customs and beliefs helps to:",
+            "options": {
+                "A": "Reduce effectiveness of care",
+                "B": "Improve effectiveness of care",
+                "C": "Eliminate the need for nurses",
+                "D": "Prevent documentation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-025",
+            "question": "Health education and counselling are considered:",
+            "options": {
+                "A": "Unnecessary activities",
+                "B": "Vital parts of community health nursing",
+                "C": "Hospital-only activities",
+                "D": "Administrative duties only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-026",
+            "question": "Which principle emphasizes working with other members of the health team?",
+            "options": {
+                "A": "Collaboration",
+                "B": "Isolation",
+                "C": "Competition",
+                "D": "Independence"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-027",
+            "question": "Periodic and continuing evaluation helps the nurse to determine:",
+            "options": {
+                "A": "Whether goals and objectives are being achieved",
+                "B": "The nurse's salary",
+                "C": "The patient's blood group only",
+                "D": "The hospital's profit"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-028",
+            "question": "The use of local community resources helps to:",
+            "options": {
+                "A": "Reduce community participation",
+                "B": "Maximize the success of community health efforts",
+                "C": "Prevent health education",
+                "D": "Eliminate teamwork"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-029",
+            "question": "Active participation of individuals, families and communities in healthcare planning generally:",
+            "options": {
+                "A": "Reduces programme success",
+                "B": "Increases the likelihood of programme success",
+                "C": "Prevents decision-making",
+                "D": "Makes healthcare unnecessary"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-030",
+            "question": "Accurate recording and reporting are important because they:",
+            "options": {
+                "A": "Have no relationship to evaluation",
+                "B": "Serve as a basis for evaluation and future action",
+                "C": "Replace community participation",
+                "D": "Eliminate supervision Questions 31–40: Roles and Activities of the Community Health Nurse"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-031",
+            "question": "The nursing process commonly used in community health nursing is abbreviated as:",
+            "options": {
+                "A": "SOAP",
+                "B": "ADPIE",
+                "C": "ABCD",
+                "D": "PQRST"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-032",
+            "question": "The first step in ADPIE is:",
+            "options": {
+                "A": "Planning",
+                "B": "Implementation",
+                "C": "Assessment",
+                "D": "Evaluation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "CHN-033",
+            "question": "Community health needs assessment involves:",
+            "options": {
+                "A": "Identifying community health needs and priorities",
+                "B": "Giving medications without assessment",
+                "C": "Closing health centres",
+                "D": "Ignoring health disparities"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-034",
+            "question": "Resource mapping involves identifying:",
+            "options": {
+                "A": "Only financial resources",
+                "B": "Available healthcare resources and services",
+                "C": "Only hospital beds",
+                "D": "Only nurses"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-035",
+            "question": "During the planning stage, the community health nurse may:",
+            "options": {
+                "A": "Develop health programmes",
+                "B": "Ignore community needs",
+                "C": "Stop collecting information",
+                "D": "Avoid stakeholders"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-036",
+            "question": "Which is an example of implementation?",
+            "options": {
+                "A": "Conducting an immunization campaign",
+                "B": "Identifying the problem only",
+                "C": "Analysing old records only",
+                "D": "Writing a diagnosis without action"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-037",
+            "question": "Monitoring community health indicators is part of:",
+            "options": {
+                "A": "Assessment only",
+                "B": "Evaluation",
+                "C": "Diagnosis only",
+                "D": "Drug administration"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-038",
+            "question": "Advocacy by the community health nurse involves:",
+            "options": {
+                "A": "Supporting policies that improve community health",
+                "B": "Avoiding health policy",
+                "C": "Preventing community participation",
+                "D": "Refusing to educate people"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-039",
+            "question": "Which of the following is an example of community partnership?",
+            "options": {
+                "A": "Working with schools and community organizations",
+                "B": "Working alone",
+                "C": "Avoiding community leaders",
+                "D": "Refusing collaboration"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-040",
+            "question": "Which of the following is a setting where community health nurses may work?",
+            "options": {
+                "A": "Schools",
+                "B": "Community health centres",
+                "C": "Workplaces",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "CHN-041",
+            "question": "The PRECEDE–PROCEED model was developed by:",
+            "options": {
+                "A": "Lawrence W. Green and Marshall W. Kreuter",
+                "B": "Florence Nightingale and Virginia Henderson",
+                "C": "Leavell and Clark",
+                "D": "Fishbein and Ajzen"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-042",
+            "question": "PRECEDE stands for:",
+            "options": {
+                "A": "Predisposing, Reinforcing, and Enabling Constructs in Educational Diagnosis and Evaluation",
+                "B": "Prevention, Research, Education, Community Development and Evaluation",
+                "C": "Primary Reinforcement and Community Education Development",
+                "D": "Predisposing Research and Community Education Development"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-043",
+            "question": "PROCEED stands for:",
+            "options": {
+                "A": "Policy, Regulatory, and Organizational Constructs in Educational and Environmental Development",
+                "B": "Prevention, Regulation and Organization for Environmental Education Development",
+                "C": "Policy Research and Community Environmental Education Development",
+                "D": "Public Regulatory Organization for Community Educational Development"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-044",
+            "question": "The PRECEDE component mainly focuses on:",
+            "options": {
+                "A": "Assessment and diagnosis",
+                "B": "Surgery",
+                "C": "Drug administration",
+                "D": "Rehabilitation only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-045",
+            "question": "The PROCEED component mainly focuses on:",
+            "options": {
+                "A": "Implementation and evaluation",
+                "B": "Diagnosis only",
+                "C": "Genetic testing",
+                "D": "Drug prescription"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-046",
+            "question": "In PRECEDE, predisposing factors include:",
+            "options": {
+                "A": "Knowledge and attitudes",
+                "B": "Rewards only",
+                "C": "Hospital buildings",
+                "D": "Financial records only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-047",
+            "question": "Enabling factors include:",
+            "options": {
+                "A": "Resources and skills",
+                "B": "Attitudes only",
+                "C": "Rewards only",
+                "D": "Symptoms only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-048",
+            "question": "Reinforcing factors include:",
+            "options": {
+                "A": "Feedback and rewards",
+                "B": "Genetics",
+                "C": "Age",
+                "D": "Blood group"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-049",
+            "question": "Which evaluation assesses whether a programme was delivered as intended?",
+            "options": {
+                "A": "Process evaluation",
+                "B": "Impact evaluation",
+                "C": "Outcome evaluation",
+                "D": "Genetic evaluation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-050",
+            "question": "Which evaluation examines long-term health outcomes?",
+            "options": {
+                "A": "Process evaluation",
+                "B": "Outcome evaluation",
+                "C": "Administrative evaluation",
+                "D": "Environmental evaluation Health Belief Model"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-051",
+            "question": "The Health Belief Model primarily focuses on:",
+            "options": {
+                "A": "Individual perceptions and beliefs about health behaviour",
+                "B": "Environmental pollution only",
+                "C": "Hospital management",
+                "D": "Genetics only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-052",
+            "question": "In the Health Belief Model, perceived susceptibility means:",
+            "options": {
+                "A": "Belief that a disease is very serious",
+                "B": "Belief about one's likelihood of developing a disease",
+                "C": "Belief that treatment is expensive",
+                "D": "Confidence in performing an action"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-053",
+            "question": "Perceived severity refers to:",
+            "options": {
+                "A": "How serious the person believes the condition is",
+                "B": "The availability of healthcare",
+                "C": "The person's income",
+                "D": "The person's age"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-054",
+            "question": "A person's belief that vaccination will protect them represents:",
+            "options": {
+                "A": "Perceived barrier",
+                "B": "Perceived benefit",
+                "C": "Perceived susceptibility",
+                "D": "Subjective norm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-055",
+            "question": "Fear of the cost of treatment is an example of:",
+            "options": {
+                "A": "Perceived benefit",
+                "B": "Perceived barrier",
+                "C": "Self-efficacy",
+                "D": "Perceived severity"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-056",
+            "question": "A reminder from a nurse encouraging someone to attend screening is a:",
+            "options": {
+                "A": "Cue to action",
+                "B": "Perceived barrier",
+                "C": "Reinforcing factor",
+                "D": "Biological determinant"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-057",
+            "question": "Confidence in one's ability to perform a health behaviour is called:",
+            "options": {
+                "A": "Self-efficacy",
+                "B": "Susceptibility",
+                "C": "Severity",
+                "D": "Subjective norm Other Models"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "CHN-058",
+            "question": "The epidemiological model consists of:",
+            "options": {
+                "A": "Nurse, patient and doctor",
+                "B": "Agent, host and environment",
+                "C": "Disease, drug and treatment",
+                "D": "Family, nurse and hospital"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-059",
+            "question": "According to the Iceberg Theory of Disease, the visible cases represent:",
+            "options": {
+                "A": "The entire disease burden",
+                "B": "Only a small proportion of cases",
+                "C": "All asymptomatic cases",
+                "D": "Only people at risk"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "CHN-060",
+            "question": "Which theory explains that behaviour is influenced by intention, attitude and subjective norms?",
+            "options": {
+                "A": "Health Belief Model",
+                "B": "Theory of Reasoned Action",
+                "C": "Iceberg Theory",
+                "D": "Epidemiological Model"
+            },
+            "answer": "B",
+            "explanation": null
+        }
+    ]
+}

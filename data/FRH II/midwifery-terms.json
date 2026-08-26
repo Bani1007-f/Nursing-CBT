@@ -1,0 +1,729 @@
+{
+    "course": "frh-ii",
+    "topic": "Midwifery Terms",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "MT-001",
+            "question": "1. The female reproductive cell is called the:",
+            "options": {
+                "A": "Ovum",
+                "B": "Sperm",
+                "C": "Embryo",
+                "D": "Fetus"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-002",
+            "question": "2. The male reproductive cell is called the:",
+            "options": {
+                "A": "Ovum",
+                "B": "Sperm",
+                "C": "Embryo",
+                "D": "Chorion"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MT-003",
+            "question": "3. In the source, an embryo is the product of conception up to:",
+            "options": {
+                "A": "4 weeks",
+                "B": "6 weeks",
+                "C": "8 weeks",
+                "D": "12 weeks"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MT-004",
+            "question": "4. The fetus is the product of conception from:",
+            "options": {
+                "A": "Fertilization to 4 weeks",
+                "B": "8 weeks to birth",
+                "C": "12 weeks to 20 weeks",
+                "D": "37 weeks to birth"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MT-005",
+            "question": "5. Fertilization is the:",
+            "options": {
+                "A": "Union of ovum and sperm",
+                "B": "Implantation of the placenta",
+                "C": "Expulsion of the fetus",
+                "D": "Formation of lochia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-006",
+            "question": "6. Human gestation is described as approximately:",
+            "options": {
+                "A": "20 weeks",
+                "B": "28 weeks",
+                "C": "40 weeks from the first day of LMP",
+                "D": "52 weeks"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MT-007",
+            "question": "7. Cyesis means:",
+            "options": {
+                "A": "Pregnancy",
+                "B": "Labour",
+                "C": "Abortion",
+                "D": "Puerperium"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-008",
+            "question": "8. A woman who is pregnant is described as:",
+            "options": {
+                "A": "Gravid",
+                "B": "Nullipara",
+                "C": "Multipara",
+                "D": "Nulligravida"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-009",
+            "question": "9. Gravida refers to:",
+            "options": {
+                "A": "A pregnant woman",
+                "B": "A woman who has never been pregnant",
+                "C": "A baby after birth",
+                "D": "A woman who has delivered twins"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-010",
+            "question": "10. Parity refers to having:",
+            "options": {
+                "A": "Delivered one or more viable babies",
+                "B": "Been pregnant only once",
+                "C": "Never been pregnant",
+                "D": "Had an abortion only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-011",
+            "question": "11. Para refers to:",
+            "options": {
+                "A": "Past pregnancies that produced viable infants",
+                "B": "The current pregnancy only",
+                "C": "The number of abortions only",
+                "D": "The gestational age"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-012",
+            "question": "12. A woman pregnant for the first time is a:",
+            "options": {
+                "A": "Primigravida",
+                "B": "Multigravida",
+                "C": "Nulligravida",
+                "D": "Grand multipara"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-013",
+            "question": "13. A woman who has never been pregnant is a:",
+            "options": {
+                "A": "Primipara",
+                "B": "Nulligravida",
+                "C": "Multigravida",
+                "D": "Multipara"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MT-014",
+            "question": "14. A woman who has been pregnant more than once is a:",
+            "options": {
+                "A": "Primigravida",
+                "B": "Nulligravida",
+                "C": "Multigravida",
+                "D": "Nullipara"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MT-015",
+            "question": "15. A woman who has given birth to her first child is a:",
+            "options": {
+                "A": "Primipara",
+                "B": "Nullipara",
+                "C": "Multigravida",
+                "D": "Grand multipara"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-016",
+            "question": "16. A woman having her second or more babies is described in the source as:",
+            "options": {
+                "A": "Multipara",
+                "B": "Nullipara",
+                "C": "Primigravida",
+                "D": "Nulligravida"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-017",
+            "question": "17. A woman who has had five or more babies is a:",
+            "options": {
+                "A": "Primipara",
+                "B": "Grand multipara",
+                "C": "Nullipara",
+                "D": "Primigravida"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MT-018",
+            "question": "18. A woman who has never delivered a baby is:",
+            "options": {
+                "A": "Nullipara",
+                "B": "Multipara",
+                "C": "Primipara",
+                "D": "Grand multipara"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-019",
+            "question": "19. Expulsion of the fetus before the age of viability is called:",
+            "options": {
+                "A": "Abortion",
+                "B": "Parturition",
+                "C": "Involution",
+                "D": "Labour"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-020",
+            "question": "20. Prenatal means:",
+            "options": {
+                "A": "Before birth",
+                "B": "After birth",
+                "C": "During labour only",
+                "D": "After six weeks"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-021",
+            "question": "21. Antenatal means:",
+            "options": {
+                "A": "Before birth",
+                "B": "After birth",
+                "C": "During puerperium",
+                "D": "After delivery only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-022",
+            "question": "22. Term pregnancy in the source is:",
+            "options": {
+                "A": "20–28 weeks",
+                "B": "28–36 weeks",
+                "C": "37–40 weeks",
+                "D": "41–45 weeks"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "MT-023",
+            "question": "23. Preterm is described as occurring:",
+            "options": {
+                "A": "Before 28 weeks only",
+                "B": "After 28 weeks but before 37 weeks",
+                "C": "After 37 weeks",
+                "D": "Only at 40 weeks"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MT-024",
+            "question": "24. LMP stands for:",
+            "options": {
+                "A": "Last Menstrual Period",
+                "B": "Last Maternal Pregnancy",
+                "C": "Labour Monitoring Period",
+                "D": "Late Menstrual Phase"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-025",
+            "question": "25. EDD stands for:",
+            "options": {
+                "A": "Expected Date of Delivery",
+                "B": "Estimated Duration of Dilatation",
+                "C": "Early Delivery Date",
+                "D": "Expected Duration of Development"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-026",
+            "question": "26. Which formula is given for calculating EDD?",
+            "options": {
+                "A": "LMP + 7 days + 9 months",
+                "B": "LMP + 14 days + 6 months",
+                "C": "LMP + 3 days + 12 months",
+                "D": "LMP - 7 days + 9 months"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-027",
+            "question": "27. Vernix caseosa is best described as:",
+            "options": {
+                "A": "A greasy cheese-like substance covering the fetus",
+                "B": "A blood-stained cervical discharge",
+                "C": "A fetal stool",
+                "D": "A membrane around the fetus"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-028",
+            "question": "28. Vernix caseosa is commonly found in the:",
+            "options": {
+                "A": "Folds, armpit and groin",
+                "B": "Lungs only",
+                "C": "Umbilical cord only",
+                "D": "Placenta only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-029",
+            "question": "29. Parturition means:",
+            "options": {
+                "A": "The process of giving birth",
+                "B": "Return of reproductive organs to pregravid state",
+                "C": "Postpartum discharge",
+                "D": "Fetal hair growth"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-030",
+            "question": "30. A fetus that has existed in utero for over 28 weeks and is sufficiently developed to survive extra-uterine life is described as:",
+            "options": {
+                "A": "Viable fetus",
+                "B": "Stillbirth",
+                "C": "Embryo",
+                "D": "Nullipara"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-031",
+            "question": "31. A baby born after 28 weeks that does not breathe or show signs of life after complete expulsion is a:",
+            "options": {
+                "A": "Live birth",
+                "B": "Stillbirth",
+                "C": "Neonatal survivor",
+                "D": "Primipara"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MT-032",
+            "question": "32. A live birth is defined in the source as a birth where the baby:",
+            "options": {
+                "A": "Shows signs of life",
+                "B": "Always weighs more than 2.5 kg",
+                "C": "Is born after 37 weeks only",
+                "D": "Must cry immediately"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-033",
+            "question": "33. Lanugo is:",
+            "options": {
+                "A": "Fine downy hair on the fetal face and body",
+                "B": "A greasy fetal covering",
+                "C": "A blood-stained discharge",
+                "D": "A uterine membrane"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-034",
+            "question": "34. A.R.M. stands for:",
+            "options": {
+                "A": "Artificial Rupture of Membranes",
+                "B": "Antepartum Rupture Management",
+                "C": "Artificial Respiratory Membrane",
+                "D": "Amniotic Rupture Method"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-035",
+            "question": "35. P.R.O.M. stands for:",
+            "options": {
+                "A": "Premature Rupture Of Membranes",
+                "B": "Postpartum Rupture Of Membranes",
+                "C": "Prolonged Rupture Of Mucus",
+                "D": "Premature Reduction Of Membranes"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-036",
+            "question": "36. Liquor amnii refers to:",
+            "options": {
+                "A": "Amniotic fluid surrounding the developing fetus",
+                "B": "Lochia after delivery",
+                "C": "Cervical mucus",
+                "D": "Fetal urine only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-037",
+            "question": "37. The amnion is the:",
+            "options": {
+                "A": "Membrane surrounding the fetus in utero",
+                "B": "Outer bony layer of the skull",
+                "C": "Placental muscle",
+                "D": "Cervical plug"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-038",
+            "question": "38. The chorion is the:",
+            "options": {
+                "A": "Membrane lining the decidua of the uterus during pregnancy",
+                "B": "Fetal skull membrane",
+                "C": "Cervical canal",
+                "D": "Amniotic fluid"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-039",
+            "question": "39. The prefix 'poly' means:",
+            "options": {
+                "A": "Many or excess",
+                "B": "Before",
+                "C": "After",
+                "D": "Small"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-040",
+            "question": "40. Polyhydramnios refers to:",
+            "options": {
+                "A": "Excess amniotic fluid",
+                "B": "Absence of amniotic fluid",
+                "C": "Blood in the amniotic sac",
+                "D": "Premature delivery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-041",
+            "question": "41. Atresia means:",
+            "options": {
+                "A": "Absence of the opening of a natural canal",
+                "B": "Excessive fluid",
+                "C": "Normal labour",
+                "D": "Fetal hair"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-042",
+            "question": "42. A baby delivered enclosed in an intact amniotic sac is described as:",
+            "options": {
+                "A": "Delivered in a caul",
+                "B": "A stillbirth",
+                "C": "A macerated fetus",
+                "D": "A preterm fetus"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-043",
+            "question": "43. Linea nigra is:",
+            "options": {
+                "A": "A dark vertical line from pubis toward the umbilicus during pregnancy",
+                "B": "A blood-stained discharge",
+                "C": "A fetal membrane",
+                "D": "A uterine contraction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-044",
+            "question": "44. Striae gravidarum are:",
+            "options": {
+                "A": "Marks seen on the abdomen, thighs or breasts during pregnancy",
+                "B": "The cervical mucus plug",
+                "C": "The fetal scalp swelling",
+                "D": "The amniotic membrane"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-045",
+            "question": "45. Chloasma is:",
+            "options": {
+                "A": "Skin patches commonly seen on the face during pregnancy",
+                "B": "A postpartum haemorrhage",
+                "C": "A fetal hair",
+                "D": "A cervical infection"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-046",
+            "question": "46. Labour is the process of:",
+            "options": {
+                "A": "Expelling the fetus, placental membranes and cord from the uterus",
+                "B": "Forming the placenta only",
+                "C": "Returning the uterus to its pregravid size",
+                "D": "Producing amniotic fluid"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-047",
+            "question": "47. Eutocia means:",
+            "options": {
+                "A": "Normal labour",
+                "B": "Abnormal labour",
+                "C": "Postpartum haemorrhage",
+                "D": "Prolonged pregnancy"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-048",
+            "question": "48. Dystocia means:",
+            "options": {
+                "A": "Abnormal or difficult labour",
+                "B": "Normal labour",
+                "C": "Postnatal period",
+                "D": "Fetal viability"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-049",
+            "question": "49. The operculum is the:",
+            "options": {
+                "A": "Mucoid plug filling the cervical canal during pregnancy",
+                "B": "Amniotic membrane",
+                "C": "Fetal scalp covering",
+                "D": "Placental tissue"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-050",
+            "question": "50. The main protective function of the operculum is to:",
+            "options": {
+                "A": "Prevent ascending infection into the uterus",
+                "B": "Increase fetal movement",
+                "C": "Increase pelvic diameter",
+                "D": "Cause fetal flexion"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-051",
+            "question": "51. Show refers to:",
+            "options": {
+                "A": "Discharge of blood-stained operculum",
+                "B": "Loss of amniotic fluid only",
+                "C": "Passage of meconium",
+                "D": "Postpartum lochia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-052",
+            "question": "52. The puerperium is the:",
+            "options": {
+                "A": "Postnatal period of about six weeks",
+                "B": "Period from fertilization to 8 weeks",
+                "C": "Period of labour only",
+                "D": "Period before pregnancy"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-053",
+            "question": "53. Involution means:",
+            "options": {
+                "A": "Return of reproductive organs to their pregravid state",
+                "B": "Expulsion of the fetus",
+                "C": "Formation of the embryo",
+                "D": "Opening of the cervix"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-054",
+            "question": "54. Lochia is:",
+            "options": {
+                "A": "Discharge from the uterus after childbirth or abortion",
+                "B": "Amniotic fluid before birth",
+                "C": "Cervical mucus before pregnancy",
+                "D": "Fetal urine"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-055",
+            "question": "55. Lochia rubra is typically:",
+            "options": {
+                "A": "Bright red and occurs around days 1–4",
+                "B": "Pink-yellow and occurs days 5–9",
+                "C": "Whitish and occurs after day 10",
+                "D": "Green-black stool"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-056",
+            "question": "56. Lochia serosa is typically:",
+            "options": {
+                "A": "Bright red",
+                "B": "Pink-yellowish and occurs around days 5–9",
+                "C": "Whitish from day 1",
+                "D": "Green-black"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "MT-057",
+            "question": "57. Lochia alba is typically:",
+            "options": {
+                "A": "Whitish and occurs after about day 10",
+                "B": "Bright red in days 1–4",
+                "C": "Pink-yellow on day 2",
+                "D": "Green-black"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-058",
+            "question": "58. Primary postpartum haemorrhage occurs:",
+            "options": {
+                "A": "Within 24 hours of delivery",
+                "B": "Only after six weeks",
+                "C": "Only before labour",
+                "D": "Between 6 and 12 months"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-059",
+            "question": "59. Secondary postpartum haemorrhage occurs:",
+            "options": {
+                "A": "After 24 hours of delivery until the end of puerperium",
+                "B": "Only within the first hour",
+                "C": "Before delivery",
+                "D": "Only during pregnancy"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "MT-060",
+            "question": "60. A clinic held six weeks after delivery to assess mother and baby is called the:",
+            "options": {
+                "A": "Postnatal clinic",
+                "B": "Antenatal clinic",
+                "C": "Fetal assessment clinic",
+                "D": "Pelvic clinic"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

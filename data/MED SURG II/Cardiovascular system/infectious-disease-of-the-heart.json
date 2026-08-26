@@ -1,0 +1,1090 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Infectious Disease of the heart",
+    "testSettings": {
+        "questionCount": 60
+    },
+    "questions": [
+        {
+            "id": "IDOTH-001",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-002",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-003",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-004",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-005",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-006",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-007",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-008",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-009",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-010",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-011",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-012",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-013",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-014",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-015",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-016",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-017",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-018",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-019",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-020",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-021",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-022",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-023",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-024",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-025",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-026",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-027",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-028",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-029",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-030",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-031",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-032",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-033",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-034",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-035",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-036",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-037",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-038",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-039",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-040",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-041",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-042",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-043",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-044",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-045",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-046",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-047",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-048",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-049",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-050",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-051",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-052",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-053",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-054",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-055",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-056",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-057",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-058",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-059",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-060",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-061",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-062",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-063",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-064",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-065",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-066",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-067",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-068",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-069",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-070",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-071",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-072",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-073",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-074",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-075",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-076",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-077",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-078",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-079",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-080",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-081",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-082",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-083",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-084",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-085",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-086",
+            "question": "Which statement best describes infective endocarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Infection of the endocardium and valves",
+                "B": "Disease of skeletal muscle",
+                "C": "Lung infection only",
+                "D": "Blood loss disorder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-087",
+            "question": "A patient with Infectious diseases of the heart is assessed for myocarditis. Which finding is most appropriate?",
+            "options": {
+                "A": "Inflammation of the myocardium",
+                "B": "Inflammation of kidneys",
+                "C": "Valve replacement",
+                "D": "Arterial clot only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-088",
+            "question": "What is a key feature associated with pericarditis in Infectious diseases of the heart?",
+            "options": {
+                "A": "Inflammation of the pericardium",
+                "B": "Coronary artery blockage",
+                "C": "Low platelet count",
+                "D": "High blood glucose"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-089",
+            "question": "Which investigation or management principle relates to blood cultures in Infectious diseases of the heart?",
+            "options": {
+                "A": "Detecting microorganisms in blood",
+                "B": "Measuring heart rate",
+                "C": "Testing lung volume",
+                "D": "Assessing bone marrow"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IDOTH-090",
+            "question": "Which option correctly identifies the significance of vegetations in Infectious diseases of the heart?",
+            "options": {
+                "A": "Clusters of platelets, fibrin and microorganisms on endocardium",
+                "B": "Normal valves",
+                "C": "Blood pressure readings",
+                "D": "Heart sounds"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

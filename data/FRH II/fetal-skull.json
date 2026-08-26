@@ -1,0 +1,969 @@
+{
+    "course": "frh-ii",
+    "topic": "Fetal Skull",
+    "testSettings": {
+        "questionCount": 40
+    },
+    "questions": [
+        {
+            "id": "FS-001",
+            "question": "1. Which part of the fetal body is described as the largest and hardest part to be born?",
+            "options": {
+                "A": "Fetal head",
+                "B": "Fetal chest",
+                "C": "Fetal abdomen",
+                "D": "Fetal pelvis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-002",
+            "question": "2. Why is knowledge of the fetal skull important to a midwife?",
+            "options": {
+                "A": "It helps assess the relationship between fetal head and maternal pelvis",
+                "B": "It determines the mother's blood group",
+                "C": "It replaces abdominal examination",
+                "D": "It measures maternal temperature"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-003",
+            "question": "3. About what proportion of babies in the source are said to present by the head?",
+            "options": {
+                "A": "50%",
+                "B": "75%",
+                "C": "95%",
+                "D": "100%"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-004",
+            "question": "4. The fetal skull is divided into which three main parts?",
+            "options": {
+                "A": "Vault, face and base",
+                "B": "Face, neck and chest",
+                "C": "Vault, pelvis and face",
+                "D": "Base, neck and vault"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-005",
+            "question": "5. Which part of the fetal skull is dome-shaped?",
+            "options": {
+                "A": "Base",
+                "B": "Face",
+                "C": "Vault",
+                "D": "Mandible"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-006",
+            "question": "6. How many bones are described as making up the vault in the source?",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "8"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-007",
+            "question": "7. Incomplete ossification at birth produces sutures and fontanelles that permit:",
+            "options": {
+                "A": "Moulding",
+                "B": "Bone fusion",
+                "C": "Hyperextension",
+                "D": "Facial paralysis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-008",
+            "question": "8. The occipital bone lies mainly at which part of the fetal skull?",
+            "options": {
+                "A": "Front",
+                "B": "Back",
+                "C": "Side",
+                "D": "Floor of the mouth"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-009",
+            "question": "9. The two parietal bones lie:",
+            "options": {
+                "A": "On either side of the skull",
+                "B": "Only at the forehead",
+                "C": "At the chin",
+                "D": "At the base of the neck"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-010",
+            "question": "10. The two frontal bones form the:",
+            "options": {
+                "A": "Occiput",
+                "B": "Forehead or sinciput",
+                "C": "Vertex only",
+                "D": "Base of the skull"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-011",
+            "question": "11. The frontal bones fuse into a single bone by approximately:",
+            "options": {
+                "A": "2 years",
+                "B": "4 years",
+                "C": "8 years",
+                "D": "18 years"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-012",
+            "question": "12. Which suture separates the two parietal bones from the occipital bone?",
+            "options": {
+                "A": "Coronal",
+                "B": "Frontal",
+                "C": "Sagittal",
+                "D": "Lambdoidal"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "FS-013",
+            "question": "13. Which suture lies between the two parietal bones?",
+            "options": {
+                "A": "Sagittal",
+                "B": "Coronal",
+                "C": "Frontal",
+                "D": "Lambdoidal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-014",
+            "question": "14. The coronal suture separates the:",
+            "options": {
+                "A": "Two occipital bones",
+                "B": "Two frontal and two parietal bones",
+                "C": "Two temporal bones",
+                "D": "Face and base"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-015",
+            "question": "15. The frontal suture runs between:",
+            "options": {
+                "A": "The two halves of the frontal bone",
+                "B": "The two parietal bones",
+                "C": "The occiput and parietals",
+                "D": "The temporal bones"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-016",
+            "question": "16. Which suture is described as the one that becomes obliterated?",
+            "options": {
+                "A": "Sagittal",
+                "B": "Coronal",
+                "C": "Frontal",
+                "D": "Lambdoidal"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-017",
+            "question": "17. A fontanelle is formed at the junction of:",
+            "options": {
+                "A": "One bone only",
+                "B": "Two or more sutures",
+                "C": "The mandible and maxilla",
+                "D": "The sacrum and coccyx"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-018",
+            "question": "18. What is the shape of the posterior fontanelle?",
+            "options": {
+                "A": "Round",
+                "B": "Diamond",
+                "C": "Triangular",
+                "D": "Oval"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-019",
+            "question": "19. The posterior fontanelle is also called the:",
+            "options": {
+                "A": "Bregma",
+                "B": "Lambda",
+                "C": "Glabella",
+                "D": "Mentum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-020",
+            "question": "20. The posterior fontanelle is found at the junction of the:",
+            "options": {
+                "A": "Coronal and frontal sutures",
+                "B": "Lambdoidal and sagittal sutures",
+                "C": "Sagittal and frontal sutures",
+                "D": "Temporal and coronal sutures"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-021",
+            "question": "21. The posterior fontanelle closes by about:",
+            "options": {
+                "A": "6 weeks",
+                "B": "6 months",
+                "C": "12 months",
+                "D": "18 months"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-022",
+            "question": "22. The anterior fontanelle is also called the:",
+            "options": {
+                "A": "Lambda",
+                "B": "Bregma",
+                "C": "Mentum",
+                "D": "Glabella"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-023",
+            "question": "23. What is the usual shape of the anterior fontanelle?",
+            "options": {
+                "A": "Triangular",
+                "B": "Diamond",
+                "C": "Circular",
+                "D": "Kidney-shaped"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-024",
+            "question": "24. The anterior fontanelle is found at the junction of the:",
+            "options": {
+                "A": "Frontal, coronal and sagittal sutures",
+                "B": "Lambdoidal and sagittal sutures",
+                "C": "Coronal and lambdoidal sutures",
+                "D": "Temporal and frontal sutures"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-025",
+            "question": "25. The anterior fontanelle closes by approximately:",
+            "options": {
+                "A": "6 weeks",
+                "B": "6 months",
+                "C": "12 months",
+                "D": "18 months"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "FS-026",
+            "question": "26. During a vaginal examination, a triangular fontanelle suggesting a well-flexed head is the:",
+            "options": {
+                "A": "Anterior fontanelle",
+                "B": "Posterior fontanelle",
+                "C": "Temporal fontanelle",
+                "D": "Mastoid fontanelle"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-027",
+            "question": "27. The vertex region lies between the:",
+            "options": {
+                "A": "Chin and neck",
+                "B": "Anterior and posterior fontanelles",
+                "C": "Bregma and glabella only",
+                "D": "Occiput and foramen magnum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-028",
+            "question": "28. The sinciput region extends from the bregma to the:",
+            "options": {
+                "A": "Chin",
+                "B": "Orbital ridge (glabella)",
+                "C": "Foramen magnum",
+                "D": "Posterior fontanelle"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-029",
+            "question": "29. The point between the eyebrows is called the:",
+            "options": {
+                "A": "Mentum",
+                "B": "Lambda",
+                "C": "Glabella",
+                "D": "Bregma"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-030",
+            "question": "30. The face region extends from the orbital ridge to the:",
+            "options": {
+                "A": "Occiput",
+                "B": "Chin and neck",
+                "C": "Vertex",
+                "D": "Parietal bones"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-031",
+            "question": "31. The sub-occipito-bregmatic diameter measures approximately:",
+            "options": {
+                "A": "8.2 cm",
+                "B": "9.5 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-032",
+            "question": "32. The sub-occipito-frontal diameter measures approximately:",
+            "options": {
+                "A": "9.5 cm",
+                "B": "10 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-033",
+            "question": "33. The occipito-frontal diameter measures approximately:",
+            "options": {
+                "A": "8.2 cm",
+                "B": "9.5 cm",
+                "C": "10 cm",
+                "D": "11.5 cm"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "FS-034",
+            "question": "34. Which fetal skull diameter is the longest in the source?",
+            "options": {
+                "A": "Sub-occipito-bregmatic",
+                "B": "Biparietal",
+                "C": "Mento-vertical",
+                "D": "Bitemporal"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-035",
+            "question": "35. The mento-vertical diameter measures approximately:",
+            "options": {
+                "A": "9.5 cm",
+                "B": "10 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "FS-036",
+            "question": "36. The sub-mento-vertical diameter measures approximately:",
+            "options": {
+                "A": "8.2 cm",
+                "B": "9.5 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-037",
+            "question": "37. The sub-mento-bregmatic diameter measures approximately:",
+            "options": {
+                "A": "9.5 cm",
+                "B": "10 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-038",
+            "question": "38. The biparietal diameter is approximately:",
+            "options": {
+                "A": "8.2 cm",
+                "B": "9.5 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-039",
+            "question": "39. The bitemporal diameter is approximately:",
+            "options": {
+                "A": "8.2 cm",
+                "B": "9.5 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-040",
+            "question": "40. A student is asked for the transverse diameter of the fetal skull that measures 9.5 cm. The correct answer is:",
+            "options": {
+                "A": "Bitemporal",
+                "B": "Biparietal",
+                "C": "Mento-vertical",
+                "D": "Occipito-frontal"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-041",
+            "question": "41. Attitude of the fetal head refers to the degree of:",
+            "options": {
+                "A": "Flexion or extension of the head to the neck",
+                "B": "Rotation of the mother",
+                "C": "Descent of the placenta",
+                "D": "Dilatation of the cervix"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-042",
+            "question": "42. Why is fetal head attitude clinically important?",
+            "options": {
+                "A": "It determines which diameter presents in labour",
+                "B": "It determines maternal blood group",
+                "C": "It determines fetal sex",
+                "D": "It determines placental site"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-043",
+            "question": "43. In a well-flexed vertex presentation, the chin is:",
+            "options": {
+                "A": "Pointing upward",
+                "B": "Tucked tightly to the chest",
+                "C": "Pointing toward the sacrum",
+                "D": "At maximum extension"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-044",
+            "question": "44. In a well-flexed vertex presentation, the leading part is the:",
+            "options": {
+                "A": "Sinciput",
+                "B": "Occiput",
+                "C": "Chin",
+                "D": "Brow"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-045",
+            "question": "45. In a well-flexed vertex presentation, the presenting longitudinal diameter is:",
+            "options": {
+                "A": "Mento-vertical",
+                "B": "Occipito-frontal",
+                "C": "Sub-occipito-bregmatic",
+                "D": "Bitemporal"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-046",
+            "question": "46. The biparietal diameter in a well-flexed vertex presentation is approximately:",
+            "options": {
+                "A": "8.2 cm",
+                "B": "9.5 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-047",
+            "question": "47. A well-flexed head presents a relatively favourable circular shape because the presenting diameters are:",
+            "options": {
+                "A": "13.5 cm and 8.2 cm",
+                "B": "11.5 cm and 9.5 cm",
+                "C": "9.5 cm and 9.5 cm",
+                "D": "10 cm and 13.5 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-048",
+            "question": "48. In a well-flexed vertex, the diameter that distends the vaginal orifice is the:",
+            "options": {
+                "A": "Sub-occipito-frontal",
+                "B": "Occipito-frontal",
+                "C": "Mento-vertical",
+                "D": "Bitemporal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-049",
+            "question": "49. Incomplete flexion of the vertex is also described as the:",
+            "options": {
+                "A": "Military attitude",
+                "B": "Face attitude",
+                "C": "Hyperflexed attitude",
+                "D": "Mentum attitude"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-050",
+            "question": "50. In deflexed vertex presentation, the leading part is the:",
+            "options": {
+                "A": "Occiput",
+                "B": "Chin",
+                "C": "Sinciput",
+                "D": "Mentum"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-051",
+            "question": "51. In deflexed vertex presentation, the presenting diameter is approximately:",
+            "options": {
+                "A": "9.5 cm",
+                "B": "10 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-052",
+            "question": "52. A woman has a partially deflexed fetal head during labour. According to the source, the head may:",
+            "options": {
+                "A": "Only remain deflexed",
+                "B": "Correct into flexion or enter brow/face presentation",
+                "C": "Always become face presentation",
+                "D": "Always require caesarean section"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-053",
+            "question": "53. Complete extension of the fetal head produces:",
+            "options": {
+                "A": "Vertex presentation",
+                "B": "Brow presentation",
+                "C": "Face presentation",
+                "D": "Shoulder presentation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-054",
+            "question": "54. In face presentation, the presenting diameter is the:",
+            "options": {
+                "A": "Sub-mento-bregmatic",
+                "B": "Sub-occipito-bregmatic",
+                "C": "Occipito-frontal",
+                "D": "Biparietal"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-055",
+            "question": "55. The bitemporal diameter in face presentation is approximately:",
+            "options": {
+                "A": "8.2 cm",
+                "B": "9.5 cm",
+                "C": "11.5 cm",
+                "D": "13.5 cm"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-056",
+            "question": "56. The most common face presentation position at term in labour is:",
+            "options": {
+                "A": "Mentoanterior",
+                "B": "Mentoposterior",
+                "C": "Mentotransverse",
+                "D": "Occipitoposterior"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-057",
+            "question": "57. In mentoanterior position, the baby's chin points toward the mother's:",
+            "options": {
+                "A": "Sacrum",
+                "B": "Side wall",
+                "C": "Pubic bone",
+                "D": "Coccyx"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-058",
+            "question": "58. According to the source, mentoanterior position:",
+            "options": {
+                "A": "Favours vaginal birth",
+                "B": "Always requires caesarean section",
+                "C": "Cannot descend",
+                "D": "Is the least common face position"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-059",
+            "question": "59. In mentoposterior position, the baby's chin points toward the mother's:",
+            "options": {
+                "A": "Pubic bone",
+                "B": "Sacrum/spine",
+                "C": "Left hip only",
+                "D": "Right hip only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-060",
+            "question": "60. According to the source, persistent mentoposterior position makes vaginal birth:",
+            "options": {
+                "A": "Physically impossible",
+                "B": "Always easy",
+                "C": "More favourable than mentoanterior",
+                "D": "Unrelated to delivery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-061",
+            "question": "61. Mentotransverse means the fetal chin points toward the mother's:",
+            "options": {
+                "A": "Pubic bone",
+                "B": "Sacrum",
+                "C": "Side/hip",
+                "D": "Umbilicus"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-062",
+            "question": "62. Mentotransverse position is usually:",
+            "options": {
+                "A": "A transitional position during early labour",
+                "B": "A permanent position requiring surgery",
+                "C": "The same as vertex presentation",
+                "D": "Always associated with brow presentation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-063",
+            "question": "63. A partially extended fetal head with the mento-vertical diameter presenting is characteristic of:",
+            "options": {
+                "A": "Brow presentation",
+                "B": "Well-flexed vertex",
+                "C": "Face presentation",
+                "D": "Mentoanterior position"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-064",
+            "question": "64. If brow presentation persists, vaginal birth is:",
+            "options": {
+                "A": "Usually likely",
+                "B": "Usually unlikely",
+                "C": "Always guaranteed",
+                "D": "Independent of presentation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-065",
+            "question": "65. Moulding refers to:",
+            "options": {
+                "A": "Change in shape of the fetal head during passage through the birth canal",
+                "B": "Rotation of the maternal pelvis",
+                "C": "Descent of the placenta",
+                "D": "Opening of the fetal chest"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-066",
+            "question": "66. Moulding is possible because fetal vault bones can:",
+            "options": {
+                "A": "Fuse completely before birth",
+                "B": "Overlap at the sutures",
+                "C": "Become rigid during labour",
+                "D": "Move the sacrum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-067",
+            "question": "67. The skull bones most likely to overlap during moulding are the:",
+            "options": {
+                "A": "Temporal bones",
+                "B": "Parietal bones",
+                "C": "Facial bones",
+                "D": "Mandible"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-068",
+            "question": "68. On the partograph, +1 moulding means:",
+            "options": {
+                "A": "Bones are separated",
+                "B": "Bones are just touching",
+                "C": "Bones overlap and cannot be separated",
+                "D": "Bones are fractured"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-069",
+            "question": "69. On the partograph, +2 moulding means:",
+            "options": {
+                "A": "Bones are separated widely",
+                "B": "Bones overlap but can be separated easily",
+                "C": "Bones overlap and cannot be separated",
+                "D": "No sutures can be felt"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-070",
+            "question": "70. On the partograph, +3 moulding means:",
+            "options": {
+                "A": "Bones are just touching",
+                "B": "Bones are separated",
+                "C": "Bones overlap and cannot be separated easily",
+                "D": "The fontanelle is closed"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "FS-071",
+            "question": "71. A woman has +3 moulding and poor progress of labour. This finding may indicate:",
+            "options": {
+                "A": "Normal rapid progress",
+                "B": "Increased risk of obstructed labour",
+                "C": "Immediate delivery is certain",
+                "D": "Fetal maturity"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-072",
+            "question": "72. A preterm baby's skull may mould excessively because it has:",
+            "options": {
+                "A": "Harder bones and narrower sutures",
+                "B": "Softer skull and wider sutures",
+                "C": "No sutures",
+                "D": "A fused frontal bone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-073",
+            "question": "73. Excessive pressure on the fetal skull can cause:",
+            "options": {
+                "A": "Intracranial haemorrhage",
+                "B": "Improved oxygenation",
+                "C": "Increased pelvic diameter",
+                "D": "Maternal hyperglycaemia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-074",
+            "question": "74. Severe force during birth or assisted delivery can cause:",
+            "options": {
+                "A": "Skull fractures or bony lesions",
+                "B": "Pelvic widening",
+                "C": "Placental growth",
+                "D": "Increased liquor volume"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-075",
+            "question": "75. During vaginal examination, the midwife identifies sutures and fontanelles primarily to help determine the fetal:",
+            "options": {
+                "A": "Position",
+                "B": "Blood group",
+                "C": "Weight",
+                "D": "Sex"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-076",
+            "question": "76. A key reason the fetal skull must adapt to the maternal pelvis is that the head is:",
+            "options": {
+                "A": "Small compared with the pelvis",
+                "B": "Large compared with the fetal body and true pelvis",
+                "C": "Rigidly fused at birth",
+                "D": "Always delivered last"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "FS-077",
+            "question": "77. During a vaginal examination, a triangular fontanelle is palpated. Which finding does this most strongly suggest?",
+            "options": {
+                "A": "A well-flexed fetal head",
+                "B": "A completely extended head",
+                "C": "A brow presentation",
+                "D": "A transverse lie"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-078",
+            "question": "78. A labouring woman has +3 moulding with poor progress. What is the most appropriate interpretation from the source?",
+            "options": {
+                "A": "Possible increased risk of obstructed labour",
+                "B": "Normal finding requiring no attention",
+                "C": "Evidence of a mature placenta",
+                "D": "Evidence of polyhydramnios"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-079",
+            "question": "79. A fetal head is well flexed. Which combination is expected to present?",
+            "options": {
+                "A": "Sub-occipito-bregmatic and biparietal diameters",
+                "B": "Mento-vertical and bitemporal diameters",
+                "C": "Occipito-frontal and biparietal diameters",
+                "D": "Sub-mento-vertical and bitemporal diameters"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "FS-080",
+            "question": "80. A fetal head is completely extended. Which presentation should the midwife recognize?",
+            "options": {
+                "A": "Face presentation",
+                "B": "Well-flexed vertex",
+                "C": "Deflexed vertex",
+                "D": "Shoulder presentation"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

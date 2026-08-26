@@ -1,0 +1,729 @@
+{
+    "course": "community-health-ii",
+    "topic": "Health Promotion",
+    "testSettings": {
+        "questionCount": 20
+    },
+    "questions": [
+        {
+            "id": "HP-001",
+            "question": "According to the Ottawa Charter, health promotion is the process of enabling people to:",
+            "options": {
+                "A": "Eliminate all diseases",
+                "B": "Increase control over and improve their health",
+                "C": "Receive treatment from hospitals",
+                "D": "Avoid all health risks"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-002",
+            "question": "Which of the following is NOT included in the broad concept of health promotion in the slides?",
+            "options": {
+                "A": "Preventive care",
+                "B": "Curative care",
+                "C": "Palliative care",
+                "D": "Surgical care only"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "HP-003",
+            "question": "One major aim of health promotion is to:",
+            "options": {
+                "A": "Increase hospital admissions",
+                "B": "Raise awareness about health issues",
+                "C": "Replace healthcare workers",
+                "D": "Eliminate the need for treatment"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-004",
+            "question": "Which method is particularly useful for improving knowledge in health promotion?",
+            "options": {
+                "A": "One-to-one teaching",
+                "B": "Punishment",
+                "C": "Isolation",
+                "D": "Surgery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-005",
+            "question": "Improving self-esteem and decision-making may involve:",
+            "options": {
+                "A": "Role play",
+                "B": "Immunization only",
+                "C": "Drug administration",
+                "D": "Surgery"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-006",
+            "question": "Changing unhealthy attitudes and behaviours is primarily aimed at:",
+            "options": {
+                "A": "Lifestyle change",
+                "B": "Hospital construction",
+                "C": "Diagnosis",
+                "D": "Disease classification"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-007",
+            "question": "Which of the following is an example of changing the physical and social environment?",
+            "options": {
+                "A": "Counselling one patient",
+                "B": "Policy making and enforcement of laws",
+                "C": "Taking a patient's temperature",
+                "D": "Administering medication"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-008",
+            "question": "Good governance for health requires government to:",
+            "options": {
+                "A": "Ignore health implications of policies",
+                "B": "Make health a central consideration in government decisions",
+                "C": "Focus only on hospital treatment",
+                "D": "Leave health entirely to individuals"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-009",
+            "question": "Health literacy refers mainly to people's ability to:",
+            "options": {
+                "A": "Build hospitals",
+                "B": "Acquire and use health knowledge and information",
+                "C": "Diagnose every disease",
+                "D": "Prescribe medication"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-010",
+            "question": "Which of the following is associated with healthy cities?",
+            "options": {
+                "A": "Increased pollution",
+                "B": "Walkable cities",
+                "C": "Reduced access to healthcare",
+                "D": "Poor sanitation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-011",
+            "question": "Which principle of health promotion enables people to gain greater control over decisions affecting their health?",
+            "options": {
+                "A": "Equity",
+                "B": "Empowerment",
+                "C": "Sustainability",
+                "D": "Holistic care"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-012",
+            "question": "The principle that requires people to actively participate in decision-making is:",
+            "options": {
+                "A": "Participative",
+                "B": "Equitable",
+                "C": "Holistic",
+                "D": "Sustainable"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-013",
+            "question": "Taking into account the different dimensions of health represents which principle?",
+            "options": {
+                "A": "Empowerment",
+                "B": "Holisti",
+                "C": "Participative",
+                "D": "Multi-strategy"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-014",
+            "question": "Ensuring fairness of outcomes for service users refers to:",
+            "options": {
+                "A": "Equity",
+                "B": "Empowerment",
+                "C": "Sustainability",
+                "D": "Participation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-015",
+            "question": "Working with other agencies, organizations and government ministries is known as:",
+            "options": {
+                "A": "Holistic care",
+                "B": "Intersectoral collaboration",
+                "C": "Individualization",
+                "D": "Rehabilitation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-016",
+            "question": "The principle that emphasizes long-term continuation of health promotion outcomes is:",
+            "options": {
+                "A": "Sustainability",
+                "B": "Equity",
+                "C": "Participation",
+                "D": "Empowerment"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-017",
+            "question": "Using several approaches such as programmes and policies is known as:",
+            "options": {
+                "A": "Multi-strategy",
+                "B": "Holistic care",
+                "C": "Individual strategy",
+                "D": "Curative strategy"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-018",
+            "question": "Which of the following is an example of an audio-visual aid?",
+            "options": {
+                "A": "Video",
+                "B": "Surgery",
+                "C": "Injection",
+                "D": "Prescription"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-019",
+            "question": "Dramatizing a health situation to communicate a health message is called:",
+            "options": {
+                "A": "Counselling",
+                "B": "Role play",
+                "C": "Screening",
+                "D": "Advocacy"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-020",
+            "question": "Health promotion activities specifically designed for school children are referred to as:",
+            "options": {
+                "A": "School health",
+                "B": "Public policy",
+                "C": "Organizational development",
+                "D": "Economic regulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-021",
+            "question": "Which intervention level focuses on knowledge, attitudes, beliefs and personality traits?",
+            "options": {
+                "A": "Community",
+                "B": "Organizational",
+                "C": "Individual",
+                "D": "Public policy"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "HP-022",
+            "question": "Family, friends and peers are mainly involved at which intervention level?",
+            "options": {
+                "A": "Interpersonal",
+                "B": "Organizational",
+                "C": "Public policy",
+                "D": "Individual"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-023",
+            "question": "Rules, regulations and policies within schools or workplaces represent the:",
+            "options": {
+                "A": "Individual level",
+                "B": "Organizational level",
+                "C": "Interpersonal level",
+                "D": "Community level"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-024",
+            "question": "Social networks and community norms are characteristics of the:",
+            "options": {
+                "A": "Individual level",
+                "B": "Community level",
+                "C": "Organizational level",
+                "D": "Policy level"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-025",
+            "question": "Local and state laws that regulate healthy practices operate at the:",
+            "options": {
+                "A": "Interpersonal level",
+                "B": "Organizational level",
+                "C": "Public policy level",
+                "D": "Individual level"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "HP-026",
+            "question": "Which of the following is one of the five major Ottawa Charter action areas?",
+            "options": {
+                "A": "Building healthy public policy",
+                "B": "Increasing hospital admissions",
+                "C": "Increasing drug prescriptions",
+                "D": "Eliminating community participation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-027",
+            "question": "Creating smoke-free environments is an example of:",
+            "options": {
+                "A": "Developing personal skills",
+                "B": "Creating supportive environments",
+                "C": "Strengthening community action",
+                "D": "Reorienting health services"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-028",
+            "question": "Giving communities resources and empowering them to participate in health decisions represents:",
+            "options": {
+                "A": "Strengthening community action",
+                "B": "Building healthy public policy",
+                "C": "Developing personal skills",
+                "D": "Curative care"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-029",
+            "question": "Teaching individuals health information and practical skills represents:",
+            "options": {
+                "A": "Reorienting health services",
+                "B": "Developing personal skills",
+                "C": "Strengthening community action",
+                "D": "Public policy"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-030",
+            "question": "Changing health services so they focus more on prevention and health promotion is:",
+            "options": {
+                "A": "Creating supportive environments",
+                "B": "Reorienting health services",
+                "C": "Community mobilization",
+                "D": "Individual intervention"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-031",
+            "question": "Which of the following is the first phase of the detailed health promotion process?",
+            "options": {
+                "A": "Capacity building",
+                "B": "Health promotion action",
+                "C": "Problem definition",
+                "D": "Outcome measurement"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "HP-032",
+            "question": "During solution generation, the health professional primarily:",
+            "options": {
+                "A": "Identifies the health problem",
+                "B": "Develops objectives and strategies",
+                "C": "Measures final outcomes",
+                "D": "Terminates the programme"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-033",
+            "question": "Mobilizing resources and building organizational capacity occur during:",
+            "options": {
+                "A": "Problem definition",
+                "B": "Capacity building",
+                "C": "Outcome measurement",
+                "D": "Evaluation only"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-034",
+            "question": "The actual implementation of education and advocacy programmes occurs during:",
+            "options": {
+                "A": "Health promotion actions",
+                "B": "Problem definition",
+                "C": "Solution generation",
+                "D": "Outcome measurement"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-035",
+            "question": "Determining whether a health promotion programme achieved its intended effects is:",
+            "options": {
+                "A": "Capacity building",
+                "B": "Outcome measurement",
+                "C": "Problem definition",
+                "D": "Solution generation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-036",
+            "question": "Which theory states that behaviour is influenced by attitudes, subjective norms and perceived behavioural control?",
+            "options": {
+                "A": "Health Belief Model",
+                "B": "Theory of Planned Behavior",
+                "C": "Ecological Model",
+                "D": "Health Promotion Model"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-037",
+            "question": "In the Theory of Planned Behavior, “My friends think I should exercise” represents:",
+            "options": {
+                "A": "Attitude",
+                "B": "Subjective norm",
+                "C": "Perceived behavioural control",
+                "D": "Self-efficacy"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-038",
+            "question": "“I have enough time to exercise three times a week” represents:",
+            "options": {
+                "A": "Subjective norm",
+                "B": "Attitude",
+                "C": "Perceived behavioural control",
+                "D": "Social support"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "HP-039",
+            "question": "The Transtheoretical Model is also called the:",
+            "options": {
+                "A": "Wellness Model",
+                "B": "Stages of Change Model",
+                "C": "Social Support Model",
+                "D": "Behavioural Control Model"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-040",
+            "question": "A person who says, “I don't have a problem and I don't need to change,” is in which stage?",
+            "options": {
+                "A": "Preparation",
+                "B": "Action",
+                "C": "Contemplation",
+                "D": "Precontemplation"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "HP-041",
+            "question": "A person who recognizes a problem but is not yet ready to act is in:",
+            "options": {
+                "A": "Contemplation",
+                "B": "Maintenance",
+                "C": "Action",
+                "D": "Preparation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-042",
+            "question": "A person who is actively changing their behaviour is in:",
+            "options": {
+                "A": "Preparation",
+                "B": "Action",
+                "C": "Contemplation",
+                "D": "Precontemplation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-043",
+            "question": "The theory that explains how new ideas and technologies spread through populations is:",
+            "options": {
+                "A": "Ecological Model",
+                "B": "Diffusion of Innovations Theory",
+                "C": "Health Promotion Model",
+                "D": "Theory of Planned Behavior"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-044",
+            "question": "Which adopter category is described as venturesome and willing to take risks?",
+            "options": {
+                "A": "Laggards",
+                "B": "Late majority",
+                "C": "Innovators",
+                "D": "Early majority"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "HP-045",
+            "question": "The Ecological Model views health behaviour as being influenced by:",
+            "options": {
+                "A": "Only individual factors",
+                "B": "Multiple levels of influence",
+                "C": "Only government policies",
+                "D": "Only family relationships"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-046",
+            "question": "According to Nola Pender's Health Promotion Model, the focus is primarily on:",
+            "options": {
+                "A": "Disease treatment only",
+                "B": "Movement toward higher wellness",
+                "C": "Hospital admission",
+                "D": "Surgical intervention"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-047",
+            "question": "Which of the following is one of the three key concepts of the person-centred approach to counselling?",
+            "options": {
+                "A": "Punishment",
+                "B": "Empathy",
+                "C": "Diagnosis",
+                "D": "Medication"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-048",
+            "question": "The first stage of the counselling process is:",
+            "options": {
+                "A": "Goal setting",
+                "B": "Intervention",
+                "C": "Relationship building",
+                "D": "Evaluation"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "HP-049",
+            "question": "Which of the following is a counselling skill?",
+            "options": {
+                "A": "Active listening",
+                "B": "Prescribing drugs",
+                "C": "Surgery",
+                "D": "Diagnosis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-050",
+            "question": "Which sequence correctly represents the five stages of counselling?",
+            "options": {
+                "A": "Goal setting → Relationship → Intervention → Assessment → Evaluation",
+                "B": "Relationship → Problem assessment → Goal setting → Intervention → Evaluation",
+                "C": "Assessment → Relationship → Evaluation → Goal setting → Intervention",
+                "D": "Intervention → Goal setting → Relationship → Assessment → Termination"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-051",
+            "question": "Which of the following is a role of the nurse in health promotion?",
+            "options": {
+                "A": "Discouraging patient participation",
+                "B": "Acting as a health role model",
+                "C": "Making all decisions for the patient",
+                "D": "Avoiding community involvement"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-052",
+            "question": "A nurse teaching a client about nutrition, exercise and stress management is performing the role of:",
+            "options": {
+                "A": "Health educator",
+                "B": "Surgeon",
+                "C": "Pharmacologist",
+                "D": "Laboratory scientist"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-053",
+            "question": "Which of the following is NOT listed as a counselling skill in the slides?",
+            "options": {
+                "A": "Observing",
+                "B": "Active listening",
+                "C": "Reflecting",
+                "D": "Prescribing"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "HP-054",
+            "question": "In person-centred counselling, the counsellor should be:",
+            "options": {
+                "A": "Judgmental",
+                "B": "Controlling",
+                "C": "Non-judgmental",
+                "D": "Punitive"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "HP-055",
+            "question": "“Congruence” in counselling means that the counsellor is:",
+            "options": {
+                "A": "Genuine",
+                "B": "Silent",
+                "C": "Strict",
+                "D": "Directive"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-056",
+            "question": "During which stage of counselling is the client's problem carefully explored and assessed?",
+            "options": {
+                "A": "Relationship building",
+                "B": "In-depth exploration",
+                "C": "Goal setting",
+                "D": "Termination"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-057",
+            "question": "During goal setting, goals should be:",
+            "options": {
+                "A": "Imposed by the counsellor",
+                "B": "Unrealistic",
+                "C": "Developed collaboratively with the client",
+                "D": "Ignored until termination"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "HP-058",
+            "question": "Which of the following is one of the client's important requirements for successful counselling?",
+            "options": {
+                "A": "Willingness",
+                "B": "Punishment",
+                "C": "Isolation",
+                "D": "Dependence"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "HP-059",
+            "question": "Which of the following is an important principle of counselling?",
+            "options": {
+                "A": "Breaking confidentiality",
+                "B": "Respecting cultural differences",
+                "C": "Making decisions for the client",
+                "D": "Ignoring client feelings"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "HP-060",
+            "question": "Which health promotion theory focuses on personal factors, self-efficacy, interpersonal influences and commitment to action?",
+            "options": {
+                "A": "Health Promotion Model",
+                "B": "Diffusion of Innovations Theory",
+                "C": "Theory of Planned Behavior",
+                "D": "Transtheoretical Model"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

@@ -1,0 +1,729 @@
+{
+    "course": "frh-ii",
+    "topic": "Spermatogenesis",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+        {
+            "id": "SPER-001",
+            "question": "Spermatogenesis is best described as the process by which:",
+            "options": {
+                "A": "Haploid sperm become diploid cells",
+                "B": "Diploid spermatogonial stem cells become mature haploid spermatozoa",
+                "C": "Oocytes become mature ova",
+                "D": "Testosterone becomes sperm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-002",
+            "question": "Spermatogenesis primarily occurs in the:",
+            "options": {
+                "A": "Epididymis",
+                "B": "Prostate gland",
+                "C": "Seminiferous tubules",
+                "D": "Vas deferens"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPER-003",
+            "question": "Spermatogenesis normally begins at:",
+            "options": {
+                "A": "Birth",
+                "B": "Puberty",
+                "C": "Middle age",
+                "D": "Old age"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-004",
+            "question": "Spermatogenesis involves all of the following EXCEPT:",
+            "options": {
+                "A": "Mitosis",
+                "B": "Meiosis",
+                "C": "Cellular differentiation",
+                "D": "Fertilization"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "SPER-005",
+            "question": "The testes are located outside the body cavity mainly because:",
+            "options": {
+                "A": "They require sunlight",
+                "B": "They need a temperature slightly below core body temperature",
+                "C": "They require higher temperatures",
+                "D": "They need direct contact with abdominal muscles"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-006",
+            "question": "The fibrous capsule surrounding each testis is called the:",
+            "options": {
+                "A": "Tunica vaginalis",
+                "B": "Tunica albuginea",
+                "C": "Epididymis",
+                "D": "Dartos muscle"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-007",
+            "question": "The tunica albuginea divides the testis into approximately:",
+            "options": {
+                "A": "20–30 lobules",
+                "B": "50–100 lobules",
+                "C": "200–300 lobules",
+                "D": "500–600 lobules"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPER-008",
+            "question": "Sperm formation occurs within the:",
+            "options": {
+                "A": "Prostate",
+                "B": "Seminiferous tubules",
+                "C": "Seminal vesicles",
+                "D": "Urethra"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-009",
+            "question": "The testes have both reproductive and:",
+            "options": {
+                "A": "Digestive functions",
+                "B": "Endocrine functions",
+                "C": "Respiratory functions",
+                "D": "Excretory functions"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-010",
+            "question": "The testes produce the major male sex hormone:",
+            "options": {
+                "A": "Estrogen",
+                "B": "Progesterone",
+                "C": "Testosterone",
+                "D": "Prolactin"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPER-011",
+            "question": "The pampiniform plexus helps to:",
+            "options": {
+                "A": "Produce sperm",
+                "B": "Cool incoming blood and regulate testicular temperature",
+                "C": "Produce testosterone",
+                "D": "Store sperm"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-012",
+            "question": "Developing germ cells move within the seminiferous epithelium from the outer wall toward the:",
+            "options": {
+                "A": "Epididymis",
+                "B": "Prostate",
+                "C": "Lumen",
+                "D": "Urethra"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPER-013",
+            "question": "Which sequence correctly represents sperm development?",
+            "options": {
+                "A": "Spermatids → spermatogonia → spermatozoa → spermatocytes",
+                "B": "Spermatogonia → spermatocytes → spermatids → spermatozoa",
+                "C": "Spermatozoa → spermatids → spermatogonia → spermatocytes",
+                "D": "Spermatocytes → spermatozoa → spermatogonia → spermatids"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-014",
+            "question": "Mature sperm leave the seminiferous tubules and eventually enter the:",
+            "options": {
+                "A": "Epididymis",
+                "B": "Prostate",
+                "C": "Seminal vesicle",
+                "D": "Bladder"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-015",
+            "question": "Sertoli cells are also known as:",
+            "options": {
+                "A": "Germ cells",
+                "B": "Nurse or supporting cells",
+                "C": "Leydig cells",
+                "D": "Stem cells"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-016",
+            "question": "One important function of Sertoli cells is to:",
+            "options": {
+                "A": "Produce estrogen",
+                "B": "Provide structural and nutritional support to germ cells",
+                "C": "Store urine",
+                "D": "Produce LH"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-017",
+            "question": "The blood-testis barrier is formed by:",
+            "options": {
+                "A": "Leydig cells",
+                "B": "Sertoli cells",
+                "C": "Spermatids",
+                "D": "Spermatogonia"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-018",
+            "question": "The blood-testis barrier helps protect developing sperm from:",
+            "options": {
+                "A": "Oxygen",
+                "B": "Immune attack and harmful substances",
+                "C": "Testosterone",
+                "D": "FSH"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-019",
+            "question": "Sertoli cells produce androgen-binding protein, abbreviated as:",
+            "options": {
+                "A": "ATP",
+                "B": "ABP",
+                "C": "ADH",
+                "D": "ACTH"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-020",
+            "question": "ABP helps maintain a high local concentration of:",
+            "options": {
+                "A": "Estrogen",
+                "B": "Progesterone",
+                "C": "Testosterone",
+                "D": "FSH"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPER-021",
+            "question": "Sertoli cells release inhibin, which suppresses the release of:",
+            "options": {
+                "A": "LH",
+                "B": "FSH",
+                "C": "GnRH",
+                "D": "Testosterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-022",
+            "question": "Leydig cells are located:",
+            "options": {
+                "A": "Inside the lumen of seminiferous tubules",
+                "B": "Between seminiferous tubules",
+                "C": "Inside the epididymis",
+                "D": "Inside the prostate"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-023",
+            "question": "The major hormonal function of Leydig cells is to produce:",
+            "options": {
+                "A": "FSH",
+                "B": "Testosterone",
+                "C": "Inhibin",
+                "D": "GnRH"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-024",
+            "question": "Leydig cells respond primarily to:",
+            "options": {
+                "A": "LH",
+                "B": "FSH",
+                "C": "GnRH",
+                "D": "Estrogen"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-025",
+            "question": "One diploid germ cell ultimately produces how many haploid spermatozoa?",
+            "options": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "D",
+            "explanation": null
+        },
+        {
+            "id": "SPER-026",
+            "question": "The process of spermatogenesis within the testes takes approximately:",
+            "options": {
+                "A": "5–10 days",
+                "B": "20–30 days",
+                "C": "64–74 days",
+                "D": "120–150 days"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPER-027",
+            "question": "Epididymal maturation takes approximately:",
+            "options": {
+                "A": "1–2 days",
+                "B": "10–14 days",
+                "C": "30–40 days",
+                "D": "60–70 days"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-028",
+            "question": "The spermatogonial phase primarily involves:",
+            "options": {
+                "A": "Fertilization",
+                "B": "Mitotic proliferation",
+                "C": "Implantation",
+                "D": "Ovulation"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-029",
+            "question": "Type A dark spermatogonia function mainly as:",
+            "options": {
+                "A": "Hormone-producing cells",
+                "B": "Slowly dividing reserve stem cells",
+                "C": "Mature sperm",
+                "D": "Leydig cells"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-030",
+            "question": "Type A pale spermatogonia:",
+            "options": {
+                "A": "Actively divide by mitosis",
+                "B": "Produce testosterone",
+                "C": "Produce LH",
+                "D": "Undergo fertilization"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-031",
+            "question": "Type B spermatogonia are the:",
+            "options": {
+                "A": "First meiotic cells",
+                "B": "Final mitotic cells before primary spermatocytes",
+                "C": "Mature spermatozoa",
+                "D": "Sertoli cells"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-032",
+            "question": "Type B spermatogonia differentiate into:",
+            "options": {
+                "A": "Secondary spermatocytes",
+                "B": "Primary spermatocytes",
+                "C": "Spermatids",
+                "D": "Spermatozoa"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-033",
+            "question": "Primary spermatocytes are:",
+            "options": {
+                "A": "Haploid with 23 chromosomes",
+                "B": "Diploid with 46 chromosomes",
+                "C": "Haploid with 46 chromosomes",
+                "D": "Diploid with 23 chromosomes"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-034",
+            "question": "Primary spermatocytes undergo:",
+            "options": {
+                "A": "Meiosis I",
+                "B": "Meiosis II only",
+                "C": "Mitosis only",
+                "D": "Fertilization"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-035",
+            "question": "Crossing over occurs during:",
+            "options": {
+                "A": "Prophase I",
+                "B": "Prophase II",
+                "C": "Spermiation",
+                "D": "Spermiogenesis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-036",
+            "question": "Crossing over contributes to:",
+            "options": {
+                "A": "Hormone production",
+                "B": "Genetic variation",
+                "C": "Sperm storage",
+                "D": "Testosterone secretion"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-037",
+            "question": "At the end of Meiosis I, one primary spermatocyte produces:",
+            "options": {
+                "A": "One secondary spermatocyte",
+                "B": "Two secondary spermatocytes",
+                "C": "Three secondary spermatocytes",
+                "D": "Four secondary spermatocytes"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-038",
+            "question": "Secondary spermatocytes have:",
+            "options": {
+                "A": "46 chromosomes",
+                "B": "23 chromosomes",
+                "C": "92 chromosomes",
+                "D": "44 chromosomes"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-039",
+            "question": "Secondary spermatocytes enter Meiosis II:",
+            "options": {
+                "A": "After another round of DNA replication",
+                "B": "Without further DNA replication",
+                "C": "Only after fertilization",
+                "D": "After becoming spermatozoa"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-040",
+            "question": "Meiosis II results in the formation of:",
+            "options": {
+                "A": "Two spermatogonia",
+                "B": "Four round haploid spermatids",
+                "C": "Four diploid spermatozoa",
+                "D": "One ovum"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-041",
+            "question": "Spermiogenesis refers to:",
+            "options": {
+                "A": "Mitotic division of spermatogonia",
+                "B": "Transformation of spermatids into spermatozoa",
+                "C": "Formation of primary spermatocytes",
+                "D": "Production of testosterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-042",
+            "question": "During spermiogenesis:",
+            "options": {
+                "A": "Cell division occurs rapidly",
+                "B": "No cell division occurs",
+                "C": "Meiosis I occurs",
+                "D": "Fertilization occurs"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-043",
+            "question": "During the Golgi phase, the Golgi apparatus forms the:",
+            "options": {
+                "A": "Midpiece",
+                "B": "Proacrosomal vesicle",
+                "C": "Blood-testis barrier",
+                "D": "Nucleus"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-044",
+            "question": "During the cap phase, the acrosomal vesicle:",
+            "options": {
+                "A": "Disappears",
+                "B": "Spreads over the nucleus",
+                "C": "Forms the tail",
+                "D": "Produces testosterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-045",
+            "question": "The acrosome contains enzymes important for:",
+            "options": {
+                "A": "Producing ATP",
+                "B": "Penetrating the egg",
+                "C": "Producing FSH",
+                "D": "Maintaining body temperature"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-046",
+            "question": "During the acrosome phase, the nucleus becomes:",
+            "options": {
+                "A": "Larger and less condensed",
+                "B": "Elongated and highly condensed",
+                "C": "Completely absent",
+                "D": "Diploid"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-047",
+            "question": "Mitochondria gather around the base of the flagellum to form the:",
+            "options": {
+                "A": "Head",
+                "B": "Acrosome",
+                "C": "Midpiece",
+                "D": "Nucleus"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPER-048",
+            "question": "The mitochondria-rich midpiece supplies:",
+            "options": {
+                "A": "DNA",
+                "B": "ATP for movement",
+                "C": "FSH",
+                "D": "Testosterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-049",
+            "question": "The tail of a mature sperm is also called the:",
+            "options": {
+                "A": "Flagellum",
+                "B": "Acrosome",
+                "C": "Nucleus",
+                "D": "Midpiece"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-050",
+            "question": "During spermiation, mature spermatozoa:",
+            "options": {
+                "A": "Enter the bloodstream",
+                "B": "Detach from Sertoli cells and enter the lumen",
+                "C": "Become primary spermatocytes",
+                "D": "Undergo Meiosis I"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-051",
+            "question": "Newly released sperm initially lack full:",
+            "options": {
+                "A": "Chromosomes",
+                "B": "Motility and fertilising ability",
+                "C": "Nuclei",
+                "D": "Acrosomes"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-052",
+            "question": "The hypothalamic-pituitary-gonadal axis is abbreviated as:",
+            "options": {
+                "A": "HPG axis",
+                "B": "HPA axis",
+                "C": "CNS axis",
+                "D": "RAS axis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-053",
+            "question": "The hypothalamus releases:",
+            "options": {
+                "A": "FSH",
+                "B": "LH",
+                "C": "GnRH",
+                "D": "Testosterone"
+            },
+            "answer": "C",
+            "explanation": null
+        },
+        {
+            "id": "SPER-054",
+            "question": "GnRH stimulates the anterior pituitary to release:",
+            "options": {
+                "A": "Estrogen and progesterone",
+                "B": "FSH and LH",
+                "C": "Testosterone and inhibin",
+                "D": "ABP and testosterone"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-055",
+            "question": "FSH acts mainly on:",
+            "options": {
+                "A": "Leydig cells",
+                "B": "Sertoli cells",
+                "C": "Spermatids",
+                "D": "Prostate cells"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-056",
+            "question": "LH acts mainly on:",
+            "options": {
+                "A": "Sertoli cells",
+                "B": "Leydig cells",
+                "C": "Spermatids",
+                "D": "Epididymal cells"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-057",
+            "question": "Continuous secretion of GnRH would:",
+            "options": {
+                "A": "Increase FSH and LH indefinitely",
+                "B": "Desensitize the pituitary and reduce FSH and LH release",
+                "C": "Stop testosterone feedback",
+                "D": "Increase sperm production indefinitely"
+            },
+            "answer": "B",
+            "explanation": null
+        },
+        {
+            "id": "SPER-058",
+            "question": "Testosterone exerts negative feedback by suppressing:",
+            "options": {
+                "A": "GnRH and LH",
+                "B": "FSH only",
+                "C": "Inhibin only",
+                "D": "ABP only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-059",
+            "question": "Which condition can impair spermatogenesis by increasing testicular temperature?",
+            "options": {
+                "A": "Varicocele",
+                "B": "Hypothermia",
+                "C": "Low blood pressure",
+                "D": "Anemia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "SPER-060",
+            "question": "Which of the following can negatively affect sperm quality?",
+            "options": {
+                "A": "Regular exercise",
+                "B": "Balanced nutrition",
+                "C": "Smoking and excessive alcohol use",
+                "D": "Adequate sleep"
+            },
+            "answer": "C",
+            "explanation": null
+        }
+    ]
+}

@@ -1,0 +1,1090 @@
+{
+    "course": "med-surg-ii",
+    "category": "cardiovascular-system",
+    "topic": "Anemia",
+    "testSettings": {
+        "questionCount": 60
+    },
+    "questions": [
+        {
+            "id": "ANEM-001",
+            "question": "Which statement best describes anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-002",
+            "question": "A patient with Anaemia is assessed for low hematocrit. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-003",
+            "question": "What is a key feature associated with iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-004",
+            "question": "Which investigation or management principle relates to anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-005",
+            "question": "Which option correctly identifies the significance of anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-006",
+            "question": "Which statement best describes low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-007",
+            "question": "A patient with Anaemia is assessed for iron deficiency anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-008",
+            "question": "What is a key feature associated with anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-009",
+            "question": "Which investigation or management principle relates to anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-010",
+            "question": "Which option correctly identifies the significance of low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-011",
+            "question": "Which statement best describes iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-012",
+            "question": "A patient with Anaemia is assessed for anaemia in heart disease. Which finding is most appropriate?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-013",
+            "question": "What is a key feature associated with anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-014",
+            "question": "Which investigation or management principle relates to low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-015",
+            "question": "Which option correctly identifies the significance of iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-016",
+            "question": "Which statement best describes anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-017",
+            "question": "A patient with Anaemia is assessed for anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-018",
+            "question": "What is a key feature associated with low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-019",
+            "question": "Which investigation or management principle relates to iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-020",
+            "question": "Which option correctly identifies the significance of anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-021",
+            "question": "Which statement best describes anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-022",
+            "question": "A patient with Anaemia is assessed for low hematocrit. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-023",
+            "question": "What is a key feature associated with iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-024",
+            "question": "Which investigation or management principle relates to anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-025",
+            "question": "Which option correctly identifies the significance of anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-026",
+            "question": "Which statement best describes low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-027",
+            "question": "A patient with Anaemia is assessed for iron deficiency anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-028",
+            "question": "What is a key feature associated with anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-029",
+            "question": "Which investigation or management principle relates to anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-030",
+            "question": "Which option correctly identifies the significance of low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-031",
+            "question": "Which statement best describes iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-032",
+            "question": "A patient with Anaemia is assessed for anaemia in heart disease. Which finding is most appropriate?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-033",
+            "question": "What is a key feature associated with anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-034",
+            "question": "Which investigation or management principle relates to low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-035",
+            "question": "Which option correctly identifies the significance of iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-036",
+            "question": "Which statement best describes anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-037",
+            "question": "A patient with Anaemia is assessed for anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-038",
+            "question": "What is a key feature associated with low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-039",
+            "question": "Which investigation or management principle relates to iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-040",
+            "question": "Which option correctly identifies the significance of anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-041",
+            "question": "Which statement best describes anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-042",
+            "question": "A patient with Anaemia is assessed for low hematocrit. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-043",
+            "question": "What is a key feature associated with iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-044",
+            "question": "Which investigation or management principle relates to anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-045",
+            "question": "Which option correctly identifies the significance of anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-046",
+            "question": "Which statement best describes low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-047",
+            "question": "A patient with Anaemia is assessed for iron deficiency anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-048",
+            "question": "What is a key feature associated with anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-049",
+            "question": "Which investigation or management principle relates to anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-050",
+            "question": "Which option correctly identifies the significance of low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-051",
+            "question": "Which statement best describes iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-052",
+            "question": "A patient with Anaemia is assessed for anaemia in heart disease. Which finding is most appropriate?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-053",
+            "question": "What is a key feature associated with anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-054",
+            "question": "Which investigation or management principle relates to low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-055",
+            "question": "Which option correctly identifies the significance of iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-056",
+            "question": "Which statement best describes anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-057",
+            "question": "A patient with Anaemia is assessed for anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-058",
+            "question": "What is a key feature associated with low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-059",
+            "question": "Which investigation or management principle relates to iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-060",
+            "question": "Which option correctly identifies the significance of anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-061",
+            "question": "Which statement best describes anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-062",
+            "question": "A patient with Anaemia is assessed for low hematocrit. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-063",
+            "question": "What is a key feature associated with iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-064",
+            "question": "Which investigation or management principle relates to anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-065",
+            "question": "Which option correctly identifies the significance of anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-066",
+            "question": "Which statement best describes low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-067",
+            "question": "A patient with Anaemia is assessed for iron deficiency anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-068",
+            "question": "What is a key feature associated with anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-069",
+            "question": "Which investigation or management principle relates to anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-070",
+            "question": "Which option correctly identifies the significance of low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-071",
+            "question": "Which statement best describes iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-072",
+            "question": "A patient with Anaemia is assessed for anaemia in heart disease. Which finding is most appropriate?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-073",
+            "question": "What is a key feature associated with anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-074",
+            "question": "Which investigation or management principle relates to low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-075",
+            "question": "Which option correctly identifies the significance of iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-076",
+            "question": "Which statement best describes anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-077",
+            "question": "A patient with Anaemia is assessed for anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-078",
+            "question": "What is a key feature associated with low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-079",
+            "question": "Which investigation or management principle relates to iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-080",
+            "question": "Which option correctly identifies the significance of anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-081",
+            "question": "Which statement best describes anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-082",
+            "question": "A patient with Anaemia is assessed for low hematocrit. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-083",
+            "question": "What is a key feature associated with iron deficiency anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-084",
+            "question": "Which investigation or management principle relates to anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-085",
+            "question": "Which option correctly identifies the significance of anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-086",
+            "question": "Which statement best describes low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-087",
+            "question": "A patient with Anaemia is assessed for iron deficiency anaemia. Which finding is most appropriate?",
+            "options": {
+                "A": "Reduced iron availability for hemoglobin production",
+                "B": "Increased white cells",
+                "C": "Excess fluid retention",
+                "D": "High cholesterol"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-088",
+            "question": "What is a key feature associated with anaemia in heart disease in Anaemia?",
+            "options": {
+                "A": "May increase oxygen demand on the heart",
+                "B": "Always prevents heart failure",
+                "C": "Improves myocardial oxygenation",
+                "D": "Stops circulation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-089",
+            "question": "Which investigation or management principle relates to anaemia in Anaemia?",
+            "options": {
+                "A": "Reduced oxygen-carrying capacity of blood",
+                "B": "Increased platelet production",
+                "C": "Valve inflammation",
+                "D": "Excess cardiac output"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "ANEM-090",
+            "question": "Which option correctly identifies the significance of low hematocrit in Anaemia?",
+            "options": {
+                "A": "Reduced proportion of red blood cells",
+                "B": "Increased calcium level",
+                "C": "High blood pressure only",
+                "D": "Valve obstruction"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}

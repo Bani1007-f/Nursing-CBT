@@ -1,0 +1,369 @@
+{
+    "course": "community-health-ii",
+    "topic": "IMCI",
+    "testSettings": {
+        "questionCount": 20
+    },
+    "questions": [
+        {
+            "id": "IMCI-001",
+            "question": "IMCI stands for:",
+            "options": {
+                "A": "Integrated Management of Childhood Illness",
+                "B": "International Management of Child Immunization",
+                "C": "Integrated Maternal Child Intervention",
+                "D": "Illness Monitoring and Clinical Investigation"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-002",
+            "question": "The basic IMCI process is:",
+            "options": {
+                "A": "Assess, classify, identify treatment, treat, counsel, follow-up",
+                "B": "Diagnose, discharge, vaccinate, refer",
+                "C": "Screen, admit, operate, discharge",
+                "D": "Treat, classify, assess, counsel"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-003",
+            "question": "The IMCI chart is mainly a:",
+            "options": {
+                "A": "Clinical roadmap",
+                "B": "Vaccine refrigerator",
+                "C": "Growth chart only",
+                "D": "Laboratory register"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-004",
+            "question": "The recording form is used to document:",
+            "options": {
+                "A": "What was found and done",
+                "B": "Only vaccine stock",
+                "C": "Only family income",
+                "D": "Only referrals"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-005",
+            "question": "The IMCI chart described covers children aged:",
+            "options": {
+                "A": "2 months up to 5 years",
+                "B": "Birth to 28 days only",
+                "C": "5–10 years",
+                "D": "10–19 years"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-006",
+            "question": "The first step when a child is brought to the clinic is to determine the child's:",
+            "options": {
+                "A": "Age",
+                "B": "Blood group",
+                "C": "School grade",
+                "D": "Family income"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-007",
+            "question": "The caregiver should first be allowed to explain:",
+            "options": {
+                "A": "The child's problems",
+                "B": "The child's immunization history only",
+                "C": "The family's finances",
+                "D": "The nurse's diagnosis"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-008",
+            "question": "A follow-up visit means the child:",
+            "options": {
+                "A": "Has already been seen for the same illness/problem",
+                "B": "Is always a new patient",
+                "C": "Has no illness",
+                "D": "Is receiving a vaccine only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-009",
+            "question": "Weight is important in IMCI because many treatments and doses are:",
+            "options": {
+                "A": "Weight-dependent",
+                "B": "Age-independent",
+                "C": "Height-independent",
+                "D": "Not calculated"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-010",
+            "question": "Which is a general danger sign?",
+            "options": {
+                "A": "Unable to drink or breastfeed",
+                "B": "Mild cough",
+                "C": "Runny nose",
+                "D": "Mild ear pain"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-011",
+            "question": "Which is a general danger sign?",
+            "options": {
+                "A": "Vomits everything",
+                "B": "Sneezing",
+                "C": "Mild fever",
+                "D": "Mild rash"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-012",
+            "question": "Which is a general danger sign?",
+            "options": {
+                "A": "Convulsions",
+                "B": "Mild cough",
+                "C": "Ear wax",
+                "D": "Mild diarrhoea"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-013",
+            "question": "Which is a general danger sign?",
+            "options": {
+                "A": "Lethargic or unconscious",
+                "B": "Mild pallor",
+                "C": "Runny nose",
+                "D": "Mild ear discharge"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-014",
+            "question": "A child with any general danger sign requires:",
+            "options": {
+                "A": "Urgent assessment and appropriate pre-referral treatment/referral when indicated",
+                "B": "Routine review only",
+                "C": "No treatment",
+                "D": "Only health education"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-015",
+            "question": "For cough or difficult breathing, assess:",
+            "options": {
+                "A": "Respiratory rate, chest indrawing, stridor and wheezing",
+                "B": "Only temperature",
+                "C": "Only weight",
+                "D": "Only ear discharge"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-016",
+            "question": "Fast breathing can indicate:",
+            "options": {
+                "A": "Pneumonia",
+                "B": "Tetanus",
+                "C": "Cervical cancer",
+                "D": "Hepatitis B"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-017",
+            "question": "IMCI classification of cough may include:",
+            "options": {
+                "A": "Severe pneumonia/very severe disease, pneumonia, or no pneumonia",
+                "B": "Only malaria",
+                "C": "Only diarrhoea",
+                "D": "Only anaemia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-018",
+            "question": "For diarrhoea, IMCI assesses:",
+            "options": {
+                "A": "Duration, blood and dehydration",
+                "B": "Only temperature",
+                "C": "Only weight",
+                "D": "Only vaccination status"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-019",
+            "question": "A key purpose of diarrhoea assessment is to determine:",
+            "options": {
+                "A": "Degree of dehydration",
+                "B": "Blood group",
+                "C": "Immunization route",
+                "D": "Developmental quotient"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-020",
+            "question": "In diarrhoea assessment, one looks for:",
+            "options": {
+                "A": "Sunken eyes",
+                "B": "Parotid swelling",
+                "C": "Pseudomembrane",
+                "D": "Lockjaw"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-021",
+            "question": "Persistent diarrhoea is assessed in addition to:",
+            "options": {
+                "A": "Dehydration and dysentery",
+                "B": "Only cough",
+                "C": "Only ear disease",
+                "D": "Only anaemia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-022",
+            "question": "For fever, IMCI should not assume that:",
+            "options": {
+                "A": "Every fever is malaria",
+                "B": "Every fever needs no assessment",
+                "C": "Every fever is measles",
+                "D": "Every fever is pneumonia"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-023",
+            "question": "For suspected measles, signs to look for include:",
+            "options": {
+                "A": "Generalized rash, cough, runny nose and red eyes",
+                "B": "Parotid swelling",
+                "C": "Lockjaw",
+                "D": "Pseudomembrane"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-024",
+            "question": "For an ear problem, ask about:",
+            "options": {
+                "A": "Ear pain and ear discharge",
+                "B": "Only cough",
+                "C": "Only vomiting",
+                "D": "Only pallor"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-025",
+            "question": "Tender swelling behind the ear may indicate:",
+            "options": {
+                "A": "Potentially serious ear infection",
+                "B": "Normal growth",
+                "C": "Mild dehydration",
+                "D": "Routine teething"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-026",
+            "question": "A sign used to assess malnutrition is:",
+            "options": {
+                "A": "Bilateral pitting oedema of the feet",
+                "B": "Parotid swelling",
+                "C": "Pseudomembrane",
+                "D": "Stiff neck only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-027",
+            "question": "Acute malnutrition assessment may use:",
+            "options": {
+                "A": "MUAC and weight-for-height/length",
+                "B": "Only temperature",
+                "C": "Only head circumference",
+                "D": "Only pulse"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-028",
+            "question": "Anaemia is assessed by examining the:",
+            "options": {
+                "A": "Palms for pallor",
+                "B": "Ears only",
+                "C": "Feet only",
+                "D": "Eyes for tears only"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-029",
+            "question": "Before finishing IMCI, the health worker should check:",
+            "options": {
+                "A": "Immunization status",
+                "B": "Only the child's school attendance",
+                "C": "Only the caregiver's job",
+                "D": "Only the home address"
+            },
+            "answer": "A",
+            "explanation": null
+        },
+        {
+            "id": "IMCI-030",
+            "question": "The purpose of checking immunization status in IMCI is to:",
+            "options": {
+                "A": "Identify vaccines due and prevent future disease",
+                "B": "Replace disease treatment",
+                "C": "Avoid vaccination",
+                "D": "Diagnose malaria"
+            },
+            "answer": "A",
+            "explanation": null
+        }
+    ]
+}
