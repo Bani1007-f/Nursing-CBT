@@ -1,0 +1,489 @@
+{ "course": "frh-ii",
+    "topic": "Placenta",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+
+  {
+    "Questions": "The placenta is a:",
+    "A": "Permanent adult organ",
+    "B": "Temporary organ of pregnancy",
+    "C": "Part of the ovary",
+    "D": "Part of the cervix",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The placenta is situated in the:",
+    "A": "Uterus",
+    "B": "Ovary",
+    "C": "Vagina",
+    "D": "Cervical canal",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta consists of:",
+    "A": "Only fetal tissue",
+    "B": "Only maternal tissue",
+    "C": "Fetal and maternal components",
+    "D": "Only amniotic fluid",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The fetal portion of the placenta is formed by the:",
+    "A": "Decidua basalis",
+    "B": "Chorion frondosum",
+    "C": "Decidua capsularis",
+    "D": "Parietal decidua",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The maternal portion of the placenta is formed by the:",
+    "A": "Chorion frondosum",
+    "B": "Decidua basalis",
+    "C": "Amnion",
+    "D": "Chorion laeve",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The placenta is the meeting point of:",
+    "A": "Two digestive systems",
+    "B": "Fetal and maternal circulations",
+    "C": "Two nervous systems",
+    "D": "Two respiratory systems",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The main function of the placenta is:",
+    "A": "Interchange between mother and fetus",
+    "B": "Sperm production",
+    "C": "Digestion",
+    "D": "Bone formation",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta provides the fetus with:",
+    "A": "Oxygen and nutrients",
+    "B": "Only carbon dioxide",
+    "C": "Only hormones",
+    "D": "Only waste",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta removes fetal:",
+    "A": "Oxygen",
+    "B": "Waste material and carbon dioxide",
+    "C": "Nutrients",
+    "D": "Red blood cells",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The placenta weighs approximately at full term:",
+    "A": "50–100 g",
+    "B": "150–250 g",
+    "C": "450–500 g",
+    "D": "1,000–1,500 g",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The placenta is generally:",
+    "A": "Discoid-shaped",
+    "B": "Cuboid",
+    "C": "Triangular",
+    "D": "Cylindrical",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Placental thickness is usually proportional to:",
+    "A": "Maternal age",
+    "B": "Gestational age",
+    "C": "Fetal sex",
+    "D": "Parity",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The placenta is normally located along the:",
+    "A": "Anterior or posterior uterine wall",
+    "B": "Cervix only",
+    "C": "Ovary",
+    "D": "Vagina",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta may expand to the:",
+    "A": "Lateral uterine wall",
+    "B": "Fallopian tube",
+    "C": "Ovary",
+    "D": "Cervix only",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The two surfaces of the placenta are the:",
+    "A": "Superior and inferior surfaces",
+    "B": "Fetal and maternal surfaces",
+    "C": "Anterior and posterior surfaces",
+    "D": "Internal and external surfaces",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The fetal surface is called the:",
+    "A": "Basal plate",
+    "B": "Chorionic plate",
+    "C": "Decidual plate",
+    "D": "Placental septum",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The maternal surface is called the:",
+    "A": "Chorionic plate",
+    "B": "Basal plate",
+    "C": "Amniotic plate",
+    "D": "Neural plate",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The fetal surface is covered by the:",
+    "A": "Decidua",
+    "B": "Amnion",
+    "C": "Endometrium",
+    "D": "Myometrium",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The amnion gives the fetal surface a:",
+    "A": "Rough appearance",
+    "B": "Shiny appearance",
+    "C": "Dark appearance",
+    "D": "Muscular appearance",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The amniotic membrane secretes:",
+    "A": "hCG",
+    "B": "Amniotic fluid",
+    "C": "FSH",
+    "D": "Blood",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Amniotic fluid helps to:",
+    "A": "Protect and cushion the fetus",
+    "B": "Digest fetal food",
+    "C": "Destroy the placenta",
+    "D": "Produce sperm",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The amniotic membrane also facilitates:",
+    "A": "Exchanges between mother and fetus",
+    "B": "Menstruation",
+    "C": "Ovulation",
+    "D": "Bone formation",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Underlying the amnion is the:",
+    "A": "Chorion",
+    "B": "Decidua basalis",
+    "C": "Myometrium",
+    "D": "Endometrium",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The chorion is:",
+    "A": "Thinner than amnion",
+    "B": "Thicker and continuous with the uterine lining",
+    "C": "A muscle",
+    "D": "A blood clot",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The chorion contains:",
+    "A": "Chorionic vessels",
+    "B": "Neurons",
+    "C": "Only maternal arteries",
+    "D": "Lymph nodes",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Chorionic vessels are continuous with the vessels of the:",
+    "A": "Ovary",
+    "B": "Umbilical cord",
+    "C": "Cervix",
+    "D": "Endometrium",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Early in development, the entire chorionic plate is covered with:",
+    "A": "Cotyledons",
+    "B": "Chorionic villi",
+    "C": "Decidua",
+    "D": "Amnion only",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Villi adjacent to the decidua capsularis:",
+    "A": "Persist and enlarge",
+    "B": "Degenerate",
+    "C": "Become arteries",
+    "D": "Become cotyledons",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Degeneration of these villi produces the:",
+    "A": "Chorion frondosum",
+    "B": "Chorion laeve",
+    "C": "Decidua basalis",
+    "D": "Basal plate",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Villi adjacent to the decidua basalis:",
+    "A": "Degenerate",
+    "B": "Persist and increase in size",
+    "C": "Become amnion",
+    "D": "Disappear",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The chorion frondosum forms the:",
+    "A": "Maternal portion",
+    "B": "Fetal portion of the placenta",
+    "C": "Umbilical artery",
+    "D": "Amniotic cavity",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Fully developed chorionic villi contain a network of:",
+    "A": "Maternal neurons",
+    "B": "Fetal capillaries",
+    "C": "Lymph nodes",
+    "D": "Skeletal muscle",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Fetal capillaries in the villi allow:",
+    "A": "Maximal contact area with maternal blood",
+    "B": "Complete blood mixing",
+    "C": "Placental detachment",
+    "D": "Fetal digestion",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Exchange between fetal and maternal circulation occurs in the:",
+    "A": "Amniotic cavity",
+    "B": "Intervillous space",
+    "C": "Cervix",
+    "D": "Umbilical artery only",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The umbilical cord connects the:",
+    "A": "Ovary and uterus",
+    "B": "Placenta and fetus",
+    "C": "Cervix and placenta",
+    "D": "Vagina and fetus",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The umbilical cord inserts into the chorionic plate in a:",
+    "A": "Slightly eccentric position",
+    "B": "Central position only",
+    "C": "Cervical position",
+    "D": "Ovarian position",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The umbilical cord contains:",
+    "A": "One vein and one artery",
+    "B": "One vein and two arteries",
+    "C": "Two veins and one artery",
+    "D": "Two veins and two arteries",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The umbilical vein carries:",
+    "A": "Waste to the placenta",
+    "B": "Nutrients and oxygen to the fetus",
+    "C": "Carbon dioxide to fetus",
+    "D": "Blood to the ovary",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The umbilical arteries carry:",
+    "A": "Nutrients to fetus",
+    "B": "Waste products from fetus to placenta",
+    "C": "Oxygen to fetus",
+    "D": "Amniotic fluid",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The maternal surface of the placenta is also called the:",
+    "A": "Chorionic plate",
+    "B": "Basal plate",
+    "C": "Amniotic plate",
+    "D": "Neural plate",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The maternal surface emerges when the placenta:",
+    "A": "Begins forming",
+    "B": "Separates from the uterine wall during delivery",
+    "C": "Is fertilized",
+    "D": "Produces hCG",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The decidua is the:",
+    "A": "Modified endometrium",
+    "B": "Fetal skin",
+    "C": "Amniotic fluid",
+    "D": "Placental blood",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The decidua basalis forms the:",
+    "A": "Fetal portion",
+    "B": "Maternal portion of placenta",
+    "C": "Amniotic membrane",
+    "D": "Umbilical cord",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The decidua capsularis:",
+    "A": "Overlies the embryo",
+    "B": "Forms the fetal surface",
+    "C": "Forms the umbilical vein",
+    "D": "Forms chorion frondosum",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The parietal decidua is:",
+    "A": "The rest of the decidual tissue",
+    "B": "The fetal portion",
+    "C": "The umbilical cord",
+    "D": "Chorionic plate",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Elevated regions on the maternal surface are called:",
+    "A": "Lobes or cotyledons",
+    "B": "Blastomeres",
+    "C": "Neural tubes",
+    "D": "Amniotic folds",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta has approximately how many cotyledons?",
+    "A": "1–5",
+    "B": "5–9",
+    "C": "10–40",
+    "D": "50–100",
+    "Answer": "C"
+  },
+  {
+    "Questions": "Cotyledons are separated by:",
+    "A": "Sulci or grooves",
+    "B": "Amniotic fluid",
+    "C": "Umbilical arteries",
+    "D": "Neural tubes",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Inside the placenta, the grooves correspond to the:",
+    "A": "Placental septa",
+    "B": "Fetal ribs",
+    "C": "Uterine arteries",
+    "D": "Chorionic vessels",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Each maternal-surface lobe corresponds to the position of:",
+    "A": "Villous trees from the chorionic plate",
+    "B": "Uterine glands",
+    "C": "Fetal bones",
+    "D": "Amniotic folds",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta separates maternal and fetal circulation through the:",
+    "A": "Placental barrier",
+    "B": "Blood clot",
+    "C": "Amniotic wall",
+    "D": "Decidual capsule",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta helps protect the fetus from:",
+    "A": "Infections and maternal disorders",
+    "B": "All genetic disorders",
+    "C": "All medications",
+    "D": "All injuries",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta helps in development of the fetal:",
+    "A": "Immune system",
+    "B": "Skeletal system only",
+    "C": "Digestive tract only",
+    "D": "Nervous system only",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The placenta has an important:",
+    "A": "Endocrine function",
+    "B": "Neurological function",
+    "C": "Musculoskeletal function",
+    "D": "Exocrine-only function",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Which hormone is secreted by the placenta according to the notes?",
+    "A": "hCG",
+    "B": "FSH",
+    "C": "TSH",
+    "D": "Insulin",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Placental hormones affect pregnancy, metabolism, fetal growth and:",
+    "A": "Parturition",
+    "B": "Ovulation only",
+    "C": "Menstruation only",
+    "D": "Puberty",
+    "Answer": "A"
+  },
+  {
+    "Questions": "A bilobed placenta is separated into:",
+    "A": "Two near equal-sized lobes",
+    "B": "Three lobes",
+    "C": "Four lobes",
+    "D": "Ten lobes",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The estimated incidence of bilobed placenta in the notes is up to approximately:",
+    "A": 0.004,
+    "B": 0.04,
+    "C": 0.14,
+    "D": 0.4,
+    "Answer": "B"
+  },
+  {
+    "Questions": "Placenta previa is implantation of the placenta over the:",
+    "A": "Fundus",
+    "B": "Cervical os",
+    "C": "Ovary",
+    "D": "Fallopian tube",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Placenta previa usually presents with:",
+    "A": "Painful vaginal bleeding in the first trimester",
+    "B": "Painless vaginal bleeding in the third trimester",
+    "C": "No bleeding",
+    "D": "Bleeding only during ovulation",
+    "Answer": null
+  }
+]
+}

@@ -1,0 +1,490 @@
+{
+     "course": "frh-ii",
+    "topic": "Fetal Development",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+    
+  {
+    "Questions": "Fetal development is divided into the:",
+    "A": "Embryonic and fetal stages",
+    "B": "Neonatal and fetal stages",
+    "C": "Placental and maternal stages",
+    "D": "Prepubertal and fetal stages",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The embryonic stage lasts from fertilization until the end of:",
+    "A": "Week 4",
+    "B": "Week 6",
+    "C": "Week 8",
+    "D": "Week 12",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The fetal stage begins at the end of:",
+    "A": "Week 2",
+    "B": "Week 4",
+    "C": "Week 8",
+    "D": "Week 16",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The fetal stage continues until:",
+    "A": "Implantation",
+    "B": "Birth",
+    "C": "Week 20",
+    "D": "Week 28",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The first 14 days after fertilization are called the:",
+    "A": "Fetal period",
+    "B": "Pre-embryonic period",
+    "C": "Neonatal period",
+    "D": "Postnatal period",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The embryonic stage is mainly concerned with:",
+    "A": "Lactation",
+    "B": "Organogenesis",
+    "C": "Puberty",
+    "D": "Growth only",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Organogenesis refers to the:",
+    "A": "Formation of major organs",
+    "B": "Formation of sperm",
+    "C": "Placental separation",
+    "D": "Formation of milk",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The developing embryo is particularly vulnerable to:",
+    "A": "Teratogens",
+    "B": "Exercise",
+    "C": "Oxygen",
+    "D": "Normal nutrition",
+    "Answer": "A"
+  },
+  {
+    "Questions": "By the end of week 8, the embryo:",
+    "A": "Becomes less human",
+    "B": "Appears increasingly human",
+    "C": "Is fully mature",
+    "D": "Is born",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Rapid increase in cell number is called:",
+    "A": "Cellular multiplication",
+    "B": "Cellular degeneration",
+    "C": "Cellular aging",
+    "D": "Cellular contraction",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Development of specialized cells and tissues is called:",
+    "A": "Cleavage",
+    "B": "Cellular differentiation",
+    "C": "Implantation",
+    "D": "Ovulation",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The three primary germ layers are:",
+    "A": "Amnion, chorion, decidua",
+    "B": "Ectoderm, mesoderm, endoderm",
+    "C": "Trophoblast, morula, blastocyst",
+    "D": "Epidermis, dermis, hypodermis",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Cells produced during cleavage are called:",
+    "A": "Blastomeres",
+    "B": "Cotyledons",
+    "C": "Decidua",
+    "D": "Villi",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During cleavage, blastomeres:",
+    "A": "Increase in size only",
+    "B": "Increase in number but become smaller",
+    "C": "Disappear",
+    "D": "Become placental lobes",
+    "Answer": "B"
+  },
+  {
+    "Questions": "At approximately 16 cells, the developing structure is called the:",
+    "A": "Blastocyst",
+    "B": "Morula",
+    "C": "Fetus",
+    "D": "Embryonic disk",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The inner cell mass of the morula is called the:",
+    "A": "Trophoblast",
+    "B": "Embryoblast",
+    "C": "Chorion",
+    "D": "Decidua",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The embryoblast develops into the:",
+    "A": "Placenta",
+    "B": "Embryo",
+    "C": "Maternal decidua",
+    "D": "Umbilical cord",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The outer cell layer of the morula is the:",
+    "A": "Embryoblast",
+    "B": "Trophoblast",
+    "C": "Endoderm",
+    "D": "Mesoderm",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The trophoblast contributes to the development of the:",
+    "A": "Placenta",
+    "B": "Spinal cord",
+    "C": "Heart only",
+    "D": "Kidney only",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Fluid enters the morula to create the blastocyst cavity around:",
+    "A": "Day 1",
+    "B": "Day 4",
+    "C": "Day 10",
+    "D": "Day 20",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The blastocyst develops into an embryonic disk from which the embryo and ______ develop.",
+    "A": "Placenta",
+    "B": "Amnion",
+    "C": "Sperm",
+    "D": "Ovum",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The three germ layers differentiate approximately between:",
+    "A": "Days 1–3",
+    "B": "Days 4–7",
+    "C": "Days 10–14",
+    "D": "Weeks 20–24",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The germ layer that begins forming the neural tube is the:",
+    "A": "Endoderm",
+    "B": "Mesoderm",
+    "C": "Ectoderm",
+    "D": "Trophoblast",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The neural tube develops into the:",
+    "A": "Brain and spinal cord",
+    "B": "Heart and lungs",
+    "C": "Liver and pancreas",
+    "D": "Kidneys and bladder",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The endoderm begins forming the:",
+    "A": "Gastrointestinal tract",
+    "B": "Spinal cord",
+    "C": "Skin",
+    "D": "Bones",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During week 3, the embryonic disk becomes:",
+    "A": "Round",
+    "B": "Elongated and pear-shaped",
+    "C": "Square",
+    "D": "Fully circular",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The broad end of the week-3 embryonic disk is the:",
+    "A": "Caudal end",
+    "B": "Cephalic end",
+    "C": "Lateral end",
+    "D": "Posterior end",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The most advanced organ during week 3 is the:",
+    "A": "Kidney",
+    "B": "Heart",
+    "C": "Liver",
+    "D": "Lung",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During weeks 4–5, which structures develop?",
+    "A": "Vertebral structures and pharyngeal arches",
+    "B": "Permanent teeth",
+    "C": "Testes only",
+    "D": "Mature alveoli",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Pharyngeal arches contribute to formation of the:",
+    "A": "Lower jaw and hyoid bone",
+    "B": "Femur and tibia",
+    "C": "Kidneys",
+    "D": "Placenta",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Early structures of the eyes and ears appear during:",
+    "A": "Weeks 4–5",
+    "B": "Weeks 16–20",
+    "C": "Weeks 35–36",
+    "D": "Weeks 38–40",
+    "Answer": "A"
+  },
+  {
+    "Questions": "By about day 28, the tubular heart:",
+    "A": "Stops beating",
+    "B": "Beats regularly",
+    "C": "Is absent",
+    "D": "Produces urine",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Optic cups and nasal pits develop during approximately:",
+    "A": "Fifth week",
+    "B": "Tenth week",
+    "C": "Twentieth week",
+    "D": "Thirty-fifth week",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During weeks 4–5, the embryo has a:",
+    "A": "C-shaped body",
+    "B": "Fully adult shape",
+    "C": "Head-down posture",
+    "D": "Flat adult appearance",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Arm and leg buds form during:",
+    "A": "Weeks 4–5",
+    "B": "Weeks 16–20",
+    "C": "Weeks 29–32",
+    "D": "Weeks 38–40",
+    "Answer": "A"
+  },
+  {
+    "Questions": "By about day 35, the hands and feet have:",
+    "A": "Paddle-like plates",
+    "B": "Fully formed nails",
+    "C": "Mature bones",
+    "D": "No digits",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During week 6, the trunk becomes:",
+    "A": "Straighter",
+    "B": "More curved",
+    "C": "Shorter",
+    "D": "Absent",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During week 6, the trachea:",
+    "A": "Disappears",
+    "B": "Forms and begins branching",
+    "C": "Becomes the esophagus",
+    "D": "Forms the placenta",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During week 6, the digits may still be:",
+    "A": "Absent",
+    "B": "Webbed",
+    "C": "Fully fused",
+    "D": "Fully ossified",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During week 6, the tail begins to:",
+    "A": "Grow rapidly",
+    "B": "Recede",
+    "C": "Form the placenta",
+    "D": "Form the umbilical cord",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During week 6, the liver starts:",
+    "A": "Producing blood cells",
+    "B": "Producing sperm",
+    "C": "Producing amniotic fluid",
+    "D": "Producing hCG",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During week 7, the eyes move:",
+    "A": "Farther apart",
+    "B": "Closer together",
+    "C": "Behind the ears",
+    "D": "Into the chest",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During week 7, the eyelids begin:",
+    "A": "Forming",
+    "B": "Disappearing",
+    "C": "Opening permanently",
+    "D": "Producing tears",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During week 7, the rectal and urogenital passages:",
+    "A": "Remain one tube",
+    "B": "Separate into two structures",
+    "C": "Become placenta",
+    "D": "Disappear",
+    "Answer": "B"
+  },
+  {
+    "Questions": "By week 7, the beginnings of:",
+    "A": "All essential external and internal structures are present",
+    "B": "Only the brain are present",
+    "C": "Only limbs are present",
+    "D": "Only heart is present",
+    "Answer": "A"
+  },
+  {
+    "Questions": "At week 8, the embryo is approximately:",
+    "A": "1 cm long",
+    "B": "3 cm long",
+    "C": "8 cm long",
+    "D": "15 cm long",
+    "Answer": "B"
+  },
+  {
+    "Questions": "At week 8, the external genitalia appear but:",
+    "A": "Sex is clearly identifiable",
+    "B": "Sex cannot yet be clearly identified",
+    "C": "There are no gonads",
+    "D": "The fetus is born",
+    "Answer": "B"
+  },
+  {
+    "Questions": "By the end of week 8, the embryo is called a:",
+    "A": "Morula",
+    "B": "Fetus",
+    "C": "Zygote",
+    "D": "Blastocyst",
+    "Answer": "B"
+  },
+  {
+    "Questions": "By the end of week 8, the major organ systems are:",
+    "A": "Absent",
+    "B": "Present",
+    "C": "Just beginning",
+    "D": "Fully mature",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During weeks 9–12, fetal length increases to approximately:",
+    "A": "6 cm",
+    "B": "8 cm",
+    "C": "15 cm",
+    "D": "20 cm",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During weeks 9–12, the head is nearly:",
+    "A": "One-tenth of body size",
+    "B": "One-quarter",
+    "C": "Half",
+    "D": "Three-quarters",
+    "Answer": "C"
+  },
+  {
+    "Questions": "Eyelids close around week 10 and remain closed until approximately:",
+    "A": "Weeks 11–12",
+    "B": "Weeks 14–16",
+    "C": "Weeks 26–29",
+    "D": "Weeks 35–36",
+    "Answer": "C"
+  },
+  {
+    "Questions": "Tooth buds for all 20 primary teeth appear during:",
+    "A": "Weeks 9–12",
+    "B": "Weeks 25–28",
+    "C": "Weeks 35–36",
+    "D": "Weeks 38–40",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During weeks 9–12, the kidneys begin:",
+    "A": "Producing urine",
+    "B": "Producing sperm",
+    "C": "Producing hCG",
+    "D": "Forming placenta",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Weeks 13–16 are characterized by:",
+    "A": "Rapid fetal growth",
+    "B": "Implantation",
+    "C": "Fertilization",
+    "D": "Placental separation",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Lanugo begins developing especially on the:",
+    "A": "Head",
+    "B": "Feet",
+    "C": "Palms",
+    "D": "Umbilical cord",
+    "Answer": "A"
+  },
+  {
+    "Questions": "During weeks 13–16, the fetus can:",
+    "A": "Swallow amniotic fluid",
+    "B": "Fertilize an ovum",
+    "C": "Implant",
+    "D": "Produce hCG",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Meconium forms in the:",
+    "A": "Lungs",
+    "B": "Intestinal tract",
+    "C": "Kidneys",
+    "D": "Placenta",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During weeks 16–20, maternal perception of fetal movement is called:",
+    "A": "Quickening",
+    "B": "Capacitation",
+    "C": "Apposition",
+    "D": "Invasion",
+    "Answer": "A"
+  },
+  {
+    "Questions": "At week 24, the skin is covered by:",
+    "A": "Lanugo only",
+    "B": "Vernix caseosa",
+    "C": "Meconium",
+    "D": "Chorion",
+    "Answer": "B"
+  }
+]
+}

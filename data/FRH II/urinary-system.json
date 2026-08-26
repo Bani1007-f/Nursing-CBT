@@ -1,0 +1,649 @@
+{
+    "course": "frh-ii",
+    "topic": "Urinary System",
+    "testSettings": {
+        "questionCount": 40
+    },
+    "questions": [
+  {
+    "Question": "What is the primary function of the kidneys?",
+    "A": "Store urine",
+    "B": "Remove wastes",
+    "C": "Produce bile",
+    "D": "Digest proteins",
+    "Answer": "B"
+  },
+  {
+    "Question": "The kidneys are located approximately between which vertebral levels?",
+    "A": "C1–C4",
+    "B": "T5–T8",
+    "C": "T11–L3",
+    "D": "L4–S1",
+    "Answer": "C"
+  },
+  {
+    "Question": "Why is the right kidney slightly lower than the left?",
+    "A": "The heart lies above it",
+    "B": "The liver sits above it",
+    "C": "The spleen pushes it down",
+    "D": "The stomach pushes it down",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which structure is considered the “doorway” of the kidney?",
+    "A": "Papilla",
+    "B": "Hilum",
+    "C": "Cortex",
+    "D": "Pyramid",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which vessel enters the kidney through the hilum?",
+    "A": "Renal artery",
+    "B": "Renal vein",
+    "C": "Ureter",
+    "D": "Inferior vena cava",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which vessel leaves the kidney through the hilum?",
+    "A": "Renal artery",
+    "B": "Renal vein",
+    "C": "Afferent arteriole",
+    "D": "Femoral vein",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which is the outer region of the kidney?",
+    "A": "Renal medulla",
+    "B": "Renal pelvis",
+    "C": "Renal cortex",
+    "D": "Renal papilla",
+    "Answer": "C"
+  },
+  {
+    "Question": "The renal pyramids are located in the:",
+    "A": "Cortex",
+    "B": "Medulla",
+    "C": "Capsule",
+    "D": "Hilum",
+    "Answer": "B"
+  },
+  {
+    "Question": "Urine passes from the renal papilla first into the:",
+    "A": "Major calyx",
+    "B": "Minor calyx",
+    "C": "Renal pelvis",
+    "D": "Ureter",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which sequence correctly describes the flow of urine?",
+    "A": "Papilla → minor calyx → major calyx → renal pelvis → ureter → bladder",
+    "B": "Papilla → ureter → pelvis → calyx → bladder",
+    "C": "Calyx → papilla → bladder → ureter",
+    "D": "Pelvis → papilla → calyx → ureter",
+    "Answer": "A"
+  },
+  {
+    "Question": "The functional working unit of the kidney is the:",
+    "A": "Nephron",
+    "B": "Ureter",
+    "C": "Calyx",
+    "D": "Trigone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Each kidney contains approximately:",
+    "A": "10,000 nephrons",
+    "B": "100,000 nephrons",
+    "C": "More than one million nephrons",
+    "D": "Ten million nephrons",
+    "Answer": "C"
+  },
+  {
+    "Question": "Where does filtration begin in the nephron?",
+    "A": "Loop of Henle",
+    "B": "Glomerulus",
+    "C": "Collecting duct",
+    "D": "Distal convoluted tubule",
+    "Answer": "B"
+  },
+  {
+    "Question": "The glomerulus is located inside the:",
+    "A": "Renal pelvis",
+    "B": "Bowman's capsule",
+    "C": "Ureter",
+    "D": "Collecting duct",
+    "Answer": "B"
+  },
+  {
+    "Question": "Blood enters the glomerulus through the:",
+    "A": "Efferent arteriole",
+    "B": "Afferent arteriole",
+    "C": "Renal vein",
+    "D": "Ureter",
+    "Answer": "B"
+  },
+  {
+    "Question": "Blood leaves the glomerulus through the:",
+    "A": "Afferent arteriole",
+    "B": "Efferent arteriole",
+    "C": "Renal artery",
+    "D": "Renal vein",
+    "Answer": "B"
+  },
+  {
+    "Question": "Why is pressure relatively high in the glomerulus?",
+    "A": "The efferent arteriole is wider",
+    "B": "The afferent arteriole is wider than the efferent arteriole",
+    "C": "The renal vein contracts",
+    "D": "The ureter contracts",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which substance normally remains in the blood during glomerular filtration?",
+    "A": "Water",
+    "B": "Glucose",
+    "C": "Blood cells",
+    "D": "Small ions",
+    "Answer": "C"
+  },
+  {
+    "Question": "The approximate normal glomerular filtration rate is:",
+    "A": "25 mL/min",
+    "B": "75 mL/min",
+    "C": "125 mL/min",
+    "D": "500 mL/min",
+    "Answer": "C"
+  },
+  {
+    "Question": "Approximately how much filtrate do the kidneys produce per day?",
+    "A": "18 L",
+    "B": "50 L",
+    "C": "100 L",
+    "D": "180 L",
+    "Answer": "D"
+  },
+  {
+    "Question": "Selective reabsorption returns useful substances from the nephron to the:",
+    "A": "Urine",
+    "B": "Blood",
+    "C": "Bladder",
+    "D": "Ureter",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which substance is normally reabsorbed completely?",
+    "A": "Glucose",
+    "B": "Creatinine",
+    "C": "Bacteria",
+    "D": "Blood cells",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which hormone increases water reabsorption by the kidneys?",
+    "A": "ADH",
+    "B": "Calcitonin",
+    "C": "Erythropoietin",
+    "D": "Renin",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the usual effect of ADH on urine?",
+    "A": "More dilute urine",
+    "B": "Less, more concentrated urine",
+    "C": "No urine production",
+    "D": "More glucose in urine",
+    "Answer": "B"
+  },
+  {
+    "Question": "A dehydrated person would be expected to have:",
+    "A": "Less ADH release",
+    "B": "More water reabsorption",
+    "C": "More dilute urine",
+    "D": "Reduced water conservation",
+    "Answer": "B"
+  },
+  {
+    "Question": "Alcohol can increase urine output because it:",
+    "A": "Increases ADH action",
+    "B": "Reduces ADH action",
+    "C": "Increases aldosterone action",
+    "D": "Blocks filtration",
+    "Answer": "B"
+  },
+  {
+    "Question": "Aldosterone mainly promotes the reabsorption of:",
+    "A": "Sodium",
+    "B": "Glucose",
+    "C": "Protein",
+    "D": "Urea",
+    "Answer": "A"
+  },
+  {
+    "Question": "Water follows sodium, so aldosterone helps maintain:",
+    "A": "Blood volume and water balance",
+    "B": "Bile production",
+    "C": "Red blood cell destruction",
+    "D": "Urinary infection",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which hormone increases calcium reabsorption?",
+    "A": "Calcitonin",
+    "B": "Parathyroid hormone",
+    "C": "ADH",
+    "D": "Renin",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which hormone increases calcium excretion?",
+    "A": "Calcitonin",
+    "B": "Parathyroid hormone",
+    "C": "Aldosterone",
+    "D": "Erythropoietin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Tubular secretion moves unwanted substances from the blood into the:",
+    "A": "Tubules",
+    "B": "Bladder wall",
+    "C": "Renal artery",
+    "D": "Ureter only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which substance is an example of tubular secretion?",
+    "A": "Creatinine",
+    "B": "Glucose normally",
+    "C": "Red blood cells",
+    "D": "Plasma proteins",
+    "Answer": "A"
+  },
+  {
+    "Question": "Renin is released when the kidney detects:",
+    "A": "Reduced renal blood flow",
+    "B": "High blood pressure only",
+    "C": "Excess glucose",
+    "D": "High oxygen levels",
+    "Answer": "A"
+  },
+  {
+    "Question": "Renin contributes to a system that:",
+    "A": "Lowers blood pressure",
+    "B": "Raises blood pressure and promotes sodium retention",
+    "C": "Stops urine production",
+    "D": "Destroys red blood cells",
+    "Answer": "B"
+  },
+  {
+    "Question": "The kidneys release erythropoietin mainly when:",
+    "A": "Oxygen levels are low",
+    "B": "Blood glucose is high",
+    "C": "Urine is dilute",
+    "D": "Calcium is high",
+    "Answer": "A"
+  },
+  {
+    "Question": "Erythropoietin stimulates the bone marrow to produce more:",
+    "A": "Platelets",
+    "B": "White blood cells",
+    "C": "Red blood cells",
+    "D": "Plasma proteins",
+    "Answer": "C"
+  },
+  {
+    "Question": "Approximately what percentage of cardiac output goes to the kidneys?",
+    "A": "1–2%",
+    "B": "5–10%",
+    "C": "20–25%",
+    "D": "50–60%",
+    "Answer": "C"
+  },
+  {
+    "Question": "Normal adult urine output is approximately:",
+    "A": "100–200 mL/day",
+    "B": "1,000–1,500 mL/day",
+    "C": "5,000–6,000 mL/day",
+    "D": "10,000 mL/day",
+    "Answer": "B"
+  },
+  {
+    "Question": "Normal urine is approximately what percentage water?",
+    "A": "20–30%",
+    "B": "50–60%",
+    "C": "70–80%",
+    "D": "93–97%",
+    "Answer": "D"
+  },
+  {
+    "Question": "Which should NOT normally be present in urine?",
+    "A": "Water",
+    "B": "Urea",
+    "C": "Glucose",
+    "D": "Small ions",
+    "Answer": "C"
+  },
+  {
+    "Question": "The ureters carry urine from the:",
+    "A": "Bladder to urethra",
+    "B": "Kidneys to bladder",
+    "C": "Urethra to kidneys",
+    "D": "Bladder to kidneys",
+    "Answer": "B"
+  },
+  {
+    "Question": "The ureters propel urine mainly by:",
+    "A": "Gravity only",
+    "B": "Peristalsis",
+    "C": "Coughing",
+    "D": "Sphincter contraction",
+    "Answer": "B"
+  },
+  {
+    "Question": "The ureters are approximately:",
+    "A": "2–3 cm long",
+    "B": "10 cm long",
+    "C": "25–30 cm long",
+    "D": "50 cm long",
+    "Answer": "C"
+  },
+  {
+    "Question": "The angled entry of the ureters into the bladder helps prevent:",
+    "A": "Urine production",
+    "B": "Backflow of urine",
+    "C": "Glomerular filtration",
+    "D": "Kidney blood flow",
+    "Answer": "B"
+  },
+  {
+    "Question": "The primary function of the bladder is to:",
+    "A": "Filter blood",
+    "B": "Store urine",
+    "C": "Produce renin",
+    "D": "Reabsorb glucose",
+    "Answer": "B"
+  },
+  {
+    "Question": "The usual capacity of the bladder is approximately:",
+    "A": "50 mL",
+    "B": "100 mL",
+    "C": "500 mL",
+    "D": "2,000 mL",
+    "Answer": "C"
+  },
+  {
+    "Question": "The bladder stretches upward into the abdomen as it:",
+    "A": "Empties",
+    "B": "Fills",
+    "C": "Contracts",
+    "D": "Leaves the pelvis",
+    "Answer": "B"
+  },
+  {
+    "Question": "The trigone is a smooth triangular area at the:",
+    "A": "Top of the kidney",
+    "B": "Base of the bladder",
+    "C": "End of the urethra",
+    "D": "Renal cortex",
+    "Answer": "B"
+  },
+  {
+    "Question": "The detrusor muscle is responsible for:",
+    "A": "Filtering blood",
+    "B": "Expelling urine",
+    "C": "Producing erythropoietin",
+    "D": "Preventing renal blood flow",
+    "Answer": "B"
+  },
+  {
+    "Question": "The internal urethral sphincter primarily helps to:",
+    "A": "Keep urine inside the bladder",
+    "B": "Filter urine",
+    "C": "Produce urine",
+    "D": "Move urine to the kidneys",
+    "Answer": "A"
+  },
+  {
+    "Question": "Sympathetic stimulation generally causes:",
+    "A": "Detrusor contraction and sphincter relaxation",
+    "B": "Detrusor relaxation and internal sphincter contraction",
+    "C": "Contraction of both",
+    "D": "Relaxation of both",
+    "Answer": "B"
+  },
+  {
+    "Question": "Parasympathetic stimulation generally causes:",
+    "A": "Bladder storage",
+    "B": "Detrusor contraction and internal sphincter relaxation",
+    "C": "Renin release",
+    "D": "Ureter closure",
+    "Answer": "B"
+  },
+  {
+    "Question": "The female urethra is approximately:",
+    "A": "1 cm long",
+    "B": "4 cm long",
+    "C": "15 cm long",
+    "D": "25 cm long",
+    "Answer": "B"
+  },
+  {
+    "Question": "The female urethra opens externally at the:",
+    "A": "Cervix",
+    "B": "Vulva",
+    "C": "Ureter",
+    "D": "Bladder dome",
+    "Answer": "B"
+  },
+  {
+    "Question": "The external urethral sphincter consists of:",
+    "A": "Smooth muscle only",
+    "B": "Voluntary skeletal muscle",
+    "C": "Cardiac muscle",
+    "D": "Fibrous tissue",
+    "Answer": "B"
+  },
+  {
+    "Question": "Micturition means:",
+    "A": "Filtration",
+    "B": "Urination",
+    "C": "Reabsorption",
+    "D": "Secretion",
+    "Answer": "B"
+  },
+  {
+    "Question": "The urge to urinate begins when bladder stretch receptors detect:",
+    "A": "Blood pressure changes",
+    "B": "Bladder stretching",
+    "C": "Renin release",
+    "D": "Ureter closure",
+    "Answer": "B"
+  },
+  {
+    "Question": "The urge to urinate usually begins around:",
+    "A": "20–30 mL",
+    "B": "50–100 mL",
+    "C": "200–300 mL",
+    "D": "800–900 mL",
+    "Answer": "C"
+  },
+  {
+    "Question": "Voluntary delay of urination mainly depends on contraction of the:",
+    "A": "Internal sphincter",
+    "B": "External sphincter",
+    "C": "Detrusor",
+    "D": "Ureter",
+    "Answer": "B"
+  },
+  {
+    "Question": "Coughing or laughing may cause urinary incontinence when:",
+    "A": "Renal filtration stops",
+    "B": "Abdominal pressure exceeds the urethra's ability to remain closed",
+    "C": "ADH disappears",
+    "D": "The ureters stop functioning",
+    "Answer": "B"
+  },
+  {
+    "Question": "Why are women more susceptible to urinary tract infections according to the notes?",
+    "A": "They have longer urethras",
+    "B": "Bacteria can travel upward through the short urethra",
+    "C": "Their kidneys are smaller",
+    "D": "Their bladder is larger",
+    "Answer": "B"
+  },
+  {
+    "Question": "During pregnancy, why does urinary frequency commonly increase early in pregnancy?",
+    "A": "The bladder becomes larger",
+    "B": "The growing uterus reduces bladder space",
+    "C": "Kidney filtration stops",
+    "D": "The urethra becomes blocked",
+    "Answer": "B"
+  },
+  {
+    "Question": "Later in pregnancy, bladder capacity may be reduced again when:",
+    "A": "The kidneys enlarge",
+    "B": "The baby's presenting part enters the pelvis",
+    "C": "The uterus becomes empty",
+    "D": "The ureters close",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which hormone relaxes the ureter walls during pregnancy?",
+    "A": "Estrogen",
+    "B": "Progesterone",
+    "C": "ADH",
+    "D": "Erythropoietin",
+    "Answer": "B"
+  },
+  {
+    "Question": "Relaxation of the ureter walls during pregnancy may cause the ureters to:",
+    "A": "Narrow and shorten",
+    "B": "Widen, bend, or kink",
+    "C": "Disappear",
+    "D": "Become rigid",
+    "Answer": "B"
+  },
+  {
+    "Question": "Slower urine flow during pregnancy can result in:",
+    "A": "Urinary stasis",
+    "B": "Increased bladder capacity",
+    "C": "Complete renal failure",
+    "D": "Reduced infection risk",
+    "Answer": "A"
+  },
+  {
+    "Question": "Urinary stasis during pregnancy increases the risk of:",
+    "A": "UTI",
+    "B": "Pneumonia",
+    "C": "Appendicitis",
+    "D": "Hypoglycaemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Kidney filtration during pregnancy generally:",
+    "A": "Stops completely",
+    "B": "Increases to remove additional waste from mother and fetus",
+    "C": "Falls to zero",
+    "D": "Becomes unnecessary",
+    "Answer": "B"
+  },
+  {
+    "Question": "Pregnancy places additional stress on the urinary system partly because:",
+    "A": "The uterus becomes smaller",
+    "B": "The uterus becomes larger and presses on nearby urinary structures",
+    "C": "The bladder disappears",
+    "D": "The kidneys stop functioning",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which combination best describes pregnancy-related ureter changes?",
+    "A": "Progesterone relaxation, widening and slower urine flow",
+    "B": "Increased ureter contraction and faster flow",
+    "C": "Complete ureter closure",
+    "D": "Reduced filtration and narrowed ureters",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which pregnancy-related change most directly promotes urinary stasis?",
+    "A": "Progesterone-mediated relaxation of ureter walls",
+    "B": "Increased external sphincter strength",
+    "C": "Increased bladder capacity",
+    "D": "Increased urine concentration only",
+    "Answer": "A"
+  },
+  {
+    "Question": "During labour, the bladder may be:",
+    "A": "Displaced upward",
+    "B": "Removed from the pelvis",
+    "C": "Replaced by the uterus",
+    "D": "Permanently compressed",
+    "Answer": "A"
+  },
+  {
+    "Question": "During labour, the urethra can:",
+    "A": "Shorten dramatically",
+    "B": "Lengthen",
+    "C": "Disappear",
+    "D": "Become a ureter",
+    "Answer": "B"
+  },
+  {
+    "Question": "Which situation can reduce bladder space during pregnancy?",
+    "A": "Enlargement of the uterus",
+    "B": "Decrease in uterine size",
+    "C": "Reduced kidney filtration",
+    "D": "Relaxation of the external sphincter",
+    "Answer": "A"
+  },
+  {
+    "Question": "A pregnant woman has slower urine flow and increased UTI risk. Which mechanism best explains this?",
+    "A": "Progesterone relaxes ureter walls, promoting urinary stasis",
+    "B": "The bladder becomes rigid",
+    "C": "The urethra becomes longer and prevents infection",
+    "D": "Kidney filtration stops",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which sequence best represents major urinary changes during pregnancy?",
+    "A": "Uterine enlargement → reduced bladder space; progesterone → ureter relaxation; increased filtration",
+    "B": "Uterine shrinkage → increased bladder space; progesterone → ureter contraction",
+    "C": "Reduced uterus → urinary retention; increased ureter tone",
+    "D": "No urinary changes occur",
+    "Answer": "A"
+  },
+  {
+    "Question": "After birth, retained fluid and sodium are removed partly through:",
+    "A": "Postnatal diuresis",
+    "B": "Reduced urine production",
+    "C": "Complete urinary retention",
+    "D": "Reduced renal filtration",
+    "Answer": "A"
+  },
+  {
+    "Question": "Postnatal diuresis is especially prominent during:",
+    "A": "Days 2–5 after birth",
+    "B": "The first hour only",
+    "C": "Weeks 20–24 of pregnancy",
+    "D": "Six months after birth",
+    "Answer": "A"
+  },
+  {
+    "Question": "Postnatal urine output may rise to approximately:",
+    "A": "300 mL/day",
+    "B": "1 L/day",
+    "C": "3 L/day",
+    "D": "10 L/day",
+    "Answer": "C"
+  },
+  {
+    "Question": "During postnatal diuresis, a person may pass approximately how much urine at one time?",
+    "A": "10–20 mL",
+    "B": "50–100 mL",
+    "C": "500–1,000 mL",
+    "D": "2,000–3,000 mL",
+    "Answer": "C"
+  }
+]
+}

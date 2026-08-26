@@ -1,0 +1,489 @@
+ {"course": "frh-ii",
+    "topic": "Fertilization",
+    "testSettings": {
+        "questionCount": 30
+    },
+    "questions": [
+
+  {
+    "Questions": "Fertilization is the process by which a sperm fuses with an ovum to form a:",
+    "A": "Blastocyst",
+    "B": "Morula",
+    "C": "Zygote",
+    "D": "Fetus",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The zygote normally contains how many chromosomes?",
+    "A": 23,
+    "B": 44,
+    "C": 46,
+    "D": 92,
+    "Answer": "C"
+  },
+  {
+    "Questions": "How many chromosomes are contributed by the ovum?",
+    "A": 22,
+    "B": 23,
+    "C": 44,
+    "D": 46,
+    "Answer": "B"
+  },
+  {
+    "Questions": "How many chromosomes are contributed by the sperm?",
+    "A": 22,
+    "B": 23,
+    "C": 44,
+    "D": 46,
+    "Answer": "B"
+  },
+  {
+    "Questions": "The usual site of fertilization is the:",
+    "A": "Cervix",
+    "B": "Uterus",
+    "C": "Ampulla of the fallopian tube",
+    "D": "Ovary",
+    "Answer": "C"
+  },
+  {
+    "Questions": "Approximately how many spermatozoa may be deposited during one ejaculation?",
+    "A": "2–6 million",
+    "B": "20–60 million",
+    "C": "200–600 million",
+    "D": "2–6 billion",
+    "Answer": "C"
+  },
+  {
+    "Questions": "Approximately how many spermatozoa actually reach the ovum?",
+    "A": "30–50",
+    "B": "300–500",
+    "C": "3,000–5,000",
+    "D": "30,000–50,000",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The ovum remains fertile for approximately:",
+    "A": "1–2 hours",
+    "B": "12–24 hours",
+    "C": "48–72 hours",
+    "D": "5–7 days",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Sperm can survive in the female reproductive tract for approximately:",
+    "A": "2–4 hours",
+    "B": "12–24 hours",
+    "C": "48–72 hours",
+    "D": "7 days",
+    "Answer": "C"
+  },
+  {
+    "Questions": "Sperm are believed to be highly fertile for approximately:",
+    "A": "6 hours",
+    "B": "12 hours",
+    "C": "24 hours",
+    "D": "72 hours",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The two layers surrounding the secondary oocyte are the:",
+    "A": "Amnion and chorion",
+    "B": "Zona pellucida and corona radiata",
+    "C": "Decidua and amnion",
+    "D": "Trophoblast and endometrium",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The zona pellucida is located:",
+    "A": "Farthest from the ovum",
+    "B": "Closest to the ovum cell membrane",
+    "C": "Inside the nucleus",
+    "D": "Around the uterus",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The zona pellucida is a:",
+    "A": "Cellular layer",
+    "B": "Muscular layer",
+    "C": "Clear noncellular layer",
+    "D": "Vascular layer",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The corona radiata consists of a ring of:",
+    "A": "Blood vessels",
+    "B": "Elongated cells",
+    "C": "Muscle fibres",
+    "D": "Germ layers",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The zona pellucida and corona radiata are held together by:",
+    "A": "Collagen",
+    "B": "Keratin",
+    "C": "Hyaluronic acid",
+    "D": "Elastin",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The ovum has no inherent power of:",
+    "A": "Growth",
+    "B": "Movement",
+    "C": "Differentiation",
+    "D": "Division",
+    "Answer": "B"
+  },
+  {
+    "Questions": "High estrogen levels during ovulation increase:",
+    "A": "Uterine bleeding",
+    "B": "Fallopian tube peristalsis",
+    "C": "Placental growth",
+    "D": "Sperm production",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Sperm obtain energy for movement mainly from fructose in semen secreted by the:",
+    "A": "Prostate",
+    "B": "Seminal vesicles",
+    "C": "Testes",
+    "D": "Bulbourethral glands",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Sperm propel themselves through the female tract using:",
+    "A": "Cilia",
+    "B": "Flagellar movement",
+    "C": "Peristalsis alone",
+    "D": "Brownian movement",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Prostaglandin from sperm helps sperm movement by affecting:",
+    "A": "Skeletal muscle",
+    "B": "Smooth muscle",
+    "C": "Cardiac muscle",
+    "D": "Bone",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Estrogen assists sperm movement by helping to:",
+    "A": "Thicken the cervix",
+    "B": "Thin the cervix",
+    "C": "Close the cervix",
+    "D": "Destroy sperm",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Sperm transit from the cervix into the fallopian tube can be as short as:",
+    "A": "5 minutes",
+    "B": "30 minutes",
+    "C": "2 hours",
+    "D": "12 hours",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The average sperm transit time to the fallopian tube is approximately:",
+    "A": "2–7 hours",
+    "B": "12–18 hours",
+    "C": "24–48 hours",
+    "D": "5–10 days",
+    "Answer": "A"
+  },
+  {
+    "Questions": "Before penetrating the ovum, sperm must undergo:",
+    "A": "Cleavage and implantation",
+    "B": "Capacitation and acrosomal reaction",
+    "C": "Ovulation and menstruation",
+    "D": "Differentiation and gastrulation",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Capacitation is primarily a:",
+    "A": "Hormonal process",
+    "B": "Physiological/enzymatic process",
+    "C": "Cellular mutation",
+    "D": "Placental process",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Capacitation removes the sperm's:",
+    "A": "Nucleus",
+    "B": "Glycoprotein coating",
+    "C": "Flagellum",
+    "D": "Chromosomes",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Capacitation also removes plasma proteins from the:",
+    "A": "Blood",
+    "B": "Seminal fluid",
+    "C": "Amniotic fluid",
+    "D": "Follicular fluid",
+    "Answer": "B"
+  },
+  {
+    "Questions": "If the glycoprotein coat is not removed, the sperm will:",
+    "A": "Become an ovum",
+    "B": "Be unable to fertilize the ovum",
+    "C": "Immediately divide",
+    "D": "Lose its chromosomes",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Capacitation occurs mainly in the:",
+    "A": "Ovary",
+    "B": "Uterus or uterine tube",
+    "C": "Cervix only",
+    "D": "Vagina only",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Capacitation takes approximately:",
+    "A": "30 minutes",
+    "B": "2 hours",
+    "C": "7 hours",
+    "D": "48 hours",
+    "Answer": "C"
+  },
+  {
+    "Questions": "After capacitation, sperm acquire the ability to undergo:",
+    "A": "Implantation",
+    "B": "Acrosomal reaction",
+    "C": "Menstruation",
+    "D": "Ovulation",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Capacitated sperm acquire the ability to bind to the:",
+    "A": "Endometrium",
+    "B": "Zona pellucida",
+    "C": "Decidua basalis",
+    "D": "Amnion",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Capacitation causes sperm to acquire:",
+    "A": "Hypermotility",
+    "B": "Hypomotility",
+    "C": "Loss of movement",
+    "D": "Ciliary movement",
+    "Answer": "A"
+  },
+  {
+    "Questions": "The acrosomal reaction follows:",
+    "A": "Implantation",
+    "B": "Capacitation",
+    "C": "Cleavage",
+    "D": "Ovulation",
+    "Answer": "B"
+  },
+  {
+    "Questions": "During the acrosomal reaction, the acrosome releases:",
+    "A": "Hormones",
+    "B": "Enzymes",
+    "C": "Red blood cells",
+    "D": "Platelets",
+    "Answer": "B"
+  },
+  {
+    "Questions": "One enzyme released during the acrosomal reaction is:",
+    "A": "Insulin",
+    "B": "Hyaluronidase",
+    "C": "Thyroxine",
+    "D": "Renin",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Acrosomal enzymes help break down hyaluronic acid in the:",
+    "A": "Endometrium",
+    "B": "Corona radiata",
+    "C": "Amnion",
+    "D": "Myometrium",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Approximately how many acrosomes may rupture before successful penetration?",
+    "A": "2–5",
+    "B": "10–20",
+    "C": "Hundreds",
+    "D": "Millions",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The reaction that prevents additional sperm from entering the ovum is called:",
+    "A": "Capacitation",
+    "B": "Block of polyspermy",
+    "C": "Cleavage",
+    "D": "Decidual reaction",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The block to polyspermy occurs when the fertilizing sperm:",
+    "A": "Leaves the ovum",
+    "B": "Penetrates the ovum",
+    "C": "Reaches the cervix",
+    "D": "Undergoes capacitation",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The true moment of fertilization occurs when the sperm and ovum nuclei:",
+    "A": "Separate",
+    "B": "Unite",
+    "C": "Degenerate",
+    "D": "Move into the uterus",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Fusion of the male and female nuclei produces a:",
+    "A": "Morula",
+    "B": "Diploid zygote",
+    "C": "Blastocyst",
+    "D": "Trophoblast",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The zygote contains a new combination of:",
+    "A": "Amniotic fluid",
+    "B": "Genetic material",
+    "C": "Placental tissue",
+    "D": "Maternal blood",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The genetic combination of the zygote makes the individual:",
+    "A": "Identical to the mother",
+    "B": "Different from either parent",
+    "C": "Identical to the father",
+    "D": "Haploid",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The sex of the zygote is determined at fertilization by the contribution of the:",
+    "A": "Mother",
+    "B": "Father",
+    "C": "Placenta",
+    "D": "Endometrium",
+    "Answer": "B"
+  },
+  {
+    "Questions": "A sperm carrying an X chromosome produces a:",
+    "A": "46,XY offspring",
+    "B": "46,XX offspring",
+    "C": "23,X offspring",
+    "D": "44,XY offspring",
+    "Answer": "B"
+  },
+  {
+    "Questions": "A sperm carrying a Y chromosome produces a:",
+    "A": "46,XX offspring",
+    "B": "46,XY offspring",
+    "C": "23,Y offspring",
+    "D": "44,XX offspring",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Females normally have:",
+    "A": "XY",
+    "B": "XX",
+    "C": "YY",
+    "D": "XO",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Males normally have:",
+    "A": "XX",
+    "B": "XY",
+    "C": "YY",
+    "D": "XO",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Fertilization restores the normal human:",
+    "A": "Haploid number",
+    "B": "Diploid number",
+    "C": "Triploid number",
+    "D": "Tetraploid number",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Fertilization initiates:",
+    "A": "Menstruation",
+    "B": "Embryonic development",
+    "C": "Lactation",
+    "D": "Ovulation",
+    "Answer": "B"
+  },
+  {
+    "Questions": "After fertilization, rapid mitotic division of the zygote is called:",
+    "A": "Gastrulation",
+    "B": "Cleavage",
+    "C": "Implantation",
+    "D": "Capacitation",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The first stage in the cleavage sequence is the:",
+    "A": "Morula",
+    "B": "2-cell stage",
+    "C": "Blastocyst",
+    "D": "16-cell stage",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The cleavage sequence progresses from 2-cell to 4-cell to 8-cell and then:",
+    "A": "Placenta",
+    "B": "Morula",
+    "C": "Fetus",
+    "D": "Decidua",
+    "Answer": "B"
+  },
+  {
+    "Questions": "A morula contains approximately:",
+    "A": "2–4 cells",
+    "B": "8–10 cells",
+    "C": "16–32 cells",
+    "D": "100–200 cells",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The structure that follows the morula is the:",
+    "A": "Zygote",
+    "B": "Blastocyst",
+    "C": "Fetus",
+    "D": "Placenta",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Implantation is the attachment and embedding of the:",
+    "A": "Zygote into ovary",
+    "B": "Blastocyst into endometrium",
+    "C": "Sperm into cervix",
+    "D": "Placenta into vagina",
+    "Answer": "B"
+  },
+  {
+    "Questions": "Implantation usually occurs approximately:",
+    "A": "1–2 days after fertilization",
+    "B": "6–10 days after fertilization",
+    "C": "14–21 days after fertilization",
+    "D": "28 days after fertilization",
+    "Answer": "B"
+  },
+  {
+    "Questions": "The first stage of implantation is:",
+    "A": "Invasion",
+    "B": "Adhesion",
+    "C": "Apposition",
+    "D": "Cleavage",
+    "Answer": "C"
+  },
+  {
+    "Questions": "The trophoblast differentiates into:",
+    "A": "Ectoderm and endoderm",
+    "B": "Cytotrophoblast and syncytiotrophoblast",
+    "C": "Amnion and chorion",
+    "D": "Decidua and chorion",
+    "Answer": "B"
+  }
+]
+}
