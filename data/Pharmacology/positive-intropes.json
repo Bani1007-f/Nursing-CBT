@@ -1,0 +1,489 @@
+{"course": "Pharmacology II",
+    "topic": "Positive Intropes",
+    "testSettings": {
+        "questionCount": 40
+    },
+    "questions":
+    [
+  {
+    "Question": "Positive inotropes primarily increase:",
+    "A": "Force of myocardial contraction",
+    "B": "AV block",
+    "C": "Renal sodium excretion",
+    "D": "Peripheral resistance only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Digoxin inhibits which pump?",
+    "A": "Na+/K+-ATPase",
+    "B": "Na-Cl cotransporter",
+    "C": "Na-K-2Cl cotransporter",
+    "D": "PDE3",
+    "Answer": "A"
+  },
+  {
+    "Question": "Digoxin increases intracellular sodium, which reduces:",
+    "A": "Na+/Ca2+ exchange",
+    "B": "Calcium binding",
+    "C": "Potassium entry",
+    "D": "cAMP formation",
+    "Answer": "A"
+  },
+  {
+    "Question": "The final cellular effect of digoxin is increased intracellular:",
+    "A": "Calcium",
+    "B": "Sodium only",
+    "C": "Chloride",
+    "D": "Magnesium",
+    "Answer": "A"
+  },
+  {
+    "Question": "Digoxin produces which combination?",
+    "A": "Positive inotropy, negative chronotropy and negative dromotropy",
+    "B": "Negative inotropy and positive chronotropy",
+    "C": "Positive chronotropy only",
+    "D": "Positive dromotropy only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Digoxin slows AV conduction mainly by increasing:",
+    "A": "Vagal tone",
+    "B": "Beta-1 stimulation",
+    "C": "Sodium influx",
+    "D": "Aldosterone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Digoxin is primarily eliminated by the:",
+    "A": "Kidneys",
+    "B": "Liver",
+    "C": "Lungs",
+    "D": "Skin",
+    "Answer": "A"
+  },
+  {
+    "Question": "In renal impairment, digoxin generally requires:",
+    "A": "Dose adjustment",
+    "B": "Automatic dose doubling",
+    "C": "No monitoring",
+    "D": "Immediate discontinuation in all cases",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which visual change suggests digoxin toxicity?",
+    "A": "Yellow-green vision",
+    "B": "Blue-gray skin",
+    "C": "Tunnel vision only",
+    "D": "Photophobia only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which GI symptom is associated with digoxin toxicity?",
+    "A": "Anorexia and nausea",
+    "B": "Constipation only",
+    "C": "Hematemesis",
+    "D": "Jaundice",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which electrolyte abnormality increases digoxin toxicity?",
+    "A": "Hypokalemia",
+    "B": "Hyperkalemia",
+    "C": "Hypernatremia",
+    "D": "Hypermagnesemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug can increase digoxin toxicity?",
+    "A": "Amiodarone",
+    "B": "Hydrochlorothiazide alone",
+    "C": "Amlodipine alone",
+    "D": "Methyldopa",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class of diuretics can increase digoxin toxicity by causing hypokalemia?",
+    "A": "Loop diuretics",
+    "B": "Potassium-sparing diuretics",
+    "C": "Aldosterone antagonists",
+    "D": null,
+    "Answer": "A"
+  },
+  {
+    "Question": "Dobutamine is relatively selective for:",
+    "A": "Beta-1 receptors",
+    "B": "Beta-2 receptors",
+    "C": "Alpha-2 receptors",
+    "D": "Muscarinic receptors",
+    "Answer": "A"
+  },
+  {
+    "Question": "Beta-1 stimulation increases contractility through increased:",
+    "A": "cAMP and calcium influx",
+    "B": "cGMP and sodium loss",
+    "C": "Bradykinin",
+    "D": "Aldosterone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Dobutamine is commonly used in:",
+    "A": "Acute heart failure and cardiogenic shock",
+    "B": "Routine hypertension",
+    "C": "Stable angina prevention",
+    "D": "BPH",
+    "Answer": "A"
+  },
+  {
+    "Question": "Dopamine is indicated in the notes for:",
+    "A": "Cardiogenic shock and severe hypotension",
+    "B": "Chronic hypertension",
+    "C": "Stable angina",
+    "D": "Hyperkalemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "A common adverse effect of catecholamine inotropes is:",
+    "A": "Tachycardia and arrhythmias",
+    "B": "Severe bradycardia",
+    "C": "Hyperkalemia",
+    "D": "Constipation",
+    "Answer": "A"
+  },
+  {
+    "Question": "Extravasation of catecholamine infusion may cause:",
+    "A": "Tissue necrosis",
+    "B": "Cinchonism",
+    "C": "Pulmonary fibrosis",
+    "D": "Gynecomastia",
+    "Answer": "A"
+  },
+  {
+    "Question": "MAO inhibitors with dopamine can cause:",
+    "A": "Severe hypertension",
+    "B": "Severe hypokalemia",
+    "C": "Bradycardia only",
+    "D": "Hypoglycemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Tricyclic antidepressants may produce an exaggerated response to:",
+    "A": "Dopamine",
+    "B": "Digoxin",
+    "C": "Mannitol",
+    "D": "Nitroglycerin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Beta blockers may antagonize the therapeutic effects of:",
+    "A": "Beta-adrenergic inotropes",
+    "B": "Digoxin",
+    "C": "Mannitol",
+    "D": "Nitrates",
+    "Answer": "A"
+  },
+  {
+    "Question": "Milrinone belongs to which class?",
+    "A": "PDE3 inhibitors",
+    "B": "Cardiac glycosides",
+    "C": "Calcium sensitizers",
+    "D": "Beta blockers",
+    "Answer": "A"
+  },
+  {
+    "Question": "Milrinone increases contractility by inhibiting PDE3 and increasing:",
+    "A": "cAMP",
+    "B": "Aldosterone",
+    "C": "Bradykinin",
+    "D": "Renin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Milrinone is also called an inodilator because it causes:",
+    "A": "Vasodilation",
+    "B": "Bronchoconstriction",
+    "C": "AV block",
+    "D": "Sodium retention",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which adverse effect is particularly important with milrinone?",
+    "A": "Hypotension and ventricular arrhythmias",
+    "B": "Dry cough",
+    "C": "Gynecomastia",
+    "D": "Hyperuricemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Milrinone is mainly eliminated by the:",
+    "A": "Kidneys",
+    "B": "Lungs",
+    "C": "Skin",
+    "D": "Stomach",
+    "Answer": "A"
+  },
+  {
+    "Question": "Levosimendan is a:",
+    "A": "Calcium sensitizer",
+    "B": "PDE inhibitor",
+    "C": "Beta blocker",
+    "D": "Cardiac glycoside",
+    "Answer": "A"
+  },
+  {
+    "Question": "Levosimendan increases sensitivity of:",
+    "A": "Troponin C to calcium",
+    "B": "Na+/K+-ATPase to sodium",
+    "C": "Beta receptors to catecholamines",
+    "D": "ACE to angiotensin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Levosimendan also opens:",
+    "A": "ATP-sensitive potassium channels",
+    "B": "Fast sodium channels",
+    "C": "L-type calcium channels only",
+    "D": "Chloride channels only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A major adverse effect of levosimendan is:",
+    "A": "Hypotension",
+    "B": "Severe hypertension",
+    "C": "Hyperkalemia",
+    "D": "Cinchonism",
+    "Answer": "A"
+  },
+  {
+    "Question": "Omecamtiv mecarbil directly activates:",
+    "A": "Cardiac myosin",
+    "B": "PDE3",
+    "C": "Na+/K+-ATPase",
+    "D": "ACE",
+    "Answer": "A"
+  },
+  {
+    "Question": "Omecamtiv mecarbil increases the efficiency of:",
+    "A": "Systolic contraction",
+    "B": "Renal filtration",
+    "C": "AV conduction",
+    "D": "Venous return only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Omecamtiv mecarbil does not significantly increase:",
+    "A": "Intracellular calcium or myocardial oxygen demand",
+    "B": "Contractile efficiency",
+    "C": "Systolic duration",
+    "D": "Myosin activity",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which route is used for omecamtiv mecarbil in the notes?",
+    "A": "Oral",
+    "B": "IV only",
+    "C": "Sublingual",
+    "D": "IM only",
+    "Answer": "A"
+  },
+  {
+    "Question": "CYP3A4 inhibitors may increase levels of:",
+    "A": "Omecamtiv mecarbil",
+    "B": "Mannitol",
+    "C": "Hydrochlorothiazide",
+    "D": "Atenolol",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding best suggests improved cardiac output?",
+    "A": "Improved tissue perfusion and urine output",
+    "B": "Increasing edema",
+    "C": "Worsening confusion",
+    "D": "Increasing cyanosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which monitoring is essential during IV inotrope therapy?",
+    "A": "ECG, BP, HR and electrolytes",
+    "B": "Temperature only",
+    "C": "Weight monthly",
+    "D": "Bowel sounds only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient receiving a catecholamine develops a new ventricular arrhythmia. What is the best priority?",
+    "A": "Assess rhythm and notify the provider promptly",
+    "B": "Increase the infusion",
+    "C": "Ambulate the patient",
+    "D": "Give another inotrope automatically",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug has a very short half-life and rapid onset?",
+    "A": "Dobutamine",
+    "B": "Digoxin",
+    "C": "Omecamtiv mecarbil",
+    "D": "Digitoxin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which positive inotrope has a prolonged active metabolite?",
+    "A": "Levosimendan",
+    "B": "Dobutamine",
+    "C": "Dopamine",
+    "D": "Lidocaine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which positive inotrope is most dependent on renal elimination?",
+    "A": "Milrinone",
+    "B": "Omecamtiv mecarbil",
+    "C": "Levosimendan",
+    "D": "Dobutamine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which adverse effect is common to several IV inotropes?",
+    "A": "Arrhythmias",
+    "B": "Severe constipation",
+    "C": "Cinchonism",
+    "D": "Hypertrichosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Positive inotropic therapy can increase myocardial oxygen consumption because it increases:",
+    "A": "Contractile work",
+    "B": "AV block",
+    "C": "Venous obstruction",
+    "D": "Sodium excretion",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient on digoxin has a pulse below the prescribed threshold. The nurse should first:",
+    "A": "Withhold the dose according to instructions and notify the provider",
+    "B": "Give an extra dose",
+    "C": "Encourage exercise",
+    "D": "Give potassium automatically",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which lab is particularly useful when digoxin toxicity is suspected?",
+    "A": "Serum digoxin level",
+    "B": "Serum amylase",
+    "C": "Bilirubin only",
+    "D": "Hemoglobin only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Severe digoxin toxicity may be treated with:",
+    "A": "Digoxin immune Fab",
+    "B": "Protamine",
+    "C": "Naloxone",
+    "D": "Vitamin K",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding is most consistent with digoxin toxicity?",
+    "A": "Anorexia, nausea and visual changes",
+    "B": "Improved appetite and exercise tolerance",
+    "C": "Hypertension only",
+    "D": "Hypertrichosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which medication interaction increases risk of hypotension with milrinone?",
+    "A": "Nitrates",
+    "B": "Thiazides",
+    "C": "ACE inhibitors only",
+    "D": "Aspirin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which assessment is most important before starting an IV positive inotrope?",
+    "A": "Baseline BP, HR, rhythm and electrolytes",
+    "B": "Hair assessment",
+    "C": "Bowel pattern only",
+    "D": "Visual acuity only",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Positive inotropes increase myocardial contractility.",
+    "A": true,
+    "B": false,
+    "C": "Only digoxin does",
+    "D": "Only dopamine does",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Hypokalemia can increase the risk of digoxin toxicity.",
+    "A": true,
+    "B": false,
+    "C": "Only hyperkalemia does",
+    "D": "Only hypernatremia does",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Milrinone can cause hypotension because it also causes vasodilation.",
+    "A": true,
+    "B": false,
+    "C": "Only digoxin does",
+    "D": "Only dopamine does",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Dobutamine is relatively beta-1 selective.",
+    "A": true,
+    "B": false,
+    "C": "Only dopamine is",
+    "D": "Only digoxin is",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Positive inotropes increase the force of myocardial contraction.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Milrinone is a PDE3 inhibitor.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Dobutamine is relatively selective for beta-1 receptors.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Digoxin increases vagal tone and slows AV conduction.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Hypokalemia can increase digoxin toxicity.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Levosimendan increases troponin C sensitivity to calcium.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  }
+]
+}

@@ -1,0 +1,970 @@
+{
+  
+     "course": "Pharmacology II",
+    "topic": "Management of Diabetes Mellitus",
+    "testSettings": {
+        "questionCount": 60
+    },
+  "questions": [
+  {
+    "Question": "What best describes diabetes mellitus?",
+    "A": "A syndrome characterized by hyperglycemia and disturbances of carbohydrate, fat and protein metabolism",
+    "B": "An acute infection of the pancreas",
+    "C": "A disorder limited to fat metabolism",
+    "D": "A condition caused only by excess dietary sugar",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which major physiological defect is involved in diabetes mellitus?",
+    "A": "Defects in insulin secretion, insulin action, or both",
+    "B": "Excess thyroid hormone only",
+    "C": "Defective bile secretion only",
+    "D": "Excess growth hormone in every patient",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which of the following is classified as Type 1 diabetes mellitus?",
+    "A": "Autoimmune diabetes",
+    "B": "Predominantly insulin-resistant diabetes",
+    "C": "Gestational diabetes",
+    "D": "Drug-induced diabetes",
+    "Answer": "A"
+  },
+  {
+    "Question": "Type 2 diabetes mellitus is characterized by which combination?",
+    "A": "Insulin resistance with a progressive insulin secretory defect",
+    "B": "Absolute insulin excess with no insulin resistance",
+    "C": "Only autoimmune beta-cell destruction",
+    "D": "Only impaired glucagon secretion",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is an example of a genetic defect of beta-cell function listed in the material?",
+    "A": "MODY",
+    "B": "Acromegaly",
+    "C": "Cushing's syndrome",
+    "D": "Congenital rubella",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which condition is listed as an endocrine cause of other specific types of diabetes?",
+    "A": "Acromegaly",
+    "B": "Congenital rubella",
+    "C": "Fibrocalculous pancreatopathy",
+    "D": "Stiff-man syndrome",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is given as an example of drug/chemical-induced diabetes?",
+    "A": "Glucocorticoid",
+    "B": "Metformin",
+    "C": "Insulin glargine",
+    "D": "Acarbose",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which infection is listed as a cause of a specific type of diabetes?",
+    "A": "Congenital rubella",
+    "B": "Malaria",
+    "C": "Tuberculosis",
+    "D": "Influenza",
+    "Answer": "A"
+  },
+  {
+    "Question": "What happens to beta-cell function in Type 2 diabetes over time?",
+    "A": "It progressively declines",
+    "B": "It progressively increases",
+    "C": "It remains permanently normal",
+    "D": "It becomes completely independent of insulin resistance",
+    "Answer": "A"
+  },
+  {
+    "Question": "According to the material, beta-cell function at diagnosis of Type 2 diabetes may already be compromised by approximately:",
+    "A": "50%",
+    "B": "5%",
+    "C": "10%",
+    "D": "90%",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is a major goal of diabetes care?",
+    "A": "Prevention of acute and chronic complications",
+    "B": "Elimination of all physical activity",
+    "C": "Avoidance of self-management",
+    "D": "Promotion of premature mortality",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is an important goal of diabetes management regarding self-care?",
+    "A": "Promotion of self-management practices and empowerment",
+    "B": "Complete dependence on hospital staff",
+    "C": "Avoidance of glucose monitoring",
+    "D": "Avoidance of patient education",
+    "Answer": "A"
+  },
+  {
+    "Question": "At first contact, an important step is to:",
+    "A": "Attempt to correctly classify the diabetes",
+    "B": "Immediately stop all medication",
+    "C": "Avoid taking a history",
+    "D": "Assume every patient has Type 1 diabetes",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which assessment helps identify complications of diabetes?",
+    "A": "Clinical evaluation for diabetes complications",
+    "B": "Only measurement of height",
+    "C": "Only measurement of pulse rate",
+    "D": "Only assessment of appetite",
+    "Answer": "A"
+  },
+  {
+    "Question": "Why can classification of diabetes type sometimes be difficult?",
+    "A": "Clinical presentation may vary considerably",
+    "B": "All patients present identically",
+    "C": "Laboratory testing is never useful",
+    "D": "Diabetes types never overlap clinically",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which laboratory measurement may help facilitate classification of diabetes type?",
+    "A": "C-peptide",
+    "B": "Serum sodium only",
+    "C": "Hemoglobin concentration only",
+    "D": "Serum calcium only",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the role of immune markers in some diabetes classifications?",
+    "A": "They may help identify immune-mediated beta-cell destruction",
+    "B": "They always confirm Type 2 diabetes",
+    "C": "They measure blood pressure",
+    "D": "They measure body mass index",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which approach is associated with the best results in diabetes management?",
+    "A": "A trained multidisciplinary integrated team",
+    "B": "A single isolated intervention",
+    "C": "Treatment without patient involvement",
+    "D": "Treatment without follow-up",
+    "Answer": "A"
+  },
+  {
+    "Question": "What role should the person with diabetes assume?",
+    "A": "An active role in care and self-management",
+    "B": "No role in treatment decisions",
+    "C": "Only a passive role",
+    "D": "A role limited to taking antibiotics",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which group of conditions is commonly associated with diabetes?",
+    "A": "Obesity, hypertension and dyslipidemia",
+    "B": "Appendicitis, malaria and asthma",
+    "C": "Fractures, influenza and meningitis only",
+    "D": "Cataract, malaria and pneumonia only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Why is persistent hyperglycemia important in diabetes management?",
+    "A": "It is harmful and contributes to complications",
+    "B": "It always improves insulin sensitivity",
+    "C": "It prevents all vascular disease",
+    "D": "It eliminates the need for treatment",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the main glycemic management objective?",
+    "A": "Achieve and maintain glycemic control as close to target as safely possible",
+    "B": "Keep glucose permanently elevated",
+    "C": "Avoid monitoring glucose",
+    "D": "Use insulin in every patient immediately",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which metabolic stage may precede diabetes mellitus?",
+    "A": "Impaired glucose tolerance and/or impaired fasting glycemia",
+    "B": "Severe hyperglycemia only",
+    "C": "Complete insulin independence",
+    "D": "Permanent hypoglycemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "What BMI target is listed for metabolic control?",
+    "A": "<25 kg/m²",
+    "B": ">35 kg/m²",
+    "C": "Exactly 30 kg/m²",
+    "D": "<10 kg/m²",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the listed blood pressure target for metabolic control?",
+    "A": "<130/80 mmHg",
+    "B": "<180/120 mmHg",
+    "C": ">160/100 mmHg",
+    "D": "Exactly 150/100 mmHg",
+    "Answer": "A"
+  },
+  {
+    "Question": "How often should HbA1c generally be reviewed in routine follow-up according to the material?",
+    "A": "Every 3–6 months",
+    "B": "Every day",
+    "C": "Every 10 years",
+    "D": "Only once after diagnosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "What does HbA1c primarily reflect?",
+    "A": "Average blood glucose over approximately 2–3 months",
+    "B": "Blood glucose from the previous hour only",
+    "C": "Blood pressure over 2 years",
+    "D": "Daily insulin dose",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is HbA1c traditionally used for?",
+    "A": "Monitoring long-term glycemic control",
+    "B": "Diagnosing hypertension",
+    "C": "Measuring body fat directly",
+    "D": "Assessing lung function",
+    "Answer": "A"
+  },
+  {
+    "Question": "For patients meeting treatment goals with stable glycemic control, HbA1c should be performed at least:",
+    "A": "Twice a year",
+    "B": "Every week",
+    "C": "Every month",
+    "D": "Every five years",
+    "Answer": "A"
+  },
+  {
+    "Question": "When therapy has changed or glycemic goals are not being met, HbA1c testing is recommended:",
+    "A": "Quarterly",
+    "B": "Every five years",
+    "C": "Once in a lifetime",
+    "D": "Only when symptoms occur",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which condition can make HbA1c unreliable?",
+    "A": "Abnormal red blood cell turnover",
+    "B": "Normal hydration",
+    "C": "Stable body weight",
+    "D": "Normal sleep",
+    "Answer": "A"
+  },
+  {
+    "Question": "What limitation of HbA1c is emphasized?",
+    "A": "It does not measure glycemic variability or hypoglycemia",
+    "B": "It measures only blood pressure",
+    "C": "It measures insulin dose directly",
+    "D": "It identifies all diabetes complications",
+    "Answer": "A"
+  },
+  {
+    "Question": "For patients with marked glycemic variability, control is best judged using:",
+    "A": "SMBG together with HbA1c",
+    "B": "HbA1c alone",
+    "C": "Blood pressure alone",
+    "D": "Weight alone",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is an important purpose of self-monitoring of blood glucose?",
+    "A": "To observe readings, patterns and trends and take appropriate action",
+    "B": "To replace all professional care",
+    "C": "To eliminate dietary planning",
+    "D": "To diagnose all infections",
+    "Answer": "A"
+  },
+  {
+    "Question": "Continuous glucose monitors measure glucose in:",
+    "A": "Interstitial fluid",
+    "B": "Bone marrow",
+    "C": "Urine only",
+    "D": "Saliva only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Continuous glucose monitors may provide alarms when glucose is:",
+    "A": "Too high, too low, or changing rapidly",
+    "B": "Exactly normal only",
+    "C": "Only slightly elevated",
+    "D": "Only after meals",
+    "Answer": "A"
+  },
+  {
+    "Question": "CGM is particularly useful as a supplemental tool for patients with:",
+    "A": "Hypoglycemia unawareness or frequent hypoglycemic episodes",
+    "B": "Normal glucose tolerance only",
+    "C": "No history of diabetes",
+    "D": "Only hypertension",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is a foundation of diabetes care?",
+    "A": "Education",
+    "B": "Bed rest for everyone",
+    "C": "Antibiotic therapy",
+    "D": "Fluid restriction for everyone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which lifestyle intervention is recommended for overweight or obese persons with diabetes?",
+    "A": "Weight reduction",
+    "B": "Intentional weight gain",
+    "C": "Avoidance of all activity",
+    "D": "Increasing saturated fat intake",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which dietary principle is emphasized for people with diabetes?",
+    "A": "A healthy, balanced diet individualized to the patient's circumstances",
+    "B": "A single identical diet for everyone",
+    "C": "Complete elimination of carbohydrates",
+    "D": "Diet based only on expensive foods",
+    "Answer": "A"
+  },
+  {
+    "Question": "Dietary planning should consider the patient's:",
+    "A": "Eating habits, lifestyle, culture and financial circumstances",
+    "B": "Blood group only",
+    "C": "Height only",
+    "D": "Occupation only",
+    "Answer": "A"
+  },
+  {
+    "Question": "For Type 2 diabetes, which dietary measure is described as especially important?",
+    "A": "Caloric restriction",
+    "B": "Complete carbohydrate elimination",
+    "C": "Unlimited simple sugars",
+    "D": "High salt intake",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which type of carbohydrate is especially encouraged in the Type 2 dietary considerations?",
+    "A": "Fibre-rich complex carbohydrates",
+    "B": "Simple sugars only",
+    "C": "Refined sugar drinks",
+    "D": "Candy-based carbohydrates",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is an important consideration when prescribing physical activity for Type 1 diabetes?",
+    "A": "Education about the effect of exercise on blood glucose",
+    "B": "Avoidance of all exercise",
+    "C": "Increasing insulin without monitoring",
+    "D": "Skipping meals routinely",
+    "Answer": "A"
+  },
+  {
+    "Question": "Rigorous exercise lasting more than 30 minutes may predispose insulin-requiring patients to:",
+    "A": "Hypoglycemia",
+    "B": "Hypercalcemia",
+    "C": "Hypertension only",
+    "D": "Anemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "For Type 2 diabetes, structured exercise training of more than 150 minutes per week is associated with:",
+    "A": "Greater HbA1c reduction",
+    "B": "Higher HbA1c in all patients",
+    "C": "Loss of insulin sensitivity",
+    "D": "Mandatory insulin discontinuation",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which type of training is recommended at least twice weekly when there are no contraindications?",
+    "A": "Resistance training",
+    "B": "Complete bed rest",
+    "C": "Only stretching",
+    "D": "Only passive movement",
+    "Answer": "A"
+  },
+  {
+    "Question": "Why should exercise be individualized?",
+    "A": "Age, previous activity level and comorbidities should be considered",
+    "B": "Every patient has identical exercise capacity",
+    "C": "Exercise never causes risk",
+    "D": "Only body weight matters",
+    "Answer": "A"
+  },
+  {
+    "Question": "What can heavy alcohol intake do in diabetes?",
+    "A": "Worsen glycemic/metabolic control and increase hypoglycemia risk",
+    "B": "Guarantee stable glucose",
+    "C": "Prevent all complications",
+    "D": "Improve insulin secretion in every patient",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which lifestyle intervention is specifically recommended?",
+    "A": "Smoking cessation",
+    "B": "Increased smoking",
+    "C": "Increased alcohol intake",
+    "D": "Avoidance of all dietary fibre",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which pharmacologic therapy is used in both Type 1 and Type 2 diabetes?",
+    "A": "Insulin therapy",
+    "B": "Sulfonylurea therapy only",
+    "C": "Acarbose only",
+    "D": "Pioglitazone only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class of medication is described as oral glucose-lowering therapy for Type 2 diabetes?",
+    "A": "Sulfonylureas",
+    "B": "Insulin only",
+    "C": "Amylin analogue only",
+    "D": "CGM therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is a second-generation sulfonylurea?",
+    "A": "Glimepiride",
+    "B": "Tolbutamide",
+    "C": "Chlorpropamide",
+    "D": "Acetohexamide",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the pancreatic action of sulfonylureas?",
+    "A": "They augment insulin secretion by acting on ATP-dependent potassium channels",
+    "B": "They destroy beta cells",
+    "C": "They inhibit all insulin secretion",
+    "D": "They block glucose absorption completely",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is a non-sulfonylurea secretagogue?",
+    "A": "Repaglinide",
+    "B": "Metformin",
+    "C": "Acarbose",
+    "D": "Pioglitazone",
+    "Answer": "A"
+  },
+  {
+    "Question": "How is repaglinide typically timed in relation to meals?",
+    "A": "10–15 minutes before meals",
+    "B": "Immediately after sleep",
+    "C": "Once weekly",
+    "D": "Only at bedtime regardless of meals",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is a major action of metformin?",
+    "A": "Improves peripheral insulin sensitivity and decreases hepatic glucose output",
+    "B": "Directly replaces insulin",
+    "C": "Stimulates glucagon secretion",
+    "D": "Delays all gastric emptying permanently",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug class delays carbohydrate absorption in the gut?",
+    "A": "Alpha-glucosidase inhibitors",
+    "B": "Sulfonylureas",
+    "C": "Thiazolidinediones",
+    "D": "Insulin analogues",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is an example of an alpha-glucosidase inhibitor?",
+    "A": "Acarbose",
+    "B": "Glimepiride",
+    "C": "Metformin",
+    "D": "Exenatide",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the main action of thiazolidinediones?",
+    "A": "Enhance insulin sensitivity",
+    "B": "Directly provide insulin",
+    "C": "Block all glucose absorption",
+    "D": "Stimulate glucagon release",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is an example of a thiazolidinedione?",
+    "A": "Pioglitazone",
+    "B": "Repaglinide",
+    "C": "Sitagliptin",
+    "D": "Acarbose",
+    "Answer": "A"
+  },
+  {
+    "Question": "What does GLP-1 do after food intake?",
+    "A": "Increases glucose-dependent insulin secretion",
+    "B": "Completely blocks insulin secretion",
+    "C": "Raises glucagon regardless of glucose",
+    "D": "Prevents satiety",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is an effect of incretins described in the material?",
+    "A": "They suppress glucagon release and delay gastric emptying",
+    "B": "They increase glucagon secretion",
+    "C": "They accelerate gastric emptying",
+    "D": "They eliminate insulin secretion",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is a GLP-1 analogue described in the material?",
+    "A": "Exenatide",
+    "B": "Sitagliptin",
+    "C": "Glimepiride",
+    "D": "Metformin",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is a characteristic of sitagliptin?",
+    "A": "It inhibits the enzyme that degrades GLP-1",
+    "B": "It is a long-acting insulin",
+    "C": "It is a sulfonylurea",
+    "D": "It blocks insulin receptors",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is amylin co-secreted with?",
+    "A": "Insulin from pancreatic beta cells",
+    "B": "Glucagon from the liver",
+    "C": "Cortisol from the adrenal cortex",
+    "D": "Thyroxine from the thyroid",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is pramlintide?",
+    "A": "An amylin analogue administered subcutaneously before meals",
+    "B": "A sulfonylurea tablet",
+    "C": "A basal insulin analogue",
+    "D": "An alpha-glucosidase inhibitor",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the main role of basal insulin?",
+    "A": "Provide relatively uniform insulin coverage throughout day and night",
+    "B": "Control only post-meal glucose",
+    "C": "Prevent all dietary carbohydrate absorption",
+    "D": "Replace physical activity",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the main role of prandial insulin?",
+    "A": "Control meal-related glucose excursions",
+    "B": "Provide only overnight insulin coverage",
+    "C": "Treat hypertension",
+    "D": "Lower serum lipids",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which insulin has an onset of approximately 5–15 minutes?",
+    "A": "Insulin lispro",
+    "B": "Regular insulin",
+    "C": "NPH insulin",
+    "D": "Insulin glargine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which insulin has an onset of approximately 30–60 minutes?",
+    "A": "Regular insulin",
+    "B": "Insulin lispro",
+    "C": "Insulin aspart",
+    "D": "Insulin glulisine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which insulin has an effective duration of approximately 10–16 hours in the material?",
+    "A": "NPH",
+    "B": "Lispro",
+    "C": "Glulisine",
+    "D": "Glargine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which insulin is described as long-acting and peakless?",
+    "A": "Insulin glargine",
+    "B": "Regular insulin",
+    "C": "NPH",
+    "D": "Lispro",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the approximate effective duration of insulin glargine in the material?",
+    "A": "20–24 hours",
+    "B": "3–5 hours",
+    "C": "5–8 hours",
+    "D": "10–16 hours",
+    "Answer": "A"
+  },
+  {
+    "Question": "Type 1 diabetes generally requires:",
+    "A": "Lifelong insulin therapy",
+    "B": "Temporary antibiotics",
+    "C": "Diet alone in all cases",
+    "D": "No glucose monitoring",
+    "Answer": "A"
+  },
+  {
+    "Question": "What total daily insulin dose is suggested for initiating Type 1 diabetes therapy in the material?",
+    "A": "0.5–0.6 U/kg/day",
+    "B": "0.01–0.02 U/kg/day",
+    "C": "5–6 U/kg/day",
+    "D": "10–12 U/kg/day",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which regimen is recommended for most people with Type 1 diabetes?",
+    "A": "Multiple daily injections or continuous subcutaneous insulin infusion",
+    "B": "Once-weekly insulin",
+    "C": "Diet alone",
+    "D": "Oral sulfonylurea alone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Prandial insulin dosing in Type 1 diabetes should consider:",
+    "A": "Carbohydrate intake, premeal glucose and anticipated activity",
+    "B": "Blood pressure only",
+    "C": "Height only",
+    "D": "Cholesterol only",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is one advantage of an insulin pump?",
+    "A": "It provides flexible insulin delivery closer to physiological patterns",
+    "B": "It eliminates the need for glucose monitoring",
+    "C": "It permanently cures diabetes",
+    "D": "It prevents all hypoglycemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "What does a closed-loop system combine?",
+    "A": "CGM data with an insulin infusion pump",
+    "B": "Blood pressure monitoring with antibiotics",
+    "C": "Diet records with a statin",
+    "D": "Aspirin with a glucometer only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with diabetes asks why regular follow-up is necessary even when feeling well. What is the best response based on the material?",
+    "A": "Diabetes is lifelong and requires continuing care to prevent complications",
+    "B": "Follow-up is needed only when symptoms occur",
+    "C": "Follow-up is unnecessary after diagnosis",
+    "D": "Only weight needs monitoring",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient newly diagnosed with diabetes cannot clearly be classified as Type 1 or Type 2. What is an appropriate approach?",
+    "A": "Use clinical judgment, history, presentation and selective laboratory testing",
+    "B": "Assume Type 2 without assessment",
+    "C": "Assume Type 1 in every case",
+    "D": "Avoid follow-up until classification is perfect",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient has an uncertain diabetes classification. Which test may help clarify beta-cell function?",
+    "A": "C-peptide measurement",
+    "B": "Serum calcium",
+    "C": "Chest X-ray",
+    "D": "Urinalysis for protein only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with stable glycemic control has consistently met treatment goals. How often should HbA1c be performed at minimum according to the material?",
+    "A": "Twice a year",
+    "B": "Daily",
+    "C": "Weekly",
+    "D": "Every five years",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient has recently had diabetes therapy changed and is not meeting glycemic goals. Which HbA1c schedule is most appropriate according to the material?",
+    "A": "Quarterly",
+    "B": "Once every two years",
+    "C": "Once every five years",
+    "D": "Only at the next emergency visit",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with diabetes has hemolytic anemia and an HbA1c result that does not fit the clinical picture. What should the clinician recognize?",
+    "A": "HbA1c may be unreliable because of abnormal red blood cell turnover",
+    "B": "HbA1c is always accurate",
+    "C": "The patient must have Type 1 diabetes",
+    "D": "SMBG should be stopped",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient has frequent hypoglycemic episodes and is unable to recognize warning symptoms. Which technology may be particularly useful?",
+    "A": "Continuous glucose monitoring",
+    "B": "Blood pressure monitor only",
+    "C": "Waist circumference measurement",
+    "D": "Annual eye examination only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient uses SMBG but records readings without interpreting patterns. What education is needed?",
+    "A": "Understand readings, patterns and trends and take appropriate action",
+    "B": "Stop recording readings",
+    "C": "Measure only once per year",
+    "D": "Ignore abnormal values",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 1 diabetes plans vigorous exercise for more than 30 minutes. What is a key teaching point?",
+    "A": "Exercise can predispose to hypoglycemia, so appropriate preventive measures are needed",
+    "B": "Exercise always raises glucose",
+    "C": "Insulin should never be considered",
+    "D": "Glucose monitoring is unnecessary",
+    "Answer": "A"
+  },
+  {
+    "Question": "A sedentary patient with Type 2 diabetes wants to begin exercise. What is an appropriate recommendation?",
+    "A": "Encourage regular exercise and reduce sedentary time",
+    "B": "Recommend complete inactivity",
+    "C": "Avoid resistance training in all cases",
+    "D": "Exercise only once per month",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes asks what type of carbohydrate is preferable. What answer best follows the material?",
+    "A": "Fibre-rich complex carbohydrates",
+    "B": "Large amounts of simple sugars",
+    "C": "Sugar-sweetened drinks",
+    "D": "Candy as the main carbohydrate source",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient says a diabetes diet is too expensive. What principle should guide the dietary plan?",
+    "A": "Use foods within the patient's cultural milieu and financial reach",
+    "B": "Prescribe only expensive foods",
+    "C": "Ignore the patient's eating habits",
+    "D": "Use the same diet for every patient",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes has severe hyperglycemia with random glucose of 330 mg/dL and weight loss. What therapy should be strongly considered?",
+    "A": "Insulin therapy",
+    "B": "Stop all pharmacologic therapy",
+    "C": "Diet alone regardless of severity",
+    "D": "Exercise alone",
+    "Answer": "A"
+  },
+  {
+    "Question": "A newly diagnosed Type 2 diabetic patient has HbA1c of 11% with ketosis. Which approach is supported by the material?",
+    "A": "Consider insulin because of severe hyperglycemia and catabolic features",
+    "B": "Avoid insulin completely",
+    "C": "Use lifestyle therapy alone",
+    "D": "Delay treatment for several years",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes is started on basal insulin. What is the typical initiating dose described?",
+    "A": "0.1–0.2 U/kg/day",
+    "B": "1–2 U/kg/day",
+    "C": "5–6 U/kg/day",
+    "D": "10 U/kg/hour",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient taking basal insulin has acceptable fasting glucose but HbA1c remains above target. What is a reasonable next step described in the material?",
+    "A": "Consider adding rapid-acting mealtime insulin",
+    "B": "Stop basal insulin immediately",
+    "C": "Stop SMBG",
+    "D": "Increase dietary simple sugars",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 1 diabetes asks whether insulin can eventually be stopped after good control. What should the nurse explain based on the material?",
+    "A": "Type 1 diabetes requires lifelong insulin therapy",
+    "B": "Insulin is needed for only one month",
+    "C": "Insulin can always be replaced by diet",
+    "D": "Insulin is never needed after diagnosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 1 diabetes is learning to adjust mealtime insulin. Which information should be considered?",
+    "A": "Carbohydrate intake, premeal blood glucose and anticipated activity",
+    "B": "Hair colour and height",
+    "C": "Blood group only",
+    "D": "Annual cholesterol only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient asks about the purpose of basal insulin. Which explanation is correct?",
+    "A": "It provides relatively uniform insulin coverage through day and night",
+    "B": "It controls only meal-related glucose",
+    "C": "It replaces dietary fibre",
+    "D": "It treats hypertension",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient asks why prandial insulin is given around meals. What is the best explanation?",
+    "A": "It controls meal-related glucose excursions",
+    "B": "It replaces basal insulin permanently",
+    "C": "It prevents all hypoglycemia",
+    "D": "It lowers LDL cholesterol",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient using regular insulin wants to know when it begins acting. According to the material, the approximate onset is:",
+    "A": "30–60 minutes",
+    "B": "5–15 minutes",
+    "C": "2–4 hours",
+    "D": "10–16 hours",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient using insulin glargine asks about its duration. Which range is listed?",
+    "A": "20–24 hours",
+    "B": "3–5 hours",
+    "C": "5–8 hours",
+    "D": "10–16 hours",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes refuses insulin because they believe it means they have failed. What communication is most appropriate?",
+    "A": "Explain that Type 2 diabetes is progressive and insulin may eventually be indicated; it is not a punishment",
+    "B": "Tell the patient insulin is a punishment",
+    "C": "Withhold education",
+    "D": "Threaten the patient with insulin",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes needs a new glucose-lowering medication. Which approach best fits the material?",
+    "A": "Individualize the choice using efficacy, cost, side effects, weight, comorbidities and hypoglycemia risk",
+    "B": "Choose solely by tablet size",
+    "C": "Choose the most expensive drug",
+    "D": "Ignore patient preferences",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with diabetes has cardiovascular disease. Which broader management strategy is appropriate?",
+    "A": "Address glycemia, BP, lipids, weight and other cardiovascular risk factors",
+    "B": "Treat glucose only",
+    "C": "Stop lipid management",
+    "D": "Avoid lifestyle modification",
+    "Answer": "A"
+  },
+  {
+    "Question": "A 45-year-old patient with Type 2 diabetes has cardiovascular disease. What lipid-lowering therapy is specifically discussed?",
+    "A": "Statin therapy",
+    "B": "Antibiotic therapy",
+    "C": "Insulin only",
+    "D": "Acarbose only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with diabetes asks why the feet are examined regularly. Which principle supports this?",
+    "A": "Screening for vascular complications and the diabetic foot is an essential part of care",
+    "B": "Foot assessment is unrelated to diabetes",
+    "C": "Only eye screening matters",
+    "D": "Foot assessment is needed only after amputation",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with diabetes has no current symptoms of complications. What is the appropriate approach?",
+    "A": "Continue scheduled screening and preventive care",
+    "B": "Stop follow-up until symptoms appear",
+    "C": "Stop checking the kidneys",
+    "D": "Avoid eye examinations",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient asks what 'look left' means in the diabetes reminder from the material. What should the nurse say?",
+    "A": "Lifestyle measures",
+    "B": "Eyes",
+    "C": "Feet and kidneys",
+    "D": "Multidisciplinary care",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient asks what 'look right' means in the diabetes reminder. What is the best answer?",
+    "A": "Glycemic, blood pressure and lipid targets",
+    "B": "Only lifestyle measures",
+    "C": "Only eye care",
+    "D": "Only foot care",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient asks what 'look inward' means in the diabetes reminder. What does it emphasize?",
+    "A": "Being well informed",
+    "B": "Eye screening",
+    "C": "Kidney screening",
+    "D": "Statin therapy only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A diabetes clinic lacks adequate monitoring equipment and trained staff. Which improvement best follows the material?",
+    "A": "Provide appropriately trained staff, diagnostic/monitoring equipment and access to medications",
+    "B": "Reduce staff training",
+    "C": "Remove monitoring equipment",
+    "D": "Avoid protocols",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes wants to prevent progression because they are at high risk. Which intervention has evidence in the material?",
+    "A": "Dietary modification, regular physical activity and modest weight loss",
+    "B": "Increased sedentary time",
+    "C": "Increased smoking",
+    "D": "Intentional weight gain",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes asks whether physical activity can improve HbA1c. What is the best response?",
+    "A": "Yes, physical activity can help lower HbA1c, especially with dietary modification",
+    "B": "No, exercise has no metabolic effect",
+    "C": "Exercise always worsens HbA1c",
+    "D": "Only medication affects HbA1c",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with diabetes consumes heavy amounts of alcohol. What risk should be discussed?",
+    "A": "Worsened glycemic/metabolic control and increased risk of hypoglycemia",
+    "B": "Guaranteed prevention of hypoglycemia",
+    "C": "Improved glycemic control in all cases",
+    "D": "Elimination of complications",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes has obesity and cannot achieve recommended treatment targets with medical therapy. What additional option is discussed for carefully selected patients?",
+    "A": "Bariatric surgery",
+    "B": "Antibiotic therapy",
+    "C": "Eye surgery for all patients",
+    "D": "Complete bed rest",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with diabetes asks why lifestyle change remains important after starting medication. What is the best explanation?",
+    "A": "Lifestyle measures are foundational components of diabetes care and support glycemic and cardiovascular risk reduction",
+    "B": "Medication makes lifestyle irrelevant",
+    "C": "Lifestyle has no effect on diabetes",
+    "D": "Exercise should always be stopped after medication",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with frequent glucose fluctuations has an acceptable HbA1c but recurrent hypoglycemia. Which statement best reflects the material?",
+    "A": "HbA1c alone does not capture hypoglycemia or glycemic variability, so SMBG should also be considered",
+    "B": "HbA1c alone is always sufficient",
+    "C": "Hypoglycemia cannot occur with diabetes",
+    "D": "SMBG should be discontinued",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with Type 2 diabetes is beginning pharmacologic therapy. What is the key overarching aim?",
+    "A": "Achieve desired HbA1c while minimizing side effects and considering patient factors",
+    "B": "Choose therapy without considering comorbidities",
+    "C": "Maximize weight gain",
+    "D": "Avoid patient involvement",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient with diabetes asks whether care should focus only on blood glucose. What is the best response?",
+    "A": "No; diabetes management also includes cardiovascular risk reduction and screening for complications",
+    "B": "Yes; glucose is the only concern",
+    "C": "Yes; blood pressure is irrelevant",
+    "D": "Yes; foot care is unnecessary",
+    "Answer": "A"
+  }
+]
+}

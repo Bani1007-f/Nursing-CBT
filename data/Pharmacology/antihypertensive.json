@@ -1,0 +1,489 @@
+{"course": "Pharmacology II",
+    "topic": "Antihypertsive",
+    "testSettings": {
+        "questionCount": 40
+    },
+    "questions":
+    [
+  {
+    "Question": "Which class inhibits formation of angiotensin II from angiotensin I?",
+    "A": "ACE inhibitors",
+    "B": "ARBs",
+    "C": "Direct renin inhibitors",
+    "D": "CCBs",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class blocks the AT1 receptor?",
+    "A": "ARBs",
+    "B": "ACE inhibitors",
+    "C": "Beta blockers",
+    "D": "Thiazides",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is an ARB?",
+    "A": "Losartan",
+    "B": "Lisinopril",
+    "C": "Aliskiren",
+    "D": "Amlodipine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is an ACE inhibitor?",
+    "A": "Enalapril",
+    "B": "Losartan",
+    "C": "Aliskiren",
+    "D": "Prazosin",
+    "Answer": "A"
+  },
+  {
+    "Question": "A persistent dry cough develops with an ACE inhibitor. Which class is the closest substitute?",
+    "A": "ARB",
+    "B": "Loop diuretic",
+    "C": "Alpha blocker",
+    "D": "Central alpha agonist",
+    "Answer": "A"
+  },
+  {
+    "Question": "ACE-inhibitor cough is associated with accumulation of:",
+    "A": "Bradykinin",
+    "B": "Aldosterone",
+    "C": "Renin",
+    "D": "Sodium",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which ACE-inhibitor adverse effect requires urgent assessment because of airway risk?",
+    "A": "Angioedema",
+    "B": "Constipation",
+    "C": "Hypertrichosis",
+    "D": "Tinnitus",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class directly inhibits renin?",
+    "A": "Direct renin inhibitors",
+    "B": "ARBs",
+    "C": "ACE inhibitors",
+    "D": "Beta blockers",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antihypertensive class is represented by hydrochlorothiazide?",
+    "A": "Thiazides",
+    "B": "Loop diuretics",
+    "C": "CCBs",
+    "D": "Alpha blockers",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is a dihydropyridine CCB?",
+    "A": "Amlodipine",
+    "B": "Verapamil",
+    "C": "Diltiazem",
+    "D": "Clonidine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which CCB is most associated with constipation?",
+    "A": "Verapamil",
+    "B": "Amlodipine",
+    "C": "Nifedipine",
+    "D": "Felodipine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which CCB slows AV conduction most directly?",
+    "A": "Verapamil",
+    "B": "Amlodipine",
+    "C": "Nifedipine",
+    "D": "Felodipine",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient taking verapamil develops marked bradycardia after starting another drug. Which addition is most concerning?",
+    "A": "Beta blocker",
+    "B": "Thiazide",
+    "C": "ARB",
+    "D": "ACE inhibitor",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which CCB adverse effect is particularly common with dihydropyridines?",
+    "A": "Peripheral edema",
+    "B": "Dry cough",
+    "C": "Hyperkalemia",
+    "D": "Cinchonism",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class reduces sympathetic outflow from the CNS?",
+    "A": "Central alpha-2 agonists",
+    "B": "ARBs",
+    "C": "Thiazides",
+    "D": "Dihydropyridines",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which central alpha-2 agonist may cause rebound hypertension if abruptly stopped?",
+    "A": "Clonidine",
+    "B": "Amlodipine",
+    "C": "Losartan",
+    "D": "Hydrochlorothiazide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is commonly associated with pregnancy-related hypertension in the notes?",
+    "A": "Methyldopa",
+    "B": "Aliskiren",
+    "C": "Lisinopril",
+    "D": "Spironolactone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which adverse effect is associated with methyldopa?",
+    "A": "Hemolytic anemia",
+    "B": "Ototoxicity",
+    "C": "Cinchonism",
+    "D": "Hypertrichosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class may produce first-dose orthostatic hypotension?",
+    "A": "Alpha-1 blockers",
+    "B": "ARBs",
+    "C": "ACE inhibitors",
+    "D": "Thiazides",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which patient may particularly benefit from an alpha-1 blocker?",
+    "A": "Patient with hypertension and BPH",
+    "B": "Patient with hyperkalemia",
+    "C": "Patient with severe asthma",
+    "D": "Patient with bradycardia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is a mixed alpha- and beta-blocker?",
+    "A": "Labetalol",
+    "B": "Prazosin",
+    "C": "Clonidine",
+    "D": "Amlodipine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which mixed alpha/beta blocker is also useful in heart failure?",
+    "A": "Carvedilol",
+    "B": "Prazosin",
+    "C": "Hydralazine",
+    "D": "Clonidine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Beta blockers may mask symptoms of:",
+    "A": "Hypoglycemia",
+    "B": "Hypernatremia",
+    "C": "Hypercalcemia",
+    "D": "Angioedema",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which direct vasodilator primarily dilates arterioles?",
+    "A": "Hydralazine",
+    "B": "Losartan",
+    "C": "Atenolol",
+    "D": "Amlodipine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Hydralazine is associated with which lupus-like adverse effect?",
+    "A": "Drug-induced lupus",
+    "B": "Cinchonism",
+    "C": "Pulmonary fibrosis",
+    "D": "Gynecomastia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is associated with hypertrichosis?",
+    "A": "Minoxidil",
+    "B": "Hydralazine",
+    "C": "Clonidine",
+    "D": "Methyldopa",
+    "Answer": "A"
+  },
+  {
+    "Question": "Sodium nitroprusside is most appropriate for:",
+    "A": "Hypertensive emergencies",
+    "B": "Routine mild hypertension",
+    "C": "BPH",
+    "D": "Stable angina prevention",
+    "Answer": "A"
+  },
+  {
+    "Question": "Prolonged sodium nitroprusside use can cause:",
+    "A": "Cyanide toxicity",
+    "B": "Gynecomastia",
+    "C": "Cinchonism",
+    "D": "Hypertrichosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antihypertensive is particularly associated with potassium retention?",
+    "A": "Spironolactone",
+    "B": "Furosemide",
+    "C": "Hydrochlorothiazide",
+    "D": "Bumetanide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Combining an ACE inhibitor with spironolactone increases risk of:",
+    "A": "Hyperkalemia",
+    "B": "Hypokalemia",
+    "C": "Hypocalcemia",
+    "D": "Hypomagnesemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which adverse effect distinguishes spironolactone from eplerenone?",
+    "A": "Gynecomastia",
+    "B": "Ototoxicity",
+    "C": "Dry cough",
+    "D": "Cinchonism",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drugs block epithelial sodium channels?",
+    "A": "Amiloride and triamterene",
+    "B": "Spironolactone and eplerenone",
+    "C": "Furosemide and bumetanide",
+    "D": "Hydrochlorothiazide and indapamide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class may cause reflex tachycardia?",
+    "A": "Direct vasodilators",
+    "B": "ARBs",
+    "C": "ACE inhibitors",
+    "D": "Thiazides",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which adverse effect should be assessed with many antihypertensive drugs?",
+    "A": "Dizziness/orthostatic hypotension",
+    "B": "Yellow-green vision",
+    "C": "Cinchonism",
+    "D": "Hypertrichosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which OTC medication can interfere with BP control?",
+    "A": "NSAIDs",
+    "B": "Antacids",
+    "C": "Multivitamins",
+    "D": "Topical emollients",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which combination is most likely to cause excessive bradycardia?",
+    "A": "Beta blocker plus verapamil",
+    "B": "ARB plus amlodipine",
+    "C": "ACE inhibitor plus thiazide",
+    "D": "Thiazide plus loop",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient on an ACE inhibitor develops facial and tongue swelling. What is the priority?",
+    "A": "Treat as possible angioedema and obtain urgent care",
+    "B": "Give the next dose",
+    "C": "Encourage potassium",
+    "D": "Wait until the next clinic visit",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class is often included among first-line choices for uncomplicated hypertension?",
+    "A": "Thiazides, ACE inhibitors/ARBs and CCBs",
+    "B": "Central agents only",
+    "C": "Direct vasodilators only",
+    "D": "Adrenergic neuron blockers only",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Beta blockers can mask some symptoms of hypoglycemia.",
+    "A": true,
+    "B": false,
+    "C": "Only ACE inhibitors can",
+    "D": "Only CCBs can",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: ACE inhibitors can cause hyperkalemia.",
+    "A": true,
+    "B": false,
+    "C": "Only thiazides do",
+    "D": "Only loop diuretics do",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient taking an ARB develops hyperkalemia. Which concurrent drug deserves the most suspicion?",
+    "A": "Spironolactone",
+    "B": "Hydrochlorothiazide",
+    "C": "Amlodipine",
+    "D": "Furosemide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antihypertensive should be used cautiously in a patient with significant bradycardia?",
+    "A": "Beta blocker",
+    "B": "ARB",
+    "C": "Thiazide",
+    "D": "Dihydropyridine CCB",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class lowers BP partly by reducing cardiac output through slowing heart rate?",
+    "A": "Beta blockers",
+    "B": "ARBs",
+    "C": "Thiazides",
+    "D": "Hydralazine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class mainly reduces peripheral vascular resistance through arteriolar dilation?",
+    "A": "Dihydropyridine CCBs",
+    "B": "Beta blockers",
+    "C": "Central alpha-2 agonists",
+    "D": "Digoxin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug would be least appropriate in a patient with severe hyperkalemia?",
+    "A": "Spironolactone",
+    "B": "Hydrochlorothiazide",
+    "C": "Amlodipine",
+    "D": "Furosemide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which patient should be taught to rise slowly after starting an alpha-1 blocker?",
+    "A": "Patient at risk of orthostatic hypotension",
+    "B": "Patient with hyperkalemia",
+    "C": "Patient with bradycardia only",
+    "D": "Patient with gout only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class can cause both bradycardia and AV block?",
+    "A": "Non-dihydropyridine CCBs",
+    "B": "Dihydropyridine CCBs",
+    "C": "Thiazides",
+    "D": "ARBs",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is most likely to cause peripheral edema without causing major bradycardia?",
+    "A": "Amlodipine",
+    "B": "Verapamil",
+    "C": "Atenolol",
+    "D": "Clonidine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antihypertensive class is most directly linked to increased bradykinin?",
+    "A": "ACE inhibitors",
+    "B": "ARBs",
+    "C": "Beta blockers",
+    "D": "Thiazides",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antihypertensive is best matched with its mechanism?",
+    "A": "Losartan—AT1 receptor blockade",
+    "B": "Lisinopril—AT1 blockade",
+    "C": "Aliskiren—ACE blockade",
+    "D": "Amlodipine—beta blockade",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding after clonidine withdrawal is most concerning?",
+    "A": "Rapid rebound hypertension",
+    "B": "Hypokalemia",
+    "C": "Cinchonism",
+    "D": "Ototoxicity",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is most likely to cause a lupus-like syndrome?",
+    "A": "Hydralazine",
+    "B": "Amlodipine",
+    "C": "Losartan",
+    "D": "Atenolol",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is most likely to cause hypertrichosis?",
+    "A": "Minoxidil",
+    "B": "Clonidine",
+    "C": "Prazosin",
+    "D": "Losartan",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is most appropriate for an acute hypertensive emergency requiring rapid titration?",
+    "A": "IV sodium nitroprusside",
+    "B": "Oral hydrochlorothiazide",
+    "C": "Oral spironolactone",
+    "D": "Oral methyldopa",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which monitoring is especially important with RAAS inhibitors?",
+    "A": "Renal function and potassium",
+    "B": "Hearing only",
+    "C": "Visual acuity only",
+    "D": "Serum amylase only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which patient is most likely to develop ACE-inhibitor hyperkalemia?",
+    "A": "Patient with renal impairment",
+    "B": "Patient on thiazide only",
+    "C": "Patient with low potassium",
+    "D": "Patient taking amlodipine only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug class should not be combined casually with potassium supplements?",
+    "A": "ACE inhibitors",
+    "B": "Amlodipine",
+    "C": "Hydralazine",
+    "D": "Prazosin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antihypertensive can cause a positive Coombs test?",
+    "A": "Methyldopa",
+    "B": "Amlodipine",
+    "C": "Losartan",
+    "D": "Furosemide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which combination can provide complementary BP control but requires potassium monitoring?",
+    "A": "ACE inhibitor + potassium-sparing diuretic",
+    "B": "Amlodipine + thiazide",
+    "C": "Beta blocker + thiazide",
+    "D": "Hydralazine + nitrate",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Abrupt withdrawal of clonidine can cause rebound hypertension.",
+    "A": true,
+    "B": false,
+    "C": "Only with ACE inhibitors",
+    "D": "Only with thiazides",
+    "Answer": "A"
+  }
+]
+}

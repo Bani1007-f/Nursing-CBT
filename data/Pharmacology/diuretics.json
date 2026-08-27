@@ -1,0 +1,489 @@
+{"course": "Pharmacology II",
+    "topic": "Diuretics",
+    "testSettings": {
+        "questionCount": 40
+    },
+    "questions":
+    [
+  {
+    "Question": "Diuretics lower BP initially mainly by reducing:",
+    "A": "Sodium/water retention and plasma volume",
+    "B": "Heart rate only",
+    "C": "Coronary spasm",
+    "D": "Renin only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Long-term diuretic therapy can reduce:",
+    "A": "Peripheral vascular resistance",
+    "B": "Urine formation",
+    "C": "Sodium excretion",
+    "D": "Plasma volume only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Thiazides inhibit which transporter?",
+    "A": "Na+/Cl− cotransporter",
+    "B": "Na+/K+/2Cl− cotransporter",
+    "C": "Epithelial sodium channel",
+    "D": "Na+/K+-ATPase",
+    "Answer": "A"
+  },
+  {
+    "Question": "The thiazide site of action is the:",
+    "A": "Distal convoluted tubule",
+    "B": "Thick ascending limb",
+    "C": "Collecting duct only",
+    "D": "Glomerulus",
+    "Answer": "A"
+  },
+  {
+    "Question": "Loop diuretics block:",
+    "A": "Na+/K+/2Cl− cotransporter",
+    "B": "Na+/Cl− cotransporter",
+    "C": "ENaC",
+    "D": "Aldosterone receptor",
+    "Answer": "A"
+  },
+  {
+    "Question": "Loop diuretics act mainly in the:",
+    "A": "Thick ascending limb",
+    "B": "Distal convoluted tubule",
+    "C": "Collecting duct only",
+    "D": "Glomerulus",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is a loop diuretic?",
+    "A": "Furosemide",
+    "B": "Hydrochlorothiazide",
+    "C": "Spironolactone",
+    "D": "Amiloride",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is a thiazide-like diuretic?",
+    "A": "Indapamide",
+    "B": "Furosemide",
+    "C": "Mannitol",
+    "D": "Spironolactone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which loop diuretic adverse effect is particularly important?",
+    "A": "Ototoxicity",
+    "B": "Gynecomastia",
+    "C": "Cinchonism",
+    "D": "Dry cough",
+    "Answer": "A"
+  },
+  {
+    "Question": "Loop diuretics commonly cause:",
+    "A": "Hypokalemia",
+    "B": "Hyperkalemia",
+    "C": "Hypercalcemia",
+    "D": "Hypermagnesemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Loop diuretics can also cause loss of:",
+    "A": "Magnesium",
+    "B": "Only potassium",
+    "C": "Only sodium",
+    "D": "Only chloride",
+    "Answer": "A"
+  },
+  {
+    "Question": "Thiazides can cause:",
+    "A": "Hyperuricemia",
+    "B": "Hypouricemia",
+    "C": "Hyperkalemia",
+    "D": "Hypermagnesemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Thiazides may worsen:",
+    "A": "Gout",
+    "B": "Asthma",
+    "C": "BPH",
+    "D": "Bradycardia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Thiazides tend to:",
+    "A": "Reduce calcium excretion",
+    "B": "Increase calcium excretion markedly",
+    "C": "Have no calcium effect",
+    "D": "Block intestinal calcium absorption",
+    "Answer": "A"
+  },
+  {
+    "Question": "Thiazides may cause:",
+    "A": "Hyperglycemia",
+    "B": "Severe hypoglycemia",
+    "C": "Metabolic acidosis only",
+    "D": "Hyperkalemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class is often used first-line for uncomplicated hypertension?",
+    "A": "Thiazide/thiazide-like diuretics",
+    "B": "Mannitol",
+    "C": "Acetazolamide",
+    "D": "Loop diuretics only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which diuretic is useful in nephrogenic diabetes insipidus?",
+    "A": "Thiazides",
+    "B": "Mannitol",
+    "C": "Furosemide",
+    "D": "Spironolactone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class blocks epithelial sodium channels?",
+    "A": "Amiloride and triamterene",
+    "B": "Spironolactone and eplerenone",
+    "C": "Furosemide and bumetanide",
+    "D": "Hydrochlorothiazide and indapamide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class blocks aldosterone receptors?",
+    "A": "Spironolactone and eplerenone",
+    "B": "Amiloride and triamterene",
+    "C": "Furosemide and bumetanide",
+    "D": "Mannitol and acetazolamide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which adverse effect is especially associated with spironolactone?",
+    "A": "Gynecomastia",
+    "B": "Ototoxicity",
+    "C": "Cinchonism",
+    "D": "Hypertrichosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "The major electrolyte concern with potassium-sparing diuretics is:",
+    "A": "Hyperkalemia",
+    "B": "Hypokalemia",
+    "C": "Hypocalcemia",
+    "D": "Hypomagnesemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which combination has a particularly high hyperkalemia risk?",
+    "A": "Spironolactone + ACE inhibitor",
+    "B": "Furosemide + thiazide",
+    "C": "Hydrochlorothiazide + loop",
+    "D": "Mannitol + acetazolamide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Amiloride can be added to a thiazide to:",
+    "A": "Reduce potassium loss",
+    "B": "Increase potassium loss",
+    "C": "Cause ototoxicity",
+    "D": "Increase uric acid",
+    "Answer": "A"
+  },
+  {
+    "Question": "Acetazolamide inhibits:",
+    "A": "Carbonic anhydrase",
+    "B": "ACE",
+    "C": "PDE3",
+    "D": "Na+/K+/2Cl− cotransporter",
+    "Answer": "A"
+  },
+  {
+    "Question": "Acetazolamide tends to cause:",
+    "A": "Metabolic acidosis",
+    "B": "Metabolic alkalosis",
+    "C": "Hyperkalemia",
+    "D": "Hypercalcemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is a clinical use of acetazolamide?",
+    "A": "Glaucoma",
+    "B": "Routine hypertension",
+    "C": "BPH",
+    "D": "Stable angina",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which osmotic diuretic is given IV?",
+    "A": "Mannitol",
+    "B": "Hydrochlorothiazide",
+    "C": "Spironolactone",
+    "D": "Amiloride",
+    "Answer": "A"
+  },
+  {
+    "Question": "Mannitol is useful for reducing:",
+    "A": "Intracranial pressure",
+    "B": "Chronic hypertension",
+    "C": "BPH",
+    "D": "Stable angina",
+    "Answer": "A"
+  },
+  {
+    "Question": "Mannitol may worsen:",
+    "A": "Pulmonary edema",
+    "B": "Hypoglycemia",
+    "C": "Cinchonism",
+    "D": "Gynecomastia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class produces the most powerful rapid diuresis?",
+    "A": "Loop diuretics",
+    "B": "Thiazides",
+    "C": "Potassium-sparing agents",
+    "D": "Aldosterone antagonists",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which medication can reduce the effectiveness of diuretics?",
+    "A": "NSAIDs",
+    "B": "ACE inhibitors",
+    "C": "ARBs",
+    "D": "Amlodipine",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient on furosemide and digoxin develops hypokalemia. Why is this important?",
+    "A": "Hypokalemia increases digoxin toxicity",
+    "B": "Hypokalemia prevents toxicity",
+    "C": "Furosemide blocks digoxin",
+    "D": "Digoxin corrects potassium loss",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which lab should be monitored closely with loop therapy?",
+    "A": "Potassium",
+    "B": "Amylase",
+    "C": "Bilirubin only",
+    "D": "Hemoglobin only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which additional electrolyte is especially important with loop therapy?",
+    "A": "Magnesium",
+    "B": "Only calcium",
+    "C": "Only phosphate",
+    "D": "Only bicarbonate",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding suggests excessive diuresis?",
+    "A": "Orthostatic hypotension",
+    "B": "Increasing edema",
+    "C": "Rapid weight gain",
+    "D": "Pulmonary congestion",
+    "Answer": "A"
+  },
+  {
+    "Question": "Daily weight is useful to assess:",
+    "A": "Fluid balance",
+    "B": "Heart rhythm",
+    "C": "Serum potassium directly",
+    "D": "Blood glucose",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which nursing assessment best evaluates diuretic response?",
+    "A": "Intake and output",
+    "B": "Pupil size",
+    "C": "Bowel sounds",
+    "D": "Skin color",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient becomes dizzy after a large diuretic dose. The most likely concern is:",
+    "A": "Volume depletion",
+    "B": "Fluid overload",
+    "C": "Hypervolemia",
+    "D": "Increased preload",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which history is particularly relevant before thiazide therapy?",
+    "A": "Gout",
+    "B": "Otitis media",
+    "C": "Myopia",
+    "D": "Appendicitis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which patient is at greatest risk for hyperkalemia from spironolactone?",
+    "A": "Patient with renal impairment",
+    "B": "Patient with low potassium",
+    "C": "Patient taking furosemide only",
+    "D": "Patient with no interacting drugs",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding should be reported in a patient taking spironolactone?",
+    "A": "Muscle weakness with suspected hyperkalemia",
+    "B": "Mild increased urination",
+    "C": "Reduced edema",
+    "D": "Stable BP",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which patient teaching is appropriate for a morning diuretic?",
+    "A": "Take it in the morning unless otherwise directed",
+    "B": "Always take at bedtime",
+    "C": "Double the dose if urine decreases",
+    "D": "Stop when edema improves",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is most appropriate for raised intracranial pressure?",
+    "A": "Mannitol",
+    "B": "Hydrochlorothiazide",
+    "C": "Spironolactone",
+    "D": "Amiloride",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class can cause hypercalcemia?",
+    "A": "Thiazides",
+    "B": "Loop diuretics",
+    "C": "Osmotic diuretics",
+    "D": "Amiloride",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class can cause hypomagnesemia?",
+    "A": "Loop diuretics",
+    "B": "Potassium-sparing diuretics",
+    "C": "Aldosterone antagonists",
+    "D": "Amiloride",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which class conserves potassium?",
+    "A": "Potassium-sparing diuretics",
+    "B": "Loop diuretics",
+    "C": "Thiazides",
+    "D": "Osmotic diuretics",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is an aldosterone antagonist?",
+    "A": "Eplerenone",
+    "B": "Triamterene",
+    "C": "Furosemide",
+    "D": "Indapamide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which adverse effect is less likely with eplerenone than spironolactone?",
+    "A": "Gynecomastia",
+    "B": "Hyperkalemia",
+    "C": "Hypotension",
+    "D": "Increased urination",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is most likely to cause metabolic acidosis?",
+    "A": "Acetazolamide",
+    "B": "Hydrochlorothiazide",
+    "C": "Furosemide",
+    "D": "Spironolactone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug is most likely to cause metabolic alkalosis?",
+    "A": "Furosemide",
+    "B": "Acetazolamide",
+    "C": "Amiloride",
+    "D": "Spironolactone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which assessment is most important before giving a diuretic?",
+    "A": "BP, renal function and electrolytes",
+    "B": "Hair color",
+    "C": "Vision only",
+    "D": "Bowel sounds only",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Thiazides can cause hyperuricemia.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Spironolactone can cause hyperkalemia.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Loop diuretics can increase digoxin toxicity by causing hypokalemia.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Mannitol can worsen pulmonary edema in susceptible patients.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Diuretics can reduce plasma volume and cardiac output.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Potassium-sparing diuretics routinely cause severe hypokalemia.",
+    "A": true,
+    "B": false,
+    "C": "Only with oral therapy",
+    "D": "Only with renal disease",
+    "Answer": "B"
+  },
+  {
+    "Question": "True or False: Thiazides can cause hyperuricemia.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Spironolactone can cause hyperkalemia.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Loop diuretics can increase digoxin toxicity by causing hypokalemia.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  }
+]
+}

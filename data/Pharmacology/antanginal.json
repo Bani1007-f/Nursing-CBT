@@ -1,0 +1,491 @@
+{
+     "course": "Pharmacology II",
+    "topic": "antianginal",
+    "testSettings": {
+        "questionCount": 40
+    },
+    
+    "questions":
+[
+  {
+    "Question": "Stable angina is classically:",
+    "A": "Predictable with exertion and relieved by rest",
+    "B": "Always at rest",
+    "C": "Always associated with infarction",
+    "D": "Never relieved by nitrates",
+    "Answer": "A"
+  },
+  {
+    "Question": "Unstable angina is considered part of:",
+    "A": "Acute coronary syndrome",
+    "B": "Stable chronic disease only",
+    "C": "Hypertensive emergency",
+    "D": "Heart failure only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Variant angina is primarily caused by:",
+    "A": "Transient coronary artery spasm",
+    "B": "Renal artery stenosis",
+    "C": "Fixed aortic obstruction",
+    "D": "Ventricular fibrillation",
+    "Answer": "A"
+  },
+  {
+    "Question": "Variant angina commonly occurs:",
+    "A": "At rest, often at night or early morning",
+    "B": "Only after exercise",
+    "C": "Only after meals",
+    "D": "Only during hypertension",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drugs are particularly useful for coronary vasospasm?",
+    "A": "Nitrates and calcium channel blockers",
+    "B": "Thiazides and ACE inhibitors",
+    "C": "Digoxin and beta blockers",
+    "D": "Loop diuretics only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Microvascular angina involves dysfunction of:",
+    "A": "Small coronary vessels",
+    "B": "Aortic valve",
+    "C": "SA node",
+    "D": "Renal arteries",
+    "Answer": "A"
+  },
+  {
+    "Question": "Nitroglycerin works mainly by increasing:",
+    "A": "NO/cGMP-mediated smooth muscle relaxation",
+    "B": "Renin",
+    "C": "Aldosterone",
+    "D": "Sodium retention",
+    "Answer": "A"
+  },
+  {
+    "Question": "The main hemodynamic effect of nitrates is:",
+    "A": "Venodilation and reduced preload",
+    "B": "Increased preload",
+    "C": "Increased afterload",
+    "D": "Marked sodium retention",
+    "Answer": "A"
+  },
+  {
+    "Question": "Reducing preload lowers myocardial oxygen demand by reducing:",
+    "A": "Ventricular workload",
+    "B": "Coronary blood flow",
+    "C": "Heart rate to zero",
+    "D": "Renal filtration",
+    "Answer": "A"
+  },
+  {
+    "Question": "Sublingual nitroglycerin is useful for acute angina because it:",
+    "A": "Acts rapidly and avoids extensive first-pass metabolism",
+    "B": "Has a half-life of days",
+    "C": "Raises BP",
+    "D": "Prevents coronary disease",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient should place sublingual nitroglycerin:",
+    "A": "Under the tongue",
+    "B": "On the tongue and swallow",
+    "C": "Between the teeth",
+    "D": "In the cheek and chew",
+    "Answer": "A"
+  },
+  {
+    "Question": "If chest pain persists after 5 minutes following the first nitroglycerin dose, the patient should:",
+    "A": "Call emergency medical services",
+    "B": "Exercise",
+    "C": "Take unlimited tablets",
+    "D": "Swallow the tablet",
+    "Answer": "A"
+  },
+  {
+    "Question": "The usual maximum described for instructed repeat sublingual nitroglycerin is:",
+    "A": "3 tablets in 15 minutes",
+    "B": "6 tablets in 5 minutes",
+    "C": "1 tablet per hour",
+    "D": "10 tablets in 15 minutes",
+    "Answer": "A"
+  },
+  {
+    "Question": "Headache after nitroglycerin is mainly due to:",
+    "A": "Vasodilation",
+    "B": "Hyperkalemia",
+    "C": "Digoxin toxicity",
+    "D": "Cinchonism",
+    "Answer": "A"
+  },
+  {
+    "Question": "Nitrates should never be combined with:",
+    "A": "PDE-5 inhibitors such as sildenafil",
+    "B": "Thiazides",
+    "C": "ACE inhibitors",
+    "D": "Aspirin",
+    "Answer": "A"
+  },
+  {
+    "Question": "A nitrate-free interval is prescribed primarily to reduce:",
+    "A": "Tolerance",
+    "B": "Bradycardia",
+    "C": "Hypokalemia",
+    "D": "Renal impairment",
+    "Answer": "A"
+  },
+  {
+    "Question": "Beta blockers reduce angina mainly by decreasing:",
+    "A": "Heart rate and contractility",
+    "B": "Venous volume only",
+    "C": "Coronary spasm only",
+    "D": "Renal sodium excretion",
+    "Answer": "A"
+  },
+  {
+    "Question": "Beta blockers improve coronary perfusion partly by:",
+    "A": "Prolonging diastole",
+    "B": "Shortening diastole",
+    "C": "Increasing afterload",
+    "D": "Increasing oxygen demand",
+    "Answer": "A"
+  },
+  {
+    "Question": "Abrupt withdrawal of beta blockers may:",
+    "A": "Worsen angina or precipitate MI",
+    "B": "Cure angina",
+    "C": "Cause permanent AV block",
+    "D": "Prevent ischemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which patient requires caution with a nonselective beta blocker?",
+    "A": "Patient with bronchospasm",
+    "B": "Patient with BPH",
+    "C": "Patient with hyperuricemia only",
+    "D": "Patient with constipation",
+    "Answer": "A"
+  },
+  {
+    "Question": "Beta blockers can mask:",
+    "A": "Hypoglycemia",
+    "B": "Hypernatremia",
+    "C": "Angioedema",
+    "D": "Cinchonism",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which CCB is most likely to cause constipation and bradycardia?",
+    "A": "Verapamil",
+    "B": "Amlodipine",
+    "C": "Nifedipine",
+    "D": "Felodipine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which CCB is more associated with peripheral edema?",
+    "A": "Dihydropyridines",
+    "B": "Verapamil",
+    "C": "Diltiazem",
+    "D": "Beta blockers",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug inhibits the If current in the SA node?",
+    "A": "Ivabradine",
+    "B": "Ranolazine",
+    "C": "Nitroglycerin",
+    "D": "Metoprolol",
+    "Answer": "A"
+  },
+  {
+    "Question": "Ivabradine lowers heart rate without significantly reducing:",
+    "A": "Contractility or BP",
+    "B": "SA node firing",
+    "C": "Diastolic filling time",
+    "D": "Oxygen demand",
+    "Answer": "A"
+  },
+  {
+    "Question": "A characteristic adverse effect of ivabradine is:",
+    "A": "Phosphenes/visual brightness",
+    "B": "Yellow-green vision",
+    "C": "Blue-gray skin",
+    "D": "Cinchonism",
+    "Answer": "A"
+  },
+  {
+    "Question": "Ranolazine primarily inhibits the:",
+    "A": "Late inward sodium current",
+    "B": "If current",
+    "C": "ACE enzyme",
+    "D": "Na+/K+-ATPase",
+    "Answer": "A"
+  },
+  {
+    "Question": "Ranolazine is mainly used for:",
+    "A": "Chronic stable angina",
+    "B": "Ventricular fibrillation",
+    "C": "Hypertensive emergency",
+    "D": "BPH",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which ECG effect is associated with ranolazine?",
+    "A": "QT prolongation",
+    "B": "QT shortening",
+    "C": "Complete AV block in all patients",
+    "D": "ST elevation",
+    "Answer": "A"
+  },
+  {
+    "Question": "Nicorandil combines nitrate-like activity with:",
+    "A": "ATP-sensitive potassium-channel opening",
+    "B": "ACE inhibition",
+    "C": "Beta blockade",
+    "D": "Sodium-channel blockade",
+    "Answer": "A"
+  },
+  {
+    "Question": "A rare but serious adverse effect of nicorandil is:",
+    "A": "Ulceration",
+    "B": "Cinchonism",
+    "C": "Pulmonary fibrosis",
+    "D": "Gynecomastia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Trimetazidine shifts myocardial metabolism toward:",
+    "A": "Glucose oxidation",
+    "B": "Fat oxidation only",
+    "C": "Protein oxidation",
+    "D": "Anaerobic metabolism",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antianginal has relatively little direct effect on heart rate and BP?",
+    "A": "Trimetazidine",
+    "B": "Metoprolol",
+    "C": "Nitroglycerin",
+    "D": "Verapamil",
+    "Answer": "A"
+  },
+  {
+    "Question": "Before administering a nitrate, the nurse should specifically ask about:",
+    "A": "Recent PDE-5 inhibitor use",
+    "B": "Hair loss",
+    "C": "Bowel movement",
+    "D": "Vitamin C use",
+    "Answer": "A"
+  },
+  {
+    "Question": "Before giving a beta blocker, the nurse should prioritize:",
+    "A": "Heart rate and BP",
+    "B": "Urine color",
+    "C": "Visual acuity",
+    "D": "Serum sodium only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which assessment best characterizes chest pain?",
+    "A": "PQRST",
+    "B": "Glasgow Coma Scale only",
+    "C": "Bowel pattern",
+    "D": "Skin turgor only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding suggests worsening angina?",
+    "A": "Pain becoming more frequent, severe or occurring at rest",
+    "B": "Less frequent exertional pain",
+    "C": "Improved exercise tolerance",
+    "D": "Stable symptoms",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding suggests effective antianginal therapy?",
+    "A": "Reduced chest pain and improved exercise tolerance",
+    "B": "More frequent chest pain",
+    "C": "Severe hypotension",
+    "D": "New arrhythmia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which nitrate administration instruction is correct?",
+    "A": "Sit or lie down before taking it",
+    "B": "Stand and walk immediately",
+    "C": "Chew the sublingual tablet",
+    "D": "Swallow it whole",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which formulation should generally be swallowed whole?",
+    "A": "Sustained-release preparation",
+    "B": "Sublingual nitroglycerin",
+    "C": "IV nitrate",
+    "D": "Chewable tablet",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which storage instruction is appropriate for nitroglycerin tablets?",
+    "A": "Keep in original tightly closed light-resistant container",
+    "B": "Leave exposed to heat",
+    "C": "Store loose in a pocket",
+    "D": "Keep in direct sunlight",
+    "Answer": "A"
+  },
+  {
+    "Question": "Excess alcohol can worsen nitrate-related:",
+    "A": "Hypotension",
+    "B": "Hyperkalemia",
+    "C": "Cinchonism",
+    "D": "Bradycardia only",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient develops severe hypotension after an antianginal. Which position is appropriate initially?",
+    "A": "Supine",
+    "B": "Standing",
+    "C": "Prone routinely",
+    "D": "Walking",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug may cause reflex tachycardia?",
+    "A": "Nitrates",
+    "B": "Ivabradine",
+    "C": "Beta blockers",
+    "D": "Ranolazine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which long-acting nitrate is used for prevention rather than immediate relief?",
+    "A": "Isosorbide mononitrate",
+    "B": "Sublingual nitroglycerin",
+    "C": "Adenosine",
+    "D": "Verapamil",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antianginal may increase digoxin concentrations?",
+    "A": "Ranolazine",
+    "B": "Nitroglycerin",
+    "C": "Metoprolol",
+    "D": "Ivabradine",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Nitrates may cause headache and hypotension.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Sildenafil should not be combined with nitrates.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Beta blockers should be stopped abruptly once angina improves.",
+    "A": true,
+    "B": false,
+    "C": "Only with oral therapy",
+    "D": "Only with renal disease",
+    "Answer": "B"
+  },
+  {
+    "Question": "True or False: Variant angina is associated with transient coronary vasospasm.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Ranolazine can prolong the QT interval.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Sublingual nitroglycerin should be chewed and swallowed.",
+    "A": true,
+    "B": false,
+    "C": "Only with oral therapy",
+    "D": "Only with renal disease",
+    "Answer": "B"
+  },
+  {
+    "Question": "True or False: Nitrates may cause headache and hypotension.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Sildenafil should not be combined with nitrates.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Beta blockers should be stopped abruptly once angina improves.",
+    "A": true,
+    "B": false,
+    "C": "Only with oral therapy",
+    "D": "Only with renal disease",
+    "Answer": "B"
+  },
+  {
+    "Question": "True or False: Variant angina is associated with transient coronary vasospasm.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Ranolazine can prolong the QT interval.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Sublingual nitroglycerin should be chewed and swallowed.",
+    "A": true,
+    "B": false,
+    "C": "Only with oral therapy",
+    "D": "Only with renal disease",
+    "Answer": "B"
+  },
+  {
+    "Question": "True or False: Nitrates may cause headache and hypotension.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Sildenafil should not be combined with nitrates.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  }
+]
+}

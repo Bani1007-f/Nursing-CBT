@@ -1,0 +1,489 @@
+{"course": "Pharmacology II",
+    "topic": "Antiarrhytmic",
+    "testSettings": {
+        "questionCount": 40
+    },
+    "questions":
+    [
+  {
+    "Question": "Class I antiarrhythmics primarily block:",
+    "A": "Fast sodium channels",
+    "B": "Beta receptors",
+    "C": "Potassium excretion",
+    "D": "L-type calcium channels",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class IA drugs generally:",
+    "A": "Moderately block sodium channels and prolong repolarization",
+    "B": "Only block beta receptors",
+    "C": "Shorten QT markedly",
+    "D": "Only slow AV conduction",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which Class IA drug is associated with cinchonism?",
+    "A": "Quinidine",
+    "B": "Procainamide",
+    "C": "Disopyramide",
+    "D": "Lidocaine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which Class IA drug is associated with a lupus-like syndrome?",
+    "A": "Procainamide",
+    "B": "Quinidine",
+    "C": "Flecainide",
+    "D": "Lidocaine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which Class IA effect increases torsades risk?",
+    "A": "QT prolongation",
+    "B": "QT shortening",
+    "C": "Increased AV conduction",
+    "D": "Increased potassium",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class IB drugs generally have what effect on ventricular action potential duration?",
+    "A": "They tend to shorten it",
+    "B": "They markedly prolong it",
+    "C": "They have no sodium-channel effect",
+    "D": "They block calcium channels",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which Class IB drug is commonly used IV for ventricular arrhythmias?",
+    "A": "Lidocaine",
+    "B": "Quinidine",
+    "C": "Verapamil",
+    "D": "Adenosine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Lidocaine toxicity may produce:",
+    "A": "Seizures",
+    "B": "Gynecomastia",
+    "C": "Dry cough",
+    "D": "Hyperkalemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which Class IB drug can be given orally?",
+    "A": "Mexiletine",
+    "B": "Lidocaine",
+    "C": "Procainamide",
+    "D": "Quinidine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class IC drugs produce:",
+    "A": "Strong sodium blockade and marked conduction slowing",
+    "B": "Weak sodium blockade",
+    "C": "Beta blockade",
+    "D": "Potassium-channel opening",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is a Class IC drug?",
+    "A": "Flecainide",
+    "B": "Lidocaine",
+    "C": "Amiodarone",
+    "D": "Verapamil",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is another Class IC drug?",
+    "A": "Propafenone",
+    "B": "Procainamide",
+    "C": "Sotalol",
+    "D": "Diltiazem",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class IC drugs require particular caution in:",
+    "A": "Structural heart disease",
+    "B": "Mild allergy",
+    "C": "Constipation",
+    "D": "BPH",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class II antiarrhythmics are primarily:",
+    "A": "Beta blockers",
+    "B": "Sodium blockers",
+    "C": "Potassium blockers",
+    "D": "Calcium blockers",
+    "Answer": "A"
+  },
+  {
+    "Question": "Beta blockers reduce arrhythmias partly by reducing:",
+    "A": "Sympathetic stimulation",
+    "B": "Potassium excretion",
+    "C": "ACE activity",
+    "D": "Aldosterone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which beta blocker is short acting and IV?",
+    "A": "Esmolol",
+    "B": "Atenolol",
+    "C": "Propranolol",
+    "D": "Metoprolol",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class III drugs primarily block:",
+    "A": "Potassium channels",
+    "B": "Sodium channels only",
+    "C": "Beta receptors",
+    "D": "Calcium channels only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class III drugs generally:",
+    "A": "Prolong repolarization and refractory period",
+    "B": "Shorten QT",
+    "C": "Increase AV conduction",
+    "D": "Increase sodium excretion",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which Class III drug has extensive noncardiac toxicity?",
+    "A": "Amiodarone",
+    "B": "Ibutilide",
+    "C": "Dofetilide",
+    "D": "Sotalol",
+    "Answer": "A"
+  },
+  {
+    "Question": "Long-term amiodarone therapy requires monitoring of:",
+    "A": "Lungs, thyroid, liver and eyes",
+    "B": "Only glucose",
+    "C": "Only urine output",
+    "D": "Only bowel function",
+    "Answer": "A"
+  },
+  {
+    "Question": "Amiodarone can cause:",
+    "A": "Thyroid dysfunction",
+    "B": "Only hypoglycemia",
+    "C": "Only hyperkalemia",
+    "D": "Only constipation",
+    "Answer": "A"
+  },
+  {
+    "Question": "Amiodarone can increase levels of:",
+    "A": "Digoxin and warfarin",
+    "B": "Hydrochlorothiazide only",
+    "C": "Amlodipine only",
+    "D": "Methyldopa only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which Class III drugs have important torsades risk?",
+    "A": "Sotalol, dofetilide and ibutilide",
+    "B": "Lidocaine and mexiletine",
+    "C": "Verapamil and diltiazem",
+    "D": "Digoxin and adenosine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class IV antiarrhythmics include:",
+    "A": "Verapamil and diltiazem",
+    "B": "Quinidine and procainamide",
+    "C": "Lidocaine and mexiletine",
+    "D": "Amiodarone and ibutilide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Class IV drugs slow AV conduction mainly by blocking:",
+    "A": "L-type calcium channels",
+    "B": "Fast sodium channels",
+    "C": "Potassium channels",
+    "D": "Beta receptors",
+    "Answer": "A"
+  },
+  {
+    "Question": "Verapamil commonly causes:",
+    "A": "Constipation",
+    "B": "Cinchonism",
+    "C": "Pulmonary fibrosis",
+    "D": "Hypertrichosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antiarrhythmic is used for rapid termination of some SVTs?",
+    "A": "Adenosine",
+    "B": "Quinidine",
+    "C": "Amiodarone only",
+    "D": "Lidocaine only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Adenosine is characterized by a:",
+    "A": "Very short duration of action",
+    "B": "Very long half-life",
+    "C": "Slow onset",
+    "D": "Long oral effect",
+    "Answer": "A"
+  },
+  {
+    "Question": "Digoxin slows AV conduction partly through:",
+    "A": "Increased vagal tone",
+    "B": "Beta-1 stimulation",
+    "C": "Fast sodium blockade",
+    "D": "Potassium-channel opening",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding suggests digoxin toxicity?",
+    "A": "Yellow-green vision",
+    "B": "Dry cough",
+    "C": "Blue-gray skin",
+    "D": "Hypertrichosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which electrolyte abnormality increases digoxin toxicity?",
+    "A": "Hypokalemia",
+    "B": "Hyperkalemia",
+    "C": "Hypernatremia",
+    "D": "Hypermagnesemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug can increase digoxin toxicity?",
+    "A": "Quinidine",
+    "B": "Hydrochlorothiazide only",
+    "C": "Amlodipine only",
+    "D": "Methyldopa",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which treatment is commonly used for torsades de pointes?",
+    "A": "Magnesium sulfate",
+    "B": "Digoxin",
+    "C": "Verapamil",
+    "D": "Adenosine",
+    "Answer": "A"
+  },
+  {
+    "Question": "Magnesium helps torsades primarily by:",
+    "A": "Suppressing early afterdepolarizations",
+    "B": "Increasing sympathetic activity",
+    "C": "Increasing sodium influx",
+    "D": "Increasing AV conduction",
+    "Answer": "A"
+  },
+  {
+    "Question": "Magnesium toxicity can cause:",
+    "A": "Respiratory depression and loss of reflexes",
+    "B": "Hyperreflexia",
+    "C": "Severe hypertension",
+    "D": "Tachypnea only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which assessment should precede most antiarrhythmic administration?",
+    "A": "ECG and relevant electrolytes",
+    "B": "Hair color",
+    "C": "Bowel sounds only",
+    "D": "Skin temperature only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which ECG interval is especially important with QT-prolonging drugs?",
+    "A": "QT interval",
+    "B": "RR interval only",
+    "C": "PR interval only",
+    "D": "P wave only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Proarrhythmia means:",
+    "A": "An antiarrhythmic causes or worsens an arrhythmia",
+    "B": "The rhythm always becomes normal",
+    "C": "Heart rate always falls",
+    "D": "BP always rises",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which dysrhythmia is characterized by chaotic atrial activity?",
+    "A": "Atrial fibrillation",
+    "B": "Ventricular fibrillation",
+    "C": "Sinus bradycardia",
+    "D": "Complete heart block",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which dysrhythmia produces ineffective ventricular contraction and is immediately life-threatening?",
+    "A": "Ventricular fibrillation",
+    "B": "Atrial fibrillation",
+    "C": "Sinus tachycardia",
+    "D": "First-degree AV block",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which combination may excessively slow AV conduction?",
+    "A": "Beta blocker + verapamil",
+    "B": "ACE inhibitor + thiazide",
+    "C": "ARB + amlodipine",
+    "D": "Loop + thiazide",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding in a patient receiving amiodarone should be reported?",
+    "A": "New shortness of breath",
+    "B": "Mild thirst",
+    "C": "Increased appetite",
+    "D": "Warm hands",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which antiarrhythmic requires particular caution when QT is already prolonged?",
+    "A": "Dofetilide",
+    "B": "Digoxin",
+    "C": "Lidocaine",
+    "D": "Verapamil",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug's short half-life makes it useful for rapid SVT termination?",
+    "A": "Adenosine",
+    "B": "Amiodarone",
+    "C": "Digoxin",
+    "D": "Quinidine",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Class III antiarrhythmics generally prolong repolarization.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Amiodarone can affect the thyroid and lungs.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Hypokalemia can increase digoxin toxicity.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Continuous ECG monitoring is appropriate during many IV antiarrhythmic therapies.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Adenosine has a very long half-life.",
+    "A": true,
+    "B": false,
+    "C": "Only with oral therapy",
+    "D": "Only with renal disease",
+    "Answer": "B"
+  },
+  {
+    "Question": "True or False: Verapamil can slow AV conduction.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Class III antiarrhythmics generally prolong repolarization.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Amiodarone can affect the thyroid and lungs.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Hypokalemia can increase digoxin toxicity.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Continuous ECG monitoring is appropriate during many IV antiarrhythmic therapies.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Adenosine has a very long half-life.",
+    "A": true,
+    "B": false,
+    "C": "Only with oral therapy",
+    "D": "Only with renal disease",
+    "Answer": "B"
+  },
+  {
+    "Question": "True or False: Verapamil can slow AV conduction.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Class III antiarrhythmics generally prolong repolarization.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Amiodarone can affect the thyroid and lungs.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Hypokalemia can increase digoxin toxicity.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Continuous ECG monitoring is appropriate during many IV antiarrhythmic therapies.",
+    "A": true,
+    "B": false,
+    "C": "Only in severe disease",
+    "D": "Only with IV therapy",
+    "Answer": "A"
+  }
+]
+}

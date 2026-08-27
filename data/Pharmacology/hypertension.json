@@ -1,0 +1,329 @@
+{"course": "Pharmacology II",
+    "topic": "Hypertension",
+    "testSettings": {
+        "questionCount": 20
+    },
+    "questions":
+    [
+  {
+    "Question": "Which type of hypertension has no single identifiable cause?",
+    "A": "Primary hypertension",
+    "B": "Secondary hypertension",
+    "C": "Malignant hypertension",
+    "D": "White-coat hypertension",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding best describes masked hypertension?",
+    "A": "Normal clinic BP but elevated out-of-office BP",
+    "B": "Elevated clinic BP but normal home BP",
+    "C": "High BP only during sleep",
+    "D": "High BP only in pregnancy",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding best describes white-coat hypertension?",
+    "A": "Elevated clinic BP with lower out-of-office readings",
+    "B": "Normal clinic BP with high home readings",
+    "C": "Persistent BP elevation despite three drugs",
+    "D": "Hypertension caused by renal artery stenosis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Hypertension caused by renal artery stenosis is classified as:",
+    "A": "Secondary hypertension",
+    "B": "Primary hypertension",
+    "C": "White-coat hypertension",
+    "D": "Isolated systolic hypertension",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which endocrine disorder can produce secondary hypertension?",
+    "A": "Primary hyperaldosteronism",
+    "B": "Hypoparathyroidism",
+    "C": "Diabetes insipidus",
+    "D": "Adrenal insufficiency",
+    "Answer": "A"
+  },
+  {
+    "Question": "Pheochromocytoma causes hypertension mainly through excess:",
+    "A": "Catecholamines",
+    "B": "Insulin",
+    "C": "Atrial natriuretic peptide",
+    "D": "Thyroid hormone only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Coarctation of the aorta may produce:",
+    "A": "Higher BP in the arms than legs",
+    "B": "Higher BP in the legs than arms",
+    "C": "Equal BP in all limbs",
+    "D": "Low BP only in the arms",
+    "Answer": "A"
+  },
+  {
+    "Question": "Obstructive sleep apnea can contribute to hypertension through recurrent:",
+    "A": "Sympathetic activation",
+    "B": "Parasympathetic suppression only",
+    "C": "Hypoglycemia",
+    "D": "Hypercalcemia",
+    "Answer": "A"
+  },
+  {
+    "Question": "Angiotensin II raises BP primarily through:",
+    "A": "Vasoconstriction",
+    "B": "Vasodilation",
+    "C": "Natriuresis",
+    "D": "Reduced sympathetic activity",
+    "Answer": "A"
+  },
+  {
+    "Question": "Aldosterone increases BP mainly by promoting:",
+    "A": "Sodium and water retention",
+    "B": "Sodium and water loss",
+    "C": "Potassium retention only",
+    "D": "Reduced blood volume",
+    "Answer": "A"
+  },
+  {
+    "Question": "Endothelial dysfunction can increase BP by reducing nitric oxide and increasing:",
+    "A": "Vasoconstrictor activity",
+    "B": "Natriuresis",
+    "C": "Vasodilation",
+    "D": "Renal potassium excretion only",
+    "Answer": "A"
+  },
+  {
+    "Question": "Long-standing hypertension can produce LV hypertrophy because of chronic:",
+    "A": "Pressure overload",
+    "B": "Volume depletion",
+    "C": "Bradycardia",
+    "D": "Reduced afterload",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which is a major modifiable risk factor for hypertension?",
+    "A": "Physical inactivity",
+    "B": "Family history",
+    "C": "Increasing age",
+    "D": "Genetic predisposition",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which dietary approach is specifically recommended for BP control?",
+    "A": "DASH diet",
+    "B": "High-sodium diet",
+    "C": "High saturated-fat diet",
+    "D": "Very low potassium diet",
+    "Answer": "A"
+  },
+  {
+    "Question": "A common exercise recommendation for adults with hypertension is at least:",
+    "A": "150 minutes of moderate aerobic activity weekly",
+    "B": "30 minutes monthly",
+    "C": "150 minutes daily",
+    "D": "Exercise only when BP is high",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which lifestyle measure directly reduces sodium-related BP elevation?",
+    "A": "Limiting sodium intake",
+    "B": "Increasing processed foods",
+    "C": "Adding salt to meals",
+    "D": "Avoiding all fruit",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which complication of hypertension is cerebrovascular?",
+    "A": "Stroke",
+    "B": "Retinopathy",
+    "C": "LV hypertrophy",
+    "D": "Nephropathy",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which complication is specifically ocular?",
+    "A": "Hypertensive retinopathy",
+    "B": "Stroke",
+    "C": "Heart failure",
+    "D": "Renal failure",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which complication indicates chronic cardiac target-organ damage?",
+    "A": "Left ventricular hypertrophy",
+    "B": "Cystitis",
+    "C": "Gastritis",
+    "D": "Otitis media",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which complication indicates renal target-organ damage?",
+    "A": "Kidney failure",
+    "B": "Asthma",
+    "C": "Peptic ulcer",
+    "D": "Appendicitis",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which BP pattern is most likely to be missed if only clinic BP is measured?",
+    "A": "Masked hypertension",
+    "B": "White-coat hypertension",
+    "C": "Malignant hypertension",
+    "D": "Secondary hypertension",
+    "Answer": "A"
+  },
+  {
+    "Question": "Resistant hypertension means BP remains uncontrolled despite:",
+    "A": "Appropriate multidrug therapy",
+    "B": "One missed dose",
+    "C": "Normal home readings",
+    "D": "Lifestyle modification alone",
+    "Answer": "A"
+  },
+  {
+    "Question": "Malignant hypertension is most concerning when severe BP elevation is accompanied by:",
+    "A": "Acute target-organ damage",
+    "B": "Normal renal function",
+    "C": "No symptoms",
+    "D": "Normal fundus findings",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which drug group can contribute to drug-induced hypertension?",
+    "A": "NSAIDs",
+    "B": "ACE inhibitors",
+    "C": "ARBs",
+    "D": "Thiazides",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which associated condition should be actively controlled to reduce cardiovascular risk?",
+    "A": "Diabetes mellitus",
+    "B": "Common cold",
+    "C": "Myopia",
+    "D": "Otitis externa",
+    "Answer": "A"
+  },
+  {
+    "Question": "Why is regular BP monitoring important?",
+    "A": "It detects poor control and complications early",
+    "B": "It eliminates the need for medication",
+    "C": "It confirms primary hypertension",
+    "D": "It prevents all secondary causes",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which patient statement shows appropriate hypertension management?",
+    "A": "I will keep BP records and attend follow-up",
+    "B": "I will stop drugs when I feel better",
+    "C": "I will double doses after salty meals",
+    "D": "I should avoid all exercise",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient becomes dizzy after an antihypertensive is started. Which assessment is most useful?",
+    "A": "Orthostatic BP",
+    "B": "Visual acuity",
+    "C": "Bowel sounds",
+    "D": "Skin temperature",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which factor increases peripheral resistance and therefore BP?",
+    "A": "Vasoconstriction",
+    "B": "Natriuresis",
+    "C": "Vasodilation",
+    "D": "Reduced sympathetic activity",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which statement about primary hypertension is most accurate?",
+    "A": "It is usually multifactorial",
+    "B": "It always has one identifiable cause",
+    "C": "It occurs only with kidney disease",
+    "D": "It is always endocrine in origin",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which finding most strongly suggests target-organ damage in severe hypertension?",
+    "A": "New neurologic deficit",
+    "B": "Mild thirst",
+    "C": "Normal urine output",
+    "D": "Normal ECG",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which intervention is most appropriate for a sedentary patient with hypertension?",
+    "A": "Begin regular moderate aerobic activity as tolerated",
+    "B": "Avoid all exercise",
+    "C": "Exercise only during hypertensive episodes",
+    "D": "Increase sodium intake",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which lifestyle change helps both BP and cardiovascular risk?",
+    "A": "Smoking cessation",
+    "B": "Increasing alcohol intake",
+    "C": "Increasing saturated fat",
+    "D": "Reducing sleep",
+    "Answer": "A"
+  },
+  {
+    "Question": "Why can modest weight loss help hypertension?",
+    "A": "It can lower BP and cardiovascular risk",
+    "B": "It always cures secondary hypertension",
+    "C": "It increases blood volume",
+    "D": "It increases sympathetic activity",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which statement about alcohol and hypertension is most appropriate?",
+    "A": "Excessive intake can worsen BP",
+    "B": "Alcohol always lowers BP",
+    "C": "Alcohol replaces antihypertensive therapy",
+    "D": "Alcohol prevents stroke",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which factor is nonmodifiable?",
+    "A": "Family history",
+    "B": "Smoking",
+    "C": "Physical inactivity",
+    "D": "High sodium intake",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which pattern is most characteristic of isolated systolic hypertension?",
+    "A": "Elevated systolic pressure with relatively normal diastolic pressure",
+    "B": "Elevated diastolic pressure with normal systolic pressure",
+    "C": "Both always severely elevated",
+    "D": "Only nocturnal elevation",
+    "Answer": "A"
+  },
+  {
+    "Question": "A patient has repeated high home readings but normal clinic BP. What is the best next concept to recognize?",
+    "A": "Masked hypertension",
+    "B": "White-coat hypertension",
+    "C": "Malignant hypertension",
+    "D": "Resistant hypertension",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: White-coat hypertension refers to higher BP in the clinic than outside the clinic.",
+    "A": true,
+    "B": false,
+    "C": "Only in pregnancy",
+    "D": "Only in renal disease",
+    "Answer": "A"
+  },
+  {
+    "Question": "True or False: Hypertension can damage the heart, brain, kidneys and eyes.",
+    "A": true,
+    "B": false,
+    "C": "Only the heart",
+    "D": "Only the kidneys",
+    "Answer": "A"
+  }
+]
+}
