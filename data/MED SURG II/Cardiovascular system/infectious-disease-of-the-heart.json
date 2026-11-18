@@ -15,8 +15,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-002",
@@ -27,8 +27,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-003",
@@ -39,8 +39,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-004",
@@ -51,8 +51,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-005",
@@ -63,8 +63,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-006",
@@ -75,8 +75,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-007",
@@ -87,8 +87,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-008",
@@ -99,8 +99,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-009",
@@ -111,8 +111,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-010",
@@ -123,8 +123,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-011",
@@ -135,8 +135,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-012",
@@ -147,8 +147,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-013",
@@ -159,8 +159,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-014",
@@ -171,8 +171,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-015",
@@ -183,8 +183,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-016",
@@ -195,8 +195,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-017",
@@ -207,8 +207,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-018",
@@ -219,8 +219,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-019",
@@ -231,8 +231,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-020",
@@ -243,8 +243,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-021",
@@ -255,8 +255,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-022",
@@ -267,8 +267,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-023",
@@ -279,8 +279,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-024",
@@ -291,8 +291,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-025",
@@ -303,8 +303,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-026",
@@ -315,8 +315,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-027",
@@ -327,8 +327,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-028",
@@ -339,8 +339,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-029",
@@ -351,8 +351,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-030",
@@ -363,8 +363,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-031",
@@ -375,8 +375,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-032",
@@ -387,8 +387,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-033",
@@ -399,8 +399,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-034",
@@ -411,8 +411,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-035",
@@ -423,8 +423,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-036",
@@ -435,8 +435,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-037",
@@ -447,8 +447,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-038",
@@ -459,8 +459,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-039",
@@ -471,8 +471,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-040",
@@ -483,8 +483,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-041",
@@ -495,8 +495,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-042",
@@ -507,8 +507,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-043",
@@ -519,8 +519,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-044",
@@ -531,8 +531,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-045",
@@ -543,8 +543,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-046",
@@ -555,8 +555,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-047",
@@ -567,8 +567,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-048",
@@ -579,8 +579,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-049",
@@ -591,8 +591,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-050",
@@ -603,8 +603,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-051",
@@ -615,8 +615,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-052",
@@ -627,8 +627,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-053",
@@ -639,8 +639,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-054",
@@ -651,8 +651,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-055",
@@ -663,8 +663,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-056",
@@ -675,8 +675,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-057",
@@ -687,8 +687,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-058",
@@ -699,8 +699,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-059",
@@ -711,8 +711,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-060",
@@ -723,8 +723,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-061",
@@ -735,8 +735,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-062",
@@ -747,8 +747,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-063",
@@ -759,8 +759,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-064",
@@ -771,8 +771,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-065",
@@ -783,8 +783,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-066",
@@ -795,8 +795,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-067",
@@ -807,8 +807,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-068",
@@ -819,8 +819,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-069",
@@ -831,8 +831,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-070",
@@ -843,8 +843,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-071",
@@ -855,8 +855,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-072",
@@ -867,8 +867,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-073",
@@ -879,8 +879,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-074",
@@ -891,8 +891,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-075",
@@ -903,8 +903,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-076",
@@ -915,8 +915,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-077",
@@ -927,8 +927,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-078",
@@ -939,8 +939,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-079",
@@ -951,8 +951,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-080",
@@ -963,8 +963,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-081",
@@ -975,8 +975,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-082",
@@ -987,8 +987,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-083",
@@ -999,8 +999,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-084",
@@ -1011,8 +1011,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-085",
@@ -1023,8 +1023,8 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-086",
@@ -1035,8 +1035,8 @@
                 "C": "Lung infection only",
                 "D": "Blood loss disorder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-087",
@@ -1047,8 +1047,8 @@
                 "C": "Valve replacement",
                 "D": "Arterial clot only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-088",
@@ -1059,8 +1059,8 @@
                 "C": "Low platelet count",
                 "D": "High blood glucose"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-089",
@@ -1071,8 +1071,8 @@
                 "C": "Testing lung volume",
                 "D": "Assessing bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IDOTH-090",
@@ -1083,8 +1083,5 @@
                 "C": "Blood pressure readings",
                 "D": "Heart sounds"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"    } ]
 }

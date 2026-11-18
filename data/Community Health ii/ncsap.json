@@ -14,8 +14,8 @@
                 "C": "Nigerian Community Services Action Policy",
                 "D": "National Child Screening and Prevention"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-002",
@@ -26,8 +26,8 @@
                 "C": "2024–2028",
                 "D": "2026–2030"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-003",
@@ -38,8 +38,8 @@
                 "C": "5–10 years",
                 "D": "10–19 years"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-004",
@@ -50,8 +50,8 @@
                 "C": "No hospital admissions",
                 "D": "No childhood infections"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-005",
@@ -62,8 +62,8 @@
                 "C": "Transport sector",
                 "D": "Industrial sector"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-006",
@@ -74,8 +74,8 @@
                 "C": "Adult cancer deaths",
                 "D": "Road traffic injuries only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-007",
@@ -86,8 +86,8 @@
                 "C": "Only immunization",
                 "D": "Only sanitation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-008",
@@ -98,8 +98,8 @@
                 "C": "Only breastfeeding",
                 "D": "Only disasters"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-009",
@@ -110,8 +110,8 @@
                 "C": "Avoiding partnerships",
                 "D": "Limiting monitoring"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-010",
@@ -122,8 +122,8 @@
                 "C": "No stakeholder involvement",
                 "D": "No community engagement"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-011",
@@ -134,8 +134,8 @@
                 "C": "Only tertiary care",
                 "D": "No referral"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-012",
@@ -146,8 +146,8 @@
                 "C": "Travel distance",
                 "D": "Waiting times only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-013",
@@ -158,8 +158,8 @@
                 "C": "Hospital-only activity",
                 "D": "Laboratory procedure"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-014",
@@ -170,8 +170,8 @@
                 "C": "No monitoring",
                 "D": "No evaluation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-015",
@@ -182,8 +182,8 @@
                 "C": "Exclusion",
                 "D": "Competition only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-016",
@@ -194,8 +194,8 @@
                 "C": "Unplanned",
                 "D": "Avoided"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-017",
@@ -206,8 +206,8 @@
                 "C": "Only rainfall data",
                 "D": "Only hospital bills"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-018",
@@ -218,8 +218,8 @@
                 "C": "72 LGAs",
                 "D": "700 LGAs"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-019",
@@ -230,8 +230,8 @@
                 "C": "Staff uniform use",
                 "D": "Parking capacity"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-020",
@@ -242,8 +242,8 @@
                 "C": "110 per 1,000",
                 "D": "201 per 1,000"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-021",
@@ -254,8 +254,8 @@
                 "C": "60%",
                 "D": "37%"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-022",
@@ -266,8 +266,8 @@
                 "C": "10%",
                 "D": "28.8%"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-023",
@@ -278,8 +278,8 @@
                 "C": "25%",
                 "D": "84%"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-024",
@@ -290,8 +290,8 @@
                 "C": "37%",
                 "D": "70%"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-025",
@@ -302,8 +302,8 @@
                 "C": "Disaster-only training",
                 "D": "School-health-only training"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-026",
@@ -314,8 +314,8 @@
                 "C": "Only laboratories",
                 "D": "Only pharmacies"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-027",
@@ -326,8 +326,8 @@
                 "C": "Hospital construction",
                 "D": "Vaccination only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-028",
@@ -338,8 +338,8 @@
                 "C": "Only hospital equipment",
                 "D": "Only vaccines"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-029",
@@ -350,8 +350,8 @@
                 "C": "Only newborns",
                 "D": "Only laboratory cases"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "NCSA-030",
@@ -362,8 +362,5 @@
                 "C": "Reduce accountability",
                 "D": "Stop service improvement"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"    } ]
 }

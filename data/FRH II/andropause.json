@@ -14,8 +14,8 @@
                 "C": "Ovarian failure",
                 "D": "Hypergonadism"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-002",
@@ -26,8 +26,8 @@
                 "C": "Sudden increase in testosterone",
                 "D": "Complete cessation of sperm production in all men"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-003",
@@ -38,8 +38,8 @@
                 "C": "It always causes infertility",
                 "D": "It occurs before puberty"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-004",
@@ -50,8 +50,8 @@
                 "C": "Pituitary gland",
                 "D": "Hypothalamus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-005",
@@ -62,8 +62,8 @@
                 "C": "Male sexual function",
                 "D": "Ovulation"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ANDR-006",
@@ -74,8 +74,8 @@
                 "C": "Renin-angiotensin system",
                 "D": "Autonomic axis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-007",
@@ -86,8 +86,8 @@
                 "C": "Pituitary gland",
                 "D": "Prostate"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-008",
@@ -98,8 +98,8 @@
                 "C": "Estrogen and progesterone",
                 "D": "ABP and testosterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-009",
@@ -110,8 +110,8 @@
                 "C": "Spermatids",
                 "D": "Epididymis"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-010",
@@ -122,8 +122,8 @@
                 "C": "Prostate",
                 "D": "Seminal vesicles"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-011",
@@ -134,8 +134,8 @@
                 "C": "GnRH",
                 "D": "Estrogen only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-012",
@@ -146,8 +146,8 @@
                 "C": "Testosterone",
                 "D": "GnRH"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-013",
@@ -158,8 +158,8 @@
                 "C": "Prostate only",
                 "D": "Seminiferous tubules only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-014",
@@ -170,8 +170,8 @@
                 "C": "Trauma",
                 "D": "Ovulation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-015",
@@ -182,8 +182,8 @@
                 "C": "Age 30–40",
                 "D": "Age 60–70"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ANDR-016",
@@ -194,8 +194,8 @@
                 "C": "30% per year",
                 "D": "50% per year"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-017",
@@ -206,8 +206,8 @@
                 "C": "Thyroid follicles",
                 "D": "Pancreatic beta cells"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-018",
@@ -218,8 +218,8 @@
                 "C": "Produces testosterone",
                 "D": "Destroys LH"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-019",
@@ -230,8 +230,8 @@
                 "C": "Steroid hormone-binding growth",
                 "D": "Sex hormone blood generator"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-020",
@@ -242,8 +242,8 @@
                 "C": "Regular exercise",
                 "D": "Adequate sleep"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-021",
@@ -254,8 +254,8 @@
                 "C": "Myopia",
                 "D": "Migraine only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-022",
@@ -266,8 +266,8 @@
                 "C": "Balanced diet",
                 "D": "Adequate sleep"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-023",
@@ -278,8 +278,8 @@
                 "C": "FSH",
                 "D": "Cortisol only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-024",
@@ -290,8 +290,8 @@
                 "C": "Increased sperm production",
                 "D": "Increased semen volume"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-025",
@@ -302,8 +302,8 @@
                 "C": "Permanently absent in all men",
                 "D": "Unrelated to testosterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-026",
@@ -314,8 +314,8 @@
                 "C": "Body temperature",
                 "D": "Blood volume"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-027",
@@ -326,8 +326,8 @@
                 "C": "Increased sperm quality",
                 "D": "Increased fertility in all men"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-028",
@@ -338,8 +338,8 @@
                 "C": "Increased bone density",
                 "D": "Increased stamina"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-029",
@@ -350,8 +350,8 @@
                 "C": "Faster bone formation only",
                 "D": "Joint enlargement"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-030",
@@ -362,8 +362,8 @@
                 "C": "Asthma",
                 "D": "Appendicitis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-031",
@@ -374,8 +374,8 @@
                 "C": "Bone density",
                 "D": "HDL cholesterol"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-032",
@@ -386,8 +386,8 @@
                 "C": "Diabetes prevention",
                 "D": "Reduced abdominal fat"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-033",
@@ -398,8 +398,8 @@
                 "C": "Hemoglobin only",
                 "D": "Calcium"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-034",
@@ -410,8 +410,8 @@
                 "C": "Increased motivation",
                 "D": "Persistent euphoria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-035",
@@ -422,8 +422,8 @@
                 "C": "Increased mental alertness",
                 "D": "Faster learning"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-036",
@@ -434,8 +434,8 @@
                 "C": "Excessive energy",
                 "D": "Increased exercise capacity"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-037",
@@ -446,8 +446,8 @@
                 "C": "Increased sleep quality",
                 "D": "No sleep changes"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-038",
@@ -458,8 +458,8 @@
                 "C": "Menstrual bleeding",
                 "D": "Breastfeeding"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-039",
@@ -470,8 +470,8 @@
                 "C": "Increased sperm quality",
                 "D": "Increased morning erections"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-040",
@@ -482,8 +482,8 @@
                 "C": "Remain impossible to measure",
                 "D": "Become zero"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-041",
@@ -494,8 +494,8 @@
                 "C": "Menstruation",
                 "D": "Ovulation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-042",
@@ -506,8 +506,8 @@
                 "C": "Absence of urine formation",
                 "D": "Hemoptysis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-043",
@@ -518,8 +518,8 @@
                 "C": "Inability to produce sperm",
                 "D": "Excessive sweating"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-044",
@@ -530,8 +530,8 @@
                 "C": "Both symptoms and laboratory assessment",
                 "D": "Physical examination only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ANDR-045",
@@ -542,8 +542,8 @@
                 "C": "After midnight only",
                 "D": "Immediately after exercise"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-046",
@@ -554,8 +554,8 @@
                 "C": "Automatically treated",
                 "D": "Diagnosed as menopause"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-047",
@@ -566,8 +566,8 @@
                 "C": "Male from female sex",
                 "D": "Bone from muscle disease"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-048",
@@ -578,8 +578,8 @@
                 "C": "A patient has a fever",
                 "D": "Sperm are normal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-049",
@@ -590,8 +590,8 @@
                 "C": "Hearing test only",
                 "D": "Skin biopsy only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-050",
@@ -602,8 +602,8 @@
                 "C": "Smoking",
                 "D": "Heavy alcohol intake"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-051",
@@ -614,8 +614,8 @@
                 "C": "Stretching only",
                 "D": "No physical activity"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-052",
@@ -626,8 +626,8 @@
                 "C": "7–9 hours",
                 "D": "12–15 hours"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ANDR-053",
@@ -638,8 +638,8 @@
                 "C": "Only fats",
                 "D": "Alcohol"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-054",
@@ -650,8 +650,8 @@
                 "C": "All men over 40",
                 "D": "All men with erectile dysfunction"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-055",
@@ -662,8 +662,8 @@
                 "C": "Self-prescription",
                 "D": "No follow-up"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ANDR-056",
@@ -674,8 +674,8 @@
                 "C": "Improved sleep apnea",
                 "D": "Permanent infertility in every patient"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-057",
@@ -686,8 +686,8 @@
                 "C": "Estrogen-independent ovulation",
                 "D": "Bone fractures immediately"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-058",
@@ -698,8 +698,8 @@
                 "C": "Hearing",
                 "D": "Appendicitis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-059",
@@ -710,8 +710,8 @@
                 "C": "Mild exercise fatigue",
                 "D": "Normal testosterone"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ANDR-060",
@@ -722,8 +722,5 @@
                 "C": "Increased fertility",
                 "D": "Improved mood"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"    } ]
 }

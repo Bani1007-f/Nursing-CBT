@@ -3,6 +3,7 @@
 // ============================================
 
 
+
 // ============================================
 // ELEMENTS
 // ============================================
@@ -96,16 +97,14 @@ async function loadDashboard() {
             await userResponse.json();
 
 
-        if (
-            !userData.authenticated
-        ) {
+        if (!userData.authenticated) {
 
-            window.location.href =
-                "login.html";
+    window.location.href =
+        "login.html?redirect=dashboard.html";
 
-            return;
+    return;
 
-        }
+}
 
 
         // ----------------------------------------

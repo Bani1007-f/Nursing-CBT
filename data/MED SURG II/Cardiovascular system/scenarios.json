@@ -15,8 +15,8 @@
                 "C": "Pericarditis",
                 "D": "Hypertension"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SCEN-002",
@@ -27,8 +27,8 @@
                 "C": "Blood clotting time only",
                 "D": "Lung function"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-003",
@@ -39,8 +39,8 @@
                 "C": "Hearing loss",
                 "D": "Abdominal pain"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-004",
@@ -51,8 +51,8 @@
                 "C": "Creatinine",
                 "D": "Sodium"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-005",
@@ -63,8 +63,8 @@
                 "C": "Oxygen",
                 "D": "Protein"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-006",
@@ -75,8 +75,8 @@
                 "C": "Bone pain",
                 "D": "Increased appetite"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-007",
@@ -87,8 +87,8 @@
                 "C": "A type of heart sound",
                 "D": "A blood pressure abnormality"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-008",
@@ -99,8 +99,8 @@
                 "C": "Blood glucose test",
                 "D": "Pulmonary function test"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-009",
@@ -111,8 +111,8 @@
                 "C": "Influenza virus",
                 "D": "Malaria parasite"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-010",
@@ -123,8 +123,8 @@
                 "C": "Reduce red blood cells",
                 "D": "Stop all medications"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-011",
@@ -135,8 +135,8 @@
                 "C": "Reduced infection risk",
                 "D": "Increased blood volume only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-012",
@@ -147,8 +147,8 @@
                 "C": "Blood loss",
                 "D": "Low oxygen production"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-013",
@@ -159,8 +159,8 @@
                 "C": "Blood sugar control",
                 "D": "Liver size"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-014",
@@ -171,8 +171,8 @@
                 "C": "Increased flexibility",
                 "D": "No muscle fibers"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-015",
@@ -183,8 +183,8 @@
                 "C": "Skin burns",
                 "D": "Bone fractures"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-016",
@@ -195,8 +195,8 @@
                 "C": "Valve disappearance",
                 "D": "Pericardial removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-017",
@@ -207,8 +207,8 @@
                 "C": "Heart rhythm pattern",
                 "D": "Number of blood cells"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-018",
@@ -219,8 +219,8 @@
                 "C": "Vision only",
                 "D": "Bone density"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-019",
@@ -231,8 +231,8 @@
                 "C": "Valve movement",
                 "D": "Blood cell formation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-020",
@@ -243,8 +243,8 @@
                 "C": "Decrease oxygen delivery",
                 "D": "Stop circulation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-021",
@@ -255,8 +255,8 @@
                 "C": "High platelet production",
                 "D": "Increased blood pressure"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-022",
@@ -267,8 +267,8 @@
                 "C": "Blood becomes infectious",
                 "D": "Valves close permanently"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-023",
@@ -279,8 +279,8 @@
                 "C": "Joint swelling only",
                 "D": "High cholesterol only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-024",
@@ -291,8 +291,8 @@
                 "C": "Cardiac valve function",
                 "D": "Blood pressure regulation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-025",
@@ -303,8 +303,8 @@
                 "C": "Reduced workload on heart",
                 "D": "Improved circulation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-026",
@@ -315,8 +315,8 @@
                 "C": "Pericarditis",
                 "D": "Hypertension"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SCEN-027",
@@ -327,8 +327,8 @@
                 "C": "Blood clotting time only",
                 "D": "Lung function"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-028",
@@ -339,8 +339,8 @@
                 "C": "Hearing loss",
                 "D": "Abdominal pain"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-029",
@@ -351,8 +351,8 @@
                 "C": "Creatinine",
                 "D": "Sodium"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-030",
@@ -363,8 +363,8 @@
                 "C": "Oxygen",
                 "D": "Protein"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-031",
@@ -375,8 +375,8 @@
                 "C": "Bone pain",
                 "D": "Increased appetite"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-032",
@@ -387,8 +387,8 @@
                 "C": "A type of heart sound",
                 "D": "A blood pressure abnormality"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-033",
@@ -399,8 +399,8 @@
                 "C": "Blood glucose test",
                 "D": "Pulmonary function test"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-034",
@@ -411,8 +411,8 @@
                 "C": "Influenza virus",
                 "D": "Malaria parasite"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-035",
@@ -423,8 +423,8 @@
                 "C": "Reduce red blood cells",
                 "D": "Stop all medications"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-036",
@@ -435,8 +435,8 @@
                 "C": "Reduced infection risk",
                 "D": "Increased blood volume only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-037",
@@ -447,8 +447,8 @@
                 "C": "Blood loss",
                 "D": "Low oxygen production"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-038",
@@ -459,8 +459,8 @@
                 "C": "Blood sugar control",
                 "D": "Liver size"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-039",
@@ -471,8 +471,8 @@
                 "C": "Increased flexibility",
                 "D": "No muscle fibers"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-040",
@@ -483,8 +483,8 @@
                 "C": "Skin burns",
                 "D": "Bone fractures"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-041",
@@ -495,8 +495,8 @@
                 "C": "Valve disappearance",
                 "D": "Pericardial removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-042",
@@ -507,8 +507,8 @@
                 "C": "Heart rhythm pattern",
                 "D": "Number of blood cells"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-043",
@@ -519,8 +519,8 @@
                 "C": "Vision only",
                 "D": "Bone density"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-044",
@@ -531,8 +531,8 @@
                 "C": "Valve movement",
                 "D": "Blood cell formation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-045",
@@ -543,8 +543,8 @@
                 "C": "Decrease oxygen delivery",
                 "D": "Stop circulation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-046",
@@ -555,8 +555,8 @@
                 "C": "High platelet production",
                 "D": "Increased blood pressure"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-047",
@@ -567,8 +567,8 @@
                 "C": "Blood becomes infectious",
                 "D": "Valves close permanently"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-048",
@@ -579,8 +579,8 @@
                 "C": "Joint swelling only",
                 "D": "High cholesterol only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-049",
@@ -591,8 +591,8 @@
                 "C": "Cardiac valve function",
                 "D": "Blood pressure regulation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SCEN-050",
@@ -603,8 +603,6 @@
                 "C": "Reduced workload on heart",
                 "D": "Improved circulation"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"     
+}]
 }

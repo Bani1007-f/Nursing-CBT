@@ -258,6 +258,39 @@ function loginUser(
 
 
 // ============================================
+// VERIFY CURRENT PASSWORD
+// ============================================
+
+function verifyUserPassword(
+    userId,
+    password
+) {
+
+    if (
+        typeof password !== "string" ||
+        !password
+    ) {
+        return false;
+    }
+
+    const user = db.prepare(`
+        SELECT password_hash
+        FROM users
+        WHERE id = ?
+    `).get(userId);
+
+    if (!user) {
+        return false;
+    }
+
+    return bcrypt.compareSync(
+        password,
+        user.password_hash
+    );
+
+}
+
+// ============================================
 // GET USER
 // ============================================
 
@@ -270,6 +303,7 @@ function getUserById(
             id,
             name,
             email,
+            role,
             created_at
         FROM users
         WHERE id = ?
@@ -277,6 +311,28 @@ function getUserById(
 
 }
 
+// ============================================
+// RESET USER PASSWORD
+// ============================================
+
+function resetUserPassword(userId, newPassword) {
+    if (
+        typeof newPassword !== "string" ||
+        newPassword.length < 6
+    ) {
+        return false;
+    }
+
+    const passwordHash = bcrypt.hashSync(newPassword, 12);
+
+    const result = db.prepare(`
+        UPDATE users
+        SET password_hash = ?
+        WHERE id = ?
+    `).run(passwordHash, userId);
+
+    return result.changes > 0;
+}
 
 module.exports = {
 
@@ -284,6 +340,9 @@ module.exports = {
 
     loginUser,
 
-    getUserById
+    getUserById,
+    
+    verifyUserPassword,
+    resetUserPassword
 
 };

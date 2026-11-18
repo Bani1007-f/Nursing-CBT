@@ -542,59 +542,7 @@ function buildQuestionReview() {
             );
 
 
-            // ==================================
-            // EXPLANATION
-            // ==================================
-
-            if (
-                question.explanation
-            ) {
-
-                const explanation =
-                    document.createElement(
-                        "div"
-                    );
-
-
-                explanation.className =
-                    "review-explanation";
-
-
-                const explanationTitle =
-                    document.createElement(
-                        "strong"
-                    );
-
-
-                explanationTitle.textContent =
-                    "Explanation";
-
-
-                const explanationText =
-                    document.createElement(
-                        "p"
-                    );
-
-
-                explanationText.textContent =
-                    question.explanation;
-
-
-                explanation.appendChild(
-                    explanationTitle
-                );
-
-
-                explanation.appendChild(
-                    explanationText
-                );
-
-
-                card.appendChild(
-                    explanation
-                );
-
-            }
+           
 
 
             card.insertBefore(

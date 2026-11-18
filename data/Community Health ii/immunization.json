@@ -14,8 +14,8 @@
                 "C": "Surgical intervention",
                 "D": "Diagnostic test"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "IMMU-002",
@@ -26,8 +26,8 @@
                 "C": "1984",
                 "D": "1994"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "IMMU-003",
@@ -38,8 +38,8 @@
                 "C": "National Child Survival Programme",
                 "D": "National Disease Registry"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-004",
@@ -50,8 +50,8 @@
                 "C": "Received only Vitamin A",
                 "D": "Received only OPV"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "IMMU-005",
@@ -62,8 +62,8 @@
                 "C": "Measles and yellow fever",
                 "D": "Vitamin A and measles 2"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-006",
@@ -74,8 +74,8 @@
                 "C": "BCG and HepB only",
                 "D": "Vitamin A and measles 2"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-007",
@@ -86,8 +86,8 @@
                 "C": "Measles 1",
                 "D": "IPV only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-008",
@@ -98,8 +98,8 @@
                 "C": "Measles 1 and yellow fever",
                 "D": "Vitamin A only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-009",
@@ -110,8 +110,8 @@
                 "C": "A live vaccine",
                 "D": "An injectable vaccine"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "IMMU-010",
@@ -122,8 +122,8 @@
                 "C": "OPV0 only",
                 "D": "Vitamin A only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-011",
@@ -134,8 +134,8 @@
                 "C": "Penta 1 and PCV1",
                 "D": "Yellow fever only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-012",
@@ -146,8 +146,8 @@
                 "C": "HBV",
                 "D": "Bordetella pertussis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-013",
@@ -158,8 +158,8 @@
                 "C": "Blood only",
                 "D": "Mosquito bites"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-014",
@@ -170,8 +170,8 @@
                 "C": "IPV",
                 "D": "PCV"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-015",
@@ -182,8 +182,8 @@
                 "C": "HBV",
                 "D": "Hib"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-016",
@@ -194,8 +194,8 @@
                 "C": "Plasmodium",
                 "D": "Rubella virus"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-017",
@@ -206,8 +206,8 @@
                 "C": "Skin ulcer",
                 "D": "Lockjaw"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-018",
@@ -218,8 +218,8 @@
                 "C": "Rotavirus vaccine",
                 "D": "Yellow fever vaccine"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-019",
@@ -230,8 +230,8 @@
                 "C": "Tetanus",
                 "D": "Yellow fever"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-020",
@@ -242,8 +242,8 @@
                 "C": "BCG",
                 "D": "Measles vaccine"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-021",
@@ -254,8 +254,8 @@
                 "C": "Contaminated air only",
                 "D": "Food only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-022",
@@ -266,8 +266,8 @@
                 "C": "At 15 months",
                 "D": "At 2 years"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-023",
@@ -278,8 +278,8 @@
                 "C": "Polio",
                 "D": "Tuberculosis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-024",
@@ -290,8 +290,8 @@
                 "C": "Adults over 60 years",
                 "D": "Newborn boys"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-025",
@@ -302,8 +302,8 @@
                 "C": "Respiratory droplets",
                 "D": "Blood transfusion only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-026",
@@ -314,8 +314,8 @@
                 "C": "Hib bacteria",
                 "D": "HBV"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-027",
@@ -326,8 +326,8 @@
                 "C": "Ticks",
                 "D": "Dogs"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-028",
@@ -338,8 +338,8 @@
                 "C": "Mosquito bites",
                 "D": "Soil"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-029",
@@ -350,8 +350,8 @@
                 "C": "9 months",
                 "D": "15 months"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "IMMU-030",
@@ -362,8 +362,8 @@
                 "C": "15 months",
                 "D": "18 months"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "IMMU-031",
@@ -374,8 +374,8 @@
                 "C": "Corynebacterium diphtheriae",
                 "D": "Mycobacterium tuberculosis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-032",
@@ -386,8 +386,8 @@
                 "C": "Lockjaw",
                 "D": "Parotitis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-033",
@@ -398,8 +398,8 @@
                 "C": "Pseudomembrane",
                 "D": "Acute flaccid paralysis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-034",
@@ -410,8 +410,8 @@
                 "C": "PCV",
                 "D": "OPV"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-035",
@@ -422,8 +422,8 @@
                 "C": "German measles",
                 "D": "Yellow fever"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-036",
@@ -434,8 +434,8 @@
                 "C": "Measles vaccine",
                 "D": "Yellow fever vaccine"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-037",
@@ -446,8 +446,8 @@
                 "C": "Only diarrhoea",
                 "D": "Only jaundice"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-038",
@@ -458,8 +458,8 @@
                 "C": "9 and 15 months",
                 "D": "6 and 12 months"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "IMMU-039",
@@ -470,8 +470,8 @@
                 "C": "HBV",
                 "D": "Hib"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-040",
@@ -482,8 +482,8 @@
                 "C": "Mosquito route",
                 "D": "Sexual route only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-041",
@@ -494,8 +494,8 @@
                 "C": "Lockjaw",
                 "D": "Parotitis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-042",
@@ -506,8 +506,8 @@
                 "C": "Subcutaneous toxoid",
                 "D": "Intradermal vaccine"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-043",
@@ -518,8 +518,8 @@
                 "C": "Intradermal BCG vaccine",
                 "D": "Live measles vaccine"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-044",
@@ -530,8 +530,8 @@
                 "C": "Birth and 9 months",
                 "D": "14 and 15 months"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-045",
@@ -542,8 +542,8 @@
                 "C": "Watery diarrhoea",
                 "D": "Pseudomembrane"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-046",
@@ -554,8 +554,8 @@
                 "C": "Parotid swelling",
                 "D": "Cough"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-047",
@@ -566,8 +566,8 @@
                 "C": "9 months",
                 "D": "15 months"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "IMMU-048",
@@ -578,8 +578,8 @@
                 "C": "Stolen",
                 "D": "Expired"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-049",
@@ -590,8 +590,8 @@
                 "C": "Zero report",
                 "D": "Defaulter visit"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMMU-050",
@@ -602,8 +602,5 @@
                 "C": "Giving only Vitamin A",
                 "D": "Vaccinating only during outbreaks"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"    } ]
 }

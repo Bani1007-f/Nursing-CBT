@@ -14,8 +14,8 @@
                 "C": "Cartilaginous organ",
                 "D": "Fatty organ"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-002",
@@ -26,8 +26,8 @@
                 "C": "Thoracic cavity",
                 "D": "Perineum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-003",
@@ -38,8 +38,8 @@
                 "C": "Ovary and urethra",
                 "D": "Rectum and anus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-004",
@@ -50,8 +50,8 @@
                 "C": "15 × 10 × 7 cm",
                 "D": "30 × 23 × 20 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-005",
@@ -62,8 +62,8 @@
                 "C": "56–60 g",
                 "D": "900–1000 g"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-006",
@@ -74,8 +74,8 @@
                 "C": "Horizontal and retroverted",
                 "D": "Vertical and retroflexed"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-007",
@@ -86,8 +86,8 @@
                 "C": "Rotating sideways",
                 "D": "Descending into the vagina"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-008",
@@ -98,8 +98,8 @@
                 "C": "Rotating laterally",
                 "D": "Descending into the pelvis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-009",
@@ -110,8 +110,8 @@
                 "C": "Retroverted",
                 "D": "Prolapsed"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-010",
@@ -122,8 +122,8 @@
                 "C": "Vagina",
                 "D": "Isthmus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-011",
@@ -134,8 +134,8 @@
                 "C": "Cervix",
                 "D": "Cornu"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-012",
@@ -146,8 +146,8 @@
                 "C": "Isthmus",
                 "D": "External os"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-013",
@@ -158,8 +158,8 @@
                 "C": "Square",
                 "D": "Irregularly spherical"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-014",
@@ -170,8 +170,8 @@
                 "C": "Centre of the vagina",
                 "D": "Fundus only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-015",
@@ -182,8 +182,8 @@
                 "C": "Within the vagina",
                 "D": "Inside the fallopian tube"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-016",
@@ -194,8 +194,8 @@
                 "C": "Cervical plug",
                 "D": "Placenta"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-017",
@@ -206,8 +206,8 @@
                 "C": "Vagina and ovary",
                 "D": "Uterus and fallopian tube"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-018",
@@ -218,8 +218,8 @@
                 "C": "2.5 cm long",
                 "D": "7.5 cm long"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-019",
@@ -230,8 +230,8 @@
                 "C": "External cervix",
                 "D": "Intravaginal canal"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-020",
@@ -242,8 +242,8 @@
                 "C": "Fundus",
                 "D": "Cornu"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-021",
@@ -254,8 +254,8 @@
                 "C": "Endometrium",
                 "D": "Adventitia"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-022",
@@ -266,8 +266,8 @@
                 "C": "Perimetrium",
                 "D": "Epimetrium"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-023",
@@ -278,8 +278,8 @@
                 "C": "Perimetrium",
                 "D": "Submucosa"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-024",
@@ -290,8 +290,8 @@
                 "C": "Fertilization",
                 "D": "Implantation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-025",
@@ -302,8 +302,8 @@
                 "C": "2026-01-01T22:59:25.000Z",
                 "D": "2026-07-07T22:59:25.000Z"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "UTER-026",
@@ -314,8 +314,8 @@
                 "C": "A mucus-producing layer",
                 "D": "A glandular layer"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-027",
@@ -326,8 +326,8 @@
                 "C": "Third stage of labour",
                 "D": "Fourth week of pregnancy"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-028",
@@ -338,8 +338,8 @@
                 "C": "Vagina",
                 "D": "Isthmus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-029",
@@ -350,8 +350,8 @@
                 "C": "Produce ova",
                 "D": "Cause menstruation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-030",
@@ -362,8 +362,8 @@
                 "C": "Ovarian ligaments",
                 "D": "Suspensory ligaments"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-031",
@@ -374,8 +374,8 @@
                 "C": "Ovulation",
                 "D": "Cervical dilation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-032",
@@ -386,8 +386,8 @@
                 "C": "LH",
                 "D": "Prolactin"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-033",
@@ -398,8 +398,8 @@
                 "C": "Cervical canal",
                 "D": "Fundus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-034",
@@ -410,8 +410,8 @@
                 "C": "7 cm",
                 "D": "12 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-035",
@@ -422,8 +422,8 @@
                 "C": "Fundus and cervix",
                 "D": "Cornua and fundus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-036",
@@ -434,8 +434,8 @@
                 "C": "Perimetrium",
                 "D": "Cervical plug"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-037",
@@ -446,8 +446,8 @@
                 "C": "Completely absent",
                 "D": "Keratinized"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-038",
@@ -458,8 +458,8 @@
                 "C": "Absence of secretions",
                 "D": "Reduced glandular activity"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-039",
@@ -470,8 +470,8 @@
                 "C": "Transverse",
                 "D": "Horizontal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-040",
@@ -482,8 +482,8 @@
                 "C": "Vagina only",
                 "D": "Fallopian tube"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-041",
@@ -494,8 +494,8 @@
                 "C": "Vagina",
                 "D": "External os"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-042",
@@ -506,8 +506,8 @@
                 "C": "Vagina and urethra",
                 "D": "Perineal body"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-043",
@@ -518,8 +518,8 @@
                 "C": "Both hypertrophy and hyperplasia",
                 "D": "Atrophy"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-044",
@@ -530,8 +530,8 @@
                 "C": "Destruction of cells",
                 "D": "Loss of muscle fibres"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-045",
@@ -542,8 +542,8 @@
                 "C": "10 times",
                 "D": "20 times"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-046",
@@ -554,8 +554,8 @@
                 "C": "5 times",
                 "D": "10 times"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-047",
@@ -566,8 +566,8 @@
                 "C": "Contractions occurring only after delivery",
                 "D": "Contractions of the cervix"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-048",
@@ -578,8 +578,8 @@
                 "C": "Vagina",
                 "D": "Bladder"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-049",
@@ -590,8 +590,8 @@
                 "C": "Cervical closure",
                 "D": "Placental separation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-050",
@@ -602,8 +602,8 @@
                 "C": "Remains unchanged",
                 "D": "Becomes completely relaxed"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-051",
@@ -614,8 +614,8 @@
                 "C": "Complete relaxation",
                 "D": "Cervical closure"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-052",
@@ -626,8 +626,8 @@
                 "C": "Cervix upward only",
                 "D": "Bladder downward"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-053",
@@ -638,8 +638,8 @@
                 "C": "At the same time as the external os",
                 "D": "Only after delivery"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-054",
@@ -650,8 +650,8 @@
                 "C": "Triangular",
                 "D": "Completely closed"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-055",
@@ -662,8 +662,8 @@
                 "C": "Hegar's ring",
                 "D": "Waldeyer's ring"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-056",
@@ -674,8 +674,8 @@
                 "C": "Third stage",
                 "D": "Fourth stage"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-057",
@@ -686,8 +686,8 @@
                 "C": "Completely painless",
                 "D": "Irregular and ineffective"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-058",
@@ -698,8 +698,8 @@
                 "C": "Remains unchanged",
                 "D": "Doubles in size"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-059",
@@ -710,8 +710,8 @@
                 "C": "Cervix",
                 "D": "Fundus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-060",
@@ -722,8 +722,8 @@
                 "C": "Absorbed",
                 "D": "Retained permanently"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-061",
@@ -734,8 +734,8 @@
                 "C": "Dilating arteries",
                 "D": "Increasing placental size"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-062",
@@ -746,8 +746,8 @@
                 "C": "20 × 15 × 10 cm",
                 "D": "5 × 5 × 3 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-063",
@@ -758,8 +758,8 @@
                 "C": "Ovulation",
                 "D": "Proliferative phase"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-064",
@@ -770,8 +770,8 @@
                 "C": "6 weeks",
                 "D": "12 weeks"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "UTER-065",
@@ -782,8 +782,8 @@
                 "C": "At the pubic symphysis",
                 "D": "At the vaginal opening"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-066",
@@ -794,8 +794,8 @@
                 "C": "Cervical closure only",
                 "D": "Ovulation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-067",
@@ -806,8 +806,8 @@
                 "C": "Completely vertical",
                 "D": "Prolapsed"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-068",
@@ -818,8 +818,8 @@
                 "C": "Urine",
                 "D": "Amniotic fluid"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "UTER-069",
@@ -830,8 +830,8 @@
                 "C": "Cervical cancer",
                 "D": "Breast engorgement only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "UTER-070",
@@ -842,8 +842,6 @@
                 "C": "FSH",
                 "D": "Prolactin"
             },
-            "answer": "B",
-            "explanation": null
-        }
-    ]
+            "answer": "B"    
+        } ]
 }

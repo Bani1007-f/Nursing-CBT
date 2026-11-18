@@ -14,8 +14,8 @@
                 "C": "19%",
                 "D": "35%"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CW-002",
@@ -26,8 +26,8 @@
                 "C": "110 per 1,000",
                 "D": "201 per 1,000"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CW-003",
@@ -38,8 +38,8 @@
                 "C": "110 per 1,000",
                 "D": "201 per 1,000"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-004",
@@ -50,8 +50,8 @@
                 "C": "2025–2029",
                 "D": "2026–2030"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CW-005",
@@ -62,8 +62,8 @@
                 "C": "5–10 years",
                 "D": "10–19 years"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CW-006",
@@ -74,8 +74,8 @@
                 "C": "Hospital-only",
                 "D": "Private-sector only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CW-007",
@@ -86,8 +86,8 @@
                 "C": "School examinations",
                 "D": "Industrial development"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-008",
@@ -98,8 +98,8 @@
                 "C": "Limiting partnerships",
                 "D": "Avoiding monitoring"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-009",
@@ -110,8 +110,8 @@
                 "C": "Hospital admission",
                 "D": "Medication pricing only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-010",
@@ -122,8 +122,8 @@
                 "C": "Rich, poor and middle-income",
                 "D": "Federal, state and local"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CW-011",
@@ -134,8 +134,8 @@
                 "C": "172",
                 "D": "272"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CW-012",
@@ -146,8 +146,8 @@
                 "C": "Only census maps",
                 "D": "Only hospital invoices"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-013",
@@ -158,8 +158,8 @@
                 "C": "Household income only",
                 "D": "Vaccination cards only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-014",
@@ -170,8 +170,8 @@
                 "C": "Agricultural sector",
                 "D": "Transport system"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-015",
@@ -182,8 +182,8 @@
                 "C": "Maternal morbidity only",
                 "D": "Road traffic injuries only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-016",
@@ -194,8 +194,8 @@
                 "C": "Hospital costs only",
                 "D": "School absenteeism"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-017",
@@ -206,8 +206,8 @@
                 "C": "Hospital infections only",
                 "D": "Adult unemployment"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-018",
@@ -218,8 +218,8 @@
                 "C": "Only health workers",
                 "D": "Only hospital administrators"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-019",
@@ -230,8 +230,8 @@
                 "C": "Reduce referral capacity",
                 "D": "Increase financial barriers"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-020",
@@ -242,8 +242,8 @@
                 "C": "Only disease reporting",
                 "D": "Only hospital admission"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-021",
@@ -254,8 +254,8 @@
                 "C": "Diagnose every illness",
                 "D": "Manage national budgets"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-022",
@@ -266,8 +266,8 @@
                 "C": "Laboratory staff",
                 "D": "Policy makers only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-023",
@@ -278,8 +278,8 @@
                 "C": "School and factory",
                 "D": "Laboratory and pharmacy only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-024",
@@ -290,8 +290,8 @@
                 "C": "Manage national procurement",
                 "D": "Replace all nurses"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-025",
@@ -302,8 +302,8 @@
                 "C": "Only transport",
                 "D": "Only construction"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-026",
@@ -314,8 +314,8 @@
                 "C": "Only hospital staff",
                 "D": "Only school children"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-027",
@@ -326,8 +326,8 @@
                 "C": "Only transport",
                 "D": "Only food"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-028",
@@ -338,8 +338,8 @@
                 "C": "Hospital-only",
                 "D": "Unaffordable"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-029",
@@ -350,8 +350,8 @@
                 "C": "Delayed referrals",
                 "D": "Reduced immunization"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CW-030",
@@ -362,8 +362,6 @@
                 "C": "Delay referrals",
                 "D": "Stop routine immunization"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"   
+        }  ]
 }

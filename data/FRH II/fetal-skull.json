@@ -14,8 +14,8 @@
                 "C": "Fetal abdomen",
                 "D": "Fetal pelvis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-002",
@@ -26,8 +26,8 @@
                 "C": "It replaces abdominal examination",
                 "D": "It measures maternal temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-003",
@@ -38,8 +38,8 @@
                 "C": "95%",
                 "D": "100%"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-004",
@@ -50,8 +50,8 @@
                 "C": "Vault, pelvis and face",
                 "D": "Base, neck and vault"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-005",
@@ -62,8 +62,8 @@
                 "C": "Vault",
                 "D": "Mandible"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-006",
@@ -74,8 +74,8 @@
                 "C": "6",
                 "D": "8"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-007",
@@ -86,8 +86,8 @@
                 "C": "Hyperextension",
                 "D": "Facial paralysis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-008",
@@ -98,8 +98,8 @@
                 "C": "Side",
                 "D": "Floor of the mouth"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-009",
@@ -110,8 +110,8 @@
                 "C": "At the chin",
                 "D": "At the base of the neck"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-010",
@@ -122,8 +122,8 @@
                 "C": "Vertex only",
                 "D": "Base of the skull"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-011",
@@ -134,8 +134,8 @@
                 "C": "8 years",
                 "D": "18 years"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-012",
@@ -146,8 +146,8 @@
                 "C": "Sagittal",
                 "D": "Lambdoidal"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "FS-013",
@@ -158,8 +158,8 @@
                 "C": "Frontal",
                 "D": "Lambdoidal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-014",
@@ -170,8 +170,8 @@
                 "C": "Two temporal bones",
                 "D": "Face and base"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-015",
@@ -182,8 +182,8 @@
                 "C": "The occiput and parietals",
                 "D": "The temporal bones"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-016",
@@ -194,8 +194,8 @@
                 "C": "Frontal",
                 "D": "Lambdoidal"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-017",
@@ -206,8 +206,8 @@
                 "C": "The mandible and maxilla",
                 "D": "The sacrum and coccyx"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-018",
@@ -218,8 +218,8 @@
                 "C": "Triangular",
                 "D": "Oval"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-019",
@@ -230,8 +230,8 @@
                 "C": "Glabella",
                 "D": "Mentum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-020",
@@ -242,8 +242,8 @@
                 "C": "Sagittal and frontal sutures",
                 "D": "Temporal and coronal sutures"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-021",
@@ -254,8 +254,8 @@
                 "C": "12 months",
                 "D": "18 months"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-022",
@@ -266,8 +266,8 @@
                 "C": "Mentum",
                 "D": "Glabella"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-023",
@@ -278,8 +278,8 @@
                 "C": "Circular",
                 "D": "Kidney-shaped"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-024",
@@ -290,8 +290,8 @@
                 "C": "Coronal and lambdoidal sutures",
                 "D": "Temporal and frontal sutures"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-025",
@@ -302,8 +302,8 @@
                 "C": "12 months",
                 "D": "18 months"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "FS-026",
@@ -314,8 +314,8 @@
                 "C": "Temporal fontanelle",
                 "D": "Mastoid fontanelle"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-027",
@@ -326,8 +326,8 @@
                 "C": "Bregma and glabella only",
                 "D": "Occiput and foramen magnum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-028",
@@ -338,8 +338,8 @@
                 "C": "Foramen magnum",
                 "D": "Posterior fontanelle"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-029",
@@ -350,8 +350,8 @@
                 "C": "Glabella",
                 "D": "Bregma"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-030",
@@ -362,8 +362,8 @@
                 "C": "Vertex",
                 "D": "Parietal bones"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-031",
@@ -374,8 +374,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-032",
@@ -386,8 +386,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-033",
@@ -398,8 +398,8 @@
                 "C": "10 cm",
                 "D": "11.5 cm"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "FS-034",
@@ -410,8 +410,8 @@
                 "C": "Mento-vertical",
                 "D": "Bitemporal"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-035",
@@ -422,8 +422,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "FS-036",
@@ -434,8 +434,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-037",
@@ -446,8 +446,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-038",
@@ -458,8 +458,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-039",
@@ -470,8 +470,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-040",
@@ -482,8 +482,8 @@
                 "C": "Mento-vertical",
                 "D": "Occipito-frontal"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-041",
@@ -494,8 +494,8 @@
                 "C": "Descent of the placenta",
                 "D": "Dilatation of the cervix"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-042",
@@ -506,8 +506,8 @@
                 "C": "It determines fetal sex",
                 "D": "It determines placental site"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-043",
@@ -518,8 +518,8 @@
                 "C": "Pointing toward the sacrum",
                 "D": "At maximum extension"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-044",
@@ -530,8 +530,8 @@
                 "C": "Chin",
                 "D": "Brow"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-045",
@@ -542,8 +542,8 @@
                 "C": "Sub-occipito-bregmatic",
                 "D": "Bitemporal"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-046",
@@ -554,8 +554,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-047",
@@ -566,8 +566,8 @@
                 "C": "9.5 cm and 9.5 cm",
                 "D": "10 cm and 13.5 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-048",
@@ -578,8 +578,8 @@
                 "C": "Mento-vertical",
                 "D": "Bitemporal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-049",
@@ -590,8 +590,8 @@
                 "C": "Hyperflexed attitude",
                 "D": "Mentum attitude"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-050",
@@ -602,8 +602,8 @@
                 "C": "Sinciput",
                 "D": "Mentum"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-051",
@@ -614,8 +614,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-052",
@@ -626,8 +626,8 @@
                 "C": "Always become face presentation",
                 "D": "Always require caesarean section"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-053",
@@ -638,8 +638,8 @@
                 "C": "Face presentation",
                 "D": "Shoulder presentation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-054",
@@ -650,8 +650,8 @@
                 "C": "Occipito-frontal",
                 "D": "Biparietal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-055",
@@ -662,8 +662,8 @@
                 "C": "11.5 cm",
                 "D": "13.5 cm"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-056",
@@ -674,8 +674,8 @@
                 "C": "Mentotransverse",
                 "D": "Occipitoposterior"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-057",
@@ -686,8 +686,8 @@
                 "C": "Pubic bone",
                 "D": "Coccyx"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-058",
@@ -698,8 +698,8 @@
                 "C": "Cannot descend",
                 "D": "Is the least common face position"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-059",
@@ -710,8 +710,8 @@
                 "C": "Left hip only",
                 "D": "Right hip only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-060",
@@ -722,8 +722,8 @@
                 "C": "More favourable than mentoanterior",
                 "D": "Unrelated to delivery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-061",
@@ -734,8 +734,8 @@
                 "C": "Side/hip",
                 "D": "Umbilicus"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-062",
@@ -746,8 +746,8 @@
                 "C": "The same as vertex presentation",
                 "D": "Always associated with brow presentation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-063",
@@ -758,8 +758,8 @@
                 "C": "Face presentation",
                 "D": "Mentoanterior position"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-064",
@@ -770,8 +770,8 @@
                 "C": "Always guaranteed",
                 "D": "Independent of presentation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-065",
@@ -782,8 +782,8 @@
                 "C": "Descent of the placenta",
                 "D": "Opening of the fetal chest"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-066",
@@ -794,8 +794,8 @@
                 "C": "Become rigid during labour",
                 "D": "Move the sacrum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-067",
@@ -806,8 +806,8 @@
                 "C": "Facial bones",
                 "D": "Mandible"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-068",
@@ -818,8 +818,8 @@
                 "C": "Bones overlap and cannot be separated",
                 "D": "Bones are fractured"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-069",
@@ -830,8 +830,8 @@
                 "C": "Bones overlap and cannot be separated",
                 "D": "No sutures can be felt"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-070",
@@ -842,8 +842,8 @@
                 "C": "Bones overlap and cannot be separated easily",
                 "D": "The fontanelle is closed"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FS-071",
@@ -854,8 +854,8 @@
                 "C": "Immediate delivery is certain",
                 "D": "Fetal maturity"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-072",
@@ -866,8 +866,8 @@
                 "C": "No sutures",
                 "D": "A fused frontal bone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-073",
@@ -878,8 +878,8 @@
                 "C": "Increased pelvic diameter",
                 "D": "Maternal hyperglycaemia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-074",
@@ -890,8 +890,8 @@
                 "C": "Placental growth",
                 "D": "Increased liquor volume"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-075",
@@ -902,8 +902,8 @@
                 "C": "Weight",
                 "D": "Sex"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-076",
@@ -914,8 +914,8 @@
                 "C": "Rigidly fused at birth",
                 "D": "Always delivered last"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FS-077",
@@ -926,8 +926,8 @@
                 "C": "A brow presentation",
                 "D": "A transverse lie"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-078",
@@ -938,8 +938,8 @@
                 "C": "Evidence of a mature placenta",
                 "D": "Evidence of polyhydramnios"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-079",
@@ -950,8 +950,8 @@
                 "C": "Occipito-frontal and biparietal diameters",
                 "D": "Sub-mento-vertical and bitemporal diameters"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FS-080",
@@ -962,8 +962,6 @@
                 "C": "Deflexed vertex",
                 "D": "Shoulder presentation"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"    
+        } ]
 }

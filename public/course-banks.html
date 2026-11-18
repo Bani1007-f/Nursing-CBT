@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course & Bank Manager | NURSING 4D PREP</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+    <style>
+        .bank-manager {
+            max-width: 1100px;
+            margin: 35px auto;
+            padding: 0 20px 50px;
+        }
+        .manager-heading {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            margin-bottom: 25px;
+        }
+        .manager-heading h1 { margin-bottom: 6px; }
+        .manager-panel {
+            background: var(--card-bg, #fff);
+            border: 1px solid var(--border-color, #ddd);
+            border-radius: 12px;
+            padding: 22px;
+            margin-bottom: 22px;
+        }
+        .manager-panel h2 { margin-top: 0; }
+        .folder-create {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .folder-create input { flex: 1; min-width: 180px; }
+        .course-list {
+            display: grid;
+            gap: 14px;
+        }
+        .course-card {
+            border: 1px solid var(--border-color, #ddd);
+            border-radius: 10px;
+            padding: 16px;
+            display: grid;
+            grid-template-columns: minmax(180px, 1fr) minmax(200px, 0.8fr) auto;
+            align-items: center;
+            gap: 16px;
+        }
+        .course-card h3 { margin: 0 0 5px; }
+        .course-meta {
+            font-size: 0.85rem;
+            opacity: 0.7;
+        }
+        .course-card select, .folder-create input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid var(--border-color, #ccc);
+            border-radius: 7px;
+            background: var(--input-bg, #fff);
+            color: inherit;
+        }
+        .manager-button {
+            padding: 10px 15px;
+            border: 0;
+            border-radius: 7px;
+            cursor: pointer;
+            background: var(--primary-color, #176b65);
+            color: white;
+        }
+        .manager-button.secondary {
+            background: #68747d;
+        }
+        .manager-message {
+            margin: 14px 0;
+            font-weight: 600;
+        }
+        .folder-summary {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 12px;
+        }
+        .folder-chip {
+            border: 1px solid var(--border-color, #ddd);
+            border-radius: 20px;
+            padding: 6px 11px;
+            font-size: 0.85rem;
+        }
+        @media (max-width: 700px) {
+            .course-card {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="topbar">
+        <a href="/" class="logo">
+    <img
+        src="images/nursing-4d-prep.svg"
+        alt="Nursing 4D Prep - Learn. Practise. Prepare."
+    >
+</a>
+        <nav id="main-nav"></nav>
+    </header>
+
+    <main class="bank-manager">
+        <div class="manager-heading">
+            <div>
+                <h1>Course & Bank Manager</h1>
+                <p>Connect your curriculum courses to their question-bank folders.</p>
+            </div>
+            <a href="upload.html">Back to Upload Questions</a>
+        </div>
+
+        <section class="manager-panel">
+            <h2>Create a Question-Bank Folder</h2>
+            <p>Create a physical folder inside your <code>data</code> directory.</p>
+            <form id="create-folder-form" class="folder-create">
+                <input id="folder-name" type="text" maxlength="80"
+                       placeholder="e.g. Pharmacology" required>
+                <button class="manager-button" type="submit">Create Folder</button>
+            </form>
+            <div id="folder-message" class="manager-message" role="status"></div>
+            <div id="folder-summary" class="folder-summary"></div>
+        </section>
+
+        <section class="manager-panel">
+            <h2>Curriculum Course Assignments</h2>
+            <p>Choose the folder that contains the question bank for each course. Select “Not assigned” to remove an assignment.</p>
+            <div id="manager-message" class="manager-message" role="status"></div>
+            <div id="course-list" class="course-list">Loading courses...</div>
+        </section>
+    </main>
+
+    <script src="js/navigation.js"></script>
+    <script src="js/course-banks.js"></script>
+</body>
+</html>

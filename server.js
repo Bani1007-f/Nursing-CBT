@@ -1,3 +1,4 @@
+require("dotenv").config();
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
@@ -26,11 +27,36 @@ app.use(
     })
 );
 
+function requireAdmin(req, res, next) {
+    if (!req.session.userId) {
+        return res.status(401).json({
+            error: "Login required."
+        });
+    }
+
+    const user = auth.getUserById(req.session.userId);
+
+    if (!user) {
+        return res.status(401).json({
+            error: "Session expired. Please log in again."
+        });
+    }
+
+    if (user.role !== "admin") {
+        return res.status(403).json({
+            error: "Admin access required."
+        });
+    }
+
+    req.user = user;
+    next();
+}
+
 // ============================================
 // SERVE WEBSITE
 // ============================================
 
-app.use(
+(
     express.static(
         path.join(__dirname, "public")
     )
@@ -311,10 +337,7 @@ function normalizeUploadedQuestion(question) {
                     .trim()
                     .toUpperCase(),
 
-            explanation:
-                question.Explanation ||
-                question.explanation ||
-                null
+          
 
         };
 
@@ -352,9 +375,7 @@ function normalizeUploadedQuestion(question) {
                     .trim()
                     .toUpperCase(),
 
-            explanation:
-                question.explanation ||
-                null
+           
 
         };
 
@@ -395,10 +416,7 @@ function normalizeUploadedQuestion(question) {
                     .trim()
                     .toUpperCase(),
 
-            explanation:
-                question.explanation ||
-                question.Explanation ||
-                null
+            
 
         };
 
@@ -1120,6 +1138,28 @@ app.get(
 
         const topic =
             req.query.topic;
+            const requestedCount =
+    req.query.count === undefined
+        ? null
+        : Number(req.query.count);
+
+const infoOnly = req.query.info === "1";
+
+if (
+    !infoOnly &&
+    requestedCount !== null &&
+    (
+        !Number.isInteger(requestedCount) ||
+        requestedCount < 10 ||
+        requestedCount % 10 !== 0
+    )
+) {
+    return res.status(400).json({
+        error: "Question count must be a multiple of 10, starting from 10."
+    });
+}
+
+
 
 
         // ========================================
@@ -1187,8 +1227,19 @@ app.get(
                     generalFiles
                 );
 
+                if (infoOnly) {
+    return res.json({
+        course,
+        topic,
+        totalAvailable: questions.length
+    });
+}
 
-            const questionLimit = 60;
+
+            const questionLimit =
+    requestedCount !== null
+        ? requestedCount
+        : questions.length;
 
 
             if (
@@ -1388,7 +1439,9 @@ app.get(
                     fullPath,
                     course,
                     topic,
-                    res
+                    res,
+                    requestedCount,
+                    infoOnly
                 );
 
             }
@@ -1402,7 +1455,9 @@ app.get(
                     fullPath,
                     course,
                     topic,
-                    res
+                    res,
+                    requestedCount,
+                    infoOnly
                 );
 
             }
@@ -1428,7 +1483,9 @@ function loadSingleTopicFile(
     filePath,
     course,
     topic,
-    res
+    res,
+    requestedCount = null,
+    infoOnly = false
 ) {
 
     let content;
@@ -1496,6 +1553,9 @@ function loadSingleTopicFile(
 
     }
 
+    if (requestedCount !== null) {
+    questionLimit = requestedCount;
+}
 
     // ========================================
     // QUESTIONS
@@ -1510,54 +1570,30 @@ function loadSingleTopicFile(
         )
     ) {
 
-        questions =
-    content.questions
-        .map(
-            (question, index) => {
+        questions = content.questions
+  .map((question, index) => {
+    const cleanedQuestion = cleanQuestion(
+      question,
+      filePath,
+      index
+    );
 
-                if (
-                    !validateQuestion(
-                        question
-                    )
-                ) {
+    if (!validateQuestion(cleanedQuestion)) return null;
 
-                    return null;
-
-                }
-
-
-                const cleanedQuestion =
-                    cleanQuestion(
-                        question
-                    );
-
-
-                if (
-                    !cleanedQuestion.id
-                ) {
-
-                    const fileName =
-                        path.basename(
-                            filePath,
-                            path.extname(filePath)
-                        );
-
-
-                    cleanedQuestion.id =
-                        `${slugify(fileName)}-${index + 1}`;
-
-                }
-
-
-                return cleanedQuestion;
-
-            }
-        )
-        .filter(Boolean);
+    return cleanedQuestion;
+  })
+  .filter(Boolean);
 
     }
 
 
+    if (infoOnly) {
+    return res.json({
+        course,
+        topic,
+        totalAvailable: questions.length
+    });
+}
     // ========================================
     // CHECK AVAILABILITY
     // ========================================
@@ -1621,7 +1657,9 @@ function loadFolderTopic(
     topicDirectory,
     course,
     topic,
-    res
+    res,
+    requestedCount = null,
+    infoOnly = false
 ) {
 
     let questionLimit = 20;
@@ -1686,6 +1724,10 @@ function loadFolderTopic(
 
     }
 
+    if (requestedCount !== null) {
+    questionLimit = requestedCount;
+}
+
 
     // ========================================
     // LOAD ALL QUESTION BANKS
@@ -1707,6 +1749,14 @@ function loadFolderTopic(
         loadQuestionsFromFiles(
             files
         );
+
+        if (infoOnly) {
+    return res.json({
+        course,
+        topic,
+        totalAvailable: questions.length
+    });
+}
 
 
     // ========================================
@@ -1890,61 +1940,51 @@ function loadQuestionsFromFiles(
 // CLEAN QUESTION
 // ============================================
 
-function cleanQuestion(
-    question
-) {
+function cleanQuestion(question, filePath, index) {
+  const fileName = path.basename(filePath, path.extname(filePath));
 
-    let questionId =
-        question.id;
+  // Keep an existing ID if one exists
+  const existingId =
+    question.id ??
+    question.ID ??
+    question.Id ??
+    null;
 
+  const id = existingId
+    ? String(existingId).trim()
+    : `${slugify(fileName)}-${index + 1}`;
 
-    if (!questionId) {
+  // Support both lowercase JSON and Excel-style uppercase fields
+  const questionText =
+    question.question ??
+    question.Question ??
+    null;
 
-        const source =
-            JSON.stringify({
+  let options = question.options;
 
-                question:
-                    question.question,
-
-                options:
-                    question.options,
-
-                answer:
-                    question.answer
-
-            });
-
-
-        questionId =
-            crypto
-                .createHash("sha256")
-                .update(source)
-                .digest("hex")
-                .slice(0, 16);
-
-    }
-
-
-    return {
-
-        id:
-            questionId,
-
-        question:
-            question.question,
-
-        options:
-            question.options,
-
-        answer:
-            question.answer,
-
-        explanation:
-            question.explanation ||
-            null
-
+  // If options are written as A/B/C/D directly
+  if (!options) {
+    options = {
+      A: question.A,
+      B: question.B,
+      C: question.C,
+      D: question.D
     };
+  }
 
+  const answer =
+    question.answer ??
+    question.Answer ??
+    null;
+
+ 
+
+  return {
+    id,
+    question: questionText,
+    options,
+    answer
+  };
 }
 
 
@@ -2151,16 +2191,69 @@ function slugify(
 }
 
 
+
 // ============================================
 // API: UPLOAD QUESTIONS
 // ============================================
 
 app.post(
     "/api/upload-questions",
+    requireAdmin,
     upload.single("questionFile"),
     (req, res) => {
 
         try {
+
+             // ========================================
+            // REQUIRE LOGIN
+            // ========================================
+
+            if (!req.session.userId) {
+
+                return res.status(401).json({
+
+                    error:
+                        "You must be logged in."
+
+                });
+
+            }
+
+
+            // ========================================
+            // REQUIRE ADMIN
+            // ========================================
+
+                const user =
+                auth.getUserById(
+                    req.session.userId
+                );
+
+
+            if (!user) {
+
+                return res.status(401).json({
+
+                    error:
+                        "User account not found."
+
+                });
+
+            }
+
+
+            if (
+                user.role !== "admin"
+            ) {
+
+                return res.status(403).json({
+
+                    error:
+                        "Administrator access required."
+
+                });
+
+            }
 
             // ========================================
             // CHECK FILE
@@ -3615,9 +3708,7 @@ function assignQuestionIds(
                 answer:
                     question.answer,
 
-                explanation:
-                    question.explanation ||
-                    null
+                
 
             };
 
@@ -3720,147 +3811,60 @@ function normalizeQuestionText(
 // FIND QUESTION BY ID
 // ============================================
 
-function findQuestionById(
-    course,
-    topic,
-    questionId
-) {
+function findQuestionById(course, topic, questionId) {
+  const courseDirectory = findDirectory(DATA_DIR, course);
 
-    const courseDirectory =
-        findDirectory(
-            DATA_DIR,
-            course
-        );
-
-
-    if (!courseDirectory) {
-
-        return null;
-
-    }
-
-
-   // ========================================
-    // RESOLVE TOPIC PATH
-    // ========================================
-
-    const topicParts =
-        topic
-            .split("/")
-            .filter(Boolean);
-
-
-    let topicDirectory =
-        courseDirectory;
-
-
-    for (
-        const part of topicParts
-    ) {
-
-        const entries =
-            fs.readdirSync(
-                topicDirectory,
-                {
-                    withFileTypes: true
-                }
-            );
-
-
-        const foundEntry =
-            entries.find(
-                entry =>
-                    slugify(
-                        entry.name.replace(
-                            /\.json$/i,
-                            ""
-                        )
-                    ) ===
-                    slugify(part)
-            );
-
-
-        if (!foundEntry) {
-
-            return null;
-
-        }
-
-
-        topicDirectory =
-            path.join(
-                topicDirectory,
-                foundEntry.name
-            );
-
-    }
-
-
-    // ========================================
-    // TOPIC IS A SINGLE JSON FILE
-    // ========================================
-
-    if (
-        fs.existsSync(topicDirectory) &&
-        fs.statSync(topicDirectory).isFile()
-    ) {
-
-        return findQuestionInFile(
-            topicDirectory,
-            questionId
-        );
-
-    }
-
-
-    // ========================================
-    // TOPIC IS A DIRECTORY
-    // ========================================
-
-    if (
-        !fs.existsSync(topicDirectory) ||
-        !fs.statSync(topicDirectory).isDirectory()
-    ) {
-
-        return null;
-
-    }
-
-
-    const files =
-        getJsonFiles(
-            topicDirectory
-        )
-        .filter(
-            file =>
-                path.basename(file)
-                    .toLowerCase() !==
-                "topic.json"
-        );
-
-
-    for (
-        const file of files
-    ) {
-
-        const question =
-            findQuestionInFile(
-                file,
-                questionId
-            );
-
-
-        if (question) {
-
-            return question;
-
-        }
-
-    }
-
-
+  if (!courseDirectory) {
     return null;
+  }
 
+  const topicPath = findDirectory(courseDirectory, topic);
+
+  if (!topicPath) {
+    return null;
+  }
+
+  const files = [];
+
+  // Topic itself may be a JSON file
+  if (fs.statSync(topicPath).isFile()) {
+    files.push(topicPath);
+  } else {
+    // Topic may be a directory containing question banks
+    const jsonFiles = getJsonFiles(topicPath);
+    files.push(...jsonFiles);
+  }
+
+  for (const filePath of files) {
+    try {
+      const content = JSON.parse(
+        fs.readFileSync(filePath, "utf8")
+      );
+
+      if (!Array.isArray(content.questions)) {
+        continue;
+      }
+
+      for (let index = 0; index < content.questions.length; index++) {
+        const cleanedQuestion = cleanQuestion(
+          content.questions[index],
+          filePath,
+          index
+        );
+
+        if (cleanedQuestion.id === String(questionId)) {
+          return cleanedQuestion;
+        }
+      }
+    } catch (error) {
+      console.error(
+        `Could not read ${filePath}:`,
+        error.message
+      );
+    }
+  }
+
+  return null;
 }
 
 // ============================================
@@ -4235,6 +4239,395 @@ app.post(
 
     }
 );
+
+// ============================================
+// REQUEST PASSWORD RESET
+// ============================================
+
+app.post("/api/auth/forgot-password", async (req, res) => {
+    const genericMessage =
+        "If an account exists with that email, a password reset link will be sent shortly.";
+
+    try {
+        const email =
+            typeof req.body.email === "string"
+                ? req.body.email.trim().toLowerCase()
+                : "";
+
+        if (!email) {
+            return res.status(400).json({
+                success: false,
+                error: "Please enter your email address."
+            });
+        }
+
+        const user = db.prepare(`
+            SELECT id, email
+            FROM users
+            WHERE email = ?
+        `).get(email);
+
+        // Do not reveal whether the email exists.
+        if (!user) {
+            return res.json({
+                success: true,
+                message: genericMessage
+            });
+        }
+
+        // Generate a secure, random token.
+        const token = crypto.randomBytes(32).toString("hex");
+
+        // Store only its SHA-256 hash.
+        const tokenHash = crypto
+            .createHash("sha256")
+            .update(token)
+            .digest("hex");
+
+        // Token expires after 30 minutes.
+        const expiresAt = Date.now() + (30 * 60 * 1000);
+
+        // Invalidate previous reset links for this user.
+        db.prepare(`
+            DELETE FROM password_reset_tokens
+            WHERE user_id = ?
+        `).run(user.id);
+
+        db.prepare(`
+            INSERT INTO password_reset_tokens (
+                user_id,
+                token_hash,
+                expires_at
+            )
+            VALUES (?, ?, ?)
+        `).run(user.id, tokenHash, expiresAt);
+
+        const baseUrl = process.env.APP_BASE_URL;
+
+        if (!baseUrl || !process.env.RESEND_API_KEY || !process.env.EMAIL_FROM) {
+            throw new Error("Password reset email configuration is missing.");
+        }
+
+        const resetUrl = new URL(
+            "/reset-password.html",
+            baseUrl
+        );
+
+        resetUrl.searchParams.set("token", token);
+
+        // Send the email through Resend.
+        const emailResponse = await fetch(
+            "https://api.resend.com/emails",
+            {
+                method: "POST",
+                headers: {
+                    Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    from: process.env.EMAIL_FROM,
+                    to: [user.email],
+                    subject: "Reset your Nursing CBT password",
+                    html: `
+                        <div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; line-height: 1.6;">
+                            <h2>Password reset request</h2>
+                            <p>We received a request to reset your Nursing CBT account password.</p>
+                            <p>Click below to create a new password:</p>
+                            <p>
+                                <a href="${resetUrl.toString()}" style="display: inline-block; background: #2563eb; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px;">
+                                    Reset Password
+                                </a>
+                            </p>
+                            <p>This link expires in 30 minutes and can only be used once.</p>
+                            <p>If you did not request this, you can ignore this email.</p>
+                        </div>
+                    `
+                })
+            }
+        );
+
+        if (!emailResponse.ok) {
+            const errorText = await emailResponse.text();
+            throw new Error(`Resend email error: ${errorText}`);
+        }
+
+        return res.json({
+            success: true,
+            message: genericMessage
+        });
+    } catch (error) {
+        console.error("Forgot password error:", error);
+
+        return res.status(500).json({
+            success: false,
+            error: "Something went wrong while sending your password reset email."
+        });
+    }
+});
+
+
+
+// ============================================
+// COMPLETE PASSWORD RESET
+// ============================================
+
+app.post("/api/auth/reset-password", (req, res) => {
+    try {
+        const { token, password, confirmPassword } = req.body;
+
+        if (
+            typeof token !== "string" ||
+            typeof password !== "string" ||
+            typeof confirmPassword !== "string"
+        ) {
+            return res.status(400).json({
+                success: false,
+                error: "Please complete all fields."
+            });
+        }
+
+        if (password.length < 6) {
+            return res.status(400).json({
+                success: false,
+                error: "Password must be at least 6 characters."
+            });
+        }
+
+        if (password !== confirmPassword) {
+            return res.status(400).json({
+                success: false,
+                error: "The passwords do not match."
+            });
+        }
+
+        const tokenHash = crypto
+            .createHash("sha256")
+            .update(token)
+            .digest("hex");
+
+        const resetRecord = db.prepare(`
+            SELECT id, user_id
+            FROM password_reset_tokens
+            WHERE token_hash = ?
+              AND expires_at > ?
+        `).get(tokenHash, Date.now());
+
+        if (!resetRecord) {
+            return res.status(400).json({
+                success: false,
+                error: "This reset link is invalid or has expired. Please request a new one."
+            });
+        }
+
+        const completeReset = db.transaction(() => {
+            const updated = auth.resetUserPassword(
+                resetRecord.user_id,
+                password
+            );
+
+            if (!updated) {
+                throw new Error("Could not update the password.");
+            }
+
+            db.prepare(`
+                DELETE FROM password_reset_tokens
+                WHERE user_id = ?
+            `).run(resetRecord.user_id);
+        });
+
+        completeReset();
+
+        return res.json({
+            success: true,
+            message: "Your password has been reset successfully."
+        });
+
+    } catch (error) {
+        console.error("Reset password error:", error);
+
+        return res.status(500).json({
+            success: false,
+            error: "Something went wrong. Please try again."
+        });
+    }
+});
+
+
+// ============================================
+// ADMIN: PROMOTE A REGISTERED USER
+// ============================================
+
+app.post(
+    "/api/admin/promote-user",
+    requireAdmin,
+    (req, res) => {
+        try {
+            const email = String(
+                req.body.email || ""
+            ).trim().toLowerCase();
+
+            if (!email) {
+                return res.status(400).json({
+                    success: false,
+                    error: "The user's email address is required."
+                });
+            }
+
+            const targetUser = db.prepare(`
+                SELECT id, name, email, role
+                FROM users
+                WHERE email = ?
+            `).get(email);
+
+            if (!targetUser) {
+                return res.status(404).json({
+                    success: false,
+                    error: "No registered user was found with that email address."
+                });
+            }
+
+            if (targetUser.role === "admin") {
+                return res.json({
+                    success: true,
+                    message: "This user is already an administrator.",
+                    user: targetUser
+                });
+            }
+
+            db.prepare(`
+                UPDATE users
+                SET role = 'admin'
+                WHERE id = ?
+            `).run(targetUser.id);
+
+            const updatedUser = auth.getUserById(
+                targetUser.id
+            );
+
+            return res.json({
+                success: true,
+                message: "User promoted to administrator successfully.",
+                user: updatedUser
+            });
+        } catch (error) {
+            console.error(
+                "Admin promotion error:",
+                error
+            );
+
+            return res.status(500).json({
+                success: false,
+                error: "Could not promote the user."
+            });
+        }
+    }
+);
+
+
+
+// ============================================
+// DELETE OWN ACCOUNT
+// ============================================
+
+app.delete(
+    "/api/auth/account",
+    async (req, res) => {
+
+        try {
+            // Require login
+            if (!req.session.userId) {
+                return res.status(401).json({
+                    success: false,
+                    error: "You must be logged in to delete your account."
+                });
+            }
+
+            const userId = req.session.userId;
+            const password = req.body.password;
+
+            // Confirm that the account still exists
+            const user = auth.getUserById(userId);
+
+            if (!user) {
+                return res.status(404).json({
+                    success: false,
+                    error: "Account not found."
+                });
+            }
+
+            // Require the current password
+            if (!auth.verifyUserPassword(userId, password)) {
+                return res.status(401).json({
+                    success: false,
+                    error: "The password you entered is incorrect."
+                });
+            }
+
+            // Prevent deletion of the last administrator
+            if (user.role === "admin") {
+                const adminCount = db.prepare(`
+                    SELECT COUNT(*) AS count
+                    FROM users
+                    WHERE role = 'admin'
+                `).get().count;
+
+                if (adminCount <= 1) {
+                    return res.status(403).json({
+                        success: false,
+                        error: "You cannot delete the last administrator account. Promote another user to administrator first."
+                    });
+                }
+            }
+
+            // Delete only the currently logged-in user's account
+            const result = db.prepare(`
+                DELETE FROM users
+                WHERE id = ?
+            `).run(userId);
+
+            if (result.changes !== 1) {
+                return res.status(404).json({
+                    success: false,
+                    error: "Account could not be found."
+                });
+            }
+
+            // End the user's session
+            req.session.destroy((error) => {
+                res.clearCookie("connect.sid");
+
+                if (error) {
+                    console.error(
+                        "Account deletion session error:",
+                        error
+                    );
+
+                    return res.status(500).json({
+                        success: false,
+                        error: "Your account was deleted, but the session could not be cleared completely."
+                    });
+                }
+
+                return res.json({
+                    success: true,
+                    message: "Your account has been deleted successfully."
+                });
+            });
+
+        } catch (error) {
+            console.error(
+                "Account deletion error:",
+                error
+            );
+
+            return res.status(500).json({
+                success: false,
+                error: "Could not delete your account."
+            });
+        }
+    }
+);
+
 
 // ============================================
 // SAVE TEST ATTEMPT
@@ -4739,10 +5132,7 @@ app.get(
                         ? question.options
                         : null,
 
-                explanation:
-                    question
-                        ? question.explanation
-                        : null,
+                
 
                 selectedAnswer:
                     result.selected_answer,
@@ -5039,9 +5429,172 @@ app.use(
 );
 
 
+
 // ============================================
 // START SERVER
 // ============================================
+
+app.get("/api/curriculum", (req, res) => {
+    try {
+        const curriculumPath = path.join(__dirname, "config", "curriculum.json");
+        const curriculum = JSON.parse(fs.readFileSync(curriculumPath, "utf8"));
+        res.json(curriculum);
+    } catch (error) {
+        console.error("Error loading curriculum:", error);
+        res.status(500).json({ error: "Could not load the nursing curriculum." });
+    }
+});
+
+
+// ============================================
+// ADMIN: COURSE & QUESTION BANK MANAGEMENT
+// ============================================
+
+function readCurriculumFile() {
+    const file = path.join(__dirname, "config", "curriculum.json");
+    return JSON.parse(fs.readFileSync(file, "utf8"));
+}
+
+function saveCurriculumFile(curriculum) {
+    const file = path.join(__dirname, "config", "curriculum.json");
+    const temp = file + ".tmp";
+
+    fs.writeFileSync(temp, JSON.stringify(curriculum, null, 4), "utf8");
+    fs.renameSync(temp, file);
+}
+
+function getCurriculumCourses(curriculum) {
+    const result = [];
+
+    for (const level of curriculum.levels || []) {
+        for (const semester of level.semesters || []) {
+            for (const course of semester.courses || []) {
+                result.push({
+                    id: course.id,
+                    code: course.code || "",
+                    title: course.title || course.name || "",
+                    bankFolder: course.bankFolder || "",
+                    level: level.name || level.id,
+                    semester: semester.name || semester.id
+                });
+            }
+        }
+    }
+
+    return result;
+}
+
+app.get("/api/admin/course-banks", requireAdmin, (req, res) => {
+    try {
+        const curriculum = readCurriculumFile();
+        const folders = getDirectories(DATA_DIR);
+
+        res.json({
+            courses: getCurriculumCourses(curriculum),
+            folders
+        });
+    } catch (error) {
+        console.error("Course bank manager error:", error);
+        res.status(500).json({ error: "Could not load course and bank information." });
+    }
+});
+
+app.post("/api/admin/course-banks/folders", requireAdmin, (req, res) => {
+    try {
+        const name = String(req.body.name || "").trim();
+
+        if (!name || name.length > 80) {
+            return res.status(400).json({ error: "Enter a folder name of 1–80 characters." });
+        }
+
+        if (/[<>:"/\\|?*\x00-\x1F]/.test(name) || name === "." || name === "..") {
+            return res.status(400).json({ error: "That folder name contains invalid characters." });
+        }
+
+        const folderPath = path.resolve(DATA_DIR, name);
+
+        if (path.dirname(folderPath) !== path.resolve(DATA_DIR)) {
+            return res.status(400).json({ error: "Invalid folder name." });
+        }
+
+        if (fs.existsSync(folderPath)) {
+            return res.status(409).json({ error: "A folder with that name already exists." });
+        }
+
+        fs.mkdirSync(folderPath, { recursive: false });
+
+        res.status(201).json({
+            message: "Question-bank folder created.",
+            folder: name
+        });
+    } catch (error) {
+        console.error("Folder creation error:", error);
+        res.status(500).json({ error: "Could not create the folder." });
+    }
+});
+
+app.put("/api/admin/course-banks/assign", requireAdmin, (req, res) => {
+    try {
+        const courseId = String(req.body.courseId || "").trim();
+        const folderName = String(req.body.folderName || "").trim();
+
+        if (!courseId) {
+            return res.status(400).json({ error: "Course ID is required." });
+        }
+
+        if (folderName) {
+            const folderPath = path.resolve(DATA_DIR, folderName);
+
+            if (
+                path.dirname(folderPath) !== path.resolve(DATA_DIR) ||
+                !fs.existsSync(folderPath) ||
+                !fs.statSync(folderPath).isDirectory()
+            ) {
+                return res.status(404).json({ error: "The selected question-bank folder does not exist." });
+            }
+        }
+
+        const curriculum = readCurriculumFile();
+        let matchedCourse = null;
+
+        for (const level of curriculum.levels || []) {
+            for (const semester of level.semesters || []) {
+                for (const course of semester.courses || []) {
+                    if (course.id === courseId) {
+                        matchedCourse = course;
+                        break;
+                    }
+                }
+                if (matchedCourse) break;
+            }
+            if (matchedCourse) break;
+        }
+
+        if (!matchedCourse) {
+            return res.status(404).json({ error: "Curriculum course not found." });
+        }
+
+        if (folderName) {
+            matchedCourse.bankFolder = folderName;
+        } else {
+            delete matchedCourse.bankFolder;
+        }
+
+        saveCurriculumFile(curriculum);
+
+        res.json({
+            message: folderName
+                ? "Course folder assignment saved."
+                : "Course folder assignment removed.",
+            courseId,
+            bankFolder: folderName
+        });
+    } catch (error) {
+        console.error("Course bank assignment error:", error);
+        res.status(500).json({ error: "Could not save the course-folder assignment." });
+    }
+});
+
 
 app.listen(
     PORT,

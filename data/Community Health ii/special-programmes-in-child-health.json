@@ -14,8 +14,8 @@
                 "C": "Blood pressure only",
                 "D": "Family income"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-002",
@@ -26,8 +26,8 @@
                 "C": "Vision only",
                 "D": "Blood pressure only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-003",
@@ -38,8 +38,8 @@
                 "C": "Cervical cancer",
                 "D": "Tuberculosis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-004",
@@ -50,8 +50,8 @@
                 "C": "Over 10 years only",
                 "D": "Over 18 years"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-005",
@@ -62,8 +62,8 @@
                 "C": "Under 1 year only",
                 "D": "At birth only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-006",
@@ -74,8 +74,8 @@
                 "C": "Wasting only",
                 "D": "Obesity"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-007",
@@ -86,8 +86,8 @@
                 "C": "Underweight only",
                 "D": "Acute dehydration"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-008",
@@ -98,8 +98,8 @@
                 "C": "Hypertension",
                 "D": "Overweight"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-009",
@@ -110,8 +110,8 @@
                 "C": "Acute infection only",
                 "D": "Overhydration"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-010",
@@ -122,8 +122,8 @@
                 "C": "Normal growth",
                 "D": "Overweight"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-011",
@@ -134,8 +134,8 @@
                 "C": "Remains fixed",
                 "D": "Disappears"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-012",
@@ -146,8 +146,8 @@
                 "C": "Laboratory-based",
                 "D": "School-exam based"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-013",
@@ -158,8 +158,8 @@
                 "C": "Replace immunization",
                 "D": "Treat only adults"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-014",
@@ -170,8 +170,8 @@
                 "C": "Once only",
                 "D": "Every decade"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-015",
@@ -182,8 +182,8 @@
                 "C": "Every two years",
                 "D": "Only during illness"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-016",
@@ -194,8 +194,8 @@
                 "C": "Anthropometry",
                 "D": "Child health care"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-017",
@@ -206,8 +206,8 @@
                 "C": "VVM",
                 "D": "OPV"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-018",
@@ -218,8 +218,8 @@
                 "C": "ORS",
                 "D": "IPV"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-019",
@@ -230,8 +230,8 @@
                 "C": "Available only to adults",
                 "D": "Available only privately"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-020",
@@ -242,8 +242,8 @@
                 "C": "Only diagnosis",
                 "D": "Only hospital admission"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-021",
@@ -254,8 +254,8 @@
                 "C": "Disaster triage",
                 "D": "Hospital financing only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-022",
@@ -266,8 +266,8 @@
                 "C": "No community participation",
                 "D": "High-cost technology only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-023",
@@ -278,8 +278,8 @@
                 "C": "Only receiving drugs",
                 "D": "Only attending hospitals"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-024",
@@ -290,8 +290,8 @@
                 "C": "Technically complex only",
                 "D": "Imported only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-025",
@@ -302,8 +302,8 @@
                 "C": "A screening tool",
                 "D": "A developmental test"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-026",
@@ -314,8 +314,8 @@
                 "C": "Only nurses",
                 "D": "Only laboratories"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-027",
@@ -326,8 +326,8 @@
                 "C": "Unmeasurable",
                 "D": "Hospital-only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-028",
@@ -338,8 +338,8 @@
                 "C": "Guidance, Observation, Breastfeeding, Infection",
                 "D": "Growth, Oral antibiotics, Breastfeeding, IPV"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-029",
@@ -350,8 +350,8 @@
                 "C": "Observation",
                 "D": "Outreach"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-030",
@@ -362,8 +362,8 @@
                 "C": "Food safety",
                 "D": "Follow-up"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-031",
@@ -374,8 +374,8 @@
                 "C": "O",
                 "D": "I"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-032",
@@ -386,8 +386,8 @@
                 "C": "O",
                 "D": "I"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-033",
@@ -398,8 +398,8 @@
                 "C": "7",
                 "D": "10"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPICH-034",
@@ -410,8 +410,8 @@
                 "C": "Only IV therapy",
                 "D": "A nutrition programme"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-035",
@@ -422,8 +422,8 @@
                 "C": "Oral Recovery System",
                 "D": "Oral Refeeding Schedule"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-036",
@@ -434,8 +434,8 @@
                 "C": "Vaccine",
                 "D": "Growth chart"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-037",
@@ -446,8 +446,8 @@
                 "C": "Growth indicator",
                 "D": "Vaccine carrier"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-038",
@@ -458,8 +458,8 @@
                 "C": "Cervical cancer",
                 "D": "Hypertension"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-039",
@@ -470,8 +470,8 @@
                 "C": "Vitamin D",
                 "D": "Calcium carbonate"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-040",
@@ -482,8 +482,8 @@
                 "C": "Prevent vaccination",
                 "D": "Cause dehydration"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-041",
@@ -494,8 +494,8 @@
                 "C": "Phagocytosis",
                 "D": "Cold-chain transport"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-042",
@@ -506,8 +506,8 @@
                 "C": "Frozen",
                 "D": "Vaccinated"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-043",
@@ -518,8 +518,8 @@
                 "C": "Liver",
                 "D": "Kidney"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-044",
@@ -530,8 +530,8 @@
                 "C": "150 mEq/L",
                 "D": "245 mEq/L"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-045",
@@ -542,8 +542,8 @@
                 "C": "150 mmol/L",
                 "D": "245 mmol/L"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-046",
@@ -554,8 +554,8 @@
                 "C": "245 mOsm/L",
                 "D": "500 mOsm/L"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPICH-047",
@@ -566,8 +566,8 @@
                 "C": "At 6 months",
                 "D": "At 1 year"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-048",
@@ -578,8 +578,8 @@
                 "C": "3 months",
                 "D": "12 months"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-049",
@@ -590,8 +590,8 @@
                 "C": "Breast milk plus juice",
                 "D": "Formula plus water"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPICH-050",
@@ -602,8 +602,6 @@
                 "C": "Only water",
                 "D": "Only formula"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"     }
+        ]
 }

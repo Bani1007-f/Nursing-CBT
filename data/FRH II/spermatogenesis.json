@@ -14,8 +14,8 @@
                 "C": "Oocytes become mature ova",
                 "D": "Testosterone becomes sperm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-002",
@@ -26,8 +26,8 @@
                 "C": "Seminiferous tubules",
                 "D": "Vas deferens"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPER-003",
@@ -38,8 +38,8 @@
                 "C": "Middle age",
                 "D": "Old age"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-004",
@@ -50,8 +50,8 @@
                 "C": "Cellular differentiation",
                 "D": "Fertilization"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "SPER-005",
@@ -62,8 +62,8 @@
                 "C": "They require higher temperatures",
                 "D": "They need direct contact with abdominal muscles"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-006",
@@ -74,8 +74,8 @@
                 "C": "Epididymis",
                 "D": "Dartos muscle"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-007",
@@ -86,8 +86,8 @@
                 "C": "200–300 lobules",
                 "D": "500–600 lobules"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPER-008",
@@ -98,8 +98,8 @@
                 "C": "Seminal vesicles",
                 "D": "Urethra"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-009",
@@ -110,8 +110,8 @@
                 "C": "Respiratory functions",
                 "D": "Excretory functions"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-010",
@@ -122,8 +122,8 @@
                 "C": "Testosterone",
                 "D": "Prolactin"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPER-011",
@@ -134,8 +134,8 @@
                 "C": "Produce testosterone",
                 "D": "Store sperm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-012",
@@ -146,8 +146,8 @@
                 "C": "Lumen",
                 "D": "Urethra"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPER-013",
@@ -158,8 +158,8 @@
                 "C": "Spermatozoa → spermatids → spermatogonia → spermatocytes",
                 "D": "Spermatocytes → spermatozoa → spermatogonia → spermatids"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-014",
@@ -170,8 +170,8 @@
                 "C": "Seminal vesicle",
                 "D": "Bladder"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-015",
@@ -182,8 +182,8 @@
                 "C": "Leydig cells",
                 "D": "Stem cells"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-016",
@@ -194,8 +194,8 @@
                 "C": "Store urine",
                 "D": "Produce LH"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-017",
@@ -206,8 +206,8 @@
                 "C": "Spermatids",
                 "D": "Spermatogonia"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-018",
@@ -218,8 +218,8 @@
                 "C": "Testosterone",
                 "D": "FSH"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-019",
@@ -230,8 +230,8 @@
                 "C": "ADH",
                 "D": "ACTH"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-020",
@@ -242,8 +242,8 @@
                 "C": "Testosterone",
                 "D": "FSH"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPER-021",
@@ -254,8 +254,8 @@
                 "C": "GnRH",
                 "D": "Testosterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-022",
@@ -266,8 +266,8 @@
                 "C": "Inside the epididymis",
                 "D": "Inside the prostate"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-023",
@@ -278,8 +278,8 @@
                 "C": "Inhibin",
                 "D": "GnRH"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-024",
@@ -290,8 +290,8 @@
                 "C": "GnRH",
                 "D": "Estrogen"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-025",
@@ -302,8 +302,8 @@
                 "C": "Three",
                 "D": "Four"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "SPER-026",
@@ -314,8 +314,8 @@
                 "C": "64–74 days",
                 "D": "120–150 days"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPER-027",
@@ -326,8 +326,8 @@
                 "C": "30–40 days",
                 "D": "60–70 days"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-028",
@@ -338,8 +338,8 @@
                 "C": "Implantation",
                 "D": "Ovulation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-029",
@@ -350,8 +350,8 @@
                 "C": "Mature sperm",
                 "D": "Leydig cells"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-030",
@@ -362,8 +362,8 @@
                 "C": "Produce LH",
                 "D": "Undergo fertilization"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-031",
@@ -374,8 +374,8 @@
                 "C": "Mature spermatozoa",
                 "D": "Sertoli cells"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-032",
@@ -386,8 +386,8 @@
                 "C": "Spermatids",
                 "D": "Spermatozoa"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-033",
@@ -398,8 +398,8 @@
                 "C": "Haploid with 46 chromosomes",
                 "D": "Diploid with 23 chromosomes"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-034",
@@ -410,8 +410,8 @@
                 "C": "Mitosis only",
                 "D": "Fertilization"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-035",
@@ -422,8 +422,8 @@
                 "C": "Spermiation",
                 "D": "Spermiogenesis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-036",
@@ -434,8 +434,8 @@
                 "C": "Sperm storage",
                 "D": "Testosterone secretion"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-037",
@@ -446,8 +446,8 @@
                 "C": "Three secondary spermatocytes",
                 "D": "Four secondary spermatocytes"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-038",
@@ -458,8 +458,8 @@
                 "C": "92 chromosomes",
                 "D": "44 chromosomes"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-039",
@@ -470,8 +470,8 @@
                 "C": "Only after fertilization",
                 "D": "After becoming spermatozoa"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-040",
@@ -482,8 +482,8 @@
                 "C": "Four diploid spermatozoa",
                 "D": "One ovum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-041",
@@ -494,8 +494,8 @@
                 "C": "Formation of primary spermatocytes",
                 "D": "Production of testosterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-042",
@@ -506,8 +506,8 @@
                 "C": "Meiosis I occurs",
                 "D": "Fertilization occurs"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-043",
@@ -518,8 +518,8 @@
                 "C": "Blood-testis barrier",
                 "D": "Nucleus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-044",
@@ -530,8 +530,8 @@
                 "C": "Forms the tail",
                 "D": "Produces testosterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-045",
@@ -542,8 +542,8 @@
                 "C": "Producing FSH",
                 "D": "Maintaining body temperature"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-046",
@@ -554,8 +554,8 @@
                 "C": "Completely absent",
                 "D": "Diploid"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-047",
@@ -566,8 +566,8 @@
                 "C": "Midpiece",
                 "D": "Nucleus"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPER-048",
@@ -578,8 +578,8 @@
                 "C": "FSH",
                 "D": "Testosterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-049",
@@ -590,8 +590,8 @@
                 "C": "Nucleus",
                 "D": "Midpiece"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-050",
@@ -602,8 +602,8 @@
                 "C": "Become primary spermatocytes",
                 "D": "Undergo Meiosis I"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-051",
@@ -614,8 +614,8 @@
                 "C": "Nuclei",
                 "D": "Acrosomes"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-052",
@@ -626,8 +626,8 @@
                 "C": "CNS axis",
                 "D": "RAS axis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-053",
@@ -638,8 +638,8 @@
                 "C": "GnRH",
                 "D": "Testosterone"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "SPER-054",
@@ -650,8 +650,8 @@
                 "C": "Testosterone and inhibin",
                 "D": "ABP and testosterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-055",
@@ -662,8 +662,8 @@
                 "C": "Spermatids",
                 "D": "Prostate cells"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-056",
@@ -674,8 +674,8 @@
                 "C": "Spermatids",
                 "D": "Epididymal cells"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-057",
@@ -686,8 +686,8 @@
                 "C": "Stop testosterone feedback",
                 "D": "Increase sperm production indefinitely"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "SPER-058",
@@ -698,8 +698,8 @@
                 "C": "Inhibin only",
                 "D": "ABP only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-059",
@@ -710,8 +710,8 @@
                 "C": "Low blood pressure",
                 "D": "Anemia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "SPER-060",
@@ -722,8 +722,6 @@
                 "C": "Smoking and excessive alcohol use",
                 "D": "Adequate sleep"
             },
-            "answer": "C",
-            "explanation": null
-        }
-    ]
+            "answer": "C"   
+        }  ]
 }

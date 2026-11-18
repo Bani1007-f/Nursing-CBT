@@ -15,8 +15,7 @@
                 "C": "In the center of the thorax between the lungs",
                 "D": "Inside the left lung"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-002",
@@ -27,8 +26,7 @@
                 "C": "100 g",
                 "D": "300 g"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-003",
@@ -39,8 +37,7 @@
                 "C": "Endocardium",
                 "D": "Epicardium"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-004",
@@ -51,8 +48,7 @@
                 "C": "Parietal pericardium",
                 "D": "Myocardium"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-005",
@@ -63,8 +59,7 @@
                 "C": "Epicardium",
                 "D": "Myocardium"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-006",
@@ -75,8 +70,7 @@
                 "C": "To increase blood pressure",
                 "D": "To prevent ventricular filling"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-007",
@@ -87,8 +81,7 @@
                 "C": "200 mL",
                 "D": "500 mL"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-008",
@@ -99,8 +92,7 @@
                 "C": "Parietal pericardium",
                 "D": "Myocardium"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-009",
@@ -111,8 +103,7 @@
                 "C": "Myocardium",
                 "D": "Parietal pericardium"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-010",
@@ -123,8 +114,7 @@
                 "C": "Producing bile",
                 "D": "Maintaining tissue perfusion"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-011",
@@ -135,8 +125,7 @@
                 "C": "Preload × afterload",
                 "D": "Heart rate ÷ stroke volume"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-012",
@@ -147,8 +136,7 @@
                 "C": "Hemoglobin and hematocrit",
                 "D": "Stroke volume and heart rate"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-013",
@@ -159,8 +147,7 @@
                 "C": "Repolarization",
                 "D": "Systole"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-014",
@@ -171,8 +158,7 @@
                 "C": "Venous return only",
                 "D": "Diastole"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-015",
@@ -183,8 +169,7 @@
                 "C": "Atrioventricular valve",
                 "D": "Purkinje vein"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-016",
@@ -195,8 +180,7 @@
                 "C": "Pericardial sac",
                 "D": "Septum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-017",
@@ -207,8 +191,7 @@
                 "C": "70 bpm",
                 "D": "140 bpm"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-018",
@@ -219,8 +202,7 @@
                 "C": "Only body temperature",
                 "D": "Only skeletal muscle activity"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-019",
@@ -231,8 +213,7 @@
                 "C": "Heart rate",
                 "D": "Vascular permeability"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-020",
@@ -243,8 +224,7 @@
                 "C": "To respond to the body's changing needs",
                 "D": "To prevent all venous return"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-021",
@@ -255,8 +235,7 @@
                 "C": "Cerebrospinal fluid",
                 "D": "Oxygen and nutrients"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-022",
@@ -267,8 +246,7 @@
                 "C": "Digestive enzymes",
                 "D": "Air"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-023",
@@ -279,8 +257,7 @@
                 "C": "Integrated mechanical, electrical, and vascular processes",
                 "D": "Only respiratory ventilation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-024",
@@ -291,8 +268,7 @@
                 "C": "The closure of cardiac valves",
                 "D": "The exchange of gases in alveoli"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-025",
@@ -303,8 +279,7 @@
                 "C": "Heart rate and cardiac output",
                 "D": "Only platelet count"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-026",
@@ -315,8 +290,7 @@
                 "C": "Electrical conduction through the SAN",
                 "D": "The thickness of the pericardium"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-027",
@@ -327,8 +301,7 @@
                 "C": "Resistance to ejection",
                 "D": "The rate of SAN firing"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-028",
@@ -339,8 +312,7 @@
                 "C": "The workload of the heart increases",
                 "D": "The workload of the heart always decreases"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-029",
@@ -351,8 +323,7 @@
                 "C": "It eliminates venous return",
                 "D": "It increases pericardial fluid"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-030",
@@ -363,8 +334,7 @@
                 "C": "A condition defined only by hypertension",
                 "D": "A normal increase in cardiac output"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-031",
@@ -375,8 +345,7 @@
                 "C": "The thickness of the aorta",
                 "D": "The amount of pericardial fluid"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-032",
@@ -387,8 +356,7 @@
                 "C": "Coronary artery diameter only",
                 "D": "Ventricular filling"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-033",
@@ -399,8 +367,7 @@
                 "C": "Ventricular contraction",
                 "D": "Pericardial filling"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-034",
@@ -411,8 +378,7 @@
                 "C": "Heart failure with reduced ejection fraction",
                 "D": "Heart failure with restored ejection fraction"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-035",
@@ -423,8 +389,7 @@
                 "C": "Heart failure with pericardial rupture",
                 "D": "Heart failure with absent ejection"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-036",
@@ -435,8 +400,7 @@
                 "C": "Common cold",
                 "D": "Otitis media"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-037",
@@ -447,8 +411,7 @@
                 "C": "It strengthens the myocardium",
                 "D": "It removes all myocardial ischemia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-038",
@@ -459,8 +422,7 @@
                 "C": "A disease of the myocardium",
                 "D": "A disease of the kidneys"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-039",
@@ -471,8 +433,7 @@
                 "C": "Hypertrophic cardiomyopathy",
                 "D": "Pericardial cardiomyopathy"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-040",
@@ -483,8 +444,7 @@
                 "C": "Increased pericardial fluid production",
                 "D": "Increased ventricular filling only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-041",
@@ -495,8 +455,7 @@
                 "C": "It increases the demand for cardiac output",
                 "D": "It stops venous return"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-042",
@@ -507,8 +466,7 @@
                 "C": "It eliminates sympathetic activity",
                 "D": "It prevents fluid retention"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-043",
@@ -519,8 +477,7 @@
                 "C": "Cause or result from heart failure",
                 "D": "Only affect the lungs"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-044",
@@ -531,8 +488,7 @@
                 "C": "Lymphatic system only",
                 "D": "Digestive system"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-045",
@@ -543,8 +499,7 @@
                 "C": "Liver",
                 "D": "Lung"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-046",
@@ -555,8 +510,7 @@
                 "C": "Troponin",
                 "D": "Aldosterone"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-047",
@@ -567,8 +521,7 @@
                 "C": "Aldosterone",
                 "D": "Renin"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-048",
@@ -579,8 +532,7 @@
                 "C": "Pancreas",
                 "D": "Bone marrow"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-049",
@@ -591,8 +543,7 @@
                 "C": "Reduced sodium retention",
                 "D": "Systemic vasoconstriction"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-050",
@@ -603,8 +554,7 @@
                 "C": "Reduced blood volume",
                 "D": "Loss of all sodium"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-051",
@@ -615,8 +565,7 @@
                 "C": "Reduced thirst and diuresis",
                 "D": "Fluid consumption and sodium/water retention"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-052",
@@ -627,8 +576,7 @@
                 "C": "Ventricular wall stress and cardiac workload increase",
                 "D": "Venous return stops"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-053",
@@ -639,8 +587,7 @@
                 "C": "Immediate normalization of cardiac output",
                 "D": "Decreased ventricular size only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-054",
@@ -651,8 +598,7 @@
                 "C": "A decrease in ventricular size from dehydration",
                 "D": "An increase in ventricular size caused by stretching of myofibers"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-055",
@@ -663,8 +609,7 @@
                 "C": "Ventricular hypertrophy",
                 "D": "Pericardial rupture"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-056",
@@ -675,8 +620,7 @@
                 "C": "The kidneys stop functioning immediately",
                 "D": "The body makes the heart work harder even though the heart cannot adequately respond"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-057",
@@ -687,8 +631,7 @@
                 "C": "Ascites only",
                 "D": "Hepatomegaly only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-058",
@@ -699,8 +642,7 @@
                 "C": "Congestion of viscera and peripheral tissues",
                 "D": "Isolated cerebral ischemia"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-059",
@@ -711,8 +653,7 @@
                 "C": "Right ventricular output rises without limit",
                 "D": "The pericardial fluid disappears"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-060",
@@ -723,8 +664,7 @@
                 "C": "Pain during walking",
                 "D": "Difficulty breathing when lying flat"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-061",
@@ -735,8 +675,7 @@
                 "C": "Continuous daytime coughing only",
                 "D": "Sudden attacks of orthopnea at night"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-062",
@@ -747,8 +686,7 @@
                 "C": "Jugular venous distention",
                 "D": "No venous change"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-063",
@@ -759,8 +697,7 @@
                 "C": "Increased bile production",
                 "D": "Liver infection"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-064",
@@ -771,8 +708,7 @@
                 "C": "Blood in the pericardium",
                 "D": "Accumulation of fluid in the peritoneal cavity"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-065",
@@ -783,8 +719,7 @@
                 "C": "Renal perfusion always stops at night",
                 "D": "Renal perfusion improves when cardiac workload decreases during sleep"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-066",
@@ -795,8 +730,7 @@
                 "C": "It has no effect on tissue perfusion",
                 "D": "It increases oxygen delivery without limit"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-067",
@@ -807,8 +741,7 @@
                 "C": "Increased cardiac workload",
                 "D": "Decreased cardiac workload"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-068",
@@ -819,8 +752,7 @@
                 "C": "Preload × ejection fraction",
                 "D": "Cardiac output × peripheral resistance"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-069",
@@ -831,8 +763,7 @@
                 "C": "Preload × afterload",
                 "D": "Systolic pressure × diastolic pressure"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-070",
@@ -843,8 +774,7 @@
                 "C": "Valve disappearance",
                 "D": "Myocardial hypertrophy"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-071",
@@ -855,8 +785,7 @@
                 "C": "Reduced vascular tone",
                 "D": "Increased peripheral resistance"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-072",
@@ -867,8 +796,7 @@
                 "C": "Expansion of extracellular fluid volume",
                 "D": "Immediate dehydration"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-073",
@@ -879,8 +807,7 @@
                 "C": "Reduced vascular resistance only",
                 "D": "Expanded extracellular fluid volume and increased systemic vascular resistance"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-074",
@@ -891,8 +818,7 @@
                 "C": "Reduced peripheral resistance",
                 "D": "Increased peripheral resistance"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-075",
@@ -903,8 +829,7 @@
                 "C": "Heart, brain, kidneys, eyes, and peripheral arteries",
                 "D": "Only the stomach"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-076",
@@ -915,8 +840,7 @@
                 "C": "180/120 mmHg",
                 "D": "120/80 mmHg"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-077",
@@ -927,8 +851,7 @@
                 "C": "Generate and distribute blood flow",
                 "D": "Control digestion"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-078",
@@ -939,8 +862,7 @@
                 "C": "It increases",
                 "D": "It prevents venous return"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-079",
@@ -951,8 +873,7 @@
                 "C": "It remains permanently unchanged",
                 "D": "It falls to zero"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-080",
@@ -963,8 +884,7 @@
                 "C": "It affects only the skin",
                 "D": "Decreased cardiac output lowers tissue perfusion"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-081",
@@ -975,8 +895,7 @@
                 "C": "Tooth sensitivity",
                 "D": "Ear discharge"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-082",
@@ -987,8 +906,7 @@
                 "C": "Dyspnea",
                 "D": "Nasal itching"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-083",
@@ -999,8 +917,7 @@
                 "C": "Blurred hearing",
                 "D": "Dry lips only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-084",
@@ -1011,8 +928,7 @@
                 "C": "Palpitations",
                 "D": "Clubbing"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-085",
@@ -1023,8 +939,7 @@
                 "C": "Anosmia",
                 "D": "Tinnitus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-086",
@@ -1035,8 +950,7 @@
                 "C": "PQRST",
                 "D": "SOAP only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-087",
@@ -1047,8 +961,7 @@
                 "C": "Pattern/Pulse",
                 "D": "Provocation/Palliation"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-088",
@@ -1059,8 +972,7 @@
                 "C": "Quickness/Quietness",
                 "D": "Quality/Quantity"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-089",
@@ -1071,8 +983,7 @@
                 "C": "Rate/Respiration",
                 "D": "Risk/Relief"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-090",
@@ -1083,8 +994,7 @@
                 "C": "Sleep",
                 "D": "Skin"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-091",
@@ -1095,8 +1005,7 @@
                 "C": "Tissue",
                 "D": "Treatment"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-092",
@@ -1107,8 +1016,7 @@
                 "C": "Where does the pain radiate?",
                 "D": "When did the pain stop?"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-093",
@@ -1119,8 +1027,7 @@
                 "C": "Where is the pain located?",
                 "D": "How often does it occur?"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-094",
@@ -1131,8 +1038,7 @@
                 "C": "What does the pain feel like?",
                 "D": "When did it begin?"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-095",
@@ -1143,8 +1049,7 @@
                 "C": "What caused the pain?",
                 "D": "How severe is it?"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-096",
@@ -1155,8 +1060,7 @@
                 "C": "A to D",
                 "D": "1 to 5 only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-097",
@@ -1167,8 +1071,7 @@
                 "C": "Only the color of the skin",
                 "D": "Only the pulse amplitude"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-098",
@@ -1179,8 +1082,7 @@
                 "C": "Family history",
                 "D": "Values-belief only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-099",
@@ -1191,8 +1093,7 @@
                 "C": "Reading",
                 "D": "Tobacco use"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-100",
@@ -1203,8 +1104,7 @@
                 "C": "Nothing about alcohol",
                 "D": "Only the patient's favorite drink"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-101",
@@ -1215,8 +1115,7 @@
                 "C": "Activity-Exercise",
                 "D": "Sleep-Rest"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-102",
@@ -1227,8 +1126,7 @@
                 "C": "Roles-Relationship",
                 "D": "Nutritional-Metabolic"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-103",
@@ -1239,8 +1137,7 @@
                 "C": "Activity-Exercise",
                 "D": "Elimination"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-104",
@@ -1251,8 +1148,7 @@
                 "C": "Values-Belief",
                 "D": "Activity-Exercise"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-105",
@@ -1263,8 +1159,7 @@
                 "C": "Nutritional-Metabolic",
                 "D": "Elimination"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-106",
@@ -1275,8 +1170,7 @@
                 "C": "Activity-Exercise",
                 "D": "Sleep-Rest"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-107",
@@ -1287,8 +1181,7 @@
                 "C": "Normal sleep pattern",
                 "D": "Reduced venous return only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-108",
@@ -1299,8 +1192,7 @@
                 "C": "Hypertension only",
                 "D": "Improved ventilation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-109",
@@ -1311,8 +1203,7 @@
                 "C": "Activity-Exercise",
                 "D": "Self-Perception–Self-Concept"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-110",
@@ -1323,8 +1214,7 @@
                 "C": "Values-Belief",
                 "D": "Roles-Relationship"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-111",
@@ -1335,8 +1225,7 @@
                 "C": "Health Perception",
                 "D": "Sexuality-Reproductive"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-112",
@@ -1347,8 +1236,7 @@
                 "C": "Sleep-Rest",
                 "D": "Nutritional-Metabolic"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-113",
@@ -1359,8 +1247,7 @@
                 "C": "Values-Belief",
                 "D": "Activity-Exercise"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-114",
@@ -1371,8 +1258,7 @@
                 "C": "To eliminate the need for follow-up",
                 "D": "To diagnose every condition without history"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-115",
@@ -1383,8 +1269,7 @@
                 "C": "Color, turgor, temperature, and texture",
                 "D": "Only nail length"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-116",
@@ -1395,8 +1280,7 @@
                 "C": "Cyanosis only of the feet",
                 "D": "Pallor"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-117",
@@ -1407,8 +1291,7 @@
                 "C": "Only bowel sounds",
                 "D": "Orientation to person, place, and time"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-118",
@@ -1419,8 +1302,7 @@
                 "C": "Pain, shortness of breath, or anxiety",
                 "D": "Only insomnia"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-119",
@@ -1431,8 +1313,7 @@
                 "C": "Cardiac valve size",
                 "D": "Lung volume"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-120",
@@ -1443,8 +1324,7 @@
                 "C": "Press the carotid for 30 seconds",
                 "D": "Measure the pulse for 1 hour"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-121",
@@ -1455,8 +1335,7 @@
                 "C": "Within 10 seconds",
                 "D": "Within 3 seconds"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-122",
@@ -1467,8 +1346,7 @@
                 "C": "Warmth with bounding pulses only",
                 "D": "Increased movement"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-123",
@@ -1479,8 +1357,7 @@
                 "C": "Auscultate the ankle",
                 "D": "Press firmly for 5 seconds over the dorsum of the foot"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-124",
@@ -1491,8 +1368,7 @@
                 "C": "Elbow only",
                 "D": "Forehead"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-125",
@@ -1503,8 +1379,7 @@
                 "C": "120/80 mmHg",
                 "D": "180/120 mmHg"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-126",
@@ -1515,8 +1390,7 @@
                 "C": "Heart rate multiplied by BP",
                 "D": "Diastolic pressure divided by heart rate"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-127",
@@ -1527,8 +1401,7 @@
                 "C": "30–40 mmHg",
                 "D": "5–10 mmHg"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-128",
@@ -1539,8 +1412,7 @@
                 "C": "An increase in capillary refill",
                 "D": "A significant BP decrease after assuming an upright posture"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-129",
@@ -1551,8 +1423,7 @@
                 "C": "Cough and sputum only",
                 "D": "Dizziness, lightheadedness, or syncope"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-130",
@@ -1563,8 +1434,7 @@
                 "C": "Rate, rhythm, quality, and strength",
                 "D": "Only duration"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-131",
@@ -1575,8 +1445,7 @@
                 "C": "120–160 bpm",
                 "D": "10–20 bpm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-132",
@@ -1587,8 +1456,7 @@
                 "C": "Only on the left",
                 "D": "Only on the right"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-133",
@@ -1599,8 +1467,7 @@
                 "C": "Popliteal",
                 "D": "Radial"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-134",
@@ -1611,8 +1478,7 @@
                 "C": "Temporal",
                 "D": "Brachial"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-135",
@@ -1623,8 +1489,7 @@
                 "C": "Brachial",
                 "D": "Dorsalis pedis"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-136",
@@ -1635,8 +1500,7 @@
                 "C": "Popliteal",
                 "D": "Temporal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-137",
@@ -1647,8 +1511,7 @@
                 "C": "Absent or not palpable",
                 "D": "Weak and thready"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-138",
@@ -1659,8 +1522,7 @@
                 "C": "Strong and bounding",
                 "D": "Diminished but not obliterated"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-139",
@@ -1671,8 +1533,7 @@
                 "C": "Easy to palpate and full",
                 "D": "Strong and bounding"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-140",
@@ -1683,8 +1544,7 @@
                 "C": "Absent",
                 "D": "Strong and bounding"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-141",
@@ -1695,8 +1555,7 @@
                 "C": "Dorsalis pedis arteries",
                 "D": "Radial arteries"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-142",
@@ -1707,8 +1566,7 @@
                 "C": "Behind the knees",
                 "D": "At the wrist"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-143",
@@ -1719,8 +1577,7 @@
                 "C": "To determine rate and rhythm and evaluate heart sounds",
                 "D": "To assess bowel motility"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-144",
@@ -1731,8 +1588,7 @@
                 "C": "Left fifth intercostal space",
                 "D": "Second intercostal space to the right of the sternum"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-145",
@@ -1743,8 +1599,7 @@
                 "C": "Second intercostal space to the left of the sternum",
                 "D": "Right upper abdomen"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-146",
@@ -1755,8 +1610,7 @@
                 "C": "Left fifth intercostal space",
                 "D": "Second intercostal space to the right"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-147",
@@ -1767,8 +1621,7 @@
                 "C": "Third left intercostal space",
                 "D": "Second right intercostal space"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-148",
@@ -1779,8 +1632,7 @@
                 "C": "Opening of the semilunar valves",
                 "D": "Opening of the AV valves"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-149",
@@ -1791,8 +1643,7 @@
                 "C": "Atrial contraction",
                 "D": "Closure of the mitral and tricuspid valves"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-150",
@@ -1803,8 +1654,7 @@
                 "C": "Apical area",
                 "D": "Aortic area"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-151",
@@ -1815,8 +1665,7 @@
                 "C": "Closure of the semilunar valves",
                 "D": "Late systole"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-152",
@@ -1827,8 +1676,7 @@
                 "C": "Closure of semilunar valves",
                 "D": "Late diastole during atrial contraction"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-153",
@@ -1839,8 +1687,7 @@
                 "C": "Pericardial lubrication",
                 "D": "Normal valve closure only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-154",
@@ -1851,8 +1698,7 @@
                 "C": "Turbulent flow through the aorta",
                 "D": "Abrasion of inflamed pericardial surfaces"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-155",
@@ -1863,8 +1709,7 @@
                 "C": "Only chest circumference",
                 "D": "Only cough frequency"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-156",
@@ -1875,8 +1720,7 @@
                 "C": "Forearms only",
                 "D": "Scalp and face only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "AAP-157",
@@ -1887,8 +1731,7 @@
                 "C": "Forehead",
                 "D": "Hands only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "AAP-158",
@@ -1899,8 +1742,7 @@
                 "C": "Lung capacity",
                 "D": "Venous pressure"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "AAP-159",
@@ -1911,8 +1753,7 @@
                 "C": "More than 3 cm above the sternal angle",
                 "D": "More than 1 cm below the clavicle"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "AAP-160",
@@ -1923,8 +1764,7 @@
                 "C": "Pulse becomes 4+",
                 "D": "Neck vein distention decreases by 5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         }
-    ]
-}
+        ]
+    }

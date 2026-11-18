@@ -1,0 +1,522 @@
+{
+    "levels": [
+        {
+            "id": "100",
+            "name": "100 Level",
+            "semesters": [
+                {
+                    "id": "1",
+                    "name": "First Semester",
+                    "courses": [
+                        {
+                            "id": "bio-101",
+                            "code": "BIO 101",
+                            "title": "General Biology I"
+                        },
+                        {
+                            "id": "bio-107",
+                            "code": "BIO 107",
+                            "title": "General Biology Practical I"
+                        },
+                        {
+                            "id": "chm-101",
+                            "code": "CHM 101",
+                            "title": "General Chemistry I"
+                        },
+                        {
+                            "id": "chm-107",
+                            "code": "CHM 107",
+                            "title": "General Chemistry Practical I"
+                        },
+                        {
+                            "id": "cos-101",
+                            "code": "COS 101",
+                            "title": "Introduction to Computing Science"
+                        },
+                        {
+                            "id": "mth-101",
+                            "code": "MTH 101",
+                            "title": "Elementary Mathematics"
+                        },
+                        {
+                            "id": "phy-101",
+                            "code": "PHY 101",
+                            "title": "General Physics I"
+                        },
+                        {
+                            "id": "phy-107",
+                            "code": "PHY 107",
+                            "title": "General Physics Practical I"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "Second Semester",
+                    "courses": [
+                        {
+                            "id": "bio-102",
+                            "code": "BIO 102",
+                            "title": "General Biology II"
+                        },
+                        {
+                            "id": "bio-108",
+                            "code": "BIO 108",
+                            "title": "General Biology Practical II"
+                        },
+                        {
+                            "id": "chm-102",
+                            "code": "CHM 102",
+                            "title": "General Chemistry II"
+                        },
+                        {
+                            "id": "chm-108",
+                            "code": "CHM 108",
+                            "title": "General Chemistry Practical II"
+                        },
+                        {
+                            "id": "phy-102",
+                            "code": "PHY 102",
+                            "title": "General Physics II"
+                        },
+                        {
+                            "id": "phy-108",
+                            "code": "PHY 108",
+                            "title": "General Physics Practical II"
+                        },
+                        {
+                            "id": "bu-nsc-102",
+                            "code": "BU-NSC 102",
+                            "title": "Introduction to Professional Nursing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200",
+            "name": "200 Level",
+            "semesters": [
+                {
+                    "id": "1",
+                    "name": "First Semester",
+                    "courses": [
+                        {
+                            "id": "ana-201",
+                            "code": "ANA 201",
+                            "title": "Anatomy of Upper and Lower Limb"
+                        },
+                        {
+                            "id": "ana-203",
+                            "code": "ANA 203",
+                            "title": "General and Systemic Embryology"
+                        },
+                        {
+                            "id": "bch-201",
+                            "code": "BCH 201",
+                            "title": "Biochemistry – General and Medical I"
+                        },
+                        {
+                            "id": "bch-203",
+                            "code": "BCH 203",
+                            "title": "General Biochemistry Practical"
+                        },
+                        {
+                            "id": "bu-nsc-203",
+                            "code": "BU-NSC 203",
+                            "title": "Nursing and Politics"
+                        },
+                        {
+                            "id": "bu-nsc-201",
+                            "code": "BU-NSC 201",
+                            "title": "Health Assessment in Nursing Practice"
+                        },
+                        {
+                            "id": "nsc-201",
+                            "code": "NSC 201",
+                            "title": "Foundations of Professional Nursing Practice I"
+                        },
+                        {
+                            "id": "nsc-203",
+                            "code": "NSC 203",
+                            "title": "Developmental Psychology"
+                        },
+                        {
+                            "id": "pio-201",
+                            "code": "PIO 201",
+                            "title": "Introductory Physiology and Blood"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "Second Semester",
+                    "courses": [
+                        {
+                            "id": "ana-204",
+                            "code": "ANA 204",
+                            "title": "Anatomy of Thorax, Abdomen, Pelvis and Perineum"
+                        },
+                        {
+                            "id": "bch-206",
+                            "code": "BCH 206",
+                            "title": "Biochemistry – General and Medical II"
+                        },
+                        {
+                            "id": "bu-nsc-202",
+                            "code": "BU-NSC 202",
+                            "title": "Microbial Organisms and Nursing Practice"
+                        },
+                        {
+                            "id": "nsc-202",
+                            "code": "NSC 202",
+                            "title": "Foundations of Professional Nursing Practice II"
+                        },
+                        {
+                            "id": "nsc-206",
+                            "code": "NSC 206",
+                            "title": "General and Cellular Pathology"
+                        },
+                        {
+                            "id": "pio-212",
+                            "code": "PIO 212",
+                            "title": "Renal and Body Fluids Physiology"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "300",
+            "name": "300 Level",
+            "semesters": [
+                {
+                    "id": "1",
+                    "name": "First Semester",
+                    "courses": [
+                        {
+                            "id": "bu-nsc-301",
+                            "code": "BU-NSC 301",
+                            "title": "Medical-Surgical Nursing Practicum I",
+                            "courseType": "clinical-practicum"
+                        },
+                        {
+                            "id": "bu-nsc-307",
+                            "code": "BU-NSC 307",
+                            "title": "Family and Reproductive Health I"
+                        },
+                        {
+                            "id": "nsc-301",
+                            "code": "NSC 301",
+                            "title": "Epidemiology"
+                        },
+                        {
+                            "id": "nsc-303",
+                            "code": "NSC 303",
+                            "title": "Community/Public Health Nursing I"
+                        },
+                        {
+                            "id": "nsc-307",
+                            "code": "NSC 307",
+                            "title": "Human Nutrition"
+                        },
+                        {
+                            "id": "nsc-309",
+                            "code": "NSC 309",
+                            "title": "Nursing Ethics and Jurisprudence"
+                        },
+                        {
+                            "id": "nsc-311",
+                            "code": "NSC 311",
+                            "title": "Mental Health Nursing I"
+                        },
+                        {
+                            "id": "nsc-313",
+                            "code": "NSC 313",
+                            "title": "Medical-Surgical Nursing I"
+                        },
+                        {
+                            "id": "pha-301",
+                            "code": "PHA 301",
+                            "title": "Pharmacodynamics and Chemotherapy I"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "Second Semester",
+                    "courses": [
+                        {
+                            "id": "bu-nsc-302",
+                            "code": "BU-NSC 302",
+                            "title": "Community Health Nursing Practicum I",
+                            "courseType": "clinical-practicum",
+                            "bankFolder": "CHN practicum"
+                        },
+                        {
+                            "id": "bu-nsc-306",
+                            "code": "BU-NSC 306",
+                            "title": "Mental Health Nursing Practicum",
+                            "courseType": "clinical-practicum"
+                        },
+                        {
+                            "id": "bu-nsc-308",
+                            "code": "BU-NSC 308",
+                            "title": "Family and Reproductive Health II",
+                            "bankFolder": "FRH II"
+                        },
+                        {
+                            "id": "nsc-302",
+                            "code": "NSC 302",
+                            "title": "Community/Public Health Nursing II",
+                            "bankFolder": "Community Health ii"
+                        },
+                        {
+                            "id": "nsc-306",
+                            "code": "NSC 306",
+                            "title": "Medical-Surgical Nursing II",
+                            "bankFolder": "MED SURG II"
+                        },
+                        {
+                            "id": "nsc-312",
+                            "code": "NSC 312",
+                            "title": "Medical-Surgical Nursing Practicum II (SIWES)",
+                            "courseType": "clinical-practicum"
+                        },
+                        {
+                            "id": "pha-302",
+                            "code": "PHA 302",
+                            "title": "Pharmacodynamics and Chemotherapy II",
+                            "bankFolder": "Pharmacology"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "400",
+            "name": "400 Level",
+            "semesters": [
+                {
+                    "id": "1",
+                    "name": "First Semester",
+                    "courses": [
+                        {
+                            "id": "bu-nsc-401",
+                            "code": "BU-NSC 401",
+                            "title": "Violence, Abuse and Neglect"
+                        },
+                        {
+                            "id": "bu-nsc-403",
+                            "code": "BU-NSC 403",
+                            "title": "Environmental and Population Health"
+                        },
+                        {
+                            "id": "bu-nsc-405",
+                            "code": "BU-NSC 405",
+                            "title": "Paediatrics I"
+                        },
+                        {
+                            "id": "bu-nsc-407",
+                            "code": "BU-NSC 407",
+                            "title": "Childhood Diseases"
+                        },
+                        {
+                            "id": "nsc-403",
+                            "code": "NSC 403",
+                            "title": "Maternal and Child Health Nursing I"
+                        },
+                        {
+                            "id": "nsc-405",
+                            "code": "NSC 405",
+                            "title": "Mental Health Nursing II"
+                        },
+                        {
+                            "id": "nsc-407",
+                            "code": "NSC 407",
+                            "title": "Research Methodology"
+                        },
+                        {
+                            "id": "nsc-409",
+                            "code": "NSC 409",
+                            "title": "Management of Nursing Services"
+                        },
+                        {
+                            "id": "nsc-411",
+                            "code": "NSC 411",
+                            "title": "Biostatistics"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "Second Semester",
+                    "courses": [
+                        {
+                            "id": "bu-nsc-402",
+                            "code": "BU-NSC 402",
+                            "title": "Adolescent Psychiatry Nursing"
+                        },
+                        {
+                            "id": "bu-nsc-404",
+                            "code": "BU-NSC 404",
+                            "title": "Primary Health Care Nursing I"
+                        },
+                        {
+                            "id": "bu-nsc-406",
+                            "code": "BU-NSC 406",
+                            "title": "Paediatrics II"
+                        },
+                        {
+                            "id": "nsc-308",
+                            "code": "NSC 308",
+                            "title": "Medical-Surgical Nursing III"
+                        },
+                        {
+                            "id": "nsc-402",
+                            "code": "NSC 402",
+                            "title": "Maternal and Child Health Nursing II"
+                        },
+                        {
+                            "id": "nsc-404",
+                            "code": "NSC 404",
+                            "title": "Maternal and Child Health Nursing Practicum I",
+                            "courseType": "clinical-practicum"
+                        },
+                        {
+                            "id": "nsc-406",
+                            "code": "NSC 406",
+                            "title": "Curriculum Development and Teaching Methodology"
+                        },
+                        {
+                            "id": "nsc-410",
+                            "code": "NSC 410",
+                            "title": "Community/Public Health Nursing III"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "pre500",
+            "name": "Pre-500 Clinical Practice",
+            "semesters": [
+                {
+                    "id": "clinical",
+                    "name": "Concentrated Clinical Practice (8 weeks)",
+                    "courses": [
+                        {
+                            "id": "pre500-nsc-401",
+                            "code": "NSC 401",
+                            "title": "Medical-Surgical Nursing Practicum III",
+                            "courseType": "clinical-practicum"
+                        },
+                        {
+                            "id": "pre500-nsc-503",
+                            "code": "NSC 503",
+                            "title": "Maternal and Child Health Nursing Practicum II",
+                            "courseType": "clinical-practicum"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "500",
+            "name": "500 Level",
+            "semesters": [
+                {
+                    "id": "1",
+                    "name": "First Semester",
+                    "courses": [
+                        {
+                            "id": "nsc-501",
+                            "code": "NSC 501",
+                            "title": "Community/Public Health Nursing Practicum II",
+                            "courseType": "clinical-practicum"
+                        },
+                        {
+                            "id": "nsc-505",
+                            "code": "NSC 505",
+                            "title": "Maternal and Child Health Nursing III"
+                        },
+                        {
+                            "id": "nsc-509",
+                            "code": "NSC 509",
+                            "title": "Health and Nursing Informatics"
+                        },
+                        {
+                            "id": "nsc-511",
+                            "code": "NSC 511",
+                            "title": "Nursing Seminars"
+                        },
+                        {
+                            "id": "nsc-513",
+                            "code": "NSC 513",
+                            "title": "Health Economics"
+                        },
+                        {
+                            "id": "bu-nsc-501",
+                            "code": "BU-NSC 501",
+                            "title": "Occupational Health Nursing"
+                        },
+                        {
+                            "id": "bu-nsc-503",
+                            "code": "BU-NSC 503",
+                            "title": "Emergency and Disaster Nursing"
+                        },
+                        {
+                            "id": "bu-nsc-505",
+                            "code": "BU-NSC 505",
+                            "title": "Cultural/Transcultural Nursing"
+                        },
+                        {
+                            "id": "bu-nsc-512",
+                            "code": "BU-NSC 512",
+                            "title": "Gerontology Nursing",
+                            "bankFolder": "Test Bank"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "Second Semester",
+                    "courses": [
+                        {
+                            "id": "bu-nsc-502",
+                            "code": "BU-NSC 502",
+                            "title": "Primary Health Care Nursing II"
+                        },
+                        {
+                            "id": "nsc-502",
+                            "code": "NSC 502",
+                            "title": "Maternal and Child Health Nursing Practicum III",
+                            "courseType": "clinical-practicum"
+                        },
+                        {
+                            "id": "nsc-504",
+                            "code": "NSC 504",
+                            "title": "Community/Public Health Nursing IV"
+                        },
+                        {
+                            "id": "nsc-506",
+                            "code": "NSC 506",
+                            "title": "Community/Public Health Nursing Practicum III",
+                            "courseType": "clinical-practicum"
+                        },
+                        {
+                            "id": "nsc-508",
+                            "code": "NSC 508",
+                            "title": "Entrepreneurship in Nursing"
+                        },
+                        {
+                            "id": "nsc-510",
+                            "code": "NSC 510",
+                            "title": "Research Project"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

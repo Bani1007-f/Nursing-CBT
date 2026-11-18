@@ -14,8 +14,8 @@
                 "C": "Receive treatment from hospitals",
                 "D": "Avoid all health risks"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-002",
@@ -26,8 +26,8 @@
                 "C": "Palliative care",
                 "D": "Surgical care only"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "HP-003",
@@ -38,8 +38,8 @@
                 "C": "Replace healthcare workers",
                 "D": "Eliminate the need for treatment"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-004",
@@ -50,8 +50,8 @@
                 "C": "Isolation",
                 "D": "Surgery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-005",
@@ -62,8 +62,8 @@
                 "C": "Drug administration",
                 "D": "Surgery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-006",
@@ -74,8 +74,8 @@
                 "C": "Diagnosis",
                 "D": "Disease classification"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-007",
@@ -86,8 +86,8 @@
                 "C": "Taking a patient's temperature",
                 "D": "Administering medication"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-008",
@@ -98,8 +98,8 @@
                 "C": "Focus only on hospital treatment",
                 "D": "Leave health entirely to individuals"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-009",
@@ -110,8 +110,8 @@
                 "C": "Diagnose every disease",
                 "D": "Prescribe medication"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-010",
@@ -122,8 +122,8 @@
                 "C": "Reduced access to healthcare",
                 "D": "Poor sanitation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-011",
@@ -134,8 +134,8 @@
                 "C": "Sustainability",
                 "D": "Holistic care"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-012",
@@ -146,8 +146,8 @@
                 "C": "Holistic",
                 "D": "Sustainable"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-013",
@@ -158,8 +158,8 @@
                 "C": "Participative",
                 "D": "Multi-strategy"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-014",
@@ -170,8 +170,8 @@
                 "C": "Sustainability",
                 "D": "Participation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-015",
@@ -182,8 +182,8 @@
                 "C": "Individualization",
                 "D": "Rehabilitation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-016",
@@ -194,8 +194,8 @@
                 "C": "Participation",
                 "D": "Empowerment"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-017",
@@ -206,8 +206,8 @@
                 "C": "Individual strategy",
                 "D": "Curative strategy"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-018",
@@ -218,8 +218,8 @@
                 "C": "Injection",
                 "D": "Prescription"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-019",
@@ -230,8 +230,8 @@
                 "C": "Screening",
                 "D": "Advocacy"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-020",
@@ -242,8 +242,8 @@
                 "C": "Organizational development",
                 "D": "Economic regulation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-021",
@@ -254,8 +254,8 @@
                 "C": "Individual",
                 "D": "Public policy"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "HP-022",
@@ -266,8 +266,8 @@
                 "C": "Public policy",
                 "D": "Individual"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-023",
@@ -278,8 +278,8 @@
                 "C": "Interpersonal level",
                 "D": "Community level"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-024",
@@ -290,8 +290,8 @@
                 "C": "Organizational level",
                 "D": "Policy level"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-025",
@@ -302,8 +302,8 @@
                 "C": "Public policy level",
                 "D": "Individual level"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "HP-026",
@@ -314,8 +314,8 @@
                 "C": "Increasing drug prescriptions",
                 "D": "Eliminating community participation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-027",
@@ -326,8 +326,8 @@
                 "C": "Strengthening community action",
                 "D": "Reorienting health services"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-028",
@@ -338,8 +338,8 @@
                 "C": "Developing personal skills",
                 "D": "Curative care"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-029",
@@ -350,8 +350,8 @@
                 "C": "Strengthening community action",
                 "D": "Public policy"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-030",
@@ -362,8 +362,8 @@
                 "C": "Community mobilization",
                 "D": "Individual intervention"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-031",
@@ -374,8 +374,8 @@
                 "C": "Problem definition",
                 "D": "Outcome measurement"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "HP-032",
@@ -386,8 +386,8 @@
                 "C": "Measures final outcomes",
                 "D": "Terminates the programme"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-033",
@@ -398,8 +398,8 @@
                 "C": "Outcome measurement",
                 "D": "Evaluation only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-034",
@@ -410,8 +410,8 @@
                 "C": "Solution generation",
                 "D": "Outcome measurement"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-035",
@@ -422,8 +422,8 @@
                 "C": "Problem definition",
                 "D": "Solution generation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-036",
@@ -434,8 +434,8 @@
                 "C": "Ecological Model",
                 "D": "Health Promotion Model"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-037",
@@ -446,8 +446,8 @@
                 "C": "Perceived behavioural control",
                 "D": "Self-efficacy"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-038",
@@ -458,8 +458,8 @@
                 "C": "Perceived behavioural control",
                 "D": "Social support"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "HP-039",
@@ -470,8 +470,8 @@
                 "C": "Social Support Model",
                 "D": "Behavioural Control Model"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-040",
@@ -482,8 +482,8 @@
                 "C": "Contemplation",
                 "D": "Precontemplation"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "HP-041",
@@ -494,8 +494,8 @@
                 "C": "Action",
                 "D": "Preparation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-042",
@@ -506,8 +506,8 @@
                 "C": "Contemplation",
                 "D": "Precontemplation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-043",
@@ -518,8 +518,8 @@
                 "C": "Health Promotion Model",
                 "D": "Theory of Planned Behavior"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-044",
@@ -530,8 +530,8 @@
                 "C": "Innovators",
                 "D": "Early majority"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "HP-045",
@@ -542,8 +542,8 @@
                 "C": "Only government policies",
                 "D": "Only family relationships"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-046",
@@ -554,8 +554,8 @@
                 "C": "Hospital admission",
                 "D": "Surgical intervention"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-047",
@@ -566,8 +566,8 @@
                 "C": "Diagnosis",
                 "D": "Medication"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-048",
@@ -578,8 +578,8 @@
                 "C": "Relationship building",
                 "D": "Evaluation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "HP-049",
@@ -590,8 +590,8 @@
                 "C": "Surgery",
                 "D": "Diagnosis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-050",
@@ -602,8 +602,8 @@
                 "C": "Assessment → Relationship → Evaluation → Goal setting → Intervention",
                 "D": "Intervention → Goal setting → Relationship → Assessment → Termination"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-051",
@@ -614,8 +614,8 @@
                 "C": "Making all decisions for the patient",
                 "D": "Avoiding community involvement"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-052",
@@ -626,8 +626,8 @@
                 "C": "Pharmacologist",
                 "D": "Laboratory scientist"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-053",
@@ -638,8 +638,8 @@
                 "C": "Reflecting",
                 "D": "Prescribing"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "HP-054",
@@ -650,8 +650,8 @@
                 "C": "Non-judgmental",
                 "D": "Punitive"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "HP-055",
@@ -662,8 +662,8 @@
                 "C": "Strict",
                 "D": "Directive"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-056",
@@ -674,8 +674,8 @@
                 "C": "Goal setting",
                 "D": "Termination"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-057",
@@ -686,8 +686,8 @@
                 "C": "Developed collaboratively with the client",
                 "D": "Ignored until termination"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "HP-058",
@@ -698,8 +698,8 @@
                 "C": "Isolation",
                 "D": "Dependence"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HP-059",
@@ -710,8 +710,8 @@
                 "C": "Making decisions for the client",
                 "D": "Ignoring client feelings"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "HP-060",
@@ -722,8 +722,5 @@
                 "C": "Theory of Planned Behavior",
                 "D": "Transtheoretical Model"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"}     ]
 }

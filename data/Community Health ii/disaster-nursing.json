@@ -14,8 +14,8 @@
                 "C": "A minor accident",
                 "D": "A planned community activity"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-002",
@@ -26,8 +26,8 @@
                 "C": "Urgency",
                 "D": "Routine"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DN-003",
@@ -38,8 +38,8 @@
                 "C": "Local and private",
                 "D": "Simple and complex"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-004",
@@ -50,8 +50,8 @@
                 "C": "Landslide",
                 "D": "Volcanic eruption"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-005",
@@ -62,8 +62,8 @@
                 "C": "Earthquake",
                 "D": "Epidemic"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DN-006",
@@ -74,8 +74,8 @@
                 "C": "Deforestation only",
                 "D": "Building collapse"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-007",
@@ -86,8 +86,8 @@
                 "C": "Industrial explosion",
                 "D": "Earthquake"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DN-008",
@@ -98,8 +98,8 @@
                 "C": "Always crosses national borders",
                 "D": "Requires international aid"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-009",
@@ -110,8 +110,8 @@
                 "C": "Only international assistance",
                 "D": "No coordination"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-010",
@@ -122,8 +122,8 @@
                 "C": "Family only",
                 "D": "School"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-011",
@@ -134,8 +134,8 @@
                 "C": "Capacity × Recovery",
                 "D": "Vulnerability − Hazard"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-012",
@@ -146,8 +146,8 @@
                 "C": "The hazard itself",
                 "D": "Only financial losses"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-013",
@@ -158,8 +158,8 @@
                 "C": "Eliminates hazards",
                 "D": "Prevents all disasters"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-014",
@@ -170,8 +170,8 @@
                 "C": "Only children",
                 "D": "Only government officials"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-015",
@@ -182,8 +182,8 @@
                 "C": "Complete elimination of all hazards",
                 "D": "Only psychological recovery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-016",
@@ -194,8 +194,8 @@
                 "C": "Routine documentation",
                 "D": "Discharge planning"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-017",
@@ -206,8 +206,8 @@
                 "C": "Complete all paperwork",
                 "D": "Arrange routine appointments"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-018",
@@ -218,8 +218,8 @@
                 "C": "All communication",
                 "D": "All community participation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-019",
@@ -230,8 +230,8 @@
                 "C": "Health needs",
                 "D": "Communication needs only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-020",
@@ -242,8 +242,8 @@
                 "C": "Only financial problems",
                 "D": "Only staffing problems"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-021",
@@ -254,8 +254,8 @@
                 "C": "During rehabilitation",
                 "D": "After all hazards disappear"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-022",
@@ -266,8 +266,8 @@
                 "C": "Recovery ends",
                 "D": "Evaluation is completed"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-023",
@@ -278,8 +278,8 @@
                 "C": "Only warning",
                 "D": "No intervention"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-024",
@@ -290,8 +290,8 @@
                 "C": "Denial",
                 "D": "Adaptation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DN-025",
@@ -302,8 +302,8 @@
                 "C": "No emotional reaction",
                 "D": "Only improved concentration"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-026",
@@ -314,8 +314,8 @@
                 "C": "Avoid all assistance",
                 "D": "Forget the experience"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DN-027",
@@ -326,8 +326,8 @@
                 "C": "Pre-disaster warning only",
                 "D": "Routine annual review"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-028",
@@ -338,8 +338,8 @@
                 "C": "Delay all preparedness",
                 "D": "Eliminate community participation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-029",
@@ -350,8 +350,8 @@
                 "C": "Only patient satisfaction",
                 "D": "Only clinical diagnoses"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DN-030",
@@ -362,8 +362,9 @@
                 "C": "Private communication system",
                 "D": "Nonclinical chain only"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A" 
+        }    
+        ]
+    
+    
 }

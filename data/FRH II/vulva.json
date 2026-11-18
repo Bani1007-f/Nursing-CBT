@@ -14,8 +14,8 @@
                 "C": "Vestibule",
                 "D": "Perineum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-002",
@@ -26,8 +26,8 @@
                 "C": "Primary and secondary organs",
                 "D": "Reproductive and urinary organs"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-003",
@@ -38,8 +38,8 @@
                 "C": "Uterus",
                 "D": "Vestibule"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-004",
@@ -50,8 +50,8 @@
                 "C": "Breast",
                 "D": "Vagina"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-005",
@@ -62,8 +62,8 @@
                 "C": "Fourchette",
                 "D": "Vaginal orifice"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-006",
@@ -74,8 +74,8 @@
                 "C": "Produce progesterone",
                 "D": "Facilitate implantation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-007",
@@ -86,8 +86,8 @@
                 "C": "Fatty tissue",
                 "D": "Glandular tissue"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-008",
@@ -98,8 +98,8 @@
                 "C": "Coccyx",
                 "D": "Sacrum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-009",
@@ -110,8 +110,8 @@
                 "C": "Puberty",
                 "D": "Menopause"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-010",
@@ -122,8 +122,8 @@
                 "C": "Erectile structures",
                 "D": "Glandular structures"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-011",
@@ -134,8 +134,8 @@
                 "C": "Labioscrotal swellings",
                 "D": "Müllerian ducts"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-012",
@@ -146,8 +146,8 @@
                 "C": "Cartilage",
                 "D": "Erectile tissue only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-013",
@@ -158,8 +158,8 @@
                 "C": "Cervix and bladder",
                 "D": "Urethra and anus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-014",
@@ -170,8 +170,8 @@
                 "C": "Covered with thick keratinized skin",
                 "D": "Made mainly of bone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-015",
@@ -182,8 +182,8 @@
                 "C": "Genital tubercle",
                 "D": "Wolffian ducts"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-016",
@@ -194,8 +194,8 @@
                 "C": "Fibrocartilage",
                 "D": "Glandular tissue"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-017",
@@ -206,8 +206,8 @@
                 "C": "Sexual stimulation",
                 "D": "Pregnancy only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-018",
@@ -218,8 +218,8 @@
                 "C": "Labioscrotal swellings",
                 "D": "Müllerian duct"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "VULV-019",
@@ -230,8 +230,8 @@
                 "C": "Sacrum",
                 "D": "Coccyx"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-020",
@@ -242,8 +242,8 @@
                 "C": "Adipose tissue",
                 "D": "Fibrous tissue"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "VULV-021",
@@ -254,8 +254,8 @@
                 "C": "Clitoris",
                 "D": "Fourchette"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-022",
@@ -266,8 +266,8 @@
                 "C": "Fallopian tubes and vagina",
                 "D": "Ovaries and urethra"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "VULV-023",
@@ -278,8 +278,8 @@
                 "C": "Clitoris",
                 "D": "Perineal body"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-024",
@@ -290,8 +290,8 @@
                 "C": "Urethra",
                 "D": "Mons veneris"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-025",
@@ -302,8 +302,8 @@
                 "C": "2.5 cm",
                 "D": "5 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-026",
@@ -314,8 +314,8 @@
                 "C": "Lactiferous ducts",
                 "D": "Cervical ducts"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-027",
@@ -326,8 +326,8 @@
                 "C": "Ova",
                 "D": "Progesterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-028",
@@ -338,8 +338,8 @@
                 "C": "Lower two-thirds",
                 "D": "Entire vestibule"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-029",
@@ -350,8 +350,8 @@
                 "C": "Glandular structure",
                 "D": "Vascular muscle"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-030",
@@ -362,8 +362,8 @@
                 "C": "Ova",
                 "D": "Semen only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-031",
@@ -374,8 +374,8 @@
                 "C": "Nabothian cysts",
                 "D": "Rugae"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-032",
@@ -386,8 +386,8 @@
                 "C": "Labia majora and minora",
                 "D": "Cervix and vagina"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-033",
@@ -398,8 +398,8 @@
                 "C": "Vestibular bulbs",
                 "D": "Bartholin glands"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-034",
@@ -410,8 +410,8 @@
                 "C": "Childbirth",
                 "D": "Implantation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "VULV-035",
@@ -422,8 +422,8 @@
                 "C": "Paraurethral glands",
                 "D": "Mammary glands"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "VULV-036",
@@ -434,8 +434,8 @@
                 "C": "Inside the uterus",
                 "D": "Within the cervix"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-037",
@@ -446,8 +446,8 @@
                 "C": "Progesterone",
                 "D": "Milk"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-038",
@@ -458,8 +458,8 @@
                 "C": "Menopause",
                 "D": "Labour only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "VULV-039",
@@ -470,8 +470,8 @@
                 "C": "Smooth cartilage",
                 "D": "Glandular epithelium"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "VULV-040",
@@ -482,8 +482,6 @@
                 "C": "Urethra only",
                 "D": "Uterus"
             },
-            "answer": "B",
-            "explanation": null
-        }
-    ]
+            "answer": "B"    
+        } ]
 }

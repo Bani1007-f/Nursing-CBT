@@ -15,8 +15,8 @@
                 "C": "Eliminate all diseases",
                 "D": "Diagnose only individual patients"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-002",
@@ -27,8 +27,8 @@
                 "C": "Without community input",
                 "D": "Only inside hospitals"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-003",
@@ -39,8 +39,8 @@
                 "C": "Religious ceremonies only",
                 "D": "Political campaigns"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-004",
@@ -51,8 +51,8 @@
                 "C": "The cost of medicines only",
                 "D": "The nurse's personal opinion"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-005",
@@ -63,8 +63,8 @@
                 "C": "Prescriptions",
                 "D": "Hospital policies"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-006",
@@ -75,8 +75,8 @@
                 "C": "Drug prices",
                 "D": "Staff salaries"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-007",
@@ -87,8 +87,8 @@
                 "C": "Financial control",
                 "D": "Laboratory testing"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-008",
@@ -99,8 +99,8 @@
                 "C": "Should reject cultural differences",
                 "D": "Should impose personal beliefs"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-009",
@@ -111,8 +111,8 @@
                 "C": "Learning another language",
                 "D": "Using community volunteers"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-010",
@@ -123,8 +123,8 @@
                 "C": "Rejecting traditional practices",
                 "D": "Ignoring cultural beliefs"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-011",
@@ -135,8 +135,8 @@
                 "C": "More expensive only",
                 "D": "Limited to hospitals"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-012",
@@ -147,8 +147,8 @@
                 "C": "Use only the nurse's cultural standards",
                 "D": "Avoid community members"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-013",
@@ -159,8 +159,8 @@
                 "C": "Only pharmacies",
                 "D": "Only laboratories"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-014",
@@ -171,8 +171,8 @@
                 "C": "Hospital administrators",
                 "D": "Laboratory scientists"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-015",
@@ -183,8 +183,8 @@
                 "C": "Political policies only",
                 "D": "Personal opinions"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-016",
@@ -195,8 +195,8 @@
                 "C": "Replace community participation",
                 "D": "Guarantee valid results"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-017",
@@ -207,8 +207,8 @@
                 "C": "Found only in census reports",
                 "D": "Found only in hospital registers"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-018",
@@ -219,8 +219,8 @@
                 "C": "An old hospital register",
                 "D": "Published previous research"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-019",
@@ -231,8 +231,8 @@
                 "C": "Only qualitative data",
                 "D": "Only survey responses"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-020",
@@ -243,8 +243,8 @@
                 "C": "New physical examination",
                 "D": "New observation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-021",
@@ -255,8 +255,8 @@
                 "C": "Religious beliefs only",
                 "D": "Community stories only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-022",
@@ -267,8 +267,8 @@
                 "C": "Key informant opinion",
                 "D": "Personal experience"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-023",
@@ -279,8 +279,8 @@
                 "C": "Only mortality ratios",
                 "D": "Only population size"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-024",
@@ -291,8 +291,8 @@
                 "C": "Mortality ratio",
                 "D": "Immunization percentage"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-025",
@@ -303,8 +303,8 @@
                 "C": "Only reviewing hospital records",
                 "D": "Randomly selecting patients"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-026",
@@ -315,8 +315,8 @@
                 "C": "Replace all interviews",
                 "D": "Treat diseases"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-027",
@@ -327,8 +327,8 @@
                 "C": "Must be a child",
                 "D": "Has no community knowledge"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-028",
@@ -339,8 +339,8 @@
                 "C": "50–100 participants",
                 "D": "2 participants only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-029",
@@ -351,8 +351,8 @@
                 "C": "Drug doses",
                 "D": "Laboratory values"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-030",
@@ -363,8 +363,8 @@
                 "C": "Only distributing questionnaires",
                 "D": "Only conducting laboratory tests"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-031",
@@ -375,8 +375,8 @@
                 "C": "Only physical examinations",
                 "D": "Only focus groups"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-032",
@@ -387,8 +387,8 @@
                 "C": "Only religious beliefs",
                 "D": "Only staff performance"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-033",
@@ -399,8 +399,8 @@
                 "C": "Conducting laboratory tests",
                 "D": "Selecting random numbers"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-034",
@@ -411,8 +411,8 @@
                 "C": "Only hospital staff",
                 "D": "Only household illnesses"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-035",
@@ -423,8 +423,8 @@
                 "C": "Choose a treatment",
                 "D": "Write the final report"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-036",
@@ -435,8 +435,8 @@
                 "C": "To avoid informed consent",
                 "D": "To eliminate documentation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-037",
@@ -447,8 +447,8 @@
                 "C": "Avoiding qualitative data",
                 "D": "Collecting data without objectives"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-038",
@@ -459,8 +459,8 @@
                 "C": "Only needed in hospitals",
                 "D": "Unrelated to research"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-039",
@@ -471,8 +471,8 @@
                 "C": "Data accuracy",
                 "D": "Standardization"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-040",
@@ -483,8 +483,8 @@
                 "C": "Only cost",
                 "D": "Only sample size"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-041",
@@ -495,8 +495,8 @@
                 "C": "A fixed first position",
                 "D": "A guaranteed selection"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-042",
@@ -507,8 +507,8 @@
                 "C": "Only volunteers",
                 "D": "All households"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-043",
@@ -519,8 +519,8 @@
                 "C": "Political parties",
                 "D": "Random villages only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-044",
@@ -531,8 +531,8 @@
                 "C": "Only key informants",
                 "D": "Only volunteers"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-045",
@@ -543,8 +543,8 @@
                 "C": "Using no sampling frame",
                 "D": "Only interviewing leaders"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-046",
@@ -555,8 +555,8 @@
                 "C": "Selecting every kth household",
                 "D": "Selecting only randomly chosen villages"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-047",
@@ -567,8 +567,8 @@
                 "C": "Dividing the population into strata",
                 "D": "Random balloting"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-048",
@@ -579,8 +579,8 @@
                 "C": "Only infants",
                 "D": "Only government workers"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-049",
@@ -591,8 +591,8 @@
                 "C": "Only cultural stories",
                 "D": "Only group discussions"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "COMM-050",
@@ -603,8 +603,8 @@
                 "C": "Only mortality rates",
                 "D": "Only closed responses"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-051",
@@ -615,8 +615,8 @@
                 "C": "Difficult to easy only",
                 "D": "Personal to public only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-052",
@@ -627,8 +627,8 @@
                 "C": "Mortality rate",
                 "D": "Staff attendance"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-053",
@@ -639,8 +639,8 @@
                 "C": "Only qualitative data are collected",
                 "D": "The nurse wants to avoid piloting"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-054",
@@ -651,8 +651,8 @@
                 "C": "Only hospital staff",
                 "D": "Only community leaders"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-055",
@@ -663,8 +663,8 @@
                 "C": "Reporting",
                 "D": "Cultural assessment"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-056",
@@ -675,8 +675,8 @@
                 "C": "Only religious beliefs",
                 "D": "Only staffing problems"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-057",
@@ -687,8 +687,8 @@
                 "C": "Sampling bias completely",
                 "D": "Cultural differences"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-058",
@@ -699,8 +699,8 @@
                 "C": "Only drug names",
                 "D": "Only community leaders"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-059",
@@ -711,8 +711,8 @@
                 "C": "Only migration status",
                 "D": "Only age groups"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-060",
@@ -723,8 +723,8 @@
                 "C": "Only disease outbreaks",
                 "D": "Only community leadership"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-061",
@@ -735,8 +735,8 @@
                 "C": "Ignoring children",
                 "D": "Using only written questionnaires"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-062",
@@ -747,8 +747,8 @@
                 "C": "Only community leader consent",
                 "D": "Only nurse approval"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-063",
@@ -759,8 +759,8 @@
                 "C": "Only falls",
                 "D": "Only palliative care"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-064",
@@ -771,8 +771,8 @@
                 "C": "Only sexuality education",
                 "D": "Only birth registration"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-065",
@@ -783,8 +783,8 @@
                 "C": "Only transport",
                 "D": "Only laboratory machines"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-066",
@@ -795,8 +795,8 @@
                 "C": "Sampling frames",
                 "D": "Data entry clerks"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-067",
@@ -807,8 +807,8 @@
                 "C": "School examinations only",
                 "D": "Political campaigns only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-068",
@@ -819,8 +819,8 @@
                 "C": "Ignoring religious practices",
                 "D": "Rejecting faith-based organizations"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-069",
@@ -831,8 +831,8 @@
                 "C": "Only census activities",
                 "D": "Only hospital admission"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-070",
@@ -843,8 +843,8 @@
                 "C": "No consent",
                 "D": "Only English questionnaires"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-071",
@@ -855,8 +855,8 @@
                 "C": "Sampling methods",
                 "D": "Community structures"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-072",
@@ -867,8 +867,8 @@
                 "C": "Only health workers",
                 "D": "Only community leaders"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-073",
@@ -879,8 +879,8 @@
                 "C": "Only religious differences",
                 "D": "Only age differences"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-074",
@@ -891,8 +891,8 @@
                 "C": "Cultural competence only",
                 "D": "Secondary data"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-075",
@@ -903,8 +903,8 @@
                 "C": "Only nurses work",
                 "D": "Community members are excluded"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-076",
@@ -915,8 +915,8 @@
                 "C": "Between nurses and doctors only",
                 "D": "Between countries"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-077",
@@ -927,8 +927,8 @@
                 "C": "Only community leaders",
                 "D": "Only government ministries"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-078",
@@ -939,8 +939,8 @@
                 "C": "Only doctors",
                 "D": "Only laboratories"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-079",
@@ -951,8 +951,8 @@
                 "C": "Only pharmacies",
                 "D": "Only laboratories"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-080",
@@ -963,8 +963,8 @@
                 "C": "Poor communication",
                 "D": "Individual accountability only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-081",
@@ -975,8 +975,8 @@
                 "C": "Changed daily",
                 "D": "Ignored"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-082",
@@ -987,8 +987,8 @@
                 "C": "Snowball sampling",
                 "D": "Secondary data"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-083",
@@ -999,8 +999,8 @@
                 "C": "Only language barriers",
                 "D": "Only age differences"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-084",
@@ -1011,8 +1011,8 @@
                 "C": "Only meetings",
                 "D": "Only data collection"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-085",
@@ -1023,8 +1023,8 @@
                 "C": "Removes community participation",
                 "D": "Prevents referrals"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-086",
@@ -1035,8 +1035,8 @@
                 "C": "Dentist only",
                 "D": "Pharmacist only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-087",
@@ -1047,8 +1047,8 @@
                 "C": "Screening, Background, Assessment, Record",
                 "D": "Summary, Behaviour, Analysis, Response"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-088",
@@ -1059,8 +1059,8 @@
                 "C": "Random sampling",
                 "D": "Cultural beliefs"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-089",
@@ -1071,8 +1071,8 @@
                 "C": "All data are quantitative",
                 "D": "Every report was annual"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-090",
@@ -1083,8 +1083,8 @@
                 "C": "Only patient complaints",
                 "D": "Only research results"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-091",
@@ -1095,8 +1095,8 @@
                 "C": "Community meeting",
                 "D": "Reporting channel"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-092",
@@ -1107,8 +1107,8 @@
                 "C": "Cultural models",
                 "D": "Collaboration types"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-093",
@@ -1119,8 +1119,8 @@
                 "C": "A focus group",
                 "D": "A report type"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-094",
@@ -1131,8 +1131,8 @@
                 "C": "Information and Entry",
                 "D": "Inspection and Ethics"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-095",
@@ -1143,8 +1143,8 @@
                 "C": "Data, Analysis, Report",
                 "D": "Discussion, Action, Review"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-096",
@@ -1155,8 +1155,8 @@
                 "C": "A cultural assessment model",
                 "D": "A report type"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-097",
@@ -1167,8 +1167,8 @@
                 "C": "Use correction fluid",
                 "D": "Delete the record"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-098",
@@ -1179,8 +1179,8 @@
                 "C": "More accurate data",
                 "D": "Faster reporting"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-099",
@@ -1191,8 +1191,8 @@
                 "C": "Informal reminders only",
                 "D": "Non-confidential documents"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "COMM-100",
@@ -1203,8 +1203,8 @@
                 "C": "Relevant stakeholders",
                 "D": "Only researchers"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-101",
@@ -1215,8 +1215,8 @@
                 "C": "Immediate notification of outbreaks or emergencies",
                 "D": "Household sampling"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-102",
@@ -1227,8 +1227,8 @@
                 "C": "Numerical summaries of morbidity, mortality and coverage indicators",
                 "D": "Only meeting minutes"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-103",
@@ -1239,8 +1239,8 @@
                 "C": "A periodic update on programme implementation",
                 "D": "Only legal documentation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-104",
@@ -1251,8 +1251,8 @@
                 "C": "A comprehensive review of activities, outcomes, challenges and recommendations",
                 "D": "Only referrals"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-105",
@@ -1263,8 +1263,8 @@
                 "C": "Factual, concise and logically organized",
                 "D": "Based mainly on opinion"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-106",
@@ -1275,8 +1275,8 @@
                 "C": "Actionable",
                 "D": "Without data"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-107",
@@ -1287,8 +1287,8 @@
                 "C": "Design, sampling, data collection tools and analysis approach",
                 "D": "Only discussion"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-108",
@@ -1299,8 +1299,8 @@
                 "C": "Demographic profile, health indicators and identified problems",
                 "D": "Only references"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-109",
@@ -1311,8 +1311,8 @@
                 "C": "Interpreting findings and comparing them with benchmarks",
                 "D": "Selecting participants"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-110",
@@ -1323,8 +1323,8 @@
                 "C": "Prioritization matrix",
                 "D": "Referral register"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-111",
@@ -1335,8 +1335,8 @@
                 "C": "Limitations of the assessment",
                 "D": "Only recommendations"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-112",
@@ -1347,8 +1347,8 @@
                 "C": "Local Government Health Authority",
                 "D": "Only patients"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-113",
@@ -1359,8 +1359,8 @@
                 "C": "Escalated within mandated timeframes",
                 "D": "Ignored until evaluation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-114",
@@ -1371,8 +1371,8 @@
                 "C": "Active co-researchers",
                 "D": "Data clerks only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-115",
@@ -1383,8 +1383,8 @@
                 "C": "Participation, action and research",
                 "D": "Culture, religion and nationality"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-116",
@@ -1395,8 +1395,8 @@
                 "C": "Co-ownership",
                 "D": "One-time data collection"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-117",
@@ -1407,8 +1407,8 @@
                 "C": "Cyclical",
                 "D": "Only qualitative"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-118",
@@ -1419,8 +1419,8 @@
                 "C": "Practical change or improvement",
                 "D": "Data storage"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-119",
@@ -1431,8 +1431,8 @@
                 "C": "Plan → Act → Observe → Reflect",
                 "D": "Sample → Interview → Report → Stop"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-120",
@@ -1443,8 +1443,8 @@
                 "C": "Re-planning",
                 "D": "Deleting data"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-121",
@@ -1455,8 +1455,8 @@
                 "C": "Greater ownership in generating knowledge and action",
                 "D": "Only the final report"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-122",
@@ -1467,8 +1467,8 @@
                 "C": "Practical improvement, not knowledge alone",
                 "D": "Only data collection"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-123",
@@ -1479,8 +1479,8 @@
                 "C": "Co-ownership",
                 "D": "Confidentiality only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-124",
@@ -1491,8 +1491,8 @@
                 "C": "Collect, understand and use evidence with the community to improve health",
                 "D": "Report problems without action"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-125",
@@ -1503,8 +1503,8 @@
                 "C": "Community strengths and resources",
                 "D": "Only medication use"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-126",
@@ -1515,8 +1515,8 @@
                 "C": "A systematic assessment of community health status, needs and resources",
                 "D": "A drug administration record"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-127",
@@ -1527,8 +1527,8 @@
                 "C": "Planning appropriate health interventions",
                 "D": "Eliminating community participation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-128",
@@ -1539,8 +1539,8 @@
                 "C": "Cultural dimension",
                 "D": "Pharmacological dimension"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-129",
@@ -1551,8 +1551,8 @@
                 "C": "Communication and understanding",
                 "D": "Only mortality"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-130",
@@ -1563,8 +1563,8 @@
                 "C": "Cultural sensitivity",
                 "D": "Professional isolation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-131",
@@ -1575,8 +1575,8 @@
                 "C": "Remain open to learning from community members",
                 "D": "Impose personal values"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-132",
@@ -1587,8 +1587,8 @@
                 "C": "Our cultural practice is the correct standard for everyone",
                 "D": "Different cultures may have different practices"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-133",
@@ -1599,8 +1599,8 @@
                 "C": "The practice should be understood in its cultural context",
                 "D": "The nurse's belief should determine care"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-134",
@@ -1611,8 +1611,8 @@
                 "C": "Adapted to the community's cultural context",
                 "D": "Designed without consultation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-135",
@@ -1623,8 +1623,8 @@
                 "C": "Participate in identifying problems and making decisions",
                 "D": "Only provide data"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-136",
@@ -1635,8 +1635,8 @@
                 "C": "Give opinions while outsiders retain decision-making power",
                 "D": "Conduct all research"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-137",
@@ -1647,8 +1647,8 @@
                 "C": "Shared between community and health team",
                 "D": "Made only by one nurse"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-138",
@@ -1659,8 +1659,8 @@
                 "C": "Controls specific delegated decisions",
                 "D": "Only completes questionnaires"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-139",
@@ -1671,8 +1671,8 @@
                 "C": "Community control",
                 "D": "Manipulation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-140",
@@ -1683,8 +1683,8 @@
                 "C": "Link the health team with community members",
                 "D": "Write prescriptions"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-141",
@@ -1695,8 +1695,8 @@
                 "C": "A bridge between the health team and community",
                 "D": "Sampling errors"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-142",
@@ -1707,8 +1707,8 @@
                 "C": "Trust and accountability",
                 "D": "Professional isolation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-143",
@@ -1719,8 +1719,8 @@
                 "C": "Existing resources that can support health action",
                 "D": "Only external funding"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-144",
@@ -1731,8 +1731,8 @@
                 "C": "Power imbalance",
                 "D": "Community ownership"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-145",
@@ -1743,8 +1743,8 @@
                 "C": "Have difficulty understanding health information",
                 "D": "Always provide accurate data"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-146",
@@ -1755,8 +1755,8 @@
                 "C": "Influencing community priorities or decisions",
                 "D": "Improving sampling accuracy"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-147",
@@ -1767,8 +1767,8 @@
                 "C": "Pre-entry preparation",
                 "D": "Programme termination"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-148",
@@ -1779,8 +1779,8 @@
                 "C": "Traditional ruler or community head",
                 "D": "Data entry clerk"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-149",
@@ -1791,8 +1791,8 @@
                 "C": "Ward or Village Development/Health Committee",
                 "D": "Only national government"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "COMM-150",
@@ -1803,8 +1803,8 @@
                 "C": "Drug chart",
                 "D": "Town hall"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-151",
@@ -1815,8 +1815,8 @@
                 "C": "A discharge summary",
                 "D": "Community acceptance"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-152",
@@ -1827,8 +1827,8 @@
                 "C": "Only mortality data",
                 "D": "Acceptance and trust"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-153",
@@ -1839,8 +1839,8 @@
                 "C": "Previous research only",
                 "D": "Observation and interviews"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-154",
@@ -1851,8 +1851,8 @@
                 "C": "A new physical examination",
                 "D": "Census records"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-155",
@@ -1863,8 +1863,8 @@
                 "C": "Primary—old records",
                 "D": "Quantitative—numbers"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-156",
@@ -1875,8 +1875,8 @@
                 "C": "Primary—existing census",
                 "D": "Qualitative—experiences and perceptions"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-157",
@@ -1887,8 +1887,8 @@
                 "C": "Prevent all bias",
                 "D": "Strengthen understanding of the community"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-158",
@@ -1899,8 +1899,8 @@
                 "C": "Only community leadership opinions",
                 "D": "Standardized information from households"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-159",
@@ -1911,8 +1911,8 @@
                 "C": "Is always a child",
                 "D": "Has relevant knowledge of the community"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-160",
@@ -1923,8 +1923,8 @@
                 "C": "Give medical prescriptions",
                 "D": "Guide the discussion and encourage participation"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-161",
@@ -1935,8 +1935,8 @@
                 "C": "Only mortality rates",
                 "D": "Visible housing, roads, sanitation and community conditions"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-162",
@@ -1947,8 +1947,8 @@
                 "C": "Only family relationships",
                 "D": "Water sources and waste disposal"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-163",
@@ -1959,8 +1959,8 @@
                 "C": "Deaths only",
                 "D": "Resources and capacities"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-164",
@@ -1971,8 +1971,8 @@
                 "C": "Unrelated to the assessment",
                 "D": "Clear and specific"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-165",
@@ -1983,8 +1983,8 @@
                 "C": "A community meeting",
                 "D": "A list or representation of units from which a sample may be selected"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-166",
@@ -1995,8 +1995,8 @@
                 "C": "Only volunteers",
                 "D": "A sampling frame from which units can be randomly selected"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-167",
@@ -2007,8 +2007,8 @@
                 "C": "Random cultural interval",
                 "D": "Regular interval"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-168",
@@ -2019,8 +2019,8 @@
                 "C": "Snowball sampling",
                 "D": "Systematic sampling"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-169",
@@ -2031,8 +2031,8 @@
                 "C": "Snowball sampling",
                 "D": "Stratified sampling"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-170",
@@ -2043,8 +2043,8 @@
                 "C": "Purposive sampling",
                 "D": "Cluster sampling"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-171",
@@ -2055,8 +2055,8 @@
                 "C": "Snowball sampling",
                 "D": "Multistage sampling"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-172",
@@ -2067,8 +2067,8 @@
                 "C": "Systematic sampling",
                 "D": "Purposive sampling"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-173",
@@ -2079,8 +2079,8 @@
                 "C": "Simple random sampling",
                 "D": "Snowball sampling"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-174",
@@ -2091,8 +2091,8 @@
                 "C": "Already fully listed",
                 "D": "Hard to reach or hidden"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-175",
@@ -2103,8 +2103,8 @@
                 "C": "All information is always useful",
                 "D": "Data collection should be focused on defined objectives"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-176",
@@ -2115,8 +2115,8 @@
                 "C": "Only yes/no answers",
                 "D": "Detailed responses in participants' own words"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-177",
@@ -2127,8 +2127,8 @@
                 "C": "Unstructured stories",
                 "D": "Standardized quantifiable responses"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-178",
@@ -2139,8 +2139,8 @@
                 "C": "Whether data are quantitative",
                 "D": "Whether meaning has been preserved"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-179",
@@ -2151,8 +2151,8 @@
                 "C": "A final report",
                 "D": "Understandable and practical to complete"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-180",
@@ -2163,8 +2163,8 @@
                 "C": "Avoiding supervision",
                 "D": "Standardizing and training data collectors"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-181",
@@ -2175,8 +2175,8 @@
                 "C": "Replace data collectors",
                 "D": "Correct missing or inconsistent information while fieldwork continues"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-182",
@@ -2187,8 +2187,8 @@
                 "C": "Cultural differences",
                 "D": "Transcription errors"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-183",
@@ -2199,8 +2199,8 @@
                 "C": "The number of nurses in a facility",
                 "D": "The proportion of selected participants who respond"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-184",
@@ -2211,8 +2211,8 @@
                 "C": "Recorded as consent",
                 "D": "Documented appropriately"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-185",
@@ -2223,8 +2223,8 @@
                 "C": "Sharing data with everyone",
                 "D": "Protecting participants' information from unauthorized disclosure"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-186",
@@ -2235,8 +2235,8 @@
                 "C": "Are not allowed to ask questions",
                 "D": "Receive adequate information and voluntarily agree to participate"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-187",
@@ -2247,8 +2247,8 @@
                 "C": "Only sampling intervals",
                 "D": "Access to and control over health resources"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-188",
@@ -2259,8 +2259,8 @@
                 "C": "Collected only from men",
                 "D": "Separated by sex/gender categories where appropriate"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-189",
@@ -2271,8 +2271,8 @@
                 "C": "Only immunization status",
                 "D": "Sensitive sexual or reproductive information"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-190",
@@ -2283,8 +2283,8 @@
                 "C": "Only falls",
                 "D": "Reproductive health, mental health and substance use"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-191",
@@ -2295,8 +2295,8 @@
                 "C": "Only verbal reports from nurses",
                 "D": "Age-appropriate communication and consent requirements"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-192",
@@ -2307,8 +2307,8 @@
                 "C": "Cultural belief system",
                 "D": "Relevant assessment concern"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-193",
@@ -2319,8 +2319,8 @@
                 "C": "Only sampling intervals",
                 "D": "Language, access to services and health risks"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-194",
@@ -2331,8 +2331,8 @@
                 "C": "Speak the same language",
                 "D": "Share identical beliefs or practices"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-195",
@@ -2343,8 +2343,8 @@
                 "C": "Only sampling methods",
                 "D": "Certain health interventions"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-196",
@@ -2355,8 +2355,8 @@
                 "C": "Collect laboratory samples only",
                 "D": "Influence community attitudes toward health programmes"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-197",
@@ -2367,8 +2367,8 @@
                 "C": "Only age groups",
                 "D": "How overlapping identities can increase vulnerability"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-198",
@@ -2379,8 +2379,8 @@
                 "C": "Only financial resources",
                 "D": "Differences and inequities in health needs"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "COMM-199",
@@ -2391,8 +2391,8 @@
                 "C": "Only community leaders",
                 "D": "Different health professions working together"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
          {
             "id": "COMM-200",
@@ -2403,8 +2403,5 @@
                 "C": "A method of prescribing drugs",
                 "D": "A process of treating one patient"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"    } ]
 }

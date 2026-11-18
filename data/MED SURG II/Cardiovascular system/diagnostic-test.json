@@ -15,8 +15,8 @@
                 "C": "To help diagnose causes of cardiac signs and symptoms",
                 "D": "To replace the physical assessment"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-002",
@@ -27,8 +27,8 @@
                 "C": "To increase cardiac output",
                 "D": "To diagnose all diseases"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-003",
@@ -39,8 +39,8 @@
                 "C": "An ultrasound of the heart",
                 "D": "A blood test measuring biomarkers released with myocardial injury"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-004",
@@ -51,8 +51,8 @@
                 "C": "Only during sleep",
                 "D": "When myocardial cells become necrotic from prolonged ischemia or trauma"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-005",
@@ -63,8 +63,8 @@
                 "C": "Through interstitial spaces and the lymphatic system into general circulation",
                 "D": "Through the digestive tract"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-006",
@@ -75,8 +75,8 @@
                 "C": "CK-BB only",
                 "D": "CK-MB"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-007",
@@ -87,8 +87,8 @@
                 "C": "30 seconds",
                 "D": "12–24 days"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-008",
@@ -99,8 +99,8 @@
                 "C": "7 days",
                 "D": "1–3 minutes"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-009",
@@ -111,8 +111,8 @@
                 "C": "12–24 minutes",
                 "D": "1–3 hours"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-010",
@@ -123,8 +123,8 @@
                 "C": "CRP",
                 "D": "Myoglobin"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-011",
@@ -135,8 +135,8 @@
                 "C": "1 week",
                 "D": "12–24 hours"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-012",
@@ -147,8 +147,8 @@
                 "C": "24–48 days",
                 "D": "1–3 minutes"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-013",
@@ -159,8 +159,8 @@
                 "C": "Within 7 days",
                 "D": "Within 1 month"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-014",
@@ -171,8 +171,8 @@
                 "C": "Troponin M and troponin N",
                 "D": "Troponin A and troponin B"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-015",
@@ -183,8 +183,8 @@
                 "C": "It is a specific protein found in cardiac muscle",
                 "D": "It is produced only by the kidneys"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-016",
@@ -195,8 +195,8 @@
                 "C": "90–100 mmol/L",
                 "D": "150–180 mmol/L"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-017",
@@ -207,8 +207,8 @@
                 "C": "1.0–2.0 mmol/L",
                 "D": "6.5–8.0 mmol/L"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-018",
@@ -219,8 +219,8 @@
                 "C": "2.12–2.65 mmol/L",
                 "D": "8.0–12.0 mmol/L"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-019",
@@ -231,8 +231,8 @@
                 "C": "1.00–1.25 mmol/L",
                 "D": "0.1–0.2 mmol/L"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-020",
@@ -243,8 +243,8 @@
                 "C": "0.75–1.05 mmol/L",
                 "D": "2.5–4.0 mmol/L"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-021",
@@ -255,8 +255,8 @@
                 "C": "10–20 mmol/L",
                 "D": "20–30 mmol/L"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-022",
@@ -267,8 +267,8 @@
                 "C": "Platelet count",
                 "D": "Cardiac output"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-023",
@@ -279,8 +279,8 @@
                 "C": "Venous pressure",
                 "D": "Activity of the intrinsic pathway only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-024",
@@ -291,8 +291,8 @@
                 "C": "Measuring cardiac output",
                 "D": "Measuring oxygen saturation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-025",
@@ -303,8 +303,8 @@
                 "C": "150,000–400,000/mm³",
                 "D": "1,000–5,000/mm³"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-026",
@@ -315,8 +315,8 @@
                 "C": "Pulmonary ventilation",
                 "D": "Cardiac valve motion only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-027",
@@ -327,8 +327,8 @@
                 "C": "Raises triglycerides directly",
                 "D": "Causes myocardial necrosis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-028",
@@ -339,8 +339,8 @@
                 "C": "Reduces blood pressure directly",
                 "D": "Removes cholesterol from arterial walls"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-029",
@@ -351,8 +351,8 @@
                 "C": "A type of lipid",
                 "D": "A protein produced in response to systemic inflammation"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-030",
@@ -363,8 +363,8 @@
                 "C": "10 mg/L",
                 "D": "Less than 1 mg/L"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-031",
@@ -375,8 +375,8 @@
                 "C": "Less than 0.1 mg/L",
                 "D": "Greater than 3 mg/L"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-032",
@@ -387,8 +387,8 @@
                 "C": "The atria only",
                 "D": "The ventricles"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-033",
@@ -399,8 +399,8 @@
                 "C": "Heart failure",
                 "D": "Anemia only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-034",
@@ -411,8 +411,8 @@
                 "C": "Blood glucose",
                 "D": "Platelet function"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-035",
@@ -423,8 +423,8 @@
                 "C": "Serum electrolytes",
                 "D": "Cardiac and vascular pulsations and unusual cardiac contours"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-036",
@@ -435,8 +435,8 @@
                 "C": "A blood test",
                 "D": "An ultrasound image of the heart"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-037",
@@ -447,8 +447,8 @@
                 "C": "12",
                 "D": "6"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-038",
@@ -459,8 +459,8 @@
                 "C": "A laboratory value",
                 "D": "A separate cardiac valve"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-039",
@@ -471,8 +471,8 @@
                 "C": "Dysrhythmias and conduction abnormalities",
                 "D": "Only anemia"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-040",
@@ -483,8 +483,8 @@
                 "C": "Only pericardial fluid",
                 "D": "Ischemia, injury, or infarction"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-041",
@@ -495,8 +495,8 @@
                 "C": "To evaluate the cardiovascular response to stress",
                 "D": "To assess skin turgor"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-042",
@@ -507,8 +507,8 @@
                 "C": "Swimming",
                 "D": "Rowing a boat"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-043",
@@ -519,8 +519,8 @@
                 "C": "30%–40%",
                 "D": "100%–120%"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-044",
@@ -531,8 +531,8 @@
                 "C": "1 hour",
                 "D": "8–12 hours"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-045",
@@ -543,8 +543,8 @@
                 "C": "Caffeine",
                 "D": "Oxygen"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-046",
@@ -555,8 +555,8 @@
                 "C": "ECG, BP, symptoms, and perceived exertion",
                 "D": "Only body weight"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-047",
@@ -567,8 +567,8 @@
                 "C": "24 hours",
                 "D": "2 hours"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-048",
@@ -579,8 +579,8 @@
                 "C": "Only professional athletes",
                 "D": "Patients who cannot adequately exercise"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-049",
@@ -591,8 +591,8 @@
                 "C": "Dipyridamole and adenosine",
                 "D": "Warfarin and heparin"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-050",
@@ -603,8 +603,8 @@
                 "C": "The effects of dehydration",
                 "D": "The effects of anemia"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-051",
@@ -615,8 +615,8 @@
                 "C": "5–7 days",
                 "D": "1–2 hours"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-052",
@@ -627,8 +627,8 @@
                 "C": "Aminophylline, theophylline, or dipyridamole",
                 "D": "ACE inhibitors only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-053",
@@ -639,8 +639,8 @@
                 "C": "A blood test",
                 "D": "An invasive arterial catheter test"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-054",
@@ -651,8 +651,8 @@
                 "C": "Ejection fraction",
                 "D": "BUN only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-055",
@@ -663,8 +663,8 @@
                 "C": "Pericardial effusion",
                 "D": "Anemia"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-056",
@@ -675,8 +675,8 @@
                 "C": "Their function, including prosthetic valves",
                 "D": "Only their blood supply"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-057",
@@ -687,8 +687,8 @@
                 "C": "Avoid eating or drinking for 6 hours",
                 "D": "Exercise vigorously"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-058",
@@ -699,8 +699,8 @@
                 "C": "Only after 48 hours",
                 "D": "When fully alert and topical anesthetic effects have reversed, usually about 2 hours"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-059",
@@ -711,8 +711,8 @@
                 "C": "A laboratory blood test",
                 "D": "An invasive diagnostic procedure using radiopaque arterial and venous catheters"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-060",
@@ -723,8 +723,8 @@
                 "C": "Only respiratory rate",
                 "D": "Coronary artery patency and the extent of atherosclerosis"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-061",
@@ -735,8 +735,8 @@
                 "C": "Measuring serum potassium",
                 "D": "Assessing capillary refill"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-062",
@@ -747,8 +747,8 @@
                 "C": "A general physical assessment",
                 "D": "A type of ECG"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-063",
@@ -759,8 +759,8 @@
                 "C": "8–12 hours",
                 "D": "No fasting is needed"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-064",
@@ -771,8 +771,8 @@
                 "C": "Only oxygen saturation",
                 "D": "Bleeding or hematoma formation"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-065",
@@ -783,8 +783,8 @@
                 "C": "Every 2 hours for 24 hours",
                 "D": "Every 30 seconds for 6 hours"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-066",
@@ -795,8 +795,8 @@
                 "C": "Only skin thickness",
                 "D": "Only hair growth"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-067",
@@ -807,8 +807,8 @@
                 "C": "24–48 hours",
                 "D": "2–6 hours"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-068",
@@ -819,8 +819,8 @@
                 "C": "Pressure in the aorta only",
                 "D": "Pressure in the vena cava or right atrium"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-069",
@@ -831,8 +831,8 @@
                 "C": "10–20 mmHg",
                 "D": "30–40 mmHg"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "DT-070",
@@ -843,8 +843,8 @@
                 "C": "Measuring capillary refill",
                 "D": "Measuring serum cholesterol"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-071",
@@ -855,8 +855,8 @@
                 "C": "Measuring cardiac enzymes",
                 "D": "Direct, continuous BP measurement in critically ill patients"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-072",
@@ -867,8 +867,8 @@
                 "C": "Frequent arterial blood gas and blood sampling",
                 "D": "Assessing skin turgor"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-073",
@@ -879,8 +879,8 @@
                 "C": "Ejection fraction and underlying cause",
                 "D": "Only blood glucose"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-074",
@@ -891,8 +891,8 @@
                 "C": "Electrolytes, BUN, creatinine, BNP, TSH, CBC, and urinalysis",
                 "D": "Only troponin"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "DT-075",
@@ -903,8 +903,8 @@
                 "C": "Whether the patient has a skin infection",
                 "D": "Whether CAD and cardiac ischemia are causing the HF"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-076",
@@ -915,8 +915,8 @@
                 "C": "Urinalysis",
                 "D": "Doppler echocardiography"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-077",
@@ -927,8 +927,8 @@
                 "C": "Drawing blood for troponin",
                 "D": "Passing a tube through the esophagus to view the heart from behind"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-078",
@@ -939,8 +939,8 @@
                 "C": "BUN only",
                 "D": "Lipid profile only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "DT-079",
@@ -951,8 +951,8 @@
                 "C": "Always a decreased count",
                 "D": "An elevated count"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "DT-080",
@@ -963,8 +963,5 @@
                 "C": "Protein absent",
                 "D": "Glucosuria only"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"     }]
 }
