@@ -14,8 +14,8 @@
                 "C": "Embryo",
                 "D": "Fetus"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-002",
@@ -26,8 +26,8 @@
                 "C": "Embryo",
                 "D": "Chorion"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "MT-003",
@@ -38,8 +38,8 @@
                 "C": "8 weeks",
                 "D": "12 weeks"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "MT-004",
@@ -50,8 +50,8 @@
                 "C": "12 weeks to 20 weeks",
                 "D": "37 weeks to birth"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "MT-005",
@@ -62,8 +62,8 @@
                 "C": "Expulsion of the fetus",
                 "D": "Formation of lochia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-006",
@@ -74,8 +74,8 @@
                 "C": "40 weeks from the first day of LMP",
                 "D": "52 weeks"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "MT-007",
@@ -86,8 +86,8 @@
                 "C": "Abortion",
                 "D": "Puerperium"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-008",
@@ -98,8 +98,8 @@
                 "C": "Multipara",
                 "D": "Nulligravida"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-009",
@@ -110,8 +110,8 @@
                 "C": "A baby after birth",
                 "D": "A woman who has delivered twins"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-010",
@@ -122,8 +122,8 @@
                 "C": "Never been pregnant",
                 "D": "Had an abortion only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-011",
@@ -134,8 +134,8 @@
                 "C": "The number of abortions only",
                 "D": "The gestational age"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-012",
@@ -146,8 +146,8 @@
                 "C": "Nulligravida",
                 "D": "Grand multipara"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-013",
@@ -158,8 +158,8 @@
                 "C": "Multigravida",
                 "D": "Multipara"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "MT-014",
@@ -170,8 +170,8 @@
                 "C": "Multigravida",
                 "D": "Nullipara"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "MT-015",
@@ -182,8 +182,8 @@
                 "C": "Multigravida",
                 "D": "Grand multipara"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-016",
@@ -194,8 +194,8 @@
                 "C": "Primigravida",
                 "D": "Nulligravida"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-017",
@@ -206,8 +206,8 @@
                 "C": "Nullipara",
                 "D": "Primigravida"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "MT-018",
@@ -218,8 +218,8 @@
                 "C": "Primipara",
                 "D": "Grand multipara"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-019",
@@ -230,8 +230,8 @@
                 "C": "Involution",
                 "D": "Labour"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-020",
@@ -242,8 +242,8 @@
                 "C": "During labour only",
                 "D": "After six weeks"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-021",
@@ -254,8 +254,8 @@
                 "C": "During puerperium",
                 "D": "After delivery only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-022",
@@ -266,8 +266,8 @@
                 "C": "37–40 weeks",
                 "D": "41–45 weeks"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "MT-023",
@@ -278,8 +278,8 @@
                 "C": "After 37 weeks",
                 "D": "Only at 40 weeks"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "MT-024",
@@ -290,8 +290,8 @@
                 "C": "Labour Monitoring Period",
                 "D": "Late Menstrual Phase"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-025",
@@ -302,8 +302,8 @@
                 "C": "Early Delivery Date",
                 "D": "Expected Duration of Development"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-026",
@@ -314,8 +314,8 @@
                 "C": "LMP + 3 days + 12 months",
                 "D": "LMP - 7 days + 9 months"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-027",
@@ -326,8 +326,8 @@
                 "C": "A fetal stool",
                 "D": "A membrane around the fetus"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-028",
@@ -338,8 +338,8 @@
                 "C": "Umbilical cord only",
                 "D": "Placenta only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-029",
@@ -350,8 +350,8 @@
                 "C": "Postpartum discharge",
                 "D": "Fetal hair growth"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-030",
@@ -362,8 +362,8 @@
                 "C": "Embryo",
                 "D": "Nullipara"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-031",
@@ -374,8 +374,8 @@
                 "C": "Neonatal survivor",
                 "D": "Primipara"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "MT-032",
@@ -386,8 +386,8 @@
                 "C": "Is born after 37 weeks only",
                 "D": "Must cry immediately"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-033",
@@ -398,8 +398,8 @@
                 "C": "A blood-stained discharge",
                 "D": "A uterine membrane"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-034",
@@ -410,8 +410,8 @@
                 "C": "Artificial Respiratory Membrane",
                 "D": "Amniotic Rupture Method"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-035",
@@ -422,8 +422,8 @@
                 "C": "Prolonged Rupture Of Mucus",
                 "D": "Premature Reduction Of Membranes"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-036",
@@ -434,8 +434,8 @@
                 "C": "Cervical mucus",
                 "D": "Fetal urine only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-037",
@@ -446,8 +446,8 @@
                 "C": "Placental muscle",
                 "D": "Cervical plug"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-038",
@@ -458,8 +458,8 @@
                 "C": "Cervical canal",
                 "D": "Amniotic fluid"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-039",
@@ -470,8 +470,8 @@
                 "C": "After",
                 "D": "Small"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-040",
@@ -482,8 +482,8 @@
                 "C": "Blood in the amniotic sac",
                 "D": "Premature delivery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-041",
@@ -494,8 +494,8 @@
                 "C": "Normal labour",
                 "D": "Fetal hair"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-042",
@@ -506,8 +506,8 @@
                 "C": "A macerated fetus",
                 "D": "A preterm fetus"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-043",
@@ -518,8 +518,8 @@
                 "C": "A fetal membrane",
                 "D": "A uterine contraction"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-044",
@@ -530,8 +530,8 @@
                 "C": "The fetal scalp swelling",
                 "D": "The amniotic membrane"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-045",
@@ -542,8 +542,8 @@
                 "C": "A fetal hair",
                 "D": "A cervical infection"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-046",
@@ -554,8 +554,8 @@
                 "C": "Returning the uterus to its pregravid size",
                 "D": "Producing amniotic fluid"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-047",
@@ -566,8 +566,8 @@
                 "C": "Postpartum haemorrhage",
                 "D": "Prolonged pregnancy"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-048",
@@ -578,8 +578,8 @@
                 "C": "Postnatal period",
                 "D": "Fetal viability"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-049",
@@ -590,8 +590,8 @@
                 "C": "Fetal scalp covering",
                 "D": "Placental tissue"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-050",
@@ -602,8 +602,8 @@
                 "C": "Increase pelvic diameter",
                 "D": "Cause fetal flexion"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-051",
@@ -614,8 +614,8 @@
                 "C": "Passage of meconium",
                 "D": "Postpartum lochia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-052",
@@ -626,8 +626,8 @@
                 "C": "Period of labour only",
                 "D": "Period before pregnancy"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-053",
@@ -638,8 +638,8 @@
                 "C": "Formation of the embryo",
                 "D": "Opening of the cervix"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-054",
@@ -650,8 +650,8 @@
                 "C": "Cervical mucus before pregnancy",
                 "D": "Fetal urine"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-055",
@@ -662,8 +662,8 @@
                 "C": "Whitish and occurs after day 10",
                 "D": "Green-black stool"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-056",
@@ -674,8 +674,8 @@
                 "C": "Whitish from day 1",
                 "D": "Green-black"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "MT-057",
@@ -686,8 +686,8 @@
                 "C": "Pink-yellow on day 2",
                 "D": "Green-black"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-058",
@@ -698,8 +698,8 @@
                 "C": "Only before labour",
                 "D": "Between 6 and 12 months"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-059",
@@ -710,8 +710,8 @@
                 "C": "Before delivery",
                 "D": "Only during pregnancy"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "MT-060",
@@ -722,8 +722,7 @@
                 "C": "Fetal assessment clinic",
                 "D": "Pelvic clinic"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"     
         }
     ]
 }

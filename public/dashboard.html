@@ -7,7 +7,10 @@
 
     <title>Dashboard — CBT</title>
 
-    <link rel="stylesheet" href="css/style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
@@ -18,33 +21,14 @@
 
     <header class="topbar">
 
-        <div class="logo">
-            <span>✦</span>
-            <strong>CBT</strong>
-        </div>
+        <a href="/" class="logo">
+    <img
+        src="images/nursing-4d-prep.svg"
+        alt="Nursing 4D Prep - Learn. Practise. Prepare."
+    >
+</a>
 
-        <nav id="main-nav">
-
-            <a href="index.html">
-                Home
-            </a>
-
-            <a href="dashboard.html">
-                Dashboard
-            </a>
-
-            <a href="history.html">
-                History
-            </a>
-
-            <button
-                id="logout-button"
-                class="nav-button"
-            >
-                Logout
-            </button>
-
-        </nav>
+        <nav id="main-nav"></nav>
 
     </header>
 
@@ -266,7 +250,7 @@
 
     </main>
 
-
+<script src="js/navigation.js"></script>
     <script src="js/dashboard.js"></script>
 
 </body>

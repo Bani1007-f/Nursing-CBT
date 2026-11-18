@@ -15,8 +15,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-002",
@@ -27,8 +27,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-003",
@@ -39,8 +39,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-004",
@@ -51,8 +51,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-005",
@@ -63,8 +63,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-006",
@@ -75,8 +75,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-007",
@@ -87,8 +87,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-008",
@@ -99,8 +99,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-009",
@@ -111,8 +111,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-010",
@@ -123,8 +123,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-011",
@@ -135,8 +135,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-012",
@@ -147,8 +147,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-013",
@@ -159,8 +159,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-014",
@@ -171,8 +171,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-015",
@@ -183,8 +183,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-016",
@@ -195,8 +195,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-017",
@@ -207,8 +207,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-018",
@@ -219,8 +219,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-019",
@@ -231,8 +231,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-020",
@@ -243,8 +243,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-021",
@@ -255,8 +255,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-022",
@@ -267,8 +267,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-023",
@@ -279,8 +279,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-024",
@@ -291,8 +291,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-025",
@@ -303,8 +303,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-026",
@@ -315,8 +315,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-027",
@@ -327,8 +327,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-028",
@@ -339,8 +339,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-029",
@@ -351,8 +351,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-030",
@@ -363,8 +363,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-031",
@@ -375,8 +375,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-032",
@@ -387,8 +387,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-033",
@@ -399,8 +399,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-034",
@@ -411,8 +411,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-035",
@@ -423,8 +423,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-036",
@@ -435,8 +435,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-037",
@@ -447,8 +447,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-038",
@@ -459,8 +459,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-039",
@@ -471,8 +471,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-040",
@@ -483,8 +483,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-041",
@@ -495,8 +495,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-042",
@@ -507,8 +507,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-043",
@@ -519,8 +519,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-044",
@@ -531,8 +531,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-045",
@@ -543,8 +543,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-046",
@@ -555,8 +555,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-047",
@@ -567,8 +567,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-048",
@@ -579,8 +579,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-049",
@@ -591,8 +591,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-050",
@@ -603,8 +603,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-051",
@@ -615,8 +615,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-052",
@@ -627,8 +627,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-053",
@@ -639,8 +639,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-054",
@@ -651,8 +651,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-055",
@@ -663,8 +663,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-056",
@@ -675,8 +675,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-057",
@@ -687,8 +687,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-058",
@@ -699,8 +699,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-059",
@@ -711,8 +711,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-060",
@@ -723,8 +723,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-061",
@@ -735,8 +735,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-062",
@@ -747,8 +747,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-063",
@@ -759,8 +759,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-064",
@@ -771,8 +771,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-065",
@@ -783,8 +783,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-066",
@@ -795,8 +795,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-067",
@@ -807,8 +807,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-068",
@@ -819,8 +819,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-069",
@@ -831,8 +831,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-070",
@@ -843,8 +843,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-071",
@@ -855,8 +855,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-072",
@@ -867,8 +867,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-073",
@@ -879,8 +879,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-074",
@@ -891,8 +891,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-075",
@@ -903,8 +903,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-076",
@@ -915,8 +915,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-077",
@@ -927,8 +927,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-078",
@@ -939,8 +939,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-079",
@@ -951,8 +951,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-080",
@@ -963,8 +963,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-081",
@@ -975,8 +975,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-082",
@@ -987,8 +987,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-083",
@@ -999,8 +999,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-084",
@@ -1011,8 +1011,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-085",
@@ -1023,8 +1023,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-086",
@@ -1035,8 +1035,8 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-087",
@@ -1047,8 +1047,8 @@
                 "C": "Pericardial infection",
                 "D": "Valve removal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-088",
@@ -1059,8 +1059,8 @@
                 "C": "Measurement of body weight only",
                 "D": "Detection of bacteria"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-089",
@@ -1071,8 +1071,8 @@
                 "C": "Heart infection",
                 "D": "Reduced body temperature"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "HYPE-090",
@@ -1083,8 +1083,5 @@
                 "C": "Valve infection",
                 "D": "Heart rhythm only"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"     }]
 }

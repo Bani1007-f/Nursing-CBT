@@ -118,14 +118,26 @@ async function loadQuestions() {
 
     try {
 
-        const response =
-            await fetch(
-                `/api/questions?course=${encodeURIComponent(
-                    selectedCourse
-                )}&topic=${encodeURIComponent(
-                    selectedTopic
-                )}`
+        const selectedQuestionCount =
+            Number(
+                localStorage.getItem("selectedQuestionCount")
             );
+
+        const questionUrl =
+            `/api/questions?course=${encodeURIComponent(
+                selectedCourse
+            )}&topic=${encodeURIComponent(
+                selectedTopic
+            )}` +
+            (
+                Number.isInteger(selectedQuestionCount) &&
+                selectedQuestionCount >= 10
+                    ? `&count=${selectedQuestionCount}`
+                    : ""
+            );
+
+        const response =
+            await fetch(questionUrl);
 
 
         if (!response.ok) {
@@ -177,7 +189,7 @@ async function loadQuestions() {
         */
 
         timeRemaining =
-            questions.length * 60;
+            questions.length * 30;
 
             
         testStartTime = Date.now();

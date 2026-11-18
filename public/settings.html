@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+ 
+<meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Settings | NURSING 4D PREP</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link
+    rel="stylesheet"
+    href="css/style.css"
+>
+ 
+
+</head>
+
+<body>
+
+ 
+<header class="topbar">
+
+    <a href="/" class="logo">
+    <img
+        src="images/nursing-4d-prep.svg"
+        alt="Nursing 4D Prep - Learn. Practise. Prepare."
+    >
+</a>
+
+
+    <nav
+        id="main-nav"
+    >
+    </nav>
+
+</header>
+
+
+<main class="settings-page">
+
+    <section class="settings-container">
+
+        <div class="settings-header">
+
+            <p class="eyebrow">
+                ACCOUNT
+            </p>
+
+            <h1>
+                Settings
+            </h1>
+
+            <p>
+                Manage your account and application preferences.
+            </p>
+
+        </div>
+
+
+        <!-- ======================================
+             ACCOUNT INFORMATION
+        ======================================= -->
+
+        <section class="settings-card">
+
+            <div class="settings-card-header">
+
+                <h2>
+                    Account
+                </h2>
+
+                <p>
+                    Your current account information.
+                </p>
+
+            </div>
+
+
+            <div class="settings-row">
+
+                <span class="settings-label">
+                    Name
+                </span>
+
+                <strong id="user-name">
+                    Loading...
+                </strong>
+
+            </div>
+
+
+            <div class="settings-row">
+
+                <span class="settings-label">
+                    Email
+                </span>
+
+                <strong id="user-email">
+                    Loading...
+                </strong>
+
+            </div>
+
+
+            <div class="settings-row">
+
+                <span class="settings-label">
+                    Account type
+                </span>
+
+                <strong id="user-role">
+                    Loading...
+                </strong>
+
+            </div>
+
+        </section>
+
+
+    
+        <!-- ======================================
+             ADMINISTRATOR TOOLS
+        ======================================= -->
+
+        <section
+            class="settings-card"
+            id="admin-tools"
+            hidden
+        >
+
+            <div class="settings-card-header">
+
+                <h2>Administrator Tools</h2>
+
+                <p>
+                    Promote trusted registered users to administrators.
+                    Administrators can upload question banks.
+                </p>
+
+            </div>
+
+            <form id="promote-user-form">
+
+                <div class="settings-row">
+
+                    <label
+                        class="settings-label"
+                        for="promote-user-email"
+                    >
+                        Registered user's email
+                    </label>
+
+                    <input
+                        type="email"
+                        id="promote-user-email"
+                        name="email"
+                        placeholder="student@example.com"
+                        autocomplete="off"
+                        required
+                    >
+
+                </div>
+
+                <button
+                    type="submit"
+                    id="promote-user-button"
+                >
+                    Promote to Administrator
+                </button>
+
+                <p
+                    id="promote-user-message"
+                    role="status"
+                    aria-live="polite"
+                ></p>
+
+            </form>
+
+        </section>
+    
+        <!-- ======================================
+             TEST PREFERENCES
+        ======================================= -->
+
+        <section class="settings-card">
+
+            <div class="settings-card-header">
+
+                <h2>
+                    Test Preferences
+                </h2>
+
+                <p>
+                    Control how tests behave on your device.
+                </p>
+
+            </div>
+
+
+            <div class="settings-option">
+
+                <div>
+
+                    <strong>
+                        Show explanations
+                    </strong>
+
+                    <p>
+                        Show explanations when reviewing answers.
+                    </p>
+
+                </div>
+
+                <label class="toggle">
+
+                    <input
+                        type="checkbox"
+                        id="show-explanations"
+                        checked
+                    >
+
+                    <span></span>
+
+                </label>
+
+            </div>
+
+
+            <div class="settings-option">
+
+                <div>
+
+                    <strong>
+                        Confirm before submitting
+                    </strong>
+
+                    <p>
+                        Ask for confirmation before submitting a test.
+                    </p>
+
+                </div>
+
+                <label class="toggle">
+
+                    <input
+                        type="checkbox"
+                        id="confirm-submit"
+                        checked
+                    >
+
+                    <span></span>
+
+                </label>
+
+            </div>
+
+        </section>
+
+        <!-- ======================================
+     ACCOUNT DELETION
+======================================= -->
+
+<section class="settings-card">
+
+    <div class="settings-card-header">
+
+        <h2>Delete Account</h2>
+
+        <p>
+            Permanently delete your account and associated test history.
+            This action cannot be undone.
+        </p>
+
+    </div>
+
+    <form id="delete-account-form">
+
+        <div class="settings-row">
+
+            <label
+                class="settings-label"
+                for="delete-account-password"
+            >
+                Confirm your current password
+            </label>
+
+            <input
+                type="password"
+                id="delete-account-password"
+                name="password"
+                placeholder="Enter your current password"
+                autocomplete="current-password"
+                required
+            >
+
+        </div>
+
+        <button
+            type="submit"
+            id="delete-account-button"
+            class="settings-danger-button"
+        >
+            Delete My Account
+        </button>
+
+        <p
+            id="delete-account-message"
+            role="status"
+            aria-live="polite"
+        ></p>
+
+    </form>
+
+</section>
+
+        <!-- ======================================
+             SESSION
+        ======================================= -->
+
+        <section class="settings-card">
+
+            <div class="settings-card-header">
+
+                <h2>
+                    Session
+                </h2>
+
+                <p>
+                    Manage your current login session.
+                </p>
+
+            </div>
+
+
+            <button
+                type="button"
+                id="settings-logout"
+                class="settings-danger-button"
+            >
+                Log out
+            </button>
+
+        </section>
+
+
+        <div
+            id="settings-message"
+            class="settings-message"
+        ></div>
+
+    </section>
+
+</main>
+
+
+<script src="js/navigation.js"></script>
+    <script src="js/password-toggle.js"></script>
+
+<script src="js/settings.js"></script>
+ 
+
+</body>
+
+</html>

@@ -14,8 +14,8 @@
                 "C": "Train doctors",
                 "D": "Increase urban health services"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-002",
@@ -26,8 +26,8 @@
                 "C": "Curative to preventive care",
                 "D": "Community to hospital care"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "PHC-003",
@@ -38,8 +38,8 @@
                 "C": "Industrial populations",
                 "D": "Privileged populations"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-004",
@@ -50,8 +50,8 @@
                 "C": "1970",
                 "D": "1978"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "PHC-005",
@@ -62,8 +62,8 @@
                 "C": "Cost of health services",
                 "D": "Number of tertiary hospitals"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-006",
@@ -74,8 +74,8 @@
                 "C": "Tertiary care",
                 "D": "Super-specialist care"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-007",
@@ -86,8 +86,8 @@
                 "C": "Health for All by the year 2000",
                 "D": "Immunization for All by 2010"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "PHC-008",
@@ -98,8 +98,8 @@
                 "C": "London",
                 "D": "New York"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-009",
@@ -110,8 +110,8 @@
                 "C": "1978",
                 "D": "1985"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "PHC-010",
@@ -122,8 +122,8 @@
                 "C": "UNICEF and UNDP",
                 "D": "WHO and Red Cross"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-011",
@@ -134,8 +134,8 @@
                 "C": "10 December 1992",
                 "D": "7 April 1977"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-012",
@@ -146,8 +146,8 @@
                 "C": "Specialist care for all",
                 "D": "Urban development"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-013",
@@ -158,8 +158,8 @@
                 "C": "Urbanization",
                 "D": "Hospitalization"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-014",
@@ -170,8 +170,8 @@
                 "C": "Increasing the cost of health services",
                 "D": "Promoting specialist care only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-015",
@@ -182,8 +182,8 @@
                 "C": "Population and migration",
                 "D": "Education and employment"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-016",
@@ -194,8 +194,8 @@
                 "C": "Replace all health workers",
                 "D": "Sell commercially"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-017",
@@ -206,8 +206,8 @@
                 "C": "Drug manufacturing only",
                 "D": "Hospital construction only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-018",
@@ -218,8 +218,8 @@
                 "C": "Emergency surgery only",
                 "D": "Hospital-based care only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-019",
@@ -230,8 +230,8 @@
                 "C": "Urban residents only",
                 "D": "Government officials"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-020",
@@ -242,8 +242,8 @@
                 "C": "Expensive but effective",
                 "D": "Available only during emergencies"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-021",
@@ -254,8 +254,8 @@
                 "C": "Always use sophisticated equipment",
                 "D": "Be provided only by doctors"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-022",
@@ -266,8 +266,8 @@
                 "C": "Only wealthy people can use them",
                 "D": "Services should be expensive"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-023",
@@ -278,8 +278,8 @@
                 "C": "Imported only",
                 "D": "Used only in tertiary hospitals"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-024",
@@ -290,8 +290,8 @@
                 "C": "Dependence on specialists",
                 "D": "Hospital-centered care"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-025",
@@ -302,8 +302,8 @@
                 "C": "A source of hospital funding only",
                 "D": "Irrelevant to health planning"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-026",
@@ -314,8 +314,8 @@
                 "C": "Primary health care",
                 "D": "Specialist health care"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "PHC-027",
@@ -326,8 +326,8 @@
                 "C": "Specialist hospitals",
                 "D": "Research institutions"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-028",
@@ -338,8 +338,8 @@
                 "C": "Only immunization",
                 "D": "Basic sanitation only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-029",
@@ -350,8 +350,8 @@
                 "C": "Homes",
                 "D": "Mobile clinics only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-030",
@@ -362,8 +362,8 @@
                 "C": "Community participation level",
                 "D": "Household level"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-031",
@@ -374,8 +374,8 @@
                 "C": "Only immunization",
                 "D": "Community health education only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-032",
@@ -386,8 +386,8 @@
                 "C": "Organ transplantation",
                 "D": "Neurosurgery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-033",
@@ -398,8 +398,8 @@
                 "C": "8",
                 "D": "10"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "PHC-034",
@@ -410,8 +410,8 @@
                 "C": "A referral procedure",
                 "D": "A government policy only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-035",
@@ -422,8 +422,8 @@
                 "C": "A tertiary service",
                 "D": "An administrative function only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-036",
@@ -434,8 +434,8 @@
                 "C": "A tertiary service",
                 "D": "A specialist service"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-037",
@@ -446,8 +446,8 @@
                 "C": "Radiotherapy",
                 "D": "Organ transplantation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-038",
@@ -458,8 +458,8 @@
                 "C": "All surgical conditions",
                 "D": "Mental illness only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-039",
@@ -470,8 +470,8 @@
                 "C": "Cardiac transplantation",
                 "D": "Intensive care"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-040",
@@ -482,8 +482,8 @@
                 "C": "A referral pathway",
                 "D": "A principle of hospital specialization PRINCIPLES OF PHC"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-041",
@@ -494,8 +494,8 @@
                 "C": "5",
                 "D": "8"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "PHC-042",
@@ -506,8 +506,8 @@
                 "C": "Community participation",
                 "D": "Hospital specialization"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "PHC-043",
@@ -518,8 +518,8 @@
                 "C": "Only wealthy people should receive services",
                 "D": "Rural areas should receive fewer services"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-044",
@@ -530,8 +530,8 @@
                 "C": "Community participation",
                 "D": "Manpower development"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-045",
@@ -542,8 +542,8 @@
                 "C": "Employing only doctors",
                 "D": "Closing training institutions"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-046",
@@ -554,8 +554,8 @@
                 "C": "Personal preference only",
                 "D": "Urban population alone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-047",
@@ -566,8 +566,8 @@
                 "C": "Avoid health programmes",
                 "D": "Refuse to participate in planning"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-048",
@@ -578,8 +578,8 @@
                 "C": "Ignoring community priorities",
                 "D": "Preventing families from participating"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-049",
@@ -590,8 +590,8 @@
                 "C": "Available only in teaching hospitals",
                 "D": "Impossible for community members to use"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-050",
@@ -602,8 +602,8 @@
                 "C": "MRI scanning",
                 "D": "Organ transplantation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-051",
@@ -614,8 +614,8 @@
                 "C": "Hospitals competing with one another",
                 "D": "Communities avoiding government agencies"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-052",
@@ -626,8 +626,8 @@
                 "C": "Banking",
                 "D": "Aviation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-053",
@@ -638,8 +638,8 @@
                 "C": "Cancer and arthritis",
                 "D": "Epilepsy and schizophrenia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-054",
@@ -650,8 +650,8 @@
                 "C": "Extremely expensive",
                 "D": "Built without sanitation PHC IN NIGERIA & REFERRAL"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-055",
@@ -662,8 +662,8 @@
                 "C": "Treating every patient personally",
                 "D": "Selecting traditional birth attendants only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-056",
@@ -674,8 +674,8 @@
                 "C": "Local government",
                 "D": "International government"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "PHC-057",
@@ -686,8 +686,8 @@
                 "C": "National policy formulation",
                 "D": "Super-specialist surgery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-058",
@@ -698,8 +698,8 @@
                 "C": "A nurse gives health education",
                 "D": "A community conducts sanitation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "PHC-059",
@@ -710,8 +710,8 @@
                 "C": "Only from tertiary to primary care",
                 "D": "Only between nurses"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "PHC-060",
@@ -722,8 +722,7 @@
                 "C": "1992",
                 "D": "2000"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"    
         }
-    ]
+        ]
 }

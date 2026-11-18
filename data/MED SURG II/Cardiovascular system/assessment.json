@@ -15,8 +15,8 @@
                 "C": "Tooth sensitivity",
                 "D": "Ear discharge"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-002",
@@ -27,8 +27,8 @@
                 "C": "Dyspnea",
                 "D": "Nasal itching"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-003",
@@ -39,8 +39,8 @@
                 "C": "Blurred hearing",
                 "D": "Dry lips only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-004",
@@ -51,8 +51,8 @@
                 "C": "Palpitations",
                 "D": "Clubbing"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-005",
@@ -63,8 +63,8 @@
                 "C": "Anosmia",
                 "D": "Tinnitus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-006",
@@ -75,8 +75,8 @@
                 "C": "PQRST",
                 "D": "SOAP only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-007",
@@ -87,8 +87,8 @@
                 "C": "Pattern/Pulse",
                 "D": "Provocation/Palliation"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-008",
@@ -99,8 +99,8 @@
                 "C": "Quickness/Quietness",
                 "D": "Quality/Quantity"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-009",
@@ -111,8 +111,8 @@
                 "C": "Rate/Respiration",
                 "D": "Risk/Relief"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-010",
@@ -123,8 +123,8 @@
                 "C": "Sleep",
                 "D": "Skin"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-011",
@@ -135,8 +135,8 @@
                 "C": "Tissue",
                 "D": "Treatment"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-012",
@@ -147,8 +147,8 @@
                 "C": "Where does the pain radiate?",
                 "D": "When did the pain stop?"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-013",
@@ -159,8 +159,8 @@
                 "C": "Where is the pain located?",
                 "D": "How often does it occur?"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-014",
@@ -171,8 +171,8 @@
                 "C": "What does the pain feel like?",
                 "D": "When did it begin?"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-015",
@@ -183,8 +183,8 @@
                 "C": "What caused the pain?",
                 "D": "How severe is it?"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-016",
@@ -195,8 +195,8 @@
                 "C": "A to D",
                 "D": "1 to 5 only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-017",
@@ -207,8 +207,8 @@
                 "C": "Only the color of the skin",
                 "D": "Only the pulse amplitude"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-018",
@@ -219,8 +219,8 @@
                 "C": "Family history",
                 "D": "Values-belief only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-019",
@@ -231,8 +231,8 @@
                 "C": "Reading",
                 "D": "Tobacco use"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-020",
@@ -243,8 +243,8 @@
                 "C": "Nothing about alcohol",
                 "D": "Only the patient's favorite drink"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-021",
@@ -255,8 +255,8 @@
                 "C": "Activity-Exercise",
                 "D": "Sleep-Rest"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-022",
@@ -267,8 +267,8 @@
                 "C": "Roles-Relationship",
                 "D": "Nutritional-Metabolic"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-023",
@@ -279,8 +279,8 @@
                 "C": "Activity-Exercise",
                 "D": "Elimination"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-024",
@@ -291,8 +291,8 @@
                 "C": "Values-Belief",
                 "D": "Activity-Exercise"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-025",
@@ -303,8 +303,8 @@
                 "C": "Nutritional-Metabolic",
                 "D": "Elimination"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-026",
@@ -315,8 +315,8 @@
                 "C": "Activity-Exercise",
                 "D": "Sleep-Rest"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-027",
@@ -327,8 +327,8 @@
                 "C": "Normal sleep pattern",
                 "D": "Reduced venous return only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-028",
@@ -339,8 +339,8 @@
                 "C": "Hypertension only",
                 "D": "Improved ventilation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-029",
@@ -351,8 +351,8 @@
                 "C": "Activity-Exercise",
                 "D": "Self-Perception–Self-Concept"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-030",
@@ -363,8 +363,8 @@
                 "C": "Values-Belief",
                 "D": "Roles-Relationship"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-031",
@@ -375,8 +375,8 @@
                 "C": "Health Perception",
                 "D": "Sexuality-Reproductive"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-032",
@@ -387,8 +387,8 @@
                 "C": "Sleep-Rest",
                 "D": "Nutritional-Metabolic"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-033",
@@ -399,8 +399,8 @@
                 "C": "Values-Belief",
                 "D": "Activity-Exercise"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-034",
@@ -411,8 +411,8 @@
                 "C": "To eliminate the need for follow-up",
                 "D": "To diagnose every condition without history"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-035",
@@ -423,8 +423,8 @@
                 "C": "Color, turgor, temperature, and texture",
                 "D": "Only nail length"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-036",
@@ -435,8 +435,8 @@
                 "C": "Cyanosis only of the feet",
                 "D": "Pallor"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-037",
@@ -447,8 +447,8 @@
                 "C": "Only bowel sounds",
                 "D": "Orientation to person, place, and time"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-038",
@@ -459,8 +459,8 @@
                 "C": "Pain, shortness of breath, or anxiety",
                 "D": "Only insomnia"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-039",
@@ -471,8 +471,8 @@
                 "C": "Cardiac valve size",
                 "D": "Lung volume"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-040",
@@ -483,8 +483,8 @@
                 "C": "Press the carotid for 30 seconds",
                 "D": "Measure the pulse for 1 hour"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-041",
@@ -495,8 +495,8 @@
                 "C": "Within 10 seconds",
                 "D": "Within 3 seconds"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-042",
@@ -507,8 +507,8 @@
                 "C": "Warmth with bounding pulses only",
                 "D": "Increased movement"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-043",
@@ -519,8 +519,8 @@
                 "C": "Auscultate the ankle",
                 "D": "Press firmly for 5 seconds over the dorsum of the foot"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-044",
@@ -531,8 +531,8 @@
                 "C": "Elbow only",
                 "D": "Forehead"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-045",
@@ -543,8 +543,8 @@
                 "C": "120/80 mmHg",
                 "D": "180/120 mmHg"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-046",
@@ -555,8 +555,8 @@
                 "C": "Heart rate multiplied by BP",
                 "D": "Diastolic pressure divided by heart rate"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-047",
@@ -567,8 +567,8 @@
                 "C": "30–40 mmHg",
                 "D": "5–10 mmHg"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-048",
@@ -579,8 +579,8 @@
                 "C": "An increase in capillary refill",
                 "D": "A significant BP decrease after assuming an upright posture"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-049",
@@ -591,8 +591,8 @@
                 "C": "Cough and sputum only",
                 "D": "Dizziness, lightheadedness, or syncope"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-050",
@@ -603,8 +603,8 @@
                 "C": "Rate, rhythm, quality, and strength",
                 "D": "Only duration"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-051",
@@ -615,8 +615,8 @@
                 "C": "120–160 bpm",
                 "D": "10–20 bpm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-052",
@@ -627,8 +627,8 @@
                 "C": "Only on the left",
                 "D": "Only on the right"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-053",
@@ -639,8 +639,8 @@
                 "C": "Popliteal",
                 "D": "Radial"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-054",
@@ -651,8 +651,8 @@
                 "C": "Temporal",
                 "D": "Brachial"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-055",
@@ -663,8 +663,8 @@
                 "C": "Brachial",
                 "D": "Dorsalis pedis"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-056",
@@ -675,8 +675,8 @@
                 "C": "Popliteal",
                 "D": "Temporal"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-057",
@@ -687,8 +687,8 @@
                 "C": "Absent or not palpable",
                 "D": "Weak and thready"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-058",
@@ -699,8 +699,8 @@
                 "C": "Strong and bounding",
                 "D": "Diminished but not obliterated"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-059",
@@ -711,8 +711,8 @@
                 "C": "Easy to palpate and full",
                 "D": "Strong and bounding"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-060",
@@ -723,8 +723,8 @@
                 "C": "Absent",
                 "D": "Strong and bounding"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-061",
@@ -735,8 +735,8 @@
                 "C": "Dorsalis pedis arteries",
                 "D": "Radial arteries"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-062",
@@ -747,8 +747,8 @@
                 "C": "Behind the knees",
                 "D": "At the wrist"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-063",
@@ -759,8 +759,8 @@
                 "C": "To determine rate and rhythm and evaluate heart sounds",
                 "D": "To assess bowel motility"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-064",
@@ -771,8 +771,8 @@
                 "C": "Left fifth intercostal space",
                 "D": "Second intercostal space to the right of the sternum"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-065",
@@ -783,8 +783,8 @@
                 "C": "Second intercostal space to the left of the sternum",
                 "D": "Right upper abdomen"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-066",
@@ -795,8 +795,8 @@
                 "C": "Left fifth intercostal space",
                 "D": "Second intercostal space to the right"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-067",
@@ -807,8 +807,8 @@
                 "C": "Third left intercostal space",
                 "D": "Second right intercostal space"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-068",
@@ -819,8 +819,8 @@
                 "C": "Opening of the semilunar valves",
                 "D": "Opening of the AV valves"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-069",
@@ -831,8 +831,8 @@
                 "C": "Atrial contraction",
                 "D": "Closure of the mitral and tricuspid valves"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-070",
@@ -843,8 +843,8 @@
                 "C": "Apical area",
                 "D": "Aortic area"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-071",
@@ -855,8 +855,8 @@
                 "C": "Closure of the semilunar valves",
                 "D": "Late systole"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-072",
@@ -867,8 +867,8 @@
                 "C": "Closure of semilunar valves",
                 "D": "Late diastole during atrial contraction"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-073",
@@ -879,8 +879,8 @@
                 "C": "Pericardial lubrication",
                 "D": "Normal valve closure only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-074",
@@ -891,8 +891,8 @@
                 "C": "Turbulent flow through the aorta",
                 "D": "Abrasion of inflamed pericardial surfaces"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-075",
@@ -903,8 +903,8 @@
                 "C": "Only chest circumference",
                 "D": "Only cough frequency"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-076",
@@ -915,8 +915,8 @@
                 "C": "Forearms only",
                 "D": "Scalp and face only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "ASSE-077",
@@ -927,8 +927,8 @@
                 "C": "Forehead",
                 "D": "Hands only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "ASSE-078",
@@ -939,8 +939,8 @@
                 "C": "Lung capacity",
                 "D": "Venous pressure"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "ASSE-079",
@@ -951,8 +951,8 @@
                 "C": "More than 3 cm above the sternal angle",
                 "D": "More than 1 cm below the clavicle"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "ASSE-080",
@@ -963,8 +963,7 @@
                 "C": "Pulse becomes 4+",
                 "D": "Neck vein distention decreases by 5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         }
     ]
 }

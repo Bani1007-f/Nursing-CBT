@@ -1,831 +1,633 @@
+
 let catalog = {};
+let curriculum = {};
+let selectedCurriculumCourse = null;
+let selectedBankCourse = null;
+let availableQuestions = 0;
+
+const levelSelect = document.getElementById("level");
+const semesterSelect = document.getElementById("semester");
+const courseSelect = document.getElementById("course");
+const topicSelect = document.getElementById("topic");
+const categorySelect = document.getElementById("category");
+const categoryLabel = document.getElementById("category-label");
+
+const questionCountSelect = document.getElementById("question-count");
+const availableQuestionCount = document.getElementById("available-question-count");
+const testTime = document.getElementById("test-time");
+
+const startButton = document.getElementById("start-test");
+const courseStatus = document.getElementById("course-status");
 
 
 // ============================================
-// ELEMENTS
+// INITIALISE PRACTICE PAGE
 // ============================================
 
-const courseSelect =
-    document.getElementById("course");
+async function initialisePracticePage() {
+    try {
+        const [catalogResponse, curriculumResponse] = await Promise.all([
+            fetch("/api/catalog"),
+            fetch("/api/curriculum")
+        ]);
 
-const topicSelect =
-    document.getElementById("topic");
-
-const questionCount =
-    document.getElementById("question-count");
-
-const testTime =
-    document.getElementById("test-time");
-
-const startButton =
-    document.getElementById("start-test");
-
-
-// ============================================
-// CREATE CATEGORY SELECT
-// ============================================
-
-const categoryLabel =
-    document.createElement("label");
-
-categoryLabel.textContent =
-    "Category";
-
-categoryLabel.id =
-    "category-label";
-
-categoryLabel.style.display =
-    "none";
-
-
-const categorySelect =
-    document.createElement("select");
-
-categorySelect.id =
-    "category";
-
-categorySelect.disabled =
-    true;
-
-categorySelect.style.display =
-    "none";
-
-
-topicSelect.parentNode.insertBefore(
-    categoryLabel,
-    topicSelect
-);
-
-topicSelect.parentNode.insertBefore(
-    categorySelect,
-    topicSelect
-);
-
-
-// ============================================
-// LOAD CATALOG
-// ============================================
-
-fetch("/api/catalog")
-
-    .then(response => {
-
-        if (!response.ok) {
-
-            throw new Error(
-                "Could not load courses."
-            );
-
+        if (!catalogResponse.ok) {
+            throw new Error("Could not load the question-bank catalogue.");
         }
 
-        return response.json();
+        if (!curriculumResponse.ok) {
+            throw new Error("Could not load the nursing curriculum.");
+        }
 
-    })
+        catalog = await catalogResponse.json();
+        curriculum = await curriculumResponse.json();
 
-    .then(data => {
+        loadLevels();
 
-        catalog =
-            data;
+    } catch (error) {
+        console.error("Practice page loading error:", error);
 
-        loadCourses();
-
-    })
-
-    .catch(error => {
-
-        console.error(
-            error
-        );
-
-    });
+        courseStatus.textContent =
+            "Unable to load the course catalogue. Please refresh the page.";
+    }
+}
 
 
 // ============================================
-// LOAD COURSES
+// LEVELS
+// ============================================
+
+function loadLevels() {
+    levelSelect.innerHTML =
+        '<option value="">Select your level</option>';
+
+    curriculum.levels.forEach(level => {
+        const option = document.createElement("option");
+
+        option.value = level.id;
+        option.textContent = level.name;
+
+        levelSelect.appendChild(option);
+    });
+
+    levelSelect.disabled = false;
+}
+
+
+// ============================================
+// SEMESTERS
+// ============================================
+
+function loadSemesters(levelId) {
+    resetSemester();
+    resetCourse();
+    resetCategory();
+    resetTopic();
+    resetQuestionCount();
+
+    const level = curriculum.levels.find(
+        item => item.id === levelId
+    );
+
+    if (!level) return;
+
+    semesterSelect.innerHTML =
+        '<option value="">Select a semester</option>';
+
+    level.semesters.forEach(semester => {
+        const option = document.createElement("option");
+
+        option.value = semester.id;
+        option.textContent = semester.name;
+
+        semesterSelect.appendChild(option);
+    });
+
+    semesterSelect.disabled = false;
+
+    // Pre-500 clinical practice has one concentrated placement period.
+    if (level.id === "pre500") {
+        semesterSelect.value = "clinical";
+        semesterSelect.disabled = true;
+
+        loadCourses();
+    }
+}
+
+
+// ============================================
+// COURSES
 // ============================================
 
 function loadCourses() {
+    resetCourse();
+    resetCategory();
+    resetTopic();
+    resetQuestionCount();
 
-    courseSelect.innerHTML = `
+    const levelId = levelSelect.value;
+    const semesterId = semesterSelect.value;
 
-        <option value="">
-            Select a course
-        </option>
+    if (!levelId || !semesterId) return;
 
-    `;
-
-
-    catalog.courses.forEach(
-        course => {
-
-            const option =
-                document.createElement(
-                    "option"
-                );
-
-
-            option.value =
-                course.id;
-
-
-            option.textContent =
-                course.name;
-
-
-            courseSelect.appendChild(
-                option
-            );
-
-        }
+    const level = curriculum.levels.find(
+        item => item.id === levelId
     );
 
+    if (!level) return;
+
+    const semester = level.semesters.find(
+        item => item.id === semesterId
+    );
+
+    if (!semester) return;
+
+    courseSelect.innerHTML =
+        '<option value="">Select a course</option>';
+
+    semester.courses.forEach(course => {
+        const bankCourse = findBankCourse(course);
+
+        const option = document.createElement("option");
+
+        option.value = course.id;
+
+        option.textContent = bankCourse
+            ? `${course.code} — ${course.title}`
+            : `${course.code} — ${course.title} (Coming soon)`;
+
+        courseSelect.appendChild(option);
+    });
+
+    courseSelect.disabled = false;
+}
+
+
+function findBankCourse(curriculumCourse) {
+    if (!curriculumCourse.bankFolder) return null;
+
+    return catalog.courses.find(
+        course => course.name === curriculumCourse.bankFolder
+    ) || null;
 }
 
 
 // ============================================
-// COURSE SELECTED
+// SELECT COURSE
 // ============================================
 
-courseSelect.addEventListener(
-    "change",
-    () => {
+function selectCourse(courseId) {
+    resetCategory();
+    resetTopic();
+    resetQuestionCount();
 
-        const course =
-            catalog.courses.find(
-                item =>
-                    item.id ===
-                    courseSelect.value
-            );
+    selectedCurriculumCourse = null;
+    selectedBankCourse = null;
 
+    courseStatus.textContent = "";
 
-        // Reset everything
+    const level = curriculum.levels.find(
+        item => item.id === levelSelect.value
+    );
 
-        resetCategory();
+    if (!level) return;
 
-        resetTopic();
+    const semester = level.semesters.find(
+        item => item.id === semesterSelect.value
+    );
 
-        questionCount.textContent =
-            "—";
+    if (!semester) return;
 
-        testTime.textContent =
-            "—";
+    selectedCurriculumCourse = semester.courses.find(
+        course => course.id === courseId
+    );
 
-        startButton.disabled =
-            true;
+    if (!selectedCurriculumCourse) return;
 
+    selectedBankCourse = findBankCourse(selectedCurriculumCourse);
 
-        if (!course) {
+    if (!selectedBankCourse) {
+        courseStatus.textContent =
+            "Coming soon — the question bank for this course is not available yet.";
 
-            return;
-
-        }
-
-
-        const categories =
-            Array.isArray(
-                course.categories
-            )
-                ? course.categories
-                : [];
-
-
-        // ====================================
-        // COURSE HAS CATEGORIES
-        // ====================================
-
-        if (
-            categories.length > 0
-        ) {
-
-            showCategorySelect(
-                categories
-            );
-
-        }
-
-
-        // ====================================
-        // COURSE HAS DIRECT TOPICS
-        // ====================================
-
-        else {
-
-            showDirectTopics(
-                course
-            );
-
-        }
-
+        return;
     }
-);
 
+    const hasCategories =
+        Array.isArray(selectedBankCourse.categories) &&
+        selectedBankCourse.categories.length > 0;
 
-// ============================================
-// SHOW CATEGORY SELECT
-// ============================================
+    const hasTopics =
+        Array.isArray(selectedBankCourse.topics) &&
+        selectedBankCourse.topics.length > 0;
 
-function showCategorySelect(
-    categories
-) {
+    if (!hasCategories && !hasTopics) {
+        courseStatus.textContent =
+            "Coming soon — no question topics have been added to this course yet.";
 
-    categorySelect.innerHTML = `
+        selectedBankCourse = null;
+        return;
+    }
 
-        <option value="">
-            Select a category
-        </option>
+    courseStatus.textContent = "Question bank available.";
 
-    `;
-
-
-    categories.forEach(
-        category => {
-
-            const option =
-                document.createElement(
-                    "option"
-                );
-
-
-            option.value =
-                category.id;
-
-
-            option.textContent =
-                category.name;
-
-
-            categorySelect.appendChild(
-                option
-            );
-
-        }
-    );
-
-
-    categoryLabel.style.display =
-        "block";
-
-    categorySelect.style.display =
-        "block";
-
-    categorySelect.disabled =
-        false;
-
-
-    topicSelect.innerHTML = `
-
-        <option value="">
-            Select a category first
-        </option>
-
-    `;
-
-    topicSelect.disabled =
-        true;
-
+    if (hasCategories) {
+        showCategorySelect(selectedBankCourse.categories);
+    } else {
+        showDirectTopics(selectedBankCourse);
+    }
 }
 
 
 // ============================================
-// SHOW DIRECT TOPICS
+// CATEGORIES
 // ============================================
 
-function showDirectTopics(
-    course
-) {
+function showCategorySelect(categories) {
+    resetCategory();
+    resetTopic();
+    resetQuestionCount();
 
-    categoryLabel.style.display =
-        "none";
+    categorySelect.innerHTML =
+        '<option value="">Select a category</option>';
 
-    categorySelect.style.display =
-        "none";
+    categories.forEach(category => {
+        const option = document.createElement("option");
 
-    categorySelect.disabled =
-        true;
+        option.value = category.id;
+        option.textContent = category.name;
 
+        categorySelect.appendChild(option);
+    });
 
-    topicSelect.innerHTML = `
-
-        <option value="">
-            Select a topic
-        </option>
-
-    `;
-
-
-    const topics =
-        Array.isArray(
-            course.topics
-        )
-            ? course.topics
-            : [];
+    categoryLabel.hidden = false;
+    categorySelect.hidden = false;
+    categorySelect.disabled = false;
+}
 
 
-    topics.forEach(
-        topic => {
+function showDirectTopics(course) {
+    resetCategory();
+    resetTopic();
+    resetQuestionCount();
 
-            addTopicOption(
-                topic
-            );
+    topicSelect.innerHTML =
+        '<option value="">Select a topic</option>';
 
-        }
-    );
-
+    course.topics.forEach(topic => {
+        addTopicOption(topic);
+    });
 
     addGeneralOption();
 
-
-    topicSelect.disabled =
-        false;
-
+    topicSelect.disabled = false;
 }
 
 
-// ============================================
-// CATEGORY SELECTED
-// ============================================
+function loadCategoryTopics(categoryId) {
+    resetTopic();
+    resetQuestionCount();
 
-categorySelect.addEventListener(
-    "change",
-    () => {
+    if (!selectedBankCourse) return;
 
-        resetTopic();
-
-
-        const course =
-            catalog.courses.find(
-                item =>
-                    item.id ===
-                    courseSelect.value
-            );
-
-
-        if (!course) {
-
-            return;
-
-        }
-
-
-        const category =
-            course.categories.find(
-                item =>
-                    item.id ===
-                    categorySelect.value
-            );
-
-
-        if (!category) {
-
-            return;
-
-        }
-
-
-        topicSelect.innerHTML = `
-
-            <option value="">
-                Select a topic
-            </option>
-
-        `;
-
-
-        const topics =
-            Array.isArray(
-                category.topics
-            )
-                ? category.topics
-                : [];
-
-
-       topics.forEach(
-    topic => {
-
-        addTopicOption(
-            topic,
-            category.id
-        );
-
-    }
-);
-
-
-        topicSelect.disabled =
-            false;
-
-    }
-);
-
-
-// ============================================
-// ADD TOPIC OPTION
-// ============================================
-
-function addTopicOption(
-    topic,
-    categoryId = null
-) {
-
-    const option =
-        document.createElement(
-            "option"
-        );
-
-
-    // ========================================
-    // TOPIC VALUE
-    // ========================================
-
-    if (categoryId) {
-
-        option.value =
-            `${categoryId}/${topic.id}`;
-
-    }
-
-    else {
-
-        option.value =
-            topic.id;
-
-    }
-
-
-    // ========================================
-    // TOPIC NAME
-    // ========================================
-
-    option.textContent =
-        topic.name;
-
-
-    topicSelect.appendChild(
-        option
+    const category = selectedBankCourse.categories.find(
+        item => item.id === categoryId
     );
 
+    if (!category || !Array.isArray(category.topics)) return;
+
+    topicSelect.innerHTML =
+        '<option value="">Select a topic</option>';
+
+    category.topics.forEach(topic => {
+        addTopicOption(topic, categoryId);
+    });
+
+    topicSelect.disabled = false;
 }
 
+
 // ============================================
-// ADD GENERAL QUESTIONS
+// TOPIC OPTIONS
 // ============================================
+
+function addTopicOption(topic, categoryId = null) {
+    const option = document.createElement("option");
+
+    option.value = categoryId
+        ? `${categoryId}/${topic.id}`
+        : topic.id;
+
+    option.textContent = topic.name;
+
+    topicSelect.appendChild(option);
+}
+
 
 function addGeneralOption() {
+    const option = document.createElement("option");
 
-    const generalOption =
-        document.createElement(
-            "option"
-        );
+    option.value = "general";
+    option.textContent = "General Questions";
 
-
-    generalOption.value =
-        "general";
-
-
-    generalOption.textContent =
-        "General Questions (60)";
-
-
-    topicSelect.appendChild(
-        generalOption
-    );
-
+    topicSelect.appendChild(option);
 }
 
 
 // ============================================
-// TOPIC SELECTED
+// TOPIC CHANGE AND AVAILABLE QUESTION COUNT
 // ============================================
 
-topicSelect.addEventListener(
-    "change",
-    () => {
+async function handleTopicChange() {
+    resetQuestionCount();
 
-        const selectedTopic =
-            topicSelect.value;
+    const selectedTopic = topicSelect.value;
 
+    if (!selectedTopic || !selectedBankCourse) return;
 
-        questionCount.textContent =
-            "—";
+    questionCountSelect.disabled = true;
+    questionCountSelect.innerHTML =
+        '<option value="">Checking available questions...</option>';
 
-        testTime.textContent =
-            "—";
+    try {
+        const response = await fetch(
+            `/api/questions?course=${encodeURIComponent(
+                selectedBankCourse.name
+            )}&topic=${encodeURIComponent(
+                selectedTopic
+            )}&info=1`
+        );
 
-        startButton.disabled =
-            true;
+        const data = await response.json();
 
-
-        if (!selectedTopic) {
-
-            return;
-
-        }
-
-
-        // ====================================
-        // GENERAL QUESTIONS
-        // ====================================
-
-        if (
-            selectedTopic ===
-            "general"
-        ) {
-
-            questionCount.textContent =
-                "60";
-
-            testTime.textContent =
-                "60 min";
-
-            startButton.disabled =
-                false;
-
-            return;
-
-        }
-
-
-        // ====================================
-        // FIND COURSE
-        // ====================================
-
-        const course =
-            catalog.courses.find(
-                item =>
-                    item.id ===
-                    courseSelect.value
+        if (!response.ok) {
+            throw new Error(
+                data.error || "Could not check available questions."
             );
+        }
 
+        availableQuestions = Number(data.totalAvailable) || 0;
 
-        if (!course) {
+        availableQuestionCount.textContent = availableQuestions;
+
+        if (availableQuestions < 10) {
+            questionCountSelect.innerHTML =
+                '<option value="">Not enough questions available</option>';
+
+            courseStatus.textContent =
+                "This topic needs at least 10 valid questions to create a test.";
 
             return;
-
         }
 
+        questionCountSelect.innerHTML =
+            '<option value="">Choose question count</option>';
 
-        let topic = null;
-
-
-        // ====================================
-        // DIRECT TOPIC
-        // ====================================
-
-        if (
-            Array.isArray(
-                course.topics
-            )
+        for (
+            let count = 10;
+            count <= availableQuestions;
+            count += 10
         ) {
+            const option = document.createElement("option");
 
-            topic =
-                course.topics.find(
-                    item =>
-                        item.id ===
-                        selectedTopic
-                );
+            option.value = count;
+            option.textContent = `${count} Questions`;
 
+            questionCountSelect.appendChild(option);
         }
 
+        questionCountSelect.disabled = false;
 
-        // ====================================
-        // CATEGORY TOPIC
-        // ====================================
+        courseStatus.textContent =
+            "Choose how many questions you want in this test.";
 
-        if (
-            !topic &&
-            Array.isArray(
-                course.categories
-            )
-        ) {
+    } catch (error) {
+        console.error("Question availability error:", error);
 
-            for (
-                const category
-                of course.categories
-            ) {
+        questionCountSelect.innerHTML =
+            '<option value="">Unable to check questions</option>';
 
-                if (
-                    !Array.isArray(
-                        category.topics
-                    )
-                ) {
-
-                    continue;
-
-                }
-
-
-                 topic =
-            category.topics.find(
-                item =>
-                    `${category.id}/${item.id}` ===
-                    selectedTopic
-            );
-
-
-
-                if (topic) {
-
-                    break;
-
-                }
-
-            }
-
-        }
-
-
-        if (!topic) {
-
-            return;
-
-        }
-
-
-        // ====================================
-        // DISPLAY QUESTION COUNT
-        // ====================================
-
-        const count =
-            Number(
-                topic.questionCount
-            );
-
-
-        if (
-            !Number.isFinite(count) ||
-            count <= 0
-        ) {
-
-            return;
-
-        }
-
-
-        questionCount.textContent =
-            count;
-
-
-        testTime.textContent =
-            `${count} min`;
-
-
-        startButton.disabled =
-            false;
-
+        courseStatus.textContent =
+            error.message || "Unable to check available questions.";
     }
-);
+}
 
-
-/// ============================================
-// START TEST
-// ============================================
 
 // ============================================
-// START TEST
+// QUESTION COUNT AND TIME
 // ============================================
 
-startButton.addEventListener(
-    "click",
-    () => {
+function handleQuestionCountChange() {
+    const count = Number(questionCountSelect.value);
 
-        if (
-            !courseSelect.value ||
-            !topicSelect.value
-        ) {
+    startButton.disabled = true;
+    testTime.textContent = "—";
 
-            return;
-
-        }
-
-
-        // ========================================
-        // FIND SELECTED COURSE
-        // ========================================
-
-        const course =
-            catalog.courses.find(
-                item =>
-                    item.id ===
-                    courseSelect.value
-            );
-
-
-        if (!course) {
-
-            console.error(
-                "Could not find selected course:",
-                courseSelect.value
-            );
-
-            return;
-
-        }
-
-
-        // ========================================
-        // SAVE TEST INFORMATION
-        // ========================================
-
-        localStorage.setItem(
-            "selectedCourse",
-            course.name
-        );
-
-
-        localStorage.setItem(
-            "selectedTopic",
-            topicSelect.value
-        );
-
-
-        localStorage.setItem(
-            "selectedCategory",
-            categorySelect.value || ""
-        );
-
-
-        // ========================================
-        // DEBUG
-        // ========================================
-
-        console.log(
-            "Starting test with:",
-            {
-                course:
-                    course.name,
-
-                topic:
-                    topicSelect.value,
-
-                category:
-                    categorySelect.value
-            }
-        );
-
-
-        // ========================================
-        // OPEN QUIZ
-        // ========================================
-
-        window.location.href =
-            "quiz.html";
-
+    if (
+        !Number.isInteger(count) ||
+        count < 10 ||
+        count % 10 !== 0 ||
+        count > availableQuestions
+    ) {
+        return;
     }
-);
+
+    const minutes = count / 2;
+
+    testTime.textContent =
+        `${minutes} ${minutes === 1 ? "minute" : "minutes"}`;
+
+    startButton.disabled = false;
+}
+
 
 // ============================================
-// RESET CATEGORY
+// RESET FUNCTIONS
 // ============================================
+
+function resetSemester() {
+    semesterSelect.innerHTML =
+        '<option value="">Select a level first</option>';
+
+    semesterSelect.disabled = true;
+}
+
+
+function resetCourse() {
+    courseSelect.innerHTML =
+        '<option value="">Select a semester first</option>';
+
+    courseSelect.disabled = true;
+
+    selectedCurriculumCourse = null;
+    selectedBankCourse = null;
+
+    courseStatus.textContent = "";
+}
+
 
 function resetCategory() {
+    categorySelect.innerHTML =
+        '<option value="">Select a category</option>';
 
-    categorySelect.innerHTML = `
-
-        <option value="">
-            Select a category
-        </option>
-
-    `;
-
-
-    categorySelect.value =
-        "";
-
-
-    categorySelect.disabled =
-        true;
-
-
-    categorySelect.style.display =
-        "none";
-
-
-    categoryLabel.style.display =
-        "none";
-
+    categorySelect.disabled = true;
+    categorySelect.hidden = true;
+    categoryLabel.hidden = true;
 }
 
-
-// ============================================
-// RESET TOPIC
-// ============================================
 
 function resetTopic() {
+    topicSelect.innerHTML =
+        '<option value="">Select a course first</option>';
 
-    topicSelect.innerHTML = `
-
-        <option value="">
-            Select a topic
-        </option>
-
-    `;
-
-
-    topicSelect.value =
-        "";
-
-
-    topicSelect.disabled =
-        true;
-
+    topicSelect.disabled = true;
 }
+
+
+function resetQuestionCount() {
+    availableQuestions = 0;
+
+    availableQuestionCount.textContent = "—";
+    testTime.textContent = "—";
+
+    questionCountSelect.innerHTML =
+        '<option value="">Select a topic first</option>';
+
+    questionCountSelect.disabled = true;
+
+    startButton.disabled = true;
+}
+
+
+// ============================================
+// EVENT LISTENERS
+// ============================================
+
+levelSelect.addEventListener("change", () => {
+    resetSemester();
+    resetCourse();
+    resetCategory();
+    resetTopic();
+    resetQuestionCount();
+
+    if (levelSelect.value) {
+        loadSemesters(levelSelect.value);
+    }
+});
+
+
+semesterSelect.addEventListener("change", () => {
+    resetCourse();
+    resetCategory();
+    resetTopic();
+    resetQuestionCount();
+
+    if (semesterSelect.value) {
+        loadCourses();
+    }
+});
+
+
+courseSelect.addEventListener("change", () => {
+    if (courseSelect.value) {
+        selectCourse(courseSelect.value);
+    } else {
+        resetCategory();
+        resetTopic();
+        resetQuestionCount();
+
+        courseStatus.textContent = "";
+    }
+});
+
+
+categorySelect.addEventListener("change", () => {
+    if (categorySelect.value) {
+        loadCategoryTopics(categorySelect.value);
+    } else {
+        resetTopic();
+        resetQuestionCount();
+    }
+});
+
+
+topicSelect.addEventListener("change", handleTopicChange);
+
+questionCountSelect.addEventListener(
+    "change",
+    handleQuestionCountChange
+);
+
+
+// ============================================
+// START TEST
+// ============================================
+
+startButton.addEventListener("click", () => {
+    const chosenCount = Number(questionCountSelect.value);
+
+    if (
+        !selectedCurriculumCourse ||
+        !selectedBankCourse ||
+        !topicSelect.value ||
+        !Number.isInteger(chosenCount) ||
+        chosenCount < 10 ||
+        chosenCount % 10 !== 0 ||
+        chosenCount > availableQuestions
+    ) {
+        return;
+    }
+
+    // Existing values expected by quiz.js.
+    localStorage.setItem("selectedCourse", selectedBankCourse.name);
+    localStorage.setItem("selectedTopic", topicSelect.value);
+    localStorage.setItem("selectedCategory", categorySelect.value || "");
+
+    // Student's selected test length.
+    localStorage.setItem(
+        "selectedQuestionCount",
+        String(chosenCount)
+    );
+
+    // Curriculum information.
+    localStorage.setItem(
+        "selectedLevel",
+        levelSelect.options[levelSelect.selectedIndex].textContent
+    );
+
+    localStorage.setItem(
+        "selectedSemester",
+        semesterSelect.options[semesterSelect.selectedIndex].textContent
+    );
+
+    localStorage.setItem(
+        "selectedCourseCode",
+        selectedCurriculumCourse.code
+    );
+
+    localStorage.setItem(
+        "selectedCourseTitle",
+        selectedCurriculumCourse.title
+    );
+
+    console.log("Starting CBT:", {
+        level: levelSelect.value,
+        semester: semesterSelect.value,
+        curriculumCourse: selectedCurriculumCourse,
+        bankCourse: selectedBankCourse.name,
+        topic: topicSelect.value,
+        category: categorySelect.value,
+        availableQuestions,
+        selectedQuestionCount: chosenCount,
+        timeInMinutes: chosenCount / 2
+    });
+
+    window.location.href = "quiz.html";
+});
+
+
+// ============================================
+// START
+// ============================================
+
+initialisePracticePage();

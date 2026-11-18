@@ -342,25 +342,8 @@ function displayAttempt(
                 </div>
 
 
-                ${
-                    question.explanation
-                        ? `
-                            <div class="review-explanation">
-
-                                <strong>
-                                    Explanation
-                                </strong>
-
-                                <p>
-                                    ${escapeHtml(
-                                        question.explanation
-                                    )}
-                                </p>
-
-                            </div>
-                        `
-                        : ""
-                }
+                
+                    
 
             </div>
 

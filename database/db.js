@@ -58,6 +58,17 @@ db.exec(`
 
     );
 
+    CREATE TABLE IF NOT EXISTS password_reset_tokens (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER NOT NULL,
+    token_hash TEXT NOT NULL UNIQUE,
+    expires_at INTEGER NOT NULL,
+    created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);
+
+CREATE INDEX IF NOT EXISTS idx_password_reset_tokens_user
+ON password_reset_tokens(user_id);
 
     CREATE TABLE IF NOT EXISTS test_attempts (
 
@@ -114,6 +125,38 @@ db.exec(`
 
 `);
 
+// ============================================
+// USER ROLE MIGRATION
+// ============================================
+
+try {
+
+    db.prepare(`
+        ALTER TABLE users
+        ADD COLUMN role TEXT NOT NULL DEFAULT 'user'
+    `).run();
+
+    console.log(
+        "Added user role column."
+    );
+
+}
+
+catch (error) {
+
+    // Ignore error if the column already exists
+
+    if (
+        !error.message.includes(
+            "duplicate column name"
+        )
+    ) {
+
+        throw error;
+
+    }
+
+}
 
 console.log(
     `SQLite database ready: ${databasePath}`

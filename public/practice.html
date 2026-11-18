@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NURSING 4D PREP | CBT</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header class="topbar">
+        <a href="/" class="logo">
+    <img
+        src="images/nursing-4d-prep.svg"
+        alt="Nursing 4D Prep - Learn. Practise. Prepare."
+    >
+</a>
+        <nav id="main-nav"></nav>
+    </header>
+
+    <main class="home">
+
+        <section class="hero">
+            <p class="eyebrow">COMPUTER-BASED TEST</p>
+            <h1>
+                Test your knowledge.<br>
+                Know your level.
+            </h1>
+            <p class="hero-text">
+                Select your level, semester, course and topic to begin your practice test.
+            </p>
+        </section>
+
+        <section class="test-selector">
+
+            <div class="selector-header">
+                <h2>Start a Test</h2>
+                <p>Choose what you want to practice.</p>
+            </div>
+
+            <div class="form-group">
+                <label for="level">Level</label>
+                <select id="level">
+                    <option value="">Select your level</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="semester">Semester</label>
+                <select id="semester" disabled>
+                    <option value="">Select a level first</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="course">Course</label>
+                <select id="course" disabled>
+                    <option value="">Select a semester first</option>
+                </select>
+                <p id="course-status" class="hero-text" aria-live="polite"></p>
+            </div>
+
+            <div class="form-group">
+                <label for="category" id="category-label" hidden>Category</label>
+                <select id="category" disabled hidden>
+                    <option value="">Select a category</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="topic">Topic</label>
+                <select id="topic" disabled>
+                    <option value="">Select a course first</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="question-count">Number of Questions</label>
+                <select id="question-count" disabled>
+                    <option value="">Select a topic first</option>
+                </select>
+            </div>
+
+            <div class="test-details">
+                <div class="detail">
+                    <span class="detail-label">AVAILABLE QUESTIONS</span>
+                    <strong id="available-question-count">—</strong>
+                </div>
+
+                <div class="detail">
+                    <span class="detail-label">TIME LIMIT</span>
+                    <strong id="test-time">—</strong>
+                </div>
+            </div>
+
+            <button id="start-test" class="start-button" disabled>
+                Start Test
+                <span>→</span>
+            </button>
+
+        </section>
+
+    </main>
+
+    <script src="js/navigation.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+</html>

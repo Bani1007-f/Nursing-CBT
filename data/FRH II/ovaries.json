@@ -14,8 +14,8 @@
                 "C": "Secondary reproductive ducts",
                 "D": "External genitalia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-002",
@@ -26,8 +26,8 @@
                 "C": "Three",
                 "D": "Four"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-003",
@@ -38,8 +38,8 @@
                 "C": "Xiphisternum",
                 "D": "Pubic symphysis"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-004",
@@ -50,8 +50,8 @@
                 "C": "Bartholin",
                 "D": "Montgomery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-005",
@@ -62,8 +62,8 @@
                 "C": "Ovarian ligament",
                 "D": "Uterosacral ligament"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-006",
@@ -74,8 +74,8 @@
                 "C": "Fertilization occurs",
                 "D": "Implantation occurs"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-007",
@@ -86,8 +86,8 @@
                 "C": "Cardinal ligament",
                 "D": "Suspensory ligament"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-008",
@@ -98,8 +98,8 @@
                 "C": "Uterosacral ligament",
                 "D": "Pubocervical ligament"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-009",
@@ -110,8 +110,8 @@
                 "C": "Covered by cartilage",
                 "D": "Covered by endometrium"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-010",
@@ -122,8 +122,8 @@
                 "C": "15 cm long",
                 "D": "20 cm long"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-011",
@@ -134,8 +134,8 @@
                 "C": "15–20 g",
                 "D": "50–60 g"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-012",
@@ -146,8 +146,8 @@
                 "C": "Completely covered by fat",
                 "D": "Cartilaginous"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-013",
@@ -158,8 +158,8 @@
                 "C": "More vascular",
                 "D": "Enlarged with follicles"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-014",
@@ -170,8 +170,8 @@
                 "C": "Hilum",
                 "D": "Tunica vaginalis"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-015",
@@ -182,8 +182,8 @@
                 "C": "Cervical glands",
                 "D": "Lactiferous ducts"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-016",
@@ -194,8 +194,8 @@
                 "C": "200,000",
                 "D": "2,000,000"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "OVAR-017",
@@ -206,8 +206,8 @@
                 "C": "4,000",
                 "D": "40,000"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-018",
@@ -218,8 +218,8 @@
                 "C": "3–4 cm",
                 "D": "5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-019",
@@ -230,8 +230,8 @@
                 "C": "Tunica albuginea",
                 "D": "Medulla"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-020",
@@ -242,8 +242,8 @@
                 "C": "Medulla",
                 "D": "Germinal epithelium"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-021",
@@ -254,8 +254,8 @@
                 "C": "Amniotic fluid",
                 "D": "Synovial fluid"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-022",
@@ -266,8 +266,8 @@
                 "C": "Corpus albicans",
                 "D": "Fimbria ovarica"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-023",
@@ -278,8 +278,8 @@
                 "C": "Graafian bodies",
                 "D": "Nabothian follicles"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-024",
@@ -290,8 +290,8 @@
                 "C": "Cervical glands",
                 "D": "Fimbriae"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-025",
@@ -302,8 +302,8 @@
                 "C": "Femoral artery",
                 "D": "Menstrual & Ovarian Cycles"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-026",
@@ -314,8 +314,8 @@
                 "C": "28 days",
                 "D": "40 days"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "OVAR-027",
@@ -326,8 +326,8 @@
                 "C": "35–50 days",
                 "D": "50–60 days"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-028",
@@ -338,8 +338,8 @@
                 "C": "Breast and uterine cycles",
                 "D": "Vaginal and ovarian cycles"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-029",
@@ -350,8 +350,8 @@
                 "C": "Hypothalamic-Pancreatic-Ovarian axis",
                 "D": "Hypophyseal-Pelvic-Ovarian axis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-030",
@@ -362,8 +362,8 @@
                 "C": "Anterior pituitary",
                 "D": "Corpus luteum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-031",
@@ -374,8 +374,8 @@
                 "C": "hCG and prolactin",
                 "D": "Oxytocin and estrogen"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-032",
@@ -386,8 +386,8 @@
                 "C": "Placental separation",
                 "D": "Milk ejection"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-033",
@@ -398,8 +398,8 @@
                 "C": "Implantation",
                 "D": "Lactation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-034",
@@ -410,8 +410,8 @@
                 "C": "15–28",
                 "D": "20–30"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-035",
@@ -422,8 +422,8 @@
                 "C": "Day 14",
                 "D": "Day 28"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "OVAR-036",
@@ -434,8 +434,8 @@
                 "C": "Become an ovum",
                 "D": "Become the corpus albicans immediately"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-037",
@@ -446,8 +446,8 @@
                 "C": "Endometrium",
                 "D": "Medulla"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-038",
@@ -458,8 +458,8 @@
                 "C": "hCG",
                 "D": "Prolactin"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-039",
@@ -470,8 +470,8 @@
                 "C": "Graafian follicle",
                 "D": "Cumulus oophorus"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-040",
@@ -482,8 +482,8 @@
                 "C": "15–28",
                 "D": "20–30"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "OVAR-041",
@@ -494,8 +494,8 @@
                 "C": "15–28",
                 "D": "25–35"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-042",
@@ -506,8 +506,8 @@
                 "C": "hCG",
                 "D": "Prolactin"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-043",
@@ -518,8 +518,8 @@
                 "C": "15–28",
                 "D": "28–35"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "OVAR-044",
@@ -530,8 +530,8 @@
                 "C": "LH only",
                 "D": "hCG"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "OVAR-045",
@@ -542,8 +542,6 @@
                 "C": "Secretory phase",
                 "D": "Ovulatory phase"
             },
-            "answer": "C",
-            "explanation": null
-        }
-    ]
+            "answer": "C"     
+        }]
 }

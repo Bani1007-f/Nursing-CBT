@@ -14,8 +14,8 @@
                 "C": "Doctors and nurses",
                 "D": "Patients in intensive care units"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-002",
@@ -26,8 +26,8 @@
                 "C": "Surgical management of diseases",
                 "D": "Management of critically ill patients"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-003",
@@ -38,8 +38,8 @@
                 "C": "Anatomy and physiology only",
                 "D": "Laboratory science"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-004",
@@ -50,8 +50,8 @@
                 "C": "Complete physical, mental and social well-being",
                 "D": "Physical fitness alone"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CHN-005",
@@ -62,8 +62,8 @@
                 "C": "Social well-being",
                 "D": "Financial well-being"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "CHN-006",
@@ -74,8 +74,8 @@
                 "C": "Absence of disease",
                 "D": "Environmental balance"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CHN-007",
@@ -86,8 +86,8 @@
                 "C": "Patients and hospitals",
                 "D": "Drugs and diseases"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-008",
@@ -98,8 +98,8 @@
                 "C": "Psychosocial",
                 "D": "Anatomical"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CHN-009",
@@ -110,8 +110,8 @@
                 "C": "The whole person",
                 "D": "Only the absence of disease"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CHN-010",
@@ -122,8 +122,8 @@
                 "C": "Financial",
                 "D": "Legal Questions"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-011",
@@ -134,8 +134,8 @@
                 "C": "Managing emotions",
                 "D": "Practising religion"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-012",
@@ -146,8 +146,8 @@
                 "C": "Economic development",
                 "D": "Environmental sanitation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-013",
@@ -158,8 +158,8 @@
                 "C": "Drug therapy",
                 "D": "Body structure"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-014",
@@ -170,8 +170,8 @@
                 "C": "Physical exercise",
                 "D": "Disease diagnosis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-015",
@@ -182,8 +182,8 @@
                 "C": "Education",
                 "D": "Employment"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-016",
@@ -194,8 +194,8 @@
                 "C": "Diet and nutrition",
                 "D": "Sex"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CHN-017",
@@ -206,8 +206,8 @@
                 "C": "Age",
                 "D": "Sex"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-018",
@@ -218,8 +218,8 @@
                 "C": "Behavioural",
                 "D": "Spiritual"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-019",
@@ -230,8 +230,8 @@
                 "C": "Aging populations",
                 "D": "Newborns"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CHN-020",
@@ -242,8 +242,8 @@
                 "C": "Gender-based violence",
                 "D": "Blood group alone"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "CHN-021",
@@ -254,8 +254,8 @@
                 "C": "Competition",
                 "D": "Authoritarianism"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-022",
@@ -266,8 +266,8 @@
                 "C": "Working alone",
                 "D": "Ignoring cultural beliefs"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-023",
@@ -278,8 +278,8 @@
                 "C": "Unit of government",
                 "D": "Unit of diagnosis only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-024",
@@ -290,8 +290,8 @@
                 "C": "Eliminate the need for nurses",
                 "D": "Prevent documentation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-025",
@@ -302,8 +302,8 @@
                 "C": "Hospital-only activities",
                 "D": "Administrative duties only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-026",
@@ -314,8 +314,8 @@
                 "C": "Competition",
                 "D": "Independence"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-027",
@@ -326,8 +326,8 @@
                 "C": "The patient's blood group only",
                 "D": "The hospital's profit"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-028",
@@ -338,8 +338,8 @@
                 "C": "Prevent health education",
                 "D": "Eliminate teamwork"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-029",
@@ -350,8 +350,8 @@
                 "C": "Prevents decision-making",
                 "D": "Makes healthcare unnecessary"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-030",
@@ -362,8 +362,8 @@
                 "C": "Replace community participation",
                 "D": "Eliminate supervision Questions 31–40: Roles and Activities of the Community Health Nurse"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-031",
@@ -374,8 +374,8 @@
                 "C": "ABCD",
                 "D": "PQRST"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-032",
@@ -386,8 +386,8 @@
                 "C": "Assessment",
                 "D": "Evaluation"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "CHN-033",
@@ -398,8 +398,8 @@
                 "C": "Closing health centres",
                 "D": "Ignoring health disparities"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-034",
@@ -410,8 +410,8 @@
                 "C": "Only hospital beds",
                 "D": "Only nurses"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-035",
@@ -422,8 +422,8 @@
                 "C": "Stop collecting information",
                 "D": "Avoid stakeholders"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-036",
@@ -434,8 +434,8 @@
                 "C": "Analysing old records only",
                 "D": "Writing a diagnosis without action"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-037",
@@ -446,8 +446,8 @@
                 "C": "Diagnosis only",
                 "D": "Drug administration"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-038",
@@ -458,8 +458,8 @@
                 "C": "Preventing community participation",
                 "D": "Refusing to educate people"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-039",
@@ -470,8 +470,8 @@
                 "C": "Avoiding community leaders",
                 "D": "Refusing collaboration"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-040",
@@ -482,8 +482,8 @@
                 "C": "Workplaces",
                 "D": "All of the above"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "CHN-041",
@@ -494,8 +494,8 @@
                 "C": "Leavell and Clark",
                 "D": "Fishbein and Ajzen"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-042",
@@ -506,8 +506,8 @@
                 "C": "Primary Reinforcement and Community Education Development",
                 "D": "Predisposing Research and Community Education Development"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-043",
@@ -518,8 +518,8 @@
                 "C": "Policy Research and Community Environmental Education Development",
                 "D": "Public Regulatory Organization for Community Educational Development"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-044",
@@ -530,8 +530,8 @@
                 "C": "Drug administration",
                 "D": "Rehabilitation only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-045",
@@ -542,8 +542,8 @@
                 "C": "Genetic testing",
                 "D": "Drug prescription"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-046",
@@ -554,8 +554,8 @@
                 "C": "Hospital buildings",
                 "D": "Financial records only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-047",
@@ -566,8 +566,8 @@
                 "C": "Rewards only",
                 "D": "Symptoms only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-048",
@@ -578,8 +578,8 @@
                 "C": "Age",
                 "D": "Blood group"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-049",
@@ -590,8 +590,8 @@
                 "C": "Outcome evaluation",
                 "D": "Genetic evaluation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-050",
@@ -602,8 +602,8 @@
                 "C": "Administrative evaluation",
                 "D": "Environmental evaluation Health Belief Model"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-051",
@@ -614,8 +614,8 @@
                 "C": "Hospital management",
                 "D": "Genetics only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-052",
@@ -626,8 +626,8 @@
                 "C": "Belief that treatment is expensive",
                 "D": "Confidence in performing an action"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-053",
@@ -638,8 +638,8 @@
                 "C": "The person's income",
                 "D": "The person's age"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-054",
@@ -650,8 +650,8 @@
                 "C": "Perceived susceptibility",
                 "D": "Subjective norm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-055",
@@ -662,8 +662,8 @@
                 "C": "Self-efficacy",
                 "D": "Perceived severity"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-056",
@@ -674,8 +674,8 @@
                 "C": "Reinforcing factor",
                 "D": "Biological determinant"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-057",
@@ -686,8 +686,8 @@
                 "C": "Severity",
                 "D": "Subjective norm Other Models"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "CHN-058",
@@ -698,8 +698,8 @@
                 "C": "Disease, drug and treatment",
                 "D": "Family, nurse and hospital"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-059",
@@ -710,8 +710,8 @@
                 "C": "All asymptomatic cases",
                 "D": "Only people at risk"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "CHN-060",
@@ -722,8 +722,7 @@
                 "C": "Iceberg Theory",
                 "D": "Epidemiological Model"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"     
         }
-    ]
+        ]
 }

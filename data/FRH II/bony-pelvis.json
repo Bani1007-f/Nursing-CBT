@@ -14,8 +14,8 @@
                 "C": "Two pubic bones and coccyx only",
                 "D": "Lumbar vertebrae and femurs"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-002",
@@ -26,8 +26,8 @@
                 "C": "Ilium, femur and pubis",
                 "D": "Ischium, femur and sacrum"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-003",
@@ -38,8 +38,8 @@
                 "C": "Brim, thorax and outlet",
                 "D": "Cavity, abdomen and perineum"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-004",
@@ -50,8 +50,8 @@
                 "C": "Cavity",
                 "D": "False pelvis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-005",
@@ -62,8 +62,8 @@
                 "C": "Triangular",
                 "D": "Perfectly circular"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-006",
@@ -74,8 +74,8 @@
                 "C": "Diamond-shaped",
                 "D": "Kidney-shaped"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-007",
@@ -86,8 +86,8 @@
                 "C": "Diamond-shaped",
                 "D": "Triangular"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-008",
@@ -98,8 +98,8 @@
                 "C": "Pubic arch",
                 "D": "Femoral head"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-009",
@@ -110,8 +110,8 @@
                 "C": "Tip of the coccyx",
                 "D": "Ischial spine"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-010",
@@ -122,8 +122,8 @@
                 "C": "Femur and ilium",
                 "D": "Ischium and sacrum only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-011",
@@ -134,8 +134,8 @@
                 "C": "Femur",
                 "D": "Sacrum"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-012",
@@ -146,8 +146,8 @@
                 "C": "Sacrum",
                 "D": "Ischium only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-013",
@@ -158,8 +158,8 @@
                 "C": "The fetal abdominal axis",
                 "D": "The diameter of the uterus"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-014",
@@ -170,8 +170,8 @@
                 "C": "12 cm",
                 "D": "13.5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-015",
@@ -182,8 +182,8 @@
                 "C": "12 cm",
                 "D": "13.5 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-016",
@@ -194,8 +194,8 @@
                 "C": "12 cm",
                 "D": "13 cm"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "BP-017",
@@ -206,8 +206,8 @@
                 "C": "Ischial spines only",
                 "D": "Lumbar vertebrae"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-018",
@@ -218,8 +218,8 @@
                 "C": "Femurs",
                 "D": "Iliac fossae"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-019",
@@ -230,8 +230,8 @@
                 "C": "12 cm long",
                 "D": "20 cm long"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-020",
@@ -242,8 +242,8 @@
                 "C": "12 cm deep",
                 "D": "15 cm deep"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-021",
@@ -254,8 +254,8 @@
                 "C": "Closed canal",
                 "D": "Rigid cylinder"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-022",
@@ -266,8 +266,8 @@
                 "C": "Kidneys only",
                 "D": "Brain"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-023",
@@ -278,8 +278,8 @@
                 "C": "Inside the coccyx",
                 "D": "Within the femur"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-024",
@@ -290,8 +290,8 @@
                 "C": "In the iliac fossa",
                 "D": "Inside the pubic symphysis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-025",
@@ -302,8 +302,8 @@
                 "C": "Weight",
                 "D": "Viability"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-026",
@@ -314,8 +314,8 @@
                 "C": "Fundal height",
                 "D": "Placental delivery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-027",
@@ -326,8 +326,8 @@
                 "C": "Contains the bladder",
                 "D": "Is outside the true pelvis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-028",
@@ -338,8 +338,8 @@
                 "C": "Sacral ala",
                 "D": "Femoral head"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-029",
@@ -350,8 +350,8 @@
                 "C": "Round ligament",
                 "D": "Inguinal ligament"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-030",
@@ -362,8 +362,8 @@
                 "C": "12 cm",
                 "D": "13.5 cm"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "BP-031",
@@ -374,8 +374,8 @@
                 "C": "11 cm",
                 "D": "13.5 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-032",
@@ -386,8 +386,8 @@
                 "C": "Coccyx",
                 "D": "Pubic symphysis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-033",
@@ -398,8 +398,8 @@
                 "C": "It determines fetal presentation",
                 "D": "It is the narrowest pelvic plane"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-034",
@@ -410,8 +410,8 @@
                 "C": "It diagnoses all fetal anomalies",
                 "D": "It measures liquor volume"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-035",
@@ -422,8 +422,8 @@
                 "C": "11 cm",
                 "D": "13 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-036",
@@ -434,8 +434,8 @@
                 "C": "12 cm",
                 "D": "13.5 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-037",
@@ -446,8 +446,8 @@
                 "C": "11 cm",
                 "D": "13.5 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-038",
@@ -458,8 +458,8 @@
                 "C": "12 cm",
                 "D": "14 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-039",
@@ -470,8 +470,8 @@
                 "C": "The diameter of the outlet",
                 "D": "The distance between ischial tuberosities"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-040",
@@ -482,8 +482,8 @@
                 "C": "Related to the pelvic inlet",
                 "D": "Important in labour"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-041",
@@ -494,8 +494,8 @@
                 "C": "Ischial spine to pubic tubercle",
                 "D": "Sacrum to femur"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-042",
@@ -506,8 +506,8 @@
                 "C": "13 cm",
                 "D": "15 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-043",
@@ -518,8 +518,8 @@
                 "C": "12 cm",
                 "D": "15 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-044",
@@ -530,8 +530,8 @@
                 "C": "9–9.5 cm",
                 "D": "12–13 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-045",
@@ -542,8 +542,8 @@
                 "C": "12 cm",
                 "D": "15 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-046",
@@ -554,8 +554,8 @@
                 "C": "Iliac crests",
                 "D": "Sacral alae"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-047",
@@ -566,8 +566,8 @@
                 "C": "Pubic symphysis closes",
                 "D": "Ischial spines disappear"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-048",
@@ -578,8 +578,8 @@
                 "C": "Ischial tuberosities",
                 "D": "Pubic tubercles"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-049",
@@ -590,8 +590,8 @@
                 "C": "45°",
                 "D": "60°"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
+             
         },
         {
             "id": "BP-050",
@@ -602,8 +602,8 @@
                 "C": "45°",
                 "D": "60°"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-051",
@@ -614,8 +614,8 @@
                 "C": "45°",
                 "D": "60°"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-052",
@@ -626,8 +626,8 @@
                 "C": "Subpubic angle",
                 "D": "Sacral promontory"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-053",
@@ -638,8 +638,8 @@
                 "C": "Sacral ala",
                 "D": "Pubic tubercle"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-054",
@@ -650,8 +650,8 @@
                 "C": "Android, sacral, pubic and coccygeal",
                 "D": "Anthropoid, oval, circular and triangular"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-055",
@@ -662,8 +662,8 @@
                 "C": "Anthropoid",
                 "D": "Platypelloid"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-056",
@@ -674,8 +674,8 @@
                 "C": "Kidney-shaped inlet with reduced AP diameter",
                 "D": "Triangular inlet"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-057",
@@ -686,8 +686,8 @@
                 "C": "Straight sacrum and prominent spines",
                 "D": "Flat sacrum and narrow transverse diameter"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-058",
@@ -698,8 +698,8 @@
                 "C": "50%",
                 "D": "75%"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-059",
@@ -710,8 +710,8 @@
                 "C": "Kidney-shaped brim",
                 "D": "Perfectly circular brim"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-060",
@@ -722,8 +722,8 @@
                 "C": "Very wide forepelvis",
                 "D": "Flat sacrum"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-061",
@@ -734,8 +734,8 @@
                 "C": "Always rapid labour",
                 "D": "No difficulty in labour"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-062",
@@ -746,8 +746,8 @@
                 "C": "Widen the pelvic outlet",
                 "D": "Eliminate moulding"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-063",
@@ -758,8 +758,8 @@
                 "C": "Less than 90°",
                 "D": "Exactly 180°"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-064",
@@ -770,8 +770,8 @@
                 "C": "Kidney-shaped with reduced AP",
                 "D": "Perfectly round"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-065",
@@ -782,8 +782,8 @@
                 "C": "Shoulder presentation",
                 "D": "Breech presentation in all cases"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-066",
@@ -794,8 +794,8 @@
                 "C": "A straight sacrum",
                 "D": "No sacrum"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-067",
@@ -806,8 +806,8 @@
                 "C": "Are funnel-shaped",
                 "D": "Are absent"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-068",
@@ -818,8 +818,8 @@
                 "C": "Long pelvis",
                 "D": "Funnel pelvis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-069",
@@ -830,8 +830,8 @@
                 "C": "Long oval brim",
                 "D": "Circular brim"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-070",
@@ -842,8 +842,8 @@
                 "C": "Unchanged and always 13 cm",
                 "D": "Absent"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "BP-071",
@@ -854,8 +854,8 @@
                 "C": "Absent",
                 "D": "Always 8 cm"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-072",
@@ -866,8 +866,8 @@
                 "C": "Moulding",
                 "D": "Extension"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-073",
@@ -878,8 +878,8 @@
                 "C": "1 cm or more",
                 "D": "3 cm only"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-074",
@@ -890,8 +890,8 @@
                 "C": "A flat platypelloid pelvis",
                 "D": "A pelvis with absent sacrum"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-075",
@@ -902,8 +902,8 @@
                 "C": "Lanugo",
                 "D": "Lochia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-076",
@@ -914,8 +914,8 @@
                 "C": "Biparietal diameter",
                 "D": "Bituberous diameter"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-077",
@@ -926,8 +926,8 @@
                 "C": "1.5–2 cm",
                 "D": "4 cm"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "BP-078",
@@ -938,8 +938,8 @@
                 "C": "Mento-vertical diameter",
                 "D": "Frontal suture"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-079",
@@ -950,8 +950,8 @@
                 "C": "Impossible to assess",
                 "D": "A sign of face presentation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "BP-080",
@@ -962,8 +962,5 @@
                 "C": "Gynaecoid pelvis only",
                 "D": "No labour implications"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"  }   ]
 }

@@ -14,8 +14,8 @@
                 "C": "Integrated Maternal Child Intervention",
                 "D": "Illness Monitoring and Clinical Investigation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-002",
@@ -26,8 +26,8 @@
                 "C": "Screen, admit, operate, discharge",
                 "D": "Treat, classify, assess, counsel"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-003",
@@ -38,8 +38,8 @@
                 "C": "Growth chart only",
                 "D": "Laboratory register"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-004",
@@ -50,8 +50,8 @@
                 "C": "Only family income",
                 "D": "Only referrals"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-005",
@@ -62,8 +62,8 @@
                 "C": "5–10 years",
                 "D": "10–19 years"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-006",
@@ -74,8 +74,8 @@
                 "C": "School grade",
                 "D": "Family income"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-007",
@@ -86,8 +86,8 @@
                 "C": "The family's finances",
                 "D": "The nurse's diagnosis"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-008",
@@ -98,8 +98,8 @@
                 "C": "Has no illness",
                 "D": "Is receiving a vaccine only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-009",
@@ -110,8 +110,8 @@
                 "C": "Height-independent",
                 "D": "Not calculated"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-010",
@@ -122,8 +122,8 @@
                 "C": "Runny nose",
                 "D": "Mild ear pain"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-011",
@@ -134,8 +134,8 @@
                 "C": "Mild fever",
                 "D": "Mild rash"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-012",
@@ -146,8 +146,8 @@
                 "C": "Ear wax",
                 "D": "Mild diarrhoea"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-013",
@@ -158,8 +158,8 @@
                 "C": "Runny nose",
                 "D": "Mild ear discharge"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-014",
@@ -170,8 +170,8 @@
                 "C": "No treatment",
                 "D": "Only health education"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-015",
@@ -182,8 +182,8 @@
                 "C": "Only weight",
                 "D": "Only ear discharge"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-016",
@@ -194,8 +194,8 @@
                 "C": "Cervical cancer",
                 "D": "Hepatitis B"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-017",
@@ -206,8 +206,8 @@
                 "C": "Only diarrhoea",
                 "D": "Only anaemia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-018",
@@ -218,8 +218,8 @@
                 "C": "Only weight",
                 "D": "Only vaccination status"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-019",
@@ -230,8 +230,8 @@
                 "C": "Immunization route",
                 "D": "Developmental quotient"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-020",
@@ -242,8 +242,8 @@
                 "C": "Pseudomembrane",
                 "D": "Lockjaw"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-021",
@@ -254,8 +254,8 @@
                 "C": "Only ear disease",
                 "D": "Only anaemia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-022",
@@ -266,8 +266,8 @@
                 "C": "Every fever is measles",
                 "D": "Every fever is pneumonia"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-023",
@@ -278,8 +278,8 @@
                 "C": "Lockjaw",
                 "D": "Pseudomembrane"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-024",
@@ -290,8 +290,8 @@
                 "C": "Only vomiting",
                 "D": "Only pallor"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-025",
@@ -302,8 +302,8 @@
                 "C": "Mild dehydration",
                 "D": "Routine teething"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-026",
@@ -314,8 +314,8 @@
                 "C": "Pseudomembrane",
                 "D": "Stiff neck only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-027",
@@ -326,8 +326,8 @@
                 "C": "Only head circumference",
                 "D": "Only pulse"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-028",
@@ -338,8 +338,8 @@
                 "C": "Feet only",
                 "D": "Eyes for tears only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-029",
@@ -350,8 +350,8 @@
                 "C": "Only the caregiver's job",
                 "D": "Only the home address"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "IMCI-030",
@@ -362,8 +362,6 @@
                 "C": "Avoid vaccination",
                 "D": "Diagnose malaria"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"  
+        }   ]
 }

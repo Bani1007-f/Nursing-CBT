@@ -1,3 +1,115 @@
+// ============================================
+// CHECK ADMIN ACCESS
+// ============================================
+
+async function checkAdminAccess() {
+
+    try {
+
+        const response =
+            await fetch(
+                "/api/auth/me",
+                {
+                    credentials: "include"
+                }
+            );
+
+        const data =
+            await response.json();
+
+
+        // ----------------------------------------
+        // NOT LOGGED IN
+        // ----------------------------------------
+
+        if (!data.authenticated) {
+
+            window.location.href =
+                "login.html?redirect=upload.html";
+
+            return false;
+
+        }
+
+
+        // ----------------------------------------
+        // NOT AN ADMIN
+        // ----------------------------------------
+
+        if (
+            !data.user ||
+            data.user.role !== "admin"
+        ) {
+
+            document.body.innerHTML = `
+
+                <main style="
+                    padding: 40px;
+                    text-align: center;
+                ">
+
+                    <h1>
+                        Access Denied
+                    </h1>
+
+                    <p>
+                        Administrator access is required
+                        to upload questions.
+                    </p>
+
+                    <a href="index.html">
+                        Return to Home
+                    </a>
+
+                </main>
+
+            `;
+
+            return false;
+
+        }
+
+
+        return true;
+
+    }
+
+    catch (error) {
+
+        console.error(
+            "Admin check failed:",
+            error
+        );
+
+        document.body.innerHTML = `
+
+            <main style="
+                padding: 40px;
+                text-align: center;
+            ">
+
+                <h1>
+                    Unable to Verify Access
+                </h1>
+
+                <p>
+                    Please try again later.
+                </p>
+
+                <a href="index.html">
+                    Return to Home
+                </a>
+
+            </main>
+
+        `;
+
+        return false;
+
+    }
+
+}
+
 const courseSelect =
     document.getElementById("course");
 
@@ -801,3 +913,4 @@ else {
 
     }
 );
+checkAdminAccess();

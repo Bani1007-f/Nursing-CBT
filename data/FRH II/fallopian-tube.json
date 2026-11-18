@@ -14,8 +14,8 @@
                 "C": "Three",
                 "D": "Four"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-002",
@@ -26,8 +26,8 @@
                 "C": "Ovary directly",
                 "D": "Vagina"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-003",
@@ -38,8 +38,8 @@
                 "C": "10.1–11.4 cm long",
                 "D": "20 cm long"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FT-004",
@@ -50,8 +50,8 @@
                 "C": "Round ligament",
                 "D": "Ovarian ligament"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-005",
@@ -62,8 +62,8 @@
                 "C": "Four",
                 "D": "Five"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FT-006",
@@ -74,8 +74,8 @@
                 "C": "Interstitial part",
                 "D": "Fimbria"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FT-007",
@@ -86,8 +86,8 @@
                 "C": "Ovary",
                 "D": "Broad ligament"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-008",
@@ -98,8 +98,8 @@
                 "C": "1 cm",
                 "D": "2 cm"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FT-009",
@@ -110,8 +110,8 @@
                 "C": "5 cm",
                 "D": "7 cm"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-010",
@@ -122,8 +122,8 @@
                 "C": "Ampulla",
                 "D": "Infundibulum"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FT-011",
@@ -134,8 +134,8 @@
                 "C": "Shortest part",
                 "D": "Most muscular part"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-012",
@@ -146,8 +146,8 @@
                 "C": "Spherical",
                 "D": "Triangular"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-013",
@@ -158,8 +158,8 @@
                 "C": "Rugae",
                 "D": "Septae"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-014",
@@ -170,8 +170,8 @@
                 "C": "Fimbria cervicalis",
                 "D": "Fimbria vaginalis"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-015",
@@ -182,8 +182,8 @@
                 "C": "Septae",
                 "D": "Arbor vitae"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-016",
@@ -194,8 +194,8 @@
                 "C": "Uterine cavity",
                 "D": "Cervix"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-017",
@@ -206,8 +206,8 @@
                 "C": "Produce menstrual blood",
                 "D": "Cause cervical dilation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-018",
@@ -218,8 +218,8 @@
                 "C": "Myoepithelial cells",
                 "D": "Germinal cells"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FT-019",
@@ -230,8 +230,8 @@
                 "C": "Skeletal muscle only",
                 "D": "Cardiac muscle"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-020",
@@ -242,8 +242,8 @@
                 "C": "Implantation",
                 "D": "Lactation"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FT-021",
@@ -254,8 +254,8 @@
                 "C": "Pudendal arteries only",
                 "D": "Internal mammary arteries"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FT-022",
@@ -266,8 +266,8 @@
                 "C": "Axillary glands",
                 "D": "Inguinal glands only"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-023",
@@ -278,8 +278,8 @@
                 "C": "Cervical plexus",
                 "D": "Brachial plexus"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-024",
@@ -290,8 +290,8 @@
                 "C": "Increased cilia",
                 "D": "Increased mucus only"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
+             
         },
         {
             "id": "FT-025",
@@ -302,8 +302,8 @@
                 "C": "Tubal",
                 "D": "Abdominal"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
+             
         },
         {
             "id": "FT-026",
@@ -314,8 +314,8 @@
                 "C": "Menopause",
                 "D": "Lactation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
+             
         },
         {
             "id": "FT-027",
@@ -326,8 +326,6 @@
                 "C": "Ovaries",
                 "D": "Vaginitis only"
             },
-            "answer": "A",
-            "explanation": null
-        }
-    ]
+            "answer": "A"     }
+        ]
 }

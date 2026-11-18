@@ -14,8 +14,7 @@
                 "C": "Lymphatic glands",
                 "D": "Sebaceous glands"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-002",
@@ -26,8 +25,7 @@
                 "C": "Bartholin glands",
                 "D": "Vestibular glands"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-003",
@@ -38,8 +36,7 @@
                 "C": "Internal genital organs",
                 "D": "Pelvic floor organs"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "BREA-004",
@@ -50,8 +47,7 @@
                 "C": "Milk",
                 "D": "Sebum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-005",
@@ -62,8 +58,7 @@
                 "C": "Four",
                 "D": "Five"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-006",
@@ -74,8 +69,7 @@
                 "C": "Lower outer",
                 "D": "Central posterior"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-007",
@@ -86,8 +80,7 @@
                 "C": "4th and 8th ribs",
                 "D": "6th and 10th ribs"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "BREA-008",
@@ -98,8 +91,7 @@
                 "C": "Clavicle",
                 "D": "Scapula"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-009",
@@ -110,8 +102,7 @@
                 "C": "Diaphragm",
                 "D": "Latissimus dorsi"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "BREA-010",
@@ -122,8 +113,7 @@
                 "C": "Cardinal ligaments",
                 "D": "Ovarian ligaments"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-011",
@@ -134,8 +124,7 @@
                 "C": "Triangular",
                 "D": "Conical"
             },
-            "answer": "D",
-            "explanation": null
+            "answer": "D"
         },
         {
             "id": "BREA-012",
@@ -146,8 +135,7 @@
                 "C": "Lactiferous sinus",
                 "D": "Pectoral fascia"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "BREA-013",
@@ -158,8 +146,7 @@
                 "C": "2.5 cm in diameter",
                 "D": "5 cm in diameter"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-014",
@@ -170,8 +157,7 @@
                 "C": "Lymph node",
                 "D": "Fatty tissue"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "BREA-015",
@@ -182,8 +168,7 @@
                 "C": "Remains unchanged during pregnancy",
                 "D": "Disappears during pregnancy"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-016",
@@ -194,8 +179,7 @@
                 "C": "20",
                 "D": "50"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-017",
@@ -206,8 +190,7 @@
                 "C": "Progesterone",
                 "D": "Lymph"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-018",
@@ -218,8 +201,7 @@
                 "C": "Increase blood flow",
                 "D": "Prevent ovulation"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-019",
@@ -230,8 +212,7 @@
                 "C": "Corpus luteum",
                 "D": "Fimbriae"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-020",
@@ -242,8 +223,7 @@
                 "C": "Lymph node",
                 "D": "Muscle"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-021",
@@ -254,8 +234,7 @@
                 "C": "Lower outer quadrant",
                 "D": "Upper inner quadrant"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-022",
@@ -266,8 +245,7 @@
                 "C": "Abdomen",
                 "D": "Neck"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "BREA-023",
@@ -278,8 +256,7 @@
                 "C": "Obturator foramen",
                 "D": "Sacral foramen"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-024",
@@ -290,8 +267,7 @@
                 "C": "Menstruation only",
                 "D": "Menopause"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-025",
@@ -302,8 +278,7 @@
                 "C": "Cartilage",
                 "D": "Skeletal muscle"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "BREA-026",
@@ -314,8 +289,7 @@
                 "C": "50%",
                 "D": "75%"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-027",
@@ -326,8 +300,7 @@
                 "C": "15–20 lobes",
                 "D": "25–30 lobes"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "BREA-028",
@@ -338,8 +311,7 @@
                 "C": "Fimbriae",
                 "D": "Fascia lata"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "BREA-029",
@@ -350,8 +322,7 @@
                 "C": "Axillary artery",
                 "D": "Clavicle"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-030",
@@ -362,8 +333,7 @@
                 "C": "Acini only",
                 "D": "Sinuses"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "BREA-031",
@@ -374,8 +344,7 @@
                 "C": "Follicular cells",
                 "D": "Cervical cells"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "BREA-032",
@@ -386,8 +355,7 @@
                 "C": "Theca cells",
                 "D": "Squamous cells"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-033",
@@ -398,8 +366,7 @@
                 "C": "Produce lymph",
                 "D": "Produce progesterone"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-034",
@@ -410,8 +377,7 @@
                 "C": "Urethral duct",
                 "D": "Mammary artery"
             },
-            "answer": "A",
-            "explanation": null
+            "answer": "A"
         },
         {
             "id": "BREA-035",
@@ -422,8 +388,7 @@
                 "C": "Lobule",
                 "D": "Septum"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-036",
@@ -434,8 +399,7 @@
                 "C": "Cervical duct",
                 "D": "Axillary duct"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-037",
@@ -446,8 +410,7 @@
                 "C": "Pudendal artery",
                 "D": "Uterine artery"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-038",
@@ -458,8 +421,7 @@
                 "C": "Axilla",
                 "D": "Sternum"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         },
         {
             "id": "BREA-039",
@@ -470,8 +432,7 @@
                 "C": "4th, 5th and 6th thoracic nerves",
                 "D": "7th, 8th and 9th thoracic nerves"
             },
-            "answer": "B",
-            "explanation": null
+            "answer": "B"
         },
         {
             "id": "BREA-040",
@@ -482,8 +443,7 @@
                 "C": "Prolactin",
                 "D": "FSH"
             },
-            "answer": "C",
-            "explanation": null
+            "answer": "C"
         }
-    ]
-}
+        ]
+    }
